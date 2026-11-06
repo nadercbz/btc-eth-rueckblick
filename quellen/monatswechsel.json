@@ -1,0 +1,1807 @@
+{
+"id": "monatswechsel",
+"name": "Monatswechsel",
+"rang": 192,
+"gruppe": "Kalender",
+"ereignisse": [
+{
+"d": "2010-06-29",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2010-07-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2010-08-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2010-09-29",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2010-10-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2010-11-29",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2010-12-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2011-01-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2011-02-27",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2011-03-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2011-04-29",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2011-05-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2011-06-29",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2011-07-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2011-08-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2011-09-29",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2011-10-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2011-11-29",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2011-12-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2012-01-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2012-02-28",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2012-03-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2012-04-29",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2012-05-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2012-06-29",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2012-07-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2012-08-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2012-09-29",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2012-10-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2012-11-29",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2012-12-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2013-01-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2013-02-27",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2013-03-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2013-04-29",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2013-05-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2013-06-29",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2013-07-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2013-08-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2013-09-29",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2013-10-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2013-11-29",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2013-12-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2014-01-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2014-02-27",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2014-03-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2014-04-29",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2014-05-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2014-06-29",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2014-07-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2014-08-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2014-09-29",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2014-10-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2014-11-29",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2014-12-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2015-01-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2015-02-27",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2015-03-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2015-04-29",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2015-05-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2015-06-29",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2015-07-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2015-08-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2015-09-29",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2015-10-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2015-11-29",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2015-12-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2016-01-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2016-02-28",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2016-03-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2016-04-29",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2016-05-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2016-06-29",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2016-07-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2016-08-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2016-09-29",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2016-10-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2016-11-29",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2016-12-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2017-01-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2017-02-27",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2017-03-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2017-04-29",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2017-05-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2017-06-29",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2017-07-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2017-08-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2017-09-29",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2017-10-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2017-11-29",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2017-12-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2018-01-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2018-02-27",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2018-03-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2018-04-29",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2018-05-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2018-06-29",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2018-07-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2018-08-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2018-09-29",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2018-10-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2018-11-29",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2018-12-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2019-01-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2019-02-27",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2019-03-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2019-04-29",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2019-05-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2019-06-29",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2019-07-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2019-08-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2019-09-29",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2019-10-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2019-11-29",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2019-12-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2020-01-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2020-02-28",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2020-03-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2020-04-29",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2020-05-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2020-06-29",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2020-07-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2020-08-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2020-09-29",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2020-10-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2020-11-29",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2020-12-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2021-01-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2021-02-27",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2021-03-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2021-04-29",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2021-05-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2021-06-29",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2021-07-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2021-08-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2021-09-29",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2021-10-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2021-11-29",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2021-12-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2022-01-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2022-02-27",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2022-03-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2022-04-29",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2022-05-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2022-06-29",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2022-07-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2022-08-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2022-09-29",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2022-10-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2022-11-29",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2022-12-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2023-01-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2023-02-27",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2023-03-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2023-04-29",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2023-05-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2023-06-29",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2023-07-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2023-08-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2023-09-29",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2023-10-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2023-11-29",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2023-12-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2024-01-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2024-02-28",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2024-03-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2024-04-29",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2024-05-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2024-06-29",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2024-07-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2024-08-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2024-09-29",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2024-10-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2024-11-29",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2024-12-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2025-01-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2025-02-27",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2025-03-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2025-04-29",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2025-05-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2025-06-29",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2025-07-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2025-08-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2025-09-29",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2025-10-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2025-11-29",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2025-12-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2026-01-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2026-02-27",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2026-03-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2026-04-29",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2026-05-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2026-06-29",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2026-07-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2026-08-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2026-09-29",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2026-10-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2026-11-29",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2026-12-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2027-01-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2027-02-27",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2027-03-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2027-04-29",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2027-05-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2027-06-29",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2027-07-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2027-08-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2027-09-29",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2027-10-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2027-11-29",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2027-12-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2028-01-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2028-02-28",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2028-03-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2028-04-29",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2028-05-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2028-06-29",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2028-07-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2028-08-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2028-09-29",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2028-10-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2028-11-29",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2028-12-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2029-01-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2029-02-27",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2029-03-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2029-04-29",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2029-05-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2029-06-29",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2029-07-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2029-08-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2029-09-29",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2029-10-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2029-11-29",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2029-12-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2030-01-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2030-02-27",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2030-03-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2030-04-29",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2030-05-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2030-06-29",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2030-07-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2030-08-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2030-09-29",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2030-10-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2030-11-29",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2030-12-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2031-01-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2031-02-27",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2031-03-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2031-04-29",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2031-05-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2031-06-29",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2031-07-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2031-08-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2031-09-29",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+},
+{
+"d": "2031-10-30",
+"n": "Monatswechsel",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Calendar_effect"
+}
+]
+}

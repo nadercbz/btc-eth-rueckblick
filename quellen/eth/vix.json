@@ -1,0 +1,1394 @@
+{
+"id": "vix",
+"name": "VIX Angstindex",
+"rang": 14,
+"gleichlauf": 22.3,
+"ereignisse": [
+{
+"d": "2010-06-01",
+"n": "VIX steigt 89,4 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2010-07-01",
+"n": "VIX fällt 17,9 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2010-08-01",
+"n": "VIX fällt 23,1 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2010-09-01",
+"n": "VIX steigt 11,5 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2010-10-01",
+"n": "VIX fällt 13,4 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2010-11-01",
+"n": "VIX fällt 12,0 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2010-12-01",
+"n": "VIX steigt 2,1 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2011-01-01",
+"n": "VIX fällt 18,7 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2011-02-01",
+"n": "VIX steigt 5,4 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2011-03-01",
+"n": "VIX steigt 8,3 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2011-04-01",
+"n": "VIX fällt 8,0 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2011-05-01",
+"n": "VIX fällt 17,4 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2011-06-01",
+"n": "VIX steigt 11,6 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2011-07-01",
+"n": "VIX steigt 12,1 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2011-08-01",
+"n": "VIX steigt 13,0 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2011-09-01",
+"n": "VIX steigt 60,0 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2011-10-01",
+"n": "VIX steigt 15,5 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2011-11-01",
+"n": "VIX fällt 28,2 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2011-12-01",
+"n": "VIX steigt 10,5 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2012-01-01",
+"n": "VIX fällt 29,1 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2012-02-01",
+"n": "VIX fällt 14,8 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2012-03-01",
+"n": "VIX fällt 4,3 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2012-04-01",
+"n": "VIX fällt 14,1 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2012-05-01",
+"n": "VIX steigt 13,5 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2012-06-01",
+"n": "VIX steigt 30,9 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2012-07-01",
+"n": "VIX fällt 14,5 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2012-08-01",
+"n": "VIX fällt 3,6 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2012-09-01",
+"n": "VIX fällt 10,5 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2012-10-01",
+"n": "VIX fällt 9,7 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2012-11-01",
+"n": "VIX steigt 16,9 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2012-12-01",
+"n": "VIX fällt 13,6 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2013-01-01",
+"n": "VIX steigt 22,8 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2013-02-01",
+"n": "VIX fällt 29,7 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2013-03-01",
+"n": "VIX steigt 22,7 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2013-04-01",
+"n": "VIX fällt 16,5 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2013-05-01",
+"n": "VIX steigt 3,6 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2013-06-01",
+"n": "VIX steigt 6,2 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2013-07-01",
+"n": "VIX steigt 26,3 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2013-08-01",
+"n": "VIX fällt 26,5 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2013-09-01",
+"n": "VIX steigt 20,4 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2013-10-01",
+"n": "VIX fällt 8,3 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2013-11-01",
+"n": "VIX fällt 9,8 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2013-12-01",
+"n": "VIX fällt 3,4 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2014-01-01",
+"n": "VIX steigt 0,9 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2014-02-01",
+"n": "VIX steigt 29,3 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2014-03-01",
+"n": "VIX fällt 7,8 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2014-04-01",
+"n": "VIX steigt 2,2 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2014-05-01",
+"n": "VIX fällt 6,9 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2014-06-01",
+"n": "VIX fällt 14,2 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2014-07-01",
+"n": "VIX fällt 1,8 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2014-08-01",
+"n": "VIX steigt 14,8 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2014-09-01",
+"n": "VIX fällt 15,6 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2014-10-01",
+"n": "VIX steigt 26,9 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2014-11-01",
+"n": "VIX fällt 0,9 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2014-12-01",
+"n": "VIX fällt 15,0 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2015-01-01",
+"n": "VIX steigt 20,0 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2015-02-01",
+"n": "VIX steigt 15,5 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2015-03-01",
+"n": "VIX fällt 20,1 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2015-04-01",
+"n": "VIX steigt 4,3 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2015-05-01",
+"n": "VIX fällt 11,8 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2015-06-01",
+"n": "VIX steigt 0,7 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2015-07-01",
+"n": "VIX steigt 12,7 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2015-08-01",
+"n": "VIX fällt 13,5 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2015-09-01",
+"n": "VIX steigt 134,0 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2015-10-01",
+"n": "VIX fällt 20,9 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2015-11-01",
+"n": "VIX fällt 39,3 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2015-12-01",
+"n": "VIX steigt 6,6 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2016-01-01",
+"n": "VIX steigt 7,6 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2016-02-01",
+"n": "VIX steigt 38,7 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2016-03-01",
+"n": "VIX fällt 12,6 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2016-04-01",
+"n": "VIX fällt 27,4 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2016-05-01",
+"n": "VIX fällt 0,5 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2016-06-01",
+"n": "VIX steigt 0,2 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2016-07-01",
+"n": "VIX steigt 38,9 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2016-08-01",
+"n": "VIX fällt 33,6 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2016-09-01",
+"n": "VIX steigt 5,5 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2016-10-01",
+"n": "VIX fällt 1,1 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2016-11-01",
+"n": "VIX steigt 12,1 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2016-12-01",
+"n": "VIX fällt 13,3 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2017-01-01",
+"n": "VIX fällt 4,6 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2017-02-01",
+"n": "VIX fällt 9,0 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2017-03-01",
+"n": "VIX steigt 4,8 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2017-04-01",
+"n": "VIX steigt 1,7 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2017-05-01",
+"n": "VIX fällt 3,5 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2017-06-01",
+"n": "VIX fällt 7,8 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2017-07-01",
+"n": "VIX steigt 2,6 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2017-08-01",
+"n": "VIX fällt 7,6 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2017-09-01",
+"n": "VIX steigt 16,4 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2017-10-01",
+"n": "VIX fällt 14,9 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2017-11-01",
+"n": "VIX steigt 9,7 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2017-12-01",
+"n": "VIX fällt 5,4 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2018-01-01",
+"n": "VIX fällt 2,3 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2018-02-01",
+"n": "VIX steigt 22,8 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2018-03-01",
+"n": "VIX steigt 59,9 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2018-04-01",
+"n": "VIX steigt 15,5 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2018-05-01",
+"n": "VIX fällt 23,5 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2018-06-01",
+"n": "VIX fällt 14,2 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2018-07-01",
+"n": "VIX steigt 13,7 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2018-08-01",
+"n": "VIX fällt 20,4 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2018-09-01",
+"n": "VIX fällt 2,7 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2018-10-01",
+"n": "VIX fällt 2,5 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2018-11-01",
+"n": "VIX steigt 90,9 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2018-12-01",
+"n": "VIX fällt 17,1 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2019-01-01",
+"n": "VIX steigt 53,9 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2019-02-01",
+"n": "VIX fällt 38,6 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2019-03-01",
+"n": "VIX fällt 23,4 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2019-04-01",
+"n": "VIX steigt 3,3 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2019-05-01",
+"n": "VIX fällt 13,8 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2019-06-01",
+"n": "VIX steigt 28,7 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2019-07-01",
+"n": "VIX fällt 8,5 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2019-08-01",
+"n": "VIX fällt 14,5 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2019-09-01",
+"n": "VIX steigt 35,5 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2019-10-01",
+"n": "VIX fällt 14,8 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2019-11-01",
+"n": "VIX fällt 20,5 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2019-12-01",
+"n": "VIX fällt 6,7 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2020-01-01",
+"n": "VIX steigt 7,5 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2020-02-01",
+"n": "VIX steigt 22,0 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2020-03-01",
+"n": "VIX steigt 80,0 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2020-04-01",
+"n": "VIX steigt 120,6 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2020-05-01",
+"n": "VIX fällt 40,7 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2020-06-01",
+"n": "VIX fällt 20,0 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2020-07-01",
+"n": "VIX steigt 14,6 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2020-08-01",
+"n": "VIX fällt 21,3 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2020-09-01",
+"n": "VIX fällt 6,5 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2020-10-01",
+"n": "VIX steigt 15,3 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2020-11-01",
+"n": "VIX steigt 25,6 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2020-12-01",
+"n": "VIX fällt 35,2 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2021-01-01",
+"n": "VIX steigt 5,2 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2021-02-01",
+"n": "VIX steigt 19,2 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2021-03-01",
+"n": "VIX fällt 10,9 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2021-04-01",
+"n": "VIX fällt 17,8 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2021-05-01",
+"n": "VIX fällt 10,8 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2021-06-01",
+"n": "VIX steigt 3,4 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2021-07-01",
+"n": "VIX fällt 13,0 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2021-08-01",
+"n": "VIX steigt 13,6 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2021-09-01",
+"n": "VIX fällt 5,6 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2021-10-01",
+"n": "VIX steigt 21,8 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2021-11-01",
+"n": "VIX fällt 23,3 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2021-12-01",
+"n": "VIX steigt 38,0 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2022-01-01",
+"n": "VIX fällt 26,2 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2022-02-01",
+"n": "VIX steigt 66,1 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2022-03-01",
+"n": "VIX fällt 0,9 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2022-04-01",
+"n": "VIX fällt 30,9 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2022-05-01",
+"n": "VIX steigt 42,9 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2022-06-01",
+"n": "VIX fällt 5,5 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2022-07-01",
+"n": "VIX steigt 1,2 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2022-08-01",
+"n": "VIX fällt 17,5 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2022-09-01",
+"n": "VIX steigt 7,3 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2022-10-01",
+"n": "VIX steigt 25,0 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2022-11-01",
+"n": "VIX fällt 10,0 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2022-12-01",
+"n": "VIX fällt 23,2 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2023-01-01",
+"n": "VIX steigt 2,1 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2023-02-01",
+"n": "VIX fällt 10,1 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2023-03-01",
+"n": "VIX steigt 10,3 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2023-04-01",
+"n": "VIX fällt 5,6 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2023-05-01",
+"n": "VIX fällt 14,5 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2023-06-01",
+"n": "VIX steigt 6,7 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2023-07-01",
+"n": "VIX fällt 26,0 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2023-08-01",
+"n": "VIX steigt 1,1 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2023-09-01",
+"n": "VIX steigt 10,0 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2023-10-01",
+"n": "VIX steigt 16,8 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2023-11-01",
+"n": "VIX steigt 12,7 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2023-12-01",
+"n": "VIX fällt 35,5 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2024-01-01",
+"n": "VIX steigt 1,6 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2024-02-01",
+"n": "VIX steigt 3,3 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2024-03-01",
+"n": "VIX steigt 6,0 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2024-04-01",
+"n": "VIX fällt 4,8 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2024-05-01",
+"n": "VIX steigt 19,8 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2024-06-01",
+"n": "VIX fällt 15,0 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2024-07-01",
+"n": "VIX fällt 1,9 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2024-08-01",
+"n": "VIX steigt 33,1 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2024-09-01",
+"n": "VIX fällt 7,7 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2024-10-01",
+"n": "VIX fällt 0,8 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2024-11-01",
+"n": "VIX steigt 22,9 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2024-12-01",
+"n": "VIX fällt 25,3 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2025-01-01",
+"n": "VIX steigt 8,8 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2025-02-01",
+"n": "VIX fällt 1,6 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2025-03-01",
+"n": "VIX steigt 19,2 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2025-04-01",
+"n": "VIX steigt 2,1 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2025-05-01",
+"n": "VIX steigt 36,7 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2025-06-01",
+"n": "VIX fällt 21,8 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2025-07-01",
+"n": "VIX fällt 10,8 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2025-08-01",
+"n": "VIX fällt 9,7 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2025-09-01",
+"n": "VIX fällt 7,9 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2025-10-01",
+"n": "VIX steigt 8,1 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2025-11-01",
+"n": "VIX steigt 3,2 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2025-12-01",
+"n": "VIX steigt 24,7 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2026-01-01",
+"n": "VIX fällt 29,4 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2026-02-01",
+"n": "VIX steigt 16,5 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2026-03-01",
+"n": "VIX steigt 19,2 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2026-04-01",
+"n": "VIX steigt 41,4 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2026-05-01",
+"n": "VIX fällt 33,3 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2026-06-01",
+"n": "VIX fällt 9,6 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2026-07-01",
+"n": "VIX steigt 10,8 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2026-08-01",
+"n": "VIX steigt 1,4 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2026-09-01",
+"n": "VIX fällt 17,5 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2026-10-01",
+"n": "VIX steigt 2,7 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+},
+{
+"d": "2026-11-01",
+"n": "VIX steigt 15,7 % in 30 Tagen",
+"t": "VIX Angstindex",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/%5EVIX/history/"
+}
+]
+}

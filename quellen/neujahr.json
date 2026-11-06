@@ -1,0 +1,301 @@
+{
+"id": "neujahr",
+"name": "Chinesisch Neujahr",
+"rang": 32,
+"ereignisse": [
+{
+"d": "2011-01-04",
+"n": "30 Tage vor Chinesisch Neujahr",
+"t": "Kalender",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Chinese_New_Year"
+},
+{
+"d": "2011-02-03",
+"n": "Chinesisch Neujahr",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Chinese_New_Year"
+},
+{
+"d": "2011-12-24",
+"n": "30 Tage vor Chinesisch Neujahr",
+"t": "Kalender",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Chinese_New_Year"
+},
+{
+"d": "2012-01-23",
+"n": "Chinesisch Neujahr",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Chinese_New_Year"
+},
+{
+"d": "2013-01-11",
+"n": "30 Tage vor Chinesisch Neujahr",
+"t": "Kalender",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Chinese_New_Year"
+},
+{
+"d": "2013-02-10",
+"n": "Chinesisch Neujahr",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Chinese_New_Year"
+},
+{
+"d": "2014-01-01",
+"n": "30 Tage vor Chinesisch Neujahr",
+"t": "Kalender",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Chinese_New_Year"
+},
+{
+"d": "2014-01-31",
+"n": "Chinesisch Neujahr",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Chinese_New_Year"
+},
+{
+"d": "2015-01-20",
+"n": "30 Tage vor Chinesisch Neujahr",
+"t": "Kalender",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Chinese_New_Year"
+},
+{
+"d": "2015-02-19",
+"n": "Chinesisch Neujahr",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Chinese_New_Year"
+},
+{
+"d": "2016-01-09",
+"n": "30 Tage vor Chinesisch Neujahr",
+"t": "Kalender",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Chinese_New_Year"
+},
+{
+"d": "2016-02-08",
+"n": "Chinesisch Neujahr",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Chinese_New_Year"
+},
+{
+"d": "2016-12-29",
+"n": "30 Tage vor Chinesisch Neujahr",
+"t": "Kalender",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Chinese_New_Year"
+},
+{
+"d": "2017-01-28",
+"n": "Chinesisch Neujahr",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Chinese_New_Year"
+},
+{
+"d": "2018-01-17",
+"n": "30 Tage vor Chinesisch Neujahr",
+"t": "Kalender",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Chinese_New_Year"
+},
+{
+"d": "2018-02-16",
+"n": "Chinesisch Neujahr",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Chinese_New_Year"
+},
+{
+"d": "2019-01-06",
+"n": "30 Tage vor Chinesisch Neujahr",
+"t": "Kalender",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Chinese_New_Year"
+},
+{
+"d": "2019-02-05",
+"n": "Chinesisch Neujahr",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Chinese_New_Year"
+},
+{
+"d": "2019-12-26",
+"n": "30 Tage vor Chinesisch Neujahr",
+"t": "Kalender",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Chinese_New_Year"
+},
+{
+"d": "2020-01-25",
+"n": "Chinesisch Neujahr",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Chinese_New_Year"
+},
+{
+"d": "2021-01-13",
+"n": "30 Tage vor Chinesisch Neujahr",
+"t": "Kalender",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Chinese_New_Year"
+},
+{
+"d": "2021-02-12",
+"n": "Chinesisch Neujahr",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Chinese_New_Year"
+},
+{
+"d": "2022-01-02",
+"n": "30 Tage vor Chinesisch Neujahr",
+"t": "Kalender",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Chinese_New_Year"
+},
+{
+"d": "2022-02-01",
+"n": "Chinesisch Neujahr",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Chinese_New_Year"
+},
+{
+"d": "2022-12-23",
+"n": "30 Tage vor Chinesisch Neujahr",
+"t": "Kalender",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Chinese_New_Year"
+},
+{
+"d": "2023-01-22",
+"n": "Chinesisch Neujahr",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Chinese_New_Year"
+},
+{
+"d": "2024-01-11",
+"n": "30 Tage vor Chinesisch Neujahr",
+"t": "Kalender",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Chinese_New_Year"
+},
+{
+"d": "2024-02-10",
+"n": "Chinesisch Neujahr",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Chinese_New_Year"
+},
+{
+"d": "2024-12-30",
+"n": "30 Tage vor Chinesisch Neujahr",
+"t": "Kalender",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Chinese_New_Year"
+},
+{
+"d": "2025-01-29",
+"n": "Chinesisch Neujahr",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Chinese_New_Year"
+},
+{
+"d": "2026-01-18",
+"n": "30 Tage vor Chinesisch Neujahr",
+"t": "Kalender",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Chinese_New_Year"
+},
+{
+"d": "2026-02-17",
+"n": "Chinesisch Neujahr",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Chinese_New_Year"
+},
+{
+"d": "2027-01-07",
+"n": "30 Tage vor Chinesisch Neujahr",
+"t": "Kalender",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Chinese_New_Year"
+},
+{
+"d": "2027-02-06",
+"n": "Chinesisch Neujahr",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Chinese_New_Year"
+},
+{
+"d": "2027-12-27",
+"n": "30 Tage vor Chinesisch Neujahr",
+"t": "Kalender",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Chinese_New_Year"
+},
+{
+"d": "2028-01-26",
+"n": "Chinesisch Neujahr",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Chinese_New_Year"
+},
+{
+"d": "2029-01-14",
+"n": "30 Tage vor Chinesisch Neujahr",
+"t": "Kalender",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Chinese_New_Year"
+},
+{
+"d": "2029-02-13",
+"n": "Chinesisch Neujahr",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Chinese_New_Year"
+},
+{
+"d": "2030-01-04",
+"n": "30 Tage vor Chinesisch Neujahr",
+"t": "Kalender",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Chinese_New_Year"
+},
+{
+"d": "2030-02-03",
+"n": "Chinesisch Neujahr",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Chinese_New_Year"
+},
+{
+"d": "2030-12-24",
+"n": "30 Tage vor Chinesisch Neujahr",
+"t": "Kalender",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Chinese_New_Year"
+},
+{
+"d": "2031-01-23",
+"n": "Chinesisch Neujahr",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Chinese_New_Year"
+}
+]
+}

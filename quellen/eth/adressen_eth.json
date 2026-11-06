@@ -1,0 +1,911 @@
+{
+"id": "adressen_eth",
+"name": "Aktive Adressen ETH",
+"rang": 42,
+"gleichlauf": 25.3,
+"ereignisse": [
+{
+"d": "2015-10-01",
+"n": "Aktive ETH Adressen fällt 3,0 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "down",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2015-11-01",
+"n": "Aktive ETH Adressen steigt 20,4 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "up",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2015-12-01",
+"n": "Aktive ETH Adressen fällt 6,6 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "down",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2016-01-01",
+"n": "Aktive ETH Adressen steigt 32,6 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "up",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2016-02-01",
+"n": "Aktive ETH Adressen steigt 78,9 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "up",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2016-03-01",
+"n": "Aktive ETH Adressen steigt 51,8 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "up",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2016-04-01",
+"n": "Aktive ETH Adressen steigt 68,4 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "up",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2016-05-01",
+"n": "Aktive ETH Adressen steigt 26,9 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "up",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2016-06-01",
+"n": "Aktive ETH Adressen steigt 44,0 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "up",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2016-07-01",
+"n": "Aktive ETH Adressen fällt 4,4 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "down",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2016-08-01",
+"n": "Aktive ETH Adressen steigt 22,8 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "up",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2016-09-01",
+"n": "Aktive ETH Adressen fällt 15,4 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "down",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2016-10-01",
+"n": "Aktive ETH Adressen fällt 5,9 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "down",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2016-11-01",
+"n": "Aktive ETH Adressen fällt 7,7 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "down",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2016-12-01",
+"n": "Aktive ETH Adressen steigt 13284,4 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "up",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2017-01-01",
+"n": "Aktive ETH Adressen fällt 99,3 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "down",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2017-02-01",
+"n": "Aktive ETH Adressen steigt 9,7 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "up",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2017-03-01",
+"n": "Aktive ETH Adressen steigt 18,2 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "up",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2017-04-01",
+"n": "Aktive ETH Adressen steigt 74,4 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "up",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2017-05-01",
+"n": "Aktive ETH Adressen steigt 16,3 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "up",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2017-06-01",
+"n": "Aktive ETH Adressen steigt 114,3 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "up",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2017-07-01",
+"n": "Aktive ETH Adressen steigt 58,2 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "up",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2017-08-01",
+"n": "Aktive ETH Adressen fällt 15,8 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "down",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2017-09-01",
+"n": "Aktive ETH Adressen steigt 43,8 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "up",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2017-10-01",
+"n": "Aktive ETH Adressen fällt 12,3 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "down",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2017-11-01",
+"n": "Aktive ETH Adressen steigt 17,5 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "up",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2017-12-01",
+"n": "Aktive ETH Adressen steigt 51,6 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "up",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2018-01-01",
+"n": "Aktive ETH Adressen steigt 78,6 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "up",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2018-02-01",
+"n": "Aktive ETH Adressen fällt 12,8 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "down",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2018-03-01",
+"n": "Aktive ETH Adressen fällt 28,2 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "down",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2018-04-01",
+"n": "Aktive ETH Adressen fällt 13,7 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "down",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2018-05-01",
+"n": "Aktive ETH Adressen steigt 23,4 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "up",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2018-06-01",
+"n": "Aktive ETH Adressen steigt 18,0 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "up",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2018-07-01",
+"n": "Aktive ETH Adressen fällt 7,6 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "down",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2018-08-01",
+"n": "Aktive ETH Adressen steigt 10,1 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "up",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2018-09-01",
+"n": "Aktive ETH Adressen fällt 20,6 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "down",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2018-10-01",
+"n": "Aktive ETH Adressen fällt 22,6 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "down",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2018-11-01",
+"n": "Aktive ETH Adressen steigt 40,5 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "up",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2018-12-01",
+"n": "Aktive ETH Adressen fällt 9,3 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "down",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2019-01-01",
+"n": "Aktive ETH Adressen fällt 6,1 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "down",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2019-02-01",
+"n": "Aktive ETH Adressen fällt 10,4 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "down",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2019-03-01",
+"n": "Aktive ETH Adressen fällt 10,6 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "down",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2019-04-01",
+"n": "Aktive ETH Adressen steigt 13,6 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "up",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2019-05-01",
+"n": "Aktive ETH Adressen steigt 9,4 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "up",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2019-06-01",
+"n": "Aktive ETH Adressen steigt 23,8 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "up",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2019-07-01",
+"n": "Aktive ETH Adressen fällt 3,4 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "down",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2019-08-01",
+"n": "Aktive ETH Adressen fällt 9,8 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "down",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2019-09-01",
+"n": "Aktive ETH Adressen steigt 0,3 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "up",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2019-10-01",
+"n": "Aktive ETH Adressen fällt 10,5 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "down",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2019-11-01",
+"n": "Aktive ETH Adressen steigt 3,9 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "up",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2019-12-01",
+"n": "Aktive ETH Adressen fällt 5,3 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "down",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2020-01-01",
+"n": "Aktive ETH Adressen fällt 0,2 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "down",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2020-02-01",
+"n": "Aktive ETH Adressen fällt 12,2 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "down",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2020-03-01",
+"n": "Aktive ETH Adressen steigt 51,5 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "up",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2020-04-01",
+"n": "Aktive ETH Adressen steigt 8,8 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "up",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2020-05-01",
+"n": "Aktive ETH Adressen steigt 9,2 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "up",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2020-06-01",
+"n": "Aktive ETH Adressen steigt 0,5 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "up",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2020-07-01",
+"n": "Aktive ETH Adressen steigt 24,8 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "up",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2020-08-01",
+"n": "Aktive ETH Adressen steigt 5,8 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "up",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2020-09-01",
+"n": "Aktive ETH Adressen fällt 13,1 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "down",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2020-10-01",
+"n": "Aktive ETH Adressen fällt 3,9 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "down",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2020-11-01",
+"n": "Aktive ETH Adressen steigt 11,8 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "up",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2020-12-01",
+"n": "Aktive ETH Adressen steigt 17,9 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "up",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2021-01-01",
+"n": "Aktive ETH Adressen fällt 15,4 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "down",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2021-02-01",
+"n": "Aktive ETH Adressen steigt 11,5 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "up",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2021-03-01",
+"n": "Aktive ETH Adressen steigt 11,1 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "up",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2021-04-01",
+"n": "Aktive ETH Adressen fällt 1,7 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "down",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2021-05-01",
+"n": "Aktive ETH Adressen steigt 33,0 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "up",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2021-06-01",
+"n": "Aktive ETH Adressen fällt 8,1 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "down",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2021-07-01",
+"n": "Aktive ETH Adressen fällt 3,4 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "down",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2021-08-01",
+"n": "Aktive ETH Adressen fällt 5,1 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "down",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2021-09-01",
+"n": "Aktive ETH Adressen fällt 21,9 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "down",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2021-10-01",
+"n": "Aktive ETH Adressen fällt 1,4 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "down",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2021-11-01",
+"n": "Aktive ETH Adressen steigt 26,7 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "up",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2021-12-01",
+"n": "Aktive ETH Adressen fällt 9,3 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "down",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2022-01-01",
+"n": "Aktive ETH Adressen steigt 2,1 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "up",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2022-02-01",
+"n": "Aktive ETH Adressen fällt 3,7 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "down",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2022-03-01",
+"n": "Aktive ETH Adressen steigt 4,7 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "up",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2022-04-01",
+"n": "Aktive ETH Adressen steigt 0,9 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "up",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2022-05-01",
+"n": "Aktive ETH Adressen fällt 5,2 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "down",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2022-06-01",
+"n": "Aktive ETH Adressen fällt 8,9 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "down",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2022-07-01",
+"n": "Aktive ETH Adressen fällt 14,3 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "down",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2022-08-01",
+"n": "Aktive ETH Adressen steigt 46,3 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "up",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2022-09-01",
+"n": "Aktive ETH Adressen fällt 26,0 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "down",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2022-10-01",
+"n": "Aktive ETH Adressen steigt 3,0 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "up",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2022-11-01",
+"n": "Aktive ETH Adressen fällt 2,1 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "down",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2022-12-01",
+"n": "Aktive ETH Adressen steigt 22,0 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "up",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2023-01-01",
+"n": "Aktive ETH Adressen fällt 9,0 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "down",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2023-02-01",
+"n": "Aktive ETH Adressen fällt 0,4 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "down",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2023-03-01",
+"n": "Aktive ETH Adressen steigt 3,5 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "up",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2023-04-01",
+"n": "Aktive ETH Adressen steigt 0,9 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "up",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2023-05-01",
+"n": "Aktive ETH Adressen fällt 8,0 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "down",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2023-06-01",
+"n": "Aktive ETH Adressen fällt 3,0 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "down",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2023-07-01",
+"n": "Aktive ETH Adressen steigt 10,6 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "up",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2023-08-01",
+"n": "Aktive ETH Adressen fällt 12,9 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "down",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2023-09-01",
+"n": "Aktive ETH Adressen steigt 0,6 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "up",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2023-10-01",
+"n": "Aktive ETH Adressen steigt 6,9 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "up",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2023-11-01",
+"n": "Aktive ETH Adressen fällt 6,7 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "down",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2023-12-01",
+"n": "Aktive ETH Adressen fällt 0,1 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "down",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2024-01-01",
+"n": "Aktive ETH Adressen steigt 15,9 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "up",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2024-02-01",
+"n": "Aktive ETH Adressen steigt 7,1 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "up",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2024-03-01",
+"n": "Aktive ETH Adressen steigt 1,5 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "up",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2024-04-01",
+"n": "Aktive ETH Adressen steigt 10,6 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "up",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2024-05-01",
+"n": "Aktive ETH Adressen fällt 3,7 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "down",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2024-06-01",
+"n": "Aktive ETH Adressen fällt 15,5 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "down",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2024-07-01",
+"n": "Aktive ETH Adressen steigt 14,4 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "up",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2024-08-01",
+"n": "Aktive ETH Adressen fällt 13,0 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "down",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2024-09-01",
+"n": "Aktive ETH Adressen steigt 4,3 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "up",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2024-10-01",
+"n": "Aktive ETH Adressen fällt 7,5 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "down",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2024-11-01",
+"n": "Aktive ETH Adressen fällt 4,0 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "down",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2024-12-01",
+"n": "Aktive ETH Adressen steigt 21,4 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "up",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2025-01-01",
+"n": "Aktive ETH Adressen fällt 0,5 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "down",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2025-02-01",
+"n": "Aktive ETH Adressen steigt 6,7 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "up",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2025-03-01",
+"n": "Aktive ETH Adressen steigt 3,0 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "up",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2025-04-01",
+"n": "Aktive ETH Adressen fällt 6,9 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "down",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2025-05-01",
+"n": "Aktive ETH Adressen fällt 0,9 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "down",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2025-06-01",
+"n": "Aktive ETH Adressen fällt 3,1 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "down",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2025-07-01",
+"n": "Aktive ETH Adressen steigt 12,3 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "up",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2025-08-01",
+"n": "Aktive ETH Adressen steigt 24,5 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "up",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2025-09-01",
+"n": "Aktive ETH Adressen fällt 11,6 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "down",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2025-10-01",
+"n": "Aktive ETH Adressen fällt 6,3 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "down",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2025-11-01",
+"n": "Aktive ETH Adressen steigt 9,3 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "up",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2025-12-01",
+"n": "Aktive ETH Adressen steigt 24,3 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "up",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2026-01-01",
+"n": "Aktive ETH Adressen fällt 0,2 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "down",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2026-02-01",
+"n": "Aktive ETH Adressen steigt 12,5 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "up",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2026-03-01",
+"n": "Aktive ETH Adressen fällt 14,2 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "down",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2026-04-01",
+"n": "Aktive ETH Adressen fällt 2,0 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "down",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2026-05-01",
+"n": "Aktive ETH Adressen fällt 17,0 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "down",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2026-06-01",
+"n": "Aktive ETH Adressen steigt 10,4 % in 30 Tagen",
+"t": "Aktive Adressen ETH",
+"k": "up",
+"quelle": "https://github.com/coinmetrics/data"
+}
+]
+}

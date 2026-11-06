@@ -1,0 +1,309 @@
+{
+"id": "mayer",
+"name": "Mayer Multiple",
+"rang": 160,
+"gruppe": "Technik",
+"ereignisse": [
+{
+"d": "2011-03-01",
+"n": "Mayer 2,9, sehr hoch",
+"t": "Mayer Multiple",
+"k": "down",
+"quelle": "https://finance.yahoo.com/"
+},
+{
+"d": "2011-05-01",
+"n": "Mayer 5,9, sehr hoch",
+"t": "Mayer Multiple",
+"k": "down",
+"quelle": "https://finance.yahoo.com/"
+},
+{
+"d": "2011-06-01",
+"n": "Mayer 5,7, sehr hoch",
+"t": "Mayer Multiple",
+"k": "down",
+"quelle": "https://finance.yahoo.com/"
+},
+{
+"d": "2011-07-01",
+"n": "Mayer 3,9, sehr hoch",
+"t": "Mayer Multiple",
+"k": "down",
+"quelle": "https://finance.yahoo.com/"
+},
+{
+"d": "2011-10-01",
+"n": "Mayer 0,6, sehr niedrig",
+"t": "Mayer Multiple",
+"k": "up",
+"quelle": "https://finance.yahoo.com/"
+},
+{
+"d": "2011-11-01",
+"n": "Mayer 0,4, sehr niedrig",
+"t": "Mayer Multiple",
+"k": "up",
+"quelle": "https://finance.yahoo.com/"
+},
+{
+"d": "2011-12-01",
+"n": "Mayer 0,3, sehr niedrig",
+"t": "Mayer Multiple",
+"k": "up",
+"quelle": "https://finance.yahoo.com/"
+},
+{
+"d": "2012-01-01",
+"n": "Mayer 0,6, sehr niedrig",
+"t": "Mayer Multiple",
+"k": "up",
+"quelle": "https://finance.yahoo.com/"
+},
+{
+"d": "2013-04-01",
+"n": "Mayer 4,3, sehr hoch",
+"t": "Mayer Multiple",
+"k": "down",
+"quelle": "https://finance.yahoo.com/"
+},
+{
+"d": "2013-05-01",
+"n": "Mayer 3,6, sehr hoch",
+"t": "Mayer Multiple",
+"k": "down",
+"quelle": "https://finance.yahoo.com/"
+},
+{
+"d": "2013-12-01",
+"n": "Mayer 6,2, sehr hoch",
+"t": "Mayer Multiple",
+"k": "down",
+"quelle": "https://finance.yahoo.com/"
+},
+{
+"d": "2014-01-01",
+"n": "Mayer 2,6, sehr hoch",
+"t": "Mayer Multiple",
+"k": "down",
+"quelle": "https://finance.yahoo.com/"
+},
+{
+"d": "2014-05-01",
+"n": "Mayer 0,7, sehr niedrig",
+"t": "Mayer Multiple",
+"k": "up",
+"quelle": "https://finance.yahoo.com/"
+},
+{
+"d": "2014-10-01",
+"n": "Mayer 0,7, sehr niedrig",
+"t": "Mayer Multiple",
+"k": "up",
+"quelle": "https://finance.yahoo.com/"
+},
+{
+"d": "2014-11-01",
+"n": "Mayer 0,7, sehr niedrig",
+"t": "Mayer Multiple",
+"k": "up",
+"quelle": "https://finance.yahoo.com/"
+},
+{
+"d": "2014-12-01",
+"n": "Mayer 0,8, sehr niedrig",
+"t": "Mayer Multiple",
+"k": "up",
+"quelle": "https://finance.yahoo.com/"
+},
+{
+"d": "2015-01-01",
+"n": "Mayer 0,7, sehr niedrig",
+"t": "Mayer Multiple",
+"k": "up",
+"quelle": "https://finance.yahoo.com/"
+},
+{
+"d": "2015-02-01",
+"n": "Mayer 0,5, sehr niedrig",
+"t": "Mayer Multiple",
+"k": "up",
+"quelle": "https://finance.yahoo.com/"
+},
+{
+"d": "2015-03-01",
+"n": "Mayer 0,7, sehr niedrig",
+"t": "Mayer Multiple",
+"k": "up",
+"quelle": "https://finance.yahoo.com/"
+},
+{
+"d": "2015-04-01",
+"n": "Mayer 0,8, sehr niedrig",
+"t": "Mayer Multiple",
+"k": "up",
+"quelle": "https://finance.yahoo.com/"
+},
+{
+"d": "2017-12-01",
+"n": "Mayer 2,4, sehr hoch",
+"t": "Mayer Multiple",
+"k": "down",
+"quelle": "https://finance.yahoo.com/"
+},
+{
+"d": "2018-04-01",
+"n": "Mayer 0,7, sehr niedrig",
+"t": "Mayer Multiple",
+"k": "up",
+"quelle": "https://finance.yahoo.com/"
+},
+{
+"d": "2018-06-01",
+"n": "Mayer 0,7, sehr niedrig",
+"t": "Mayer Multiple",
+"k": "up",
+"quelle": "https://finance.yahoo.com/"
+},
+{
+"d": "2018-07-01",
+"n": "Mayer 0,7, sehr niedrig",
+"t": "Mayer Multiple",
+"k": "up",
+"quelle": "https://finance.yahoo.com/"
+},
+{
+"d": "2018-12-01",
+"n": "Mayer 0,6, sehr niedrig",
+"t": "Mayer Multiple",
+"k": "up",
+"quelle": "https://finance.yahoo.com/"
+},
+{
+"d": "2019-01-01",
+"n": "Mayer 0,6, sehr niedrig",
+"t": "Mayer Multiple",
+"k": "up",
+"quelle": "https://finance.yahoo.com/"
+},
+{
+"d": "2019-02-01",
+"n": "Mayer 0,6, sehr niedrig",
+"t": "Mayer Multiple",
+"k": "up",
+"quelle": "https://finance.yahoo.com/"
+},
+{
+"d": "2019-03-01",
+"n": "Mayer 0,8, sehr niedrig",
+"t": "Mayer Multiple",
+"k": "up",
+"quelle": "https://finance.yahoo.com/"
+},
+{
+"d": "2020-01-01",
+"n": "Mayer 0,8, sehr niedrig",
+"t": "Mayer Multiple",
+"k": "up",
+"quelle": "https://finance.yahoo.com/"
+},
+{
+"d": "2020-04-01",
+"n": "Mayer 0,8, sehr niedrig",
+"t": "Mayer Multiple",
+"k": "up",
+"quelle": "https://finance.yahoo.com/"
+},
+{
+"d": "2021-07-01",
+"n": "Mayer 0,8, sehr niedrig",
+"t": "Mayer Multiple",
+"k": "up",
+"quelle": "https://finance.yahoo.com/"
+},
+{
+"d": "2022-02-01",
+"n": "Mayer 0,8, sehr niedrig",
+"t": "Mayer Multiple",
+"k": "up",
+"quelle": "https://finance.yahoo.com/"
+},
+{
+"d": "2022-05-01",
+"n": "Mayer 0,8, sehr niedrig",
+"t": "Mayer Multiple",
+"k": "up",
+"quelle": "https://finance.yahoo.com/"
+},
+{
+"d": "2022-06-01",
+"n": "Mayer 0,7, sehr niedrig",
+"t": "Mayer Multiple",
+"k": "up",
+"quelle": "https://finance.yahoo.com/"
+},
+{
+"d": "2022-07-01",
+"n": "Mayer 0,5, sehr niedrig",
+"t": "Mayer Multiple",
+"k": "up",
+"quelle": "https://finance.yahoo.com/"
+},
+{
+"d": "2022-08-01",
+"n": "Mayer 0,7, sehr niedrig",
+"t": "Mayer Multiple",
+"k": "up",
+"quelle": "https://finance.yahoo.com/"
+},
+{
+"d": "2022-09-01",
+"n": "Mayer 0,6, sehr niedrig",
+"t": "Mayer Multiple",
+"k": "up",
+"quelle": "https://finance.yahoo.com/"
+},
+{
+"d": "2022-10-01",
+"n": "Mayer 0,7, sehr niedrig",
+"t": "Mayer Multiple",
+"k": "up",
+"quelle": "https://finance.yahoo.com/"
+},
+{
+"d": "2022-12-01",
+"n": "Mayer 0,8, sehr niedrig",
+"t": "Mayer Multiple",
+"k": "up",
+"quelle": "https://finance.yahoo.com/"
+},
+{
+"d": "2026-02-01",
+"n": "Mayer 0,8, sehr niedrig",
+"t": "Mayer Multiple",
+"k": "up",
+"quelle": "https://finance.yahoo.com/"
+},
+{
+"d": "2026-03-01",
+"n": "Mayer 0,7, sehr niedrig",
+"t": "Mayer Multiple",
+"k": "up",
+"quelle": "https://finance.yahoo.com/"
+},
+{
+"d": "2026-04-01",
+"n": "Mayer 0,8, sehr niedrig",
+"t": "Mayer Multiple",
+"k": "up",
+"quelle": "https://finance.yahoo.com/"
+},
+{
+"d": "2026-07-01",
+"n": "Mayer 0,8, sehr niedrig",
+"t": "Mayer Multiple",
+"k": "up",
+"quelle": "https://finance.yahoo.com/"
+}
+]
+}

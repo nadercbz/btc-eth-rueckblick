@@ -1,0 +1,953 @@
+{
+"id": "wiki_ethereum",
+"name": "Wikipedia Ethereum",
+"rang": 45,
+"gleichlauf": 37.2,
+"ereignisse": [
+{
+"d": "2015-09-01",
+"n": "Aufrufe Ethereum steigen 93 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2015-10-01",
+"n": "Aufrufe Ethereum fallen 7 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2015-11-01",
+"n": "Aufrufe Ethereum fallen 10 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2015-12-01",
+"n": "Aufrufe Ethereum steigen 7 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2016-01-01",
+"n": "Aufrufe Ethereum fallen 9 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2016-02-01",
+"n": "Aufrufe Ethereum steigen 61 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2016-03-01",
+"n": "Aufrufe Ethereum steigen 46 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2016-04-01",
+"n": "Aufrufe Ethereum steigen 55 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2016-05-01",
+"n": "Aufrufe Ethereum fallen 39 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2016-06-01",
+"n": "Aufrufe Ethereum steigen 96 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2016-07-01",
+"n": "Aufrufe Ethereum steigen 9 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2016-08-01",
+"n": "Aufrufe Ethereum fallen 35 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2016-09-01",
+"n": "Aufrufe Ethereum fallen 9 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2016-10-01",
+"n": "Aufrufe Ethereum fallen 11 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2016-11-01",
+"n": "Aufrufe Ethereum fallen 4 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2016-12-01",
+"n": "Aufrufe Ethereum fallen 5 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2017-01-01",
+"n": "Aufrufe Ethereum fallen 6 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2017-02-01",
+"n": "Aufrufe Ethereum steigen 41 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2017-03-01",
+"n": "Aufrufe Ethereum fallen 2 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2017-04-01",
+"n": "Aufrufe Ethereum steigen 127 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2017-05-01",
+"n": "Aufrufe Ethereum fallen 26 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2017-06-01",
+"n": "Aufrufe Ethereum steigen 174 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2017-07-01",
+"n": "Aufrufe Ethereum steigen 56 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2017-08-01",
+"n": "Aufrufe Ethereum fallen 43 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2017-09-01",
+"n": "Aufrufe Ethereum fallen 12 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2017-10-01",
+"n": "Aufrufe Ethereum fallen 15 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2017-11-01",
+"n": "Aufrufe Ethereum fallen 7 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2017-12-01",
+"n": "Aufrufe Ethereum steigen 63 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2018-01-01",
+"n": "Aufrufe Ethereum steigen 69 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2018-02-01",
+"n": "Aufrufe Ethereum fallen 23 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2018-03-01",
+"n": "Aufrufe Ethereum fallen 44 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2018-04-01",
+"n": "Aufrufe Ethereum steigen 23 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2018-05-01",
+"n": "Aufrufe Ethereum fallen 37 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2018-06-01",
+"n": "Aufrufe Ethereum fallen 32 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2018-07-01",
+"n": "Aufrufe Ethereum fallen 23 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2018-08-01",
+"n": "Aufrufe Ethereum fallen 6 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2018-09-01",
+"n": "Aufrufe Ethereum steigen 5 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2018-10-01",
+"n": "Aufrufe Ethereum fallen 7 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2018-11-01",
+"n": "Aufrufe Ethereum fallen 20 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2018-12-01",
+"n": "Aufrufe Ethereum steigen 9 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2019-01-01",
+"n": "Aufrufe Ethereum fallen 18 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2019-02-01",
+"n": "Aufrufe Ethereum steigen 1 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2019-03-01",
+"n": "Aufrufe Ethereum fallen 21 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2019-04-01",
+"n": "Aufrufe Ethereum fallen 1 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2019-05-01",
+"n": "Aufrufe Ethereum fallen 0 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2019-06-01",
+"n": "Aufrufe Ethereum steigen 18 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2019-07-01",
+"n": "Aufrufe Ethereum fallen 8 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2019-08-01",
+"n": "Aufrufe Ethereum fallen 2 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2019-09-01",
+"n": "Aufrufe Ethereum fallen 7 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2019-10-01",
+"n": "Aufrufe Ethereum steigen 0 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2019-11-01",
+"n": "Aufrufe Ethereum steigen 9 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2019-12-01",
+"n": "Aufrufe Ethereum steigen 2 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2020-01-01",
+"n": "Aufrufe Ethereum steigen 183 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2020-02-01",
+"n": "Aufrufe Ethereum steigen 63 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2020-03-01",
+"n": "Aufrufe Ethereum fallen 77 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2020-04-01",
+"n": "Aufrufe Ethereum steigen 3 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2020-05-01",
+"n": "Aufrufe Ethereum steigen 34 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2020-06-01",
+"n": "Aufrufe Ethereum steigen 21 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2020-07-01",
+"n": "Aufrufe Ethereum fallen 13 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2020-08-01",
+"n": "Aufrufe Ethereum steigen 29 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2020-09-01",
+"n": "Aufrufe Ethereum steigen 9 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2020-10-01",
+"n": "Aufrufe Ethereum fallen 38 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2020-11-01",
+"n": "Aufrufe Ethereum fallen 1 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2020-12-01",
+"n": "Aufrufe Ethereum steigen 49 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2021-01-01",
+"n": "Aufrufe Ethereum steigen 41 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2021-02-01",
+"n": "Aufrufe Ethereum steigen 120 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2021-03-01",
+"n": "Aufrufe Ethereum steigen 10 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2021-04-01",
+"n": "Aufrufe Ethereum fallen 12 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2021-05-01",
+"n": "Aufrufe Ethereum steigen 8 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2021-06-01",
+"n": "Aufrufe Ethereum steigen 91 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2021-07-01",
+"n": "Aufrufe Ethereum fallen 66 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2021-08-01",
+"n": "Aufrufe Ethereum fallen 16 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2021-09-01",
+"n": "Aufrufe Ethereum steigen 24 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2021-10-01",
+"n": "Aufrufe Ethereum steigen 8 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2021-11-01",
+"n": "Aufrufe Ethereum steigen 34 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2021-12-01",
+"n": "Aufrufe Ethereum fallen 6 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2022-01-01",
+"n": "Aufrufe Ethereum fallen 17 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2022-02-01",
+"n": "Aufrufe Ethereum steigen 4 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2022-03-01",
+"n": "Aufrufe Ethereum fallen 26 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2022-04-01",
+"n": "Aufrufe Ethereum fallen 16 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2022-05-01",
+"n": "Aufrufe Ethereum fallen 15 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2022-06-01",
+"n": "Aufrufe Ethereum fallen 2 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2022-07-01",
+"n": "Aufrufe Ethereum fallen 19 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2022-08-01",
+"n": "Aufrufe Ethereum fallen 16 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2022-09-01",
+"n": "Aufrufe Ethereum steigen 1 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2022-10-01",
+"n": "Aufrufe Ethereum steigen 33 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2022-11-01",
+"n": "Aufrufe Ethereum fallen 36 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2022-12-01",
+"n": "Aufrufe Ethereum steigen 15 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2023-01-01",
+"n": "Aufrufe Ethereum fallen 26 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2023-02-01",
+"n": "Aufrufe Ethereum fallen 5 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2023-03-01",
+"n": "Aufrufe Ethereum fallen 9 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2023-04-01",
+"n": "Aufrufe Ethereum fallen 2 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2023-05-01",
+"n": "Aufrufe Ethereum fallen 12 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2023-06-01",
+"n": "Aufrufe Ethereum fallen 9 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2023-07-01",
+"n": "Aufrufe Ethereum fallen 8 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2023-08-01",
+"n": "Aufrufe Ethereum steigen 3 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2023-09-01",
+"n": "Aufrufe Ethereum steigen 1 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2023-10-01",
+"n": "Aufrufe Ethereum fallen 5 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2023-11-01",
+"n": "Aufrufe Ethereum steigen 3 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2023-12-01",
+"n": "Aufrufe Ethereum steigen 8 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2024-01-01",
+"n": "Aufrufe Ethereum steigen 6 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2024-02-01",
+"n": "Aufrufe Ethereum steigen 9 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2024-03-01",
+"n": "Aufrufe Ethereum steigen 4 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2024-04-01",
+"n": "Aufrufe Ethereum steigen 58 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2024-05-01",
+"n": "Aufrufe Ethereum fallen 29 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2024-06-01",
+"n": "Aufrufe Ethereum fallen 4 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2024-07-01",
+"n": "Aufrufe Ethereum steigen 26 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2024-08-01",
+"n": "Aufrufe Ethereum fallen 32 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2024-09-01",
+"n": "Aufrufe Ethereum steigen 5 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2024-10-01",
+"n": "Aufrufe Ethereum fallen 6 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2024-11-01",
+"n": "Aufrufe Ethereum steigen 2 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2024-12-01",
+"n": "Aufrufe Ethereum steigen 68 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2025-01-01",
+"n": "Aufrufe Ethereum steigen 8 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2025-02-01",
+"n": "Aufrufe Ethereum fallen 13 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2025-03-01",
+"n": "Aufrufe Ethereum fallen 25 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2025-04-01",
+"n": "Aufrufe Ethereum steigen 4 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2025-05-01",
+"n": "Aufrufe Ethereum fallen 17 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2025-06-01",
+"n": "Aufrufe Ethereum fallen 4 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2025-07-01",
+"n": "Aufrufe Ethereum fallen 13 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2025-08-01",
+"n": "Aufrufe Ethereum steigen 66 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2025-09-01",
+"n": "Aufrufe Ethereum steigen 6 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2025-10-01",
+"n": "Aufrufe Ethereum fallen 32 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2025-11-01",
+"n": "Aufrufe Ethereum steigen 4 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2025-12-01",
+"n": "Aufrufe Ethereum fallen 15 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2026-01-01",
+"n": "Aufrufe Ethereum fallen 21 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2026-02-01",
+"n": "Aufrufe Ethereum steigen 11 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2026-03-01",
+"n": "Aufrufe Ethereum fallen 1 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2026-04-01",
+"n": "Aufrufe Ethereum fallen 26 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2026-05-01",
+"n": "Aufrufe Ethereum fallen 8 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2026-06-01",
+"n": "Aufrufe Ethereum fallen 4 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2026-07-01",
+"n": "Aufrufe Ethereum steigen 4 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2026-08-01",
+"n": "Aufrufe Ethereum steigen 0 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2026-09-01",
+"n": "Aufrufe Ethereum fallen 8 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2026-10-01",
+"n": "Aufrufe Ethereum steigen 1 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2026-11-01",
+"n": "Aufrufe Ethereum steigen 1 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+}
+]
+}

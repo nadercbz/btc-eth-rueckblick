@@ -1,0 +1,1393 @@
+{
+"id": "wetter_ny",
+"name": "Wetter New York",
+"rang": 29,
+"ereignisse": [
+{
+"d": "2010-06-01",
+"n": "New York 330 Sonnenstunden, Schnitt 302",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2010-07-01",
+"n": "New York 376 Sonnenstunden, Schnitt 336",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2010-08-01",
+"n": "New York 384 Sonnenstunden, Schnitt 363",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2010-09-01",
+"n": "New York 305 Sonnenstunden, Schnitt 330",
+"t": "Wetter",
+"k": "down",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2010-10-01",
+"n": "New York 266 Sonnenstunden, Schnitt 275",
+"t": "Wetter",
+"k": "down",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2010-11-01",
+"n": "New York 250 Sonnenstunden, Schnitt 232",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2010-12-01",
+"n": "New York 212 Sonnenstunden, Schnitt 210",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2011-01-01",
+"n": "New York 205 Sonnenstunden, Schnitt 176",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2011-02-01",
+"n": "New York 223 Sonnenstunden, Schnitt 207",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2011-03-01",
+"n": "New York 218 Sonnenstunden, Schnitt 195",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2011-04-01",
+"n": "New York 263 Sonnenstunden, Schnitt 254",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2011-05-01",
+"n": "New York 220 Sonnenstunden, Schnitt 274",
+"t": "Wetter",
+"k": "down",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2011-06-01",
+"n": "New York 311 Sonnenstunden, Schnitt 302",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2011-07-01",
+"n": "New York 341 Sonnenstunden, Schnitt 336",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2011-08-01",
+"n": "New York 385 Sonnenstunden, Schnitt 363",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2011-09-01",
+"n": "New York 316 Sonnenstunden, Schnitt 330",
+"t": "Wetter",
+"k": "down",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2011-10-01",
+"n": "New York 227 Sonnenstunden, Schnitt 275",
+"t": "Wetter",
+"k": "down",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2011-11-01",
+"n": "New York 242 Sonnenstunden, Schnitt 232",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2011-12-01",
+"n": "New York 219 Sonnenstunden, Schnitt 210",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2012-01-01",
+"n": "New York 212 Sonnenstunden, Schnitt 176",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2012-02-01",
+"n": "New York 222 Sonnenstunden, Schnitt 207",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2012-03-01",
+"n": "New York 220 Sonnenstunden, Schnitt 195",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2012-04-01",
+"n": "New York 251 Sonnenstunden, Schnitt 254",
+"t": "Wetter",
+"k": "down",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2012-05-01",
+"n": "New York 322 Sonnenstunden, Schnitt 274",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2012-06-01",
+"n": "New York 255 Sonnenstunden, Schnitt 302",
+"t": "Wetter",
+"k": "down",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2012-07-01",
+"n": "New York 354 Sonnenstunden, Schnitt 336",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2012-08-01",
+"n": "New York 363 Sonnenstunden, Schnitt 363",
+"t": "Wetter",
+"k": "down",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2012-09-01",
+"n": "New York 355 Sonnenstunden, Schnitt 330",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2012-10-01",
+"n": "New York 274 Sonnenstunden, Schnitt 275",
+"t": "Wetter",
+"k": "down",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2012-11-01",
+"n": "New York 204 Sonnenstunden, Schnitt 232",
+"t": "Wetter",
+"k": "down",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2012-12-01",
+"n": "New York 228 Sonnenstunden, Schnitt 210",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2013-01-01",
+"n": "New York 169 Sonnenstunden, Schnitt 176",
+"t": "Wetter",
+"k": "down",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2013-02-01",
+"n": "New York 193 Sonnenstunden, Schnitt 207",
+"t": "Wetter",
+"k": "down",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2013-03-01",
+"n": "New York 188 Sonnenstunden, Schnitt 195",
+"t": "Wetter",
+"k": "down",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2013-04-01",
+"n": "New York 258 Sonnenstunden, Schnitt 254",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2013-05-01",
+"n": "New York 315 Sonnenstunden, Schnitt 274",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2013-06-01",
+"n": "New York 315 Sonnenstunden, Schnitt 302",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2013-07-01",
+"n": "New York 330 Sonnenstunden, Schnitt 336",
+"t": "Wetter",
+"k": "down",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2013-08-01",
+"n": "New York 354 Sonnenstunden, Schnitt 363",
+"t": "Wetter",
+"k": "down",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2013-09-01",
+"n": "New York 327 Sonnenstunden, Schnitt 330",
+"t": "Wetter",
+"k": "down",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2013-10-01",
+"n": "New York 322 Sonnenstunden, Schnitt 275",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2013-11-01",
+"n": "New York 258 Sonnenstunden, Schnitt 232",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2013-12-01",
+"n": "New York 225 Sonnenstunden, Schnitt 210",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2014-01-01",
+"n": "New York 171 Sonnenstunden, Schnitt 176",
+"t": "Wetter",
+"k": "down",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2014-02-01",
+"n": "New York 196 Sonnenstunden, Schnitt 207",
+"t": "Wetter",
+"k": "down",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2014-03-01",
+"n": "New York 210 Sonnenstunden, Schnitt 195",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2014-04-01",
+"n": "New York 251 Sonnenstunden, Schnitt 254",
+"t": "Wetter",
+"k": "down",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2014-05-01",
+"n": "New York 283 Sonnenstunden, Schnitt 274",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2014-06-01",
+"n": "New York 307 Sonnenstunden, Schnitt 302",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2014-07-01",
+"n": "New York 342 Sonnenstunden, Schnitt 336",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2014-08-01",
+"n": "New York 381 Sonnenstunden, Schnitt 363",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2014-09-01",
+"n": "New York 347 Sonnenstunden, Schnitt 330",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2014-10-01",
+"n": "New York 272 Sonnenstunden, Schnitt 275",
+"t": "Wetter",
+"k": "down",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2014-11-01",
+"n": "New York 231 Sonnenstunden, Schnitt 232",
+"t": "Wetter",
+"k": "down",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2014-12-01",
+"n": "New York 192 Sonnenstunden, Schnitt 210",
+"t": "Wetter",
+"k": "down",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2015-01-01",
+"n": "New York 167 Sonnenstunden, Schnitt 176",
+"t": "Wetter",
+"k": "down",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2015-02-01",
+"n": "New York 201 Sonnenstunden, Schnitt 207",
+"t": "Wetter",
+"k": "down",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2015-03-01",
+"n": "New York 213 Sonnenstunden, Schnitt 195",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2015-04-01",
+"n": "New York 244 Sonnenstunden, Schnitt 254",
+"t": "Wetter",
+"k": "down",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2015-05-01",
+"n": "New York 282 Sonnenstunden, Schnitt 274",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2015-06-01",
+"n": "New York 365 Sonnenstunden, Schnitt 302",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2015-07-01",
+"n": "New York 276 Sonnenstunden, Schnitt 336",
+"t": "Wetter",
+"k": "down",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2015-08-01",
+"n": "New York 377 Sonnenstunden, Schnitt 363",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2015-09-01",
+"n": "New York 362 Sonnenstunden, Schnitt 330",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2015-10-01",
+"n": "New York 298 Sonnenstunden, Schnitt 275",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2015-11-01",
+"n": "New York 253 Sonnenstunden, Schnitt 232",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2015-12-01",
+"n": "New York 196 Sonnenstunden, Schnitt 210",
+"t": "Wetter",
+"k": "down",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2016-01-01",
+"n": "New York 143 Sonnenstunden, Schnitt 176",
+"t": "Wetter",
+"k": "down",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2016-02-01",
+"n": "New York 231 Sonnenstunden, Schnitt 207",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2016-03-01",
+"n": "New York 198 Sonnenstunden, Schnitt 195",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2016-04-01",
+"n": "New York 291 Sonnenstunden, Schnitt 254",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2016-05-01",
+"n": "New York 298 Sonnenstunden, Schnitt 274",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2016-06-01",
+"n": "New York 262 Sonnenstunden, Schnitt 302",
+"t": "Wetter",
+"k": "down",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2016-07-01",
+"n": "New York 349 Sonnenstunden, Schnitt 336",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2016-08-01",
+"n": "New York 364 Sonnenstunden, Schnitt 363",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2016-09-01",
+"n": "New York 366 Sonnenstunden, Schnitt 330",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2016-10-01",
+"n": "New York 257 Sonnenstunden, Schnitt 275",
+"t": "Wetter",
+"k": "down",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2016-11-01",
+"n": "New York 242 Sonnenstunden, Schnitt 232",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2016-12-01",
+"n": "New York 226 Sonnenstunden, Schnitt 210",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2017-01-01",
+"n": "New York 185 Sonnenstunden, Schnitt 176",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2017-02-01",
+"n": "New York 162 Sonnenstunden, Schnitt 207",
+"t": "Wetter",
+"k": "down",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2017-03-01",
+"n": "New York 231 Sonnenstunden, Schnitt 195",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2017-04-01",
+"n": "New York 242 Sonnenstunden, Schnitt 254",
+"t": "Wetter",
+"k": "down",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2017-05-01",
+"n": "New York 241 Sonnenstunden, Schnitt 274",
+"t": "Wetter",
+"k": "down",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2017-06-01",
+"n": "New York 276 Sonnenstunden, Schnitt 302",
+"t": "Wetter",
+"k": "down",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2017-07-01",
+"n": "New York 330 Sonnenstunden, Schnitt 336",
+"t": "Wetter",
+"k": "down",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2017-08-01",
+"n": "New York 324 Sonnenstunden, Schnitt 363",
+"t": "Wetter",
+"k": "down",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2017-09-01",
+"n": "New York 315 Sonnenstunden, Schnitt 330",
+"t": "Wetter",
+"k": "down",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2017-10-01",
+"n": "New York 297 Sonnenstunden, Schnitt 275",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2017-11-01",
+"n": "New York 229 Sonnenstunden, Schnitt 232",
+"t": "Wetter",
+"k": "down",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2017-12-01",
+"n": "New York 207 Sonnenstunden, Schnitt 210",
+"t": "Wetter",
+"k": "down",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2018-01-01",
+"n": "New York 186 Sonnenstunden, Schnitt 176",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2018-02-01",
+"n": "New York 208 Sonnenstunden, Schnitt 207",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2018-03-01",
+"n": "New York 151 Sonnenstunden, Schnitt 195",
+"t": "Wetter",
+"k": "down",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2018-04-01",
+"n": "New York 243 Sonnenstunden, Schnitt 254",
+"t": "Wetter",
+"k": "down",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2018-05-01",
+"n": "New York 241 Sonnenstunden, Schnitt 274",
+"t": "Wetter",
+"k": "down",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2018-06-01",
+"n": "New York 255 Sonnenstunden, Schnitt 302",
+"t": "Wetter",
+"k": "down",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2018-07-01",
+"n": "New York 312 Sonnenstunden, Schnitt 336",
+"t": "Wetter",
+"k": "down",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2018-08-01",
+"n": "New York 341 Sonnenstunden, Schnitt 363",
+"t": "Wetter",
+"k": "down",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2018-09-01",
+"n": "New York 316 Sonnenstunden, Schnitt 330",
+"t": "Wetter",
+"k": "down",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2018-10-01",
+"n": "New York 194 Sonnenstunden, Schnitt 275",
+"t": "Wetter",
+"k": "down",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2018-11-01",
+"n": "New York 228 Sonnenstunden, Schnitt 232",
+"t": "Wetter",
+"k": "down",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2018-12-01",
+"n": "New York 174 Sonnenstunden, Schnitt 210",
+"t": "Wetter",
+"k": "down",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2019-01-01",
+"n": "New York 177 Sonnenstunden, Schnitt 176",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2019-02-01",
+"n": "New York 203 Sonnenstunden, Schnitt 207",
+"t": "Wetter",
+"k": "down",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2019-03-01",
+"n": "New York 201 Sonnenstunden, Schnitt 195",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2019-04-01",
+"n": "New York 265 Sonnenstunden, Schnitt 254",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2019-05-01",
+"n": "New York 250 Sonnenstunden, Schnitt 274",
+"t": "Wetter",
+"k": "down",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2019-06-01",
+"n": "New York 281 Sonnenstunden, Schnitt 302",
+"t": "Wetter",
+"k": "down",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2019-07-01",
+"n": "New York 318 Sonnenstunden, Schnitt 336",
+"t": "Wetter",
+"k": "down",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2019-08-01",
+"n": "New York 372 Sonnenstunden, Schnitt 363",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2019-09-01",
+"n": "New York 343 Sonnenstunden, Schnitt 330",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2019-10-01",
+"n": "New York 315 Sonnenstunden, Schnitt 275",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2019-11-01",
+"n": "New York 202 Sonnenstunden, Schnitt 232",
+"t": "Wetter",
+"k": "down",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2019-12-01",
+"n": "New York 203 Sonnenstunden, Schnitt 210",
+"t": "Wetter",
+"k": "down",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2020-01-01",
+"n": "New York 156 Sonnenstunden, Schnitt 176",
+"t": "Wetter",
+"k": "down",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2020-02-01",
+"n": "New York 192 Sonnenstunden, Schnitt 207",
+"t": "Wetter",
+"k": "down",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2020-03-01",
+"n": "New York 178 Sonnenstunden, Schnitt 195",
+"t": "Wetter",
+"k": "down",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2020-04-01",
+"n": "New York 233 Sonnenstunden, Schnitt 254",
+"t": "Wetter",
+"k": "down",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2020-05-01",
+"n": "New York 231 Sonnenstunden, Schnitt 274",
+"t": "Wetter",
+"k": "down",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2020-06-01",
+"n": "New York 347 Sonnenstunden, Schnitt 302",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2020-07-01",
+"n": "New York 368 Sonnenstunden, Schnitt 336",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2020-08-01",
+"n": "New York 368 Sonnenstunden, Schnitt 363",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2020-09-01",
+"n": "New York 331 Sonnenstunden, Schnitt 330",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2020-10-01",
+"n": "New York 290 Sonnenstunden, Schnitt 275",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2020-11-01",
+"n": "New York 208 Sonnenstunden, Schnitt 232",
+"t": "Wetter",
+"k": "down",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2020-12-01",
+"n": "New York 208 Sonnenstunden, Schnitt 210",
+"t": "Wetter",
+"k": "down",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2021-01-01",
+"n": "New York 172 Sonnenstunden, Schnitt 176",
+"t": "Wetter",
+"k": "down",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2021-02-01",
+"n": "New York 210 Sonnenstunden, Schnitt 207",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2021-03-01",
+"n": "New York 143 Sonnenstunden, Schnitt 195",
+"t": "Wetter",
+"k": "down",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2021-04-01",
+"n": "New York 286 Sonnenstunden, Schnitt 254",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2021-05-01",
+"n": "New York 284 Sonnenstunden, Schnitt 274",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2021-06-01",
+"n": "New York 319 Sonnenstunden, Schnitt 302",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2021-07-01",
+"n": "New York 342 Sonnenstunden, Schnitt 336",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2021-08-01",
+"n": "New York 350 Sonnenstunden, Schnitt 363",
+"t": "Wetter",
+"k": "down",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2021-09-01",
+"n": "New York 283 Sonnenstunden, Schnitt 330",
+"t": "Wetter",
+"k": "down",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2021-10-01",
+"n": "New York 291 Sonnenstunden, Schnitt 275",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2021-11-01",
+"n": "New York 240 Sonnenstunden, Schnitt 232",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2021-12-01",
+"n": "New York 226 Sonnenstunden, Schnitt 210",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2022-01-01",
+"n": "New York 171 Sonnenstunden, Schnitt 176",
+"t": "Wetter",
+"k": "down",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2022-02-01",
+"n": "New York 190 Sonnenstunden, Schnitt 207",
+"t": "Wetter",
+"k": "down",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2022-03-01",
+"n": "New York 206 Sonnenstunden, Schnitt 195",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2022-04-01",
+"n": "New York 249 Sonnenstunden, Schnitt 254",
+"t": "Wetter",
+"k": "down",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2022-05-01",
+"n": "New York 279 Sonnenstunden, Schnitt 274",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2022-06-01",
+"n": "New York 286 Sonnenstunden, Schnitt 302",
+"t": "Wetter",
+"k": "down",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2022-07-01",
+"n": "New York 344 Sonnenstunden, Schnitt 336",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2022-08-01",
+"n": "New York 372 Sonnenstunden, Schnitt 363",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2022-09-01",
+"n": "New York 374 Sonnenstunden, Schnitt 330",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2022-10-01",
+"n": "New York 283 Sonnenstunden, Schnitt 275",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2022-11-01",
+"n": "New York 228 Sonnenstunden, Schnitt 232",
+"t": "Wetter",
+"k": "down",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2022-12-01",
+"n": "New York 227 Sonnenstunden, Schnitt 210",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2023-01-01",
+"n": "New York 188 Sonnenstunden, Schnitt 176",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2023-02-01",
+"n": "New York 153 Sonnenstunden, Schnitt 207",
+"t": "Wetter",
+"k": "down",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2023-03-01",
+"n": "New York 193 Sonnenstunden, Schnitt 195",
+"t": "Wetter",
+"k": "down",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2023-04-01",
+"n": "New York 245 Sonnenstunden, Schnitt 254",
+"t": "Wetter",
+"k": "down",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2023-05-01",
+"n": "New York 273 Sonnenstunden, Schnitt 274",
+"t": "Wetter",
+"k": "down",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2023-06-01",
+"n": "New York 389 Sonnenstunden, Schnitt 302",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2023-07-01",
+"n": "New York 322 Sonnenstunden, Schnitt 336",
+"t": "Wetter",
+"k": "down",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2023-08-01",
+"n": "New York 370 Sonnenstunden, Schnitt 363",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2023-09-01",
+"n": "New York 341 Sonnenstunden, Schnitt 330",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2023-10-01",
+"n": "New York 240 Sonnenstunden, Schnitt 275",
+"t": "Wetter",
+"k": "down",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2023-11-01",
+"n": "New York 256 Sonnenstunden, Schnitt 232",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2023-12-01",
+"n": "New York 231 Sonnenstunden, Schnitt 210",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2024-01-01",
+"n": "New York 167 Sonnenstunden, Schnitt 176",
+"t": "Wetter",
+"k": "down",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2024-02-01",
+"n": "New York 145 Sonnenstunden, Schnitt 207",
+"t": "Wetter",
+"k": "down",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2024-03-01",
+"n": "New York 228 Sonnenstunden, Schnitt 195",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2024-04-01",
+"n": "New York 245 Sonnenstunden, Schnitt 254",
+"t": "Wetter",
+"k": "down",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2024-05-01",
+"n": "New York 267 Sonnenstunden, Schnitt 274",
+"t": "Wetter",
+"k": "down",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2024-06-01",
+"n": "New York 295 Sonnenstunden, Schnitt 302",
+"t": "Wetter",
+"k": "down",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2024-07-01",
+"n": "New York 373 Sonnenstunden, Schnitt 336",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2024-08-01",
+"n": "New York 358 Sonnenstunden, Schnitt 363",
+"t": "Wetter",
+"k": "down",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2024-09-01",
+"n": "New York 338 Sonnenstunden, Schnitt 330",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2024-10-01",
+"n": "New York 257 Sonnenstunden, Schnitt 275",
+"t": "Wetter",
+"k": "down",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2024-11-01",
+"n": "New York 316 Sonnenstunden, Schnitt 232",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2024-12-01",
+"n": "New York 232 Sonnenstunden, Schnitt 210",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2025-01-01",
+"n": "New York 197 Sonnenstunden, Schnitt 176",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2025-02-01",
+"n": "New York 230 Sonnenstunden, Schnitt 207",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2025-03-01",
+"n": "New York 192 Sonnenstunden, Schnitt 195",
+"t": "Wetter",
+"k": "down",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2025-04-01",
+"n": "New York 274 Sonnenstunden, Schnitt 254",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2025-05-01",
+"n": "New York 247 Sonnenstunden, Schnitt 274",
+"t": "Wetter",
+"k": "down",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2025-06-01",
+"n": "New York 261 Sonnenstunden, Schnitt 302",
+"t": "Wetter",
+"k": "down",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2025-07-01",
+"n": "New York 296 Sonnenstunden, Schnitt 336",
+"t": "Wetter",
+"k": "down",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2025-08-01",
+"n": "New York 373 Sonnenstunden, Schnitt 363",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2025-09-01",
+"n": "New York 344 Sonnenstunden, Schnitt 330",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2025-10-01",
+"n": "New York 289 Sonnenstunden, Schnitt 275",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2025-11-01",
+"n": "New York 261 Sonnenstunden, Schnitt 232",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2025-12-01",
+"n": "New York 200 Sonnenstunden, Schnitt 210",
+"t": "Wetter",
+"k": "down",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2026-01-01",
+"n": "New York 183 Sonnenstunden, Schnitt 176",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2026-02-01",
+"n": "New York 204 Sonnenstunden, Schnitt 207",
+"t": "Wetter",
+"k": "down",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2026-03-01",
+"n": "New York 200 Sonnenstunden, Schnitt 195",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2026-04-01",
+"n": "New York 236 Sonnenstunden, Schnitt 254",
+"t": "Wetter",
+"k": "down",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2026-05-01",
+"n": "New York 290 Sonnenstunden, Schnitt 274",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2026-06-01",
+"n": "New York 315 Sonnenstunden, Schnitt 302",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2026-07-01",
+"n": "New York 363 Sonnenstunden, Schnitt 336",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2026-08-01",
+"n": "New York 357 Sonnenstunden, Schnitt 363",
+"t": "Wetter",
+"k": "down",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2026-09-01",
+"n": "New York 353 Sonnenstunden, Schnitt 330",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2026-10-01",
+"n": "New York 249 Sonnenstunden, Schnitt 275",
+"t": "Wetter",
+"k": "down",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+},
+{
+"d": "2026-11-01",
+"n": "New York 291 Sonnenstunden, Schnitt 232",
+"t": "Wetter",
+"k": "up",
+"quelle": "https://open-meteo.com/en/docs/historical-weather-api"
+}
+]
+}

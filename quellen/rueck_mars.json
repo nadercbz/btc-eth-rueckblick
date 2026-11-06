@@ -1,0 +1,148 @@
+{
+"id": "rueck_mars",
+"name": "Mars rückläufig",
+"rang": 179,
+"gruppe": "Planeten",
+"ereignisse": [
+{
+"d": "2012-01-25",
+"n": "Mars wird rückläufig",
+"t": "Planet",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2012-04-15",
+"n": "Mars wird direkt",
+"t": "Planet",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2014-03-02",
+"n": "Mars wird rückläufig",
+"t": "Planet",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2014-05-21",
+"n": "Mars wird direkt",
+"t": "Planet",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2016-04-18",
+"n": "Mars wird rückläufig",
+"t": "Planet",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2016-06-30",
+"n": "Mars wird direkt",
+"t": "Planet",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2018-06-27",
+"n": "Mars wird rückläufig",
+"t": "Planet",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2018-08-28",
+"n": "Mars wird direkt",
+"t": "Planet",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2020-09-10",
+"n": "Mars wird rückläufig",
+"t": "Planet",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2020-11-15",
+"n": "Mars wird direkt",
+"t": "Planet",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2022-10-31",
+"n": "Mars wird rückläufig",
+"t": "Planet",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2023-01-13",
+"n": "Mars wird direkt",
+"t": "Planet",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2024-12-07",
+"n": "Mars wird rückläufig",
+"t": "Planet",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2025-02-25",
+"n": "Mars wird direkt",
+"t": "Planet",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2027-01-11",
+"n": "Mars wird rückläufig",
+"t": "Planet",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2027-04-02",
+"n": "Mars wird direkt",
+"t": "Planet",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2029-02-15",
+"n": "Mars wird rückläufig",
+"t": "Planet",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2029-05-06",
+"n": "Mars wird direkt",
+"t": "Planet",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2031-03-30",
+"n": "Mars wird rückläufig",
+"t": "Planet",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2031-06-14",
+"n": "Mars wird direkt",
+"t": "Planet",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+}
+]
+}

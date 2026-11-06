@@ -1,0 +1,302 @@
+{
+"id": "fasten_ostern",
+"name": "Fastenzeit und Ostern",
+"rang": 207,
+"gruppe": "Religion und Tradition",
+"ereignisse": [
+{
+"d": "2011-03-09",
+"n": "Aschermittwoch",
+"t": "Christlich",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Easter"
+},
+{
+"d": "2011-04-24",
+"n": "Ostern",
+"t": "Christlich",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Easter"
+},
+{
+"d": "2012-02-22",
+"n": "Aschermittwoch",
+"t": "Christlich",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Easter"
+},
+{
+"d": "2012-04-08",
+"n": "Ostern",
+"t": "Christlich",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Easter"
+},
+{
+"d": "2013-02-13",
+"n": "Aschermittwoch",
+"t": "Christlich",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Easter"
+},
+{
+"d": "2013-03-31",
+"n": "Ostern",
+"t": "Christlich",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Easter"
+},
+{
+"d": "2014-03-05",
+"n": "Aschermittwoch",
+"t": "Christlich",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Easter"
+},
+{
+"d": "2014-04-20",
+"n": "Ostern",
+"t": "Christlich",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Easter"
+},
+{
+"d": "2015-02-18",
+"n": "Aschermittwoch",
+"t": "Christlich",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Easter"
+},
+{
+"d": "2015-04-05",
+"n": "Ostern",
+"t": "Christlich",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Easter"
+},
+{
+"d": "2016-02-10",
+"n": "Aschermittwoch",
+"t": "Christlich",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Easter"
+},
+{
+"d": "2016-03-27",
+"n": "Ostern",
+"t": "Christlich",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Easter"
+},
+{
+"d": "2017-03-01",
+"n": "Aschermittwoch",
+"t": "Christlich",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Easter"
+},
+{
+"d": "2017-04-16",
+"n": "Ostern",
+"t": "Christlich",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Easter"
+},
+{
+"d": "2018-02-14",
+"n": "Aschermittwoch",
+"t": "Christlich",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Easter"
+},
+{
+"d": "2018-04-01",
+"n": "Ostern",
+"t": "Christlich",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Easter"
+},
+{
+"d": "2019-03-06",
+"n": "Aschermittwoch",
+"t": "Christlich",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Easter"
+},
+{
+"d": "2019-04-21",
+"n": "Ostern",
+"t": "Christlich",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Easter"
+},
+{
+"d": "2020-02-26",
+"n": "Aschermittwoch",
+"t": "Christlich",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Easter"
+},
+{
+"d": "2020-04-12",
+"n": "Ostern",
+"t": "Christlich",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Easter"
+},
+{
+"d": "2021-02-17",
+"n": "Aschermittwoch",
+"t": "Christlich",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Easter"
+},
+{
+"d": "2021-04-04",
+"n": "Ostern",
+"t": "Christlich",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Easter"
+},
+{
+"d": "2022-03-02",
+"n": "Aschermittwoch",
+"t": "Christlich",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Easter"
+},
+{
+"d": "2022-04-17",
+"n": "Ostern",
+"t": "Christlich",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Easter"
+},
+{
+"d": "2023-02-22",
+"n": "Aschermittwoch",
+"t": "Christlich",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Easter"
+},
+{
+"d": "2023-04-09",
+"n": "Ostern",
+"t": "Christlich",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Easter"
+},
+{
+"d": "2024-02-14",
+"n": "Aschermittwoch",
+"t": "Christlich",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Easter"
+},
+{
+"d": "2024-03-31",
+"n": "Ostern",
+"t": "Christlich",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Easter"
+},
+{
+"d": "2025-03-05",
+"n": "Aschermittwoch",
+"t": "Christlich",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Easter"
+},
+{
+"d": "2025-04-20",
+"n": "Ostern",
+"t": "Christlich",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Easter"
+},
+{
+"d": "2026-02-18",
+"n": "Aschermittwoch",
+"t": "Christlich",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Easter"
+},
+{
+"d": "2026-04-05",
+"n": "Ostern",
+"t": "Christlich",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Easter"
+},
+{
+"d": "2027-02-10",
+"n": "Aschermittwoch",
+"t": "Christlich",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Easter"
+},
+{
+"d": "2027-03-28",
+"n": "Ostern",
+"t": "Christlich",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Easter"
+},
+{
+"d": "2028-03-01",
+"n": "Aschermittwoch",
+"t": "Christlich",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Easter"
+},
+{
+"d": "2028-04-16",
+"n": "Ostern",
+"t": "Christlich",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Easter"
+},
+{
+"d": "2029-02-14",
+"n": "Aschermittwoch",
+"t": "Christlich",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Easter"
+},
+{
+"d": "2029-04-01",
+"n": "Ostern",
+"t": "Christlich",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Easter"
+},
+{
+"d": "2030-03-06",
+"n": "Aschermittwoch",
+"t": "Christlich",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Easter"
+},
+{
+"d": "2030-04-21",
+"n": "Ostern",
+"t": "Christlich",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Easter"
+},
+{
+"d": "2031-02-26",
+"n": "Aschermittwoch",
+"t": "Christlich",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Easter"
+},
+{
+"d": "2031-04-13",
+"n": "Ostern",
+"t": "Christlich",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Easter"
+}
+]
+}

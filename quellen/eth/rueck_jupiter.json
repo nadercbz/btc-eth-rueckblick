@@ -1,0 +1,288 @@
+{
+"id": "rueck_jupiter",
+"name": "Jupiter rückläufig",
+"rang": 180,
+"gruppe": "Planeten",
+"ereignisse": [
+{
+"d": "2010-07-24",
+"n": "Jupiter wird rückläufig",
+"t": "Planet",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2010-11-19",
+"n": "Jupiter wird direkt",
+"t": "Planet",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2011-08-31",
+"n": "Jupiter wird rückläufig",
+"t": "Planet",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2011-12-26",
+"n": "Jupiter wird direkt",
+"t": "Planet",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2012-10-05",
+"n": "Jupiter wird rückläufig",
+"t": "Planet",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2013-01-31",
+"n": "Jupiter wird direkt",
+"t": "Planet",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2013-11-08",
+"n": "Jupiter wird rückläufig",
+"t": "Planet",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2014-03-07",
+"n": "Jupiter wird direkt",
+"t": "Planet",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2014-12-09",
+"n": "Jupiter wird rückläufig",
+"t": "Planet",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2015-04-09",
+"n": "Jupiter wird direkt",
+"t": "Planet",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2016-01-09",
+"n": "Jupiter wird rückläufig",
+"t": "Planet",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2016-05-10",
+"n": "Jupiter wird direkt",
+"t": "Planet",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2017-02-07",
+"n": "Jupiter wird rückläufig",
+"t": "Planet",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2017-06-10",
+"n": "Jupiter wird direkt",
+"t": "Planet",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2018-03-10",
+"n": "Jupiter wird rückläufig",
+"t": "Planet",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2018-07-11",
+"n": "Jupiter wird direkt",
+"t": "Planet",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2019-04-11",
+"n": "Jupiter wird rückläufig",
+"t": "Planet",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2019-08-12",
+"n": "Jupiter wird direkt",
+"t": "Planet",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2020-05-15",
+"n": "Jupiter wird rückläufig",
+"t": "Planet",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2020-09-14",
+"n": "Jupiter wird direkt",
+"t": "Planet",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2021-06-21",
+"n": "Jupiter wird rückläufig",
+"t": "Planet",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2021-10-19",
+"n": "Jupiter wird direkt",
+"t": "Planet",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2022-07-29",
+"n": "Jupiter wird rückläufig",
+"t": "Planet",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2022-11-24",
+"n": "Jupiter wird direkt",
+"t": "Planet",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2023-09-05",
+"n": "Jupiter wird rückläufig",
+"t": "Planet",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2024-01-01",
+"n": "Jupiter wird direkt",
+"t": "Planet",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2024-10-10",
+"n": "Jupiter wird rückläufig",
+"t": "Planet",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2025-02-05",
+"n": "Jupiter wird direkt",
+"t": "Planet",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2025-11-12",
+"n": "Jupiter wird rückläufig",
+"t": "Planet",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2026-03-12",
+"n": "Jupiter wird direkt",
+"t": "Planet",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2026-12-14",
+"n": "Jupiter wird rückläufig",
+"t": "Planet",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2027-04-14",
+"n": "Jupiter wird direkt",
+"t": "Planet",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2028-01-13",
+"n": "Jupiter wird rückläufig",
+"t": "Planet",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2028-05-14",
+"n": "Jupiter wird direkt",
+"t": "Planet",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2029-02-11",
+"n": "Jupiter wird rückläufig",
+"t": "Planet",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2029-06-14",
+"n": "Jupiter wird direkt",
+"t": "Planet",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2030-03-14",
+"n": "Jupiter wird rückläufig",
+"t": "Planet",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2030-07-16",
+"n": "Jupiter wird direkt",
+"t": "Planet",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2031-04-16",
+"n": "Jupiter wird rückläufig",
+"t": "Planet",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2031-08-17",
+"n": "Jupiter wird direkt",
+"t": "Planet",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+}
+]
+}

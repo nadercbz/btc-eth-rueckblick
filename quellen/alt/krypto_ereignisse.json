@@ -1,0 +1,340 @@
+{
+ "ereignisse": [
+  {
+   "d": "2010-08-15",
+   "n": "Bitcoin Überlauf Fehler, Behebung per Softfork",
+   "t": "Upgrade",
+   "k": "open",
+   "quelle": "https://en.wikipedia.org/wiki/History_of_bitcoin"
+  },
+  {
+   "d": "2011-06-19",
+   "n": "Mt. Gox gehackt, Handel tagelang gestoppt",
+   "t": "Hack",
+   "k": "down",
+   "quelle": "https://en.wikipedia.org/wiki/Mt._Gox"
+  },
+  {
+   "d": "2013-03-12",
+   "n": "Bitcoin Netz spaltet sich, Version 0.8 gegen 0.7",
+   "t": "Upgrade",
+   "k": "open",
+   "quelle": "https://en.wikipedia.org/wiki/History_of_bitcoin"
+  },
+  {
+   "d": "2014-01-09",
+   "n": "Overstock akzeptiert als erster großer Händler Bitcoin",
+   "t": "Firmen",
+   "k": "up",
+   "quelle": "https://en.wikipedia.org/wiki/Overstock.com"
+  },
+  {
+   "d": "2014-02-07",
+   "n": "Mt. Gox stoppt Auszahlungen",
+   "t": "Pleite",
+   "k": "down",
+   "quelle": "https://en.wikipedia.org/wiki/Mt._Gox"
+  },
+  {
+   "d": "2014-02-24",
+   "n": "Mt. Gox legt den Handel still, Website offline",
+   "t": "Pleite",
+   "k": "down",
+   "quelle": "https://en.wikipedia.org/wiki/Mt._Gox"
+  },
+  {
+   "d": "2014-02-28",
+   "n": "Mt. Gox beantragt Insolvenz in Tokio",
+   "t": "Pleite",
+   "k": "down",
+   "quelle": "https://en.wikipedia.org/wiki/Mt._Gox"
+  },
+  {
+   "d": "2014-06-11",
+   "n": "Expedia akzeptiert Bitcoin",
+   "t": "Firmen",
+   "k": "up",
+   "quelle": "https://en.wikipedia.org/wiki/Expedia_Group"
+  },
+  {
+   "d": "2014-07-18",
+   "n": "Dell akzeptiert Bitcoin",
+   "t": "Firmen",
+   "k": "up",
+   "quelle": "https://en.wikipedia.org/wiki/Dell"
+  },
+  {
+   "d": "2014-09-23",
+   "n": "PayPal öffnet sich für Bitcoin Zahlungen von Händlern",
+   "t": "Firmen",
+   "k": "up",
+   "quelle": "https://en.wikipedia.org/wiki/PayPal"
+  },
+  {
+   "d": "2014-12-11",
+   "n": "Microsoft akzeptiert Bitcoin im Store",
+   "t": "Firmen",
+   "k": "up",
+   "quelle": "https://en.wikipedia.org/wiki/History_of_bitcoin"
+  },
+  {
+   "d": "2015-07-30",
+   "n": "Ethereum startet mit dem Frontier Netz",
+   "t": "Upgrade",
+   "k": "open",
+   "quelle": "https://en.wikipedia.org/wiki/Ethereum"
+  },
+  {
+   "d": "2016-06-17",
+   "n": "The DAO gehackt, rund 3,6 Mio ETH abgezogen",
+   "t": "Hack",
+   "k": "down",
+   "quelle": "https://en.wikipedia.org/wiki/The_DAO"
+  },
+  {
+   "d": "2016-07-20",
+   "n": "Ethereum Hardfork nach dem DAO Hack, Spaltung in ETH und ETC",
+   "t": "Upgrade",
+   "k": "open",
+   "quelle": "https://en.wikipedia.org/wiki/Ethereum_Classic"
+  },
+  {
+   "d": "2016-08-02",
+   "n": "Bitfinex gehackt, rund 120.000 Bitcoin gestohlen",
+   "t": "Hack",
+   "k": "down",
+   "quelle": "https://en.wikipedia.org/wiki/Bitfinex"
+  },
+  {
+   "d": "2017-08-01",
+   "n": "Bitcoin Cash spaltet sich von Bitcoin ab",
+   "t": "Upgrade",
+   "k": "open",
+   "quelle": "https://en.wikipedia.org/wiki/Bitcoin_Cash"
+  },
+  {
+   "d": "2017-08-24",
+   "n": "SegWit wird im Bitcoin Netz aktiviert",
+   "t": "Upgrade",
+   "k": "open",
+   "quelle": "https://en.wikipedia.org/wiki/SegWit"
+  },
+  {
+   "d": "2017-10-16",
+   "n": "Ethereum Byzantium Hardfork",
+   "t": "Upgrade",
+   "k": "open",
+   "quelle": "https://en.wikipedia.org/wiki/Ethereum"
+  },
+  {
+   "d": "2017-10-24",
+   "n": "Bitcoin Gold spaltet sich von Bitcoin ab",
+   "t": "Upgrade",
+   "k": "open",
+   "quelle": "https://en.wikipedia.org/wiki/Bitcoin_Gold"
+  },
+  {
+   "d": "2017-11-06",
+   "n": "Parity Wallet Fehler friert rund 513.000 ETH ein",
+   "t": "Hack",
+   "k": "down",
+   "quelle": "https://en.wikipedia.org/wiki/Ethereum"
+  },
+  {
+   "d": "2017-12-06",
+   "n": "NiceHash gehackt, rund 4.700 Bitcoin gestohlen",
+   "t": "Hack",
+   "k": "down",
+   "quelle": "https://en.wikipedia.org/wiki/NiceHash"
+  },
+  {
+   "d": "2017-12-10",
+   "n": "Cboe startet als erste große Börse Bitcoin Futures",
+   "t": "Firmen",
+   "k": "up",
+   "quelle": "https://en.wikipedia.org/wiki/Cboe_Global_Markets"
+  },
+  {
+   "d": "2017-12-18",
+   "n": "CME startet Bitcoin Futures",
+   "t": "Firmen",
+   "k": "up",
+   "quelle": "https://en.wikipedia.org/wiki/CME_Group"
+  },
+  {
+   "d": "2018-01-26",
+   "n": "Coincheck gehackt, NEM im Wert von rund 523 Mio Dollar",
+   "t": "Hack",
+   "k": "down",
+   "quelle": "https://en.wikipedia.org/wiki/Coincheck"
+  },
+  {
+   "d": "2018-02-08",
+   "n": "BitGrail verliert 17 Mio Nano",
+   "t": "Hack",
+   "k": "down",
+   "quelle": "https://en.wikipedia.org/wiki/Nano_(cryptocurrency)"
+  },
+  {
+   "d": "2018-09-14",
+   "n": "Zaif Börse gehackt, rund 60 Mio Dollar",
+   "t": "Hack",
+   "k": "down",
+   "quelle": "https://en.wikipedia.org/wiki/Cryptocurrency_and_security"
+  },
+  {
+   "d": "2018-10-15",
+   "n": "Fidelity gründet Fidelity Digital Assets",
+   "t": "Firmen",
+   "k": "up",
+   "quelle": "https://en.wikipedia.org/wiki/Fidelity_Investments"
+  },
+  {
+   "d": "2018-11-15",
+   "n": "Bitcoin Cash spaltet sich in ABC und SV",
+   "t": "Upgrade",
+   "k": "open",
+   "quelle": "https://en.wikipedia.org/wiki/Bitcoin_Cash"
+  },
+  {
+   "d": "2019-02-05",
+   "n": "QuadrigaCX unter Gläubigerschutz, Kunden Coins verloren",
+   "t": "Pleite",
+   "k": "down",
+   "quelle": "https://en.wikipedia.org/wiki/QuadrigaCX"
+  },
+  {
+   "d": "2019-02-28",
+   "n": "Ethereum Constantinople und Petersburg Hardfork",
+   "t": "Upgrade",
+   "k": "open",
+   "quelle": "https://en.wikipedia.org/wiki/Ethereum"
+  },
+  {
+   "d": "2019-09-23",
+   "n": "Bakkt startet physisch gedeckte Bitcoin Futures",
+   "t": "Firmen",
+   "k": "up",
+   "quelle": "https://en.wikipedia.org/wiki/Bakkt"
+  },
+  {
+   "d": "2019-12-08",
+   "n": "Ethereum Istanbul Hardfork",
+   "t": "Upgrade",
+   "k": "open",
+   "quelle": "https://en.wikipedia.org/wiki/Ethereum"
+  },
+  {
+   "d": "2020-01-13",
+   "n": "CME startet Optionen auf Bitcoin Futures",
+   "t": "Firmen",
+   "k": "up",
+   "quelle": "https://en.wikipedia.org/wiki/CME_Group"
+  },
+  {
+   "d": "2020-08-11",
+   "n": "MicroStrategy kauft Bitcoin für die Firmenkasse",
+   "t": "Firmen",
+   "k": "up",
+   "quelle": "https://en.wikipedia.org/wiki/MicroStrategy"
+  },
+  {
+   "d": "2020-09-25",
+   "n": "KuCoin gehackt, rund 280 Mio Dollar",
+   "t": "Hack",
+   "k": "down",
+   "quelle": "https://en.wikipedia.org/wiki/KuCoin"
+  },
+  {
+   "d": "2020-10-08",
+   "n": "Square kauft 4.709 Bitcoin",
+   "t": "Firmen",
+   "k": "up",
+   "quelle": "https://en.wikipedia.org/wiki/Block,_Inc."
+  },
+  {
+   "d": "2020-10-21",
+   "n": "PayPal startet Kauf und Verkauf von Krypto",
+   "t": "Firmen",
+   "k": "up",
+   "quelle": "https://en.wikipedia.org/wiki/PayPal"
+  },
+  {
+   "d": "2020-12-01",
+   "n": "Ethereum Beacon Chain startet",
+   "t": "Upgrade",
+   "k": "open",
+   "quelle": "https://en.wikipedia.org/wiki/Ethereum"
+  },
+  {
+   "d": "2021-02-08",
+   "n": "Tesla kauft Bitcoin für die Firmenkasse",
+   "t": "Firmen",
+   "k": "up",
+   "quelle": "https://en.wikipedia.org/wiki/Tesla,_Inc."
+  },
+  {
+   "d": "2021-02-18",
+   "n": "Purpose startet den ersten Spot Bitcoin ETF",
+   "t": "ETF",
+   "k": "up",
+   "quelle": "https://en.wikipedia.org/wiki/Exchange-traded_fund"
+  },
+  {
+   "d": "2021-03-24",
+   "n": "Tesla akzeptiert Bitcoin für Autokäufe",
+   "t": "Firmen",
+   "k": "up",
+   "quelle": "https://en.wikipedia.org/wiki/Tesla,_Inc."
+  },
+  {
+   "d": "2021-04-14",
+   "n": "Coinbase geht an die Börse",
+   "t": "Firmen",
+   "k": "up",
+   "quelle": "https://en.wikipedia.org/wiki/Coinbase"
+  },
+  {
+   "d": "2021-04-21",
+   "n": "Thodex Börse bricht zusammen, Gründer flieht",
+   "t": "Pleite",
+   "k": "down",
+   "quelle": "https://en.wikipedia.org/wiki/Thodex"
+  },
+  {
+   "d": "2021-08-05",
+   "n": "Ethereum London Hardfork mit EIP 1559",
+   "t": "Upgrade",
+   "k": "open",
+   "quelle": "https://en.wikipedia.org/wiki/Ethereum"
+  },
+  {
+   "d": "2021-08-10",
+   "n": "Poly Network gehackt, rund 610 Mio Dollar",
+   "t": "Hack",
+   "k": "down",
+   "quelle": "https://en.wikipedia.org/wiki/Poly_Network_exploit"
+  },
+  {
+   "d": "2021-10-19",
+   "n": "ProShares startet den ersten Bitcoin Futures ETF der USA",
+   "t": "ETF",
+   "k": "up",
+   "quelle": "https://en.wikipedia.org/wiki/ProShares"
+  },
+  {
+   "d": "2021-11-14",
+   "n": "Bitcoin Taproot Upgrade wird aktiviert",
+   "t": "Upgrade",
+   "k": "open",
+   "quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+  },
+  {
+   "d": "2021-12-04",
+   "n": "BitMart gehackt, rund 196 Mio Dollar",
+   "t": "Hack",
+   "k": "down",
+   "quelle": "https://rekt.news/bitmart-rekt/"
+  }
+ ]
+}

@@ -1,0 +1,197 @@
+{
+"id": "zeichen_jupiter",
+"name": "Jupiter wechselt das Zeichen",
+"rang": 181,
+"gruppe": "Planeten",
+"ereignisse": [
+{
+"d": "2010-06-06",
+"n": "Jupiter geht in Widder",
+"t": "Planet",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2010-09-09",
+"n": "Jupiter geht in Fische",
+"t": "Planet",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2011-01-23",
+"n": "Jupiter geht in Widder",
+"t": "Planet",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2011-06-05",
+"n": "Jupiter geht in Stier",
+"t": "Planet",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2012-06-12",
+"n": "Jupiter geht in Zwillinge",
+"t": "Planet",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2013-06-26",
+"n": "Jupiter geht in Krebs",
+"t": "Planet",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2014-07-16",
+"n": "Jupiter geht in Löwe",
+"t": "Planet",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2015-08-11",
+"n": "Jupiter geht in Jungfrau",
+"t": "Planet",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2016-09-09",
+"n": "Jupiter geht in Waage",
+"t": "Planet",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2017-10-11",
+"n": "Jupiter geht in Skorpion",
+"t": "Planet",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2018-11-08",
+"n": "Jupiter geht in Schütze",
+"t": "Planet",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2019-12-03",
+"n": "Jupiter geht in Steinbock",
+"t": "Planet",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2020-12-20",
+"n": "Jupiter geht in Wassermann",
+"t": "Planet",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2021-05-14",
+"n": "Jupiter geht in Fische",
+"t": "Planet",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2021-07-29",
+"n": "Jupiter geht in Wassermann",
+"t": "Planet",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2021-12-29",
+"n": "Jupiter geht in Fische",
+"t": "Planet",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2022-05-11",
+"n": "Jupiter geht in Widder",
+"t": "Planet",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2022-10-28",
+"n": "Jupiter geht in Fische",
+"t": "Planet",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2022-12-21",
+"n": "Jupiter geht in Widder",
+"t": "Planet",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2023-05-17",
+"n": "Jupiter geht in Stier",
+"t": "Planet",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2024-05-26",
+"n": "Jupiter geht in Zwillinge",
+"t": "Planet",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2025-06-10",
+"n": "Jupiter geht in Krebs",
+"t": "Planet",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2026-06-30",
+"n": "Jupiter geht in Löwe",
+"t": "Planet",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2027-07-26",
+"n": "Jupiter geht in Jungfrau",
+"t": "Planet",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2028-08-24",
+"n": "Jupiter geht in Waage",
+"t": "Planet",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2029-09-24",
+"n": "Jupiter geht in Skorpion",
+"t": "Planet",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2030-10-23",
+"n": "Jupiter geht in Schütze",
+"t": "Planet",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+}
+]
+}

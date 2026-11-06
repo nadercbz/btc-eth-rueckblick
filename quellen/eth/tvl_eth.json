@@ -1,0 +1,736 @@
+{
+"id": "tvl_eth",
+"name": "Ethereum TVL",
+"rang": 40,
+"gleichlauf": 39.5,
+"ereignisse": [
+{
+"d": "2018-04-01",
+"n": "TVL fällt 24,0 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "down",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2018-05-01",
+"n": "TVL steigt 142,4 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "up",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2018-06-01",
+"n": "TVL steigt 7,7 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "up",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2018-07-01",
+"n": "TVL fällt 26,0 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "down",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2018-08-01",
+"n": "TVL fällt 9,9 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "down",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2018-09-01",
+"n": "TVL fällt 15,6 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "down",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2018-10-01",
+"n": "TVL fällt 13,2 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "down",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2018-11-01",
+"n": "TVL steigt 22,5 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "up",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2018-12-01",
+"n": "TVL fällt 36,9 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "down",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2019-01-01",
+"n": "TVL fällt 4,4 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "down",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2019-02-01",
+"n": "TVL steigt 2280,6 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "up",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2019-03-01",
+"n": "TVL steigt 46,2 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "up",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2019-04-01",
+"n": "TVL steigt 0,1 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "up",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2019-05-01",
+"n": "TVL steigt 12,7 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "up",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2019-06-01",
+"n": "TVL steigt 37,7 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "up",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2019-07-01",
+"n": "TVL steigt 12,4 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "up",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2019-08-01",
+"n": "TVL fällt 25,1 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "down",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2019-09-01",
+"n": "TVL steigt 4,4 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "up",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2019-10-01",
+"n": "TVL steigt 6,7 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "up",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2019-11-01",
+"n": "TVL steigt 24,0 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "up",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2019-12-01",
+"n": "TVL steigt 9,2 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "up",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2020-01-01",
+"n": "TVL fällt 3,6 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "down",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2020-02-01",
+"n": "TVL steigt 23,5 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "up",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2020-03-01",
+"n": "TVL steigt 21,5 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "up",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2020-04-01",
+"n": "TVL fällt 40,0 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "down",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2020-05-01",
+"n": "TVL steigt 36,8 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "up",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2020-06-01",
+"n": "TVL steigt 16,6 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "up",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2020-07-01",
+"n": "TVL steigt 95,0 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "up",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2020-08-01",
+"n": "TVL steigt 96,8 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "up",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2020-09-01",
+"n": "TVL steigt 107,1 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "up",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2020-10-01",
+"n": "TVL steigt 38,1 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "up",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2020-11-01",
+"n": "TVL fällt 0,9 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "down",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2020-12-01",
+"n": "TVL steigt 19,9 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "up",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2021-01-01",
+"n": "TVL steigt 24,3 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "up",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2021-02-01",
+"n": "TVL steigt 66,7 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "up",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2021-03-01",
+"n": "TVL steigt 54,9 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "up",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2021-04-01",
+"n": "TVL steigt 22,0 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "up",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2021-05-01",
+"n": "TVL steigt 48,0 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "up",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2021-06-01",
+"n": "TVL fällt 10,0 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "down",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2021-07-01",
+"n": "TVL fällt 9,8 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "down",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2021-08-01",
+"n": "TVL steigt 15,8 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "up",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2021-09-01",
+"n": "TVL steigt 25,6 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "up",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2021-10-01",
+"n": "TVL fällt 4,5 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "down",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2021-11-01",
+"n": "TVL steigt 28,8 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "up",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2021-12-01",
+"n": "TVL steigt 5,2 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "up",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2022-01-01",
+"n": "TVL fällt 5,2 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "down",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2022-02-01",
+"n": "TVL fällt 26,3 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "down",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2022-03-01",
+"n": "TVL fällt 0,9 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "down",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2022-04-01",
+"n": "TVL steigt 12,8 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "up",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2022-05-01",
+"n": "TVL fällt 10,3 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "down",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2022-06-01",
+"n": "TVL fällt 36,7 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "down",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2022-07-01",
+"n": "TVL fällt 31,5 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "down",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2022-08-01",
+"n": "TVL steigt 11,3 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "up",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2022-09-01",
+"n": "TVL fällt 6,0 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "down",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2022-10-01",
+"n": "TVL fällt 9,1 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "down",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2022-11-01",
+"n": "TVL steigt 4,4 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "up",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2022-12-01",
+"n": "TVL fällt 25,0 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "down",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2023-01-01",
+"n": "TVL fällt 1,8 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "down",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2023-02-01",
+"n": "TVL steigt 21,5 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "up",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2023-03-01",
+"n": "TVL steigt 4,9 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "up",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2023-04-01",
+"n": "TVL fällt 0,1 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "down",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2023-05-01",
+"n": "TVL fällt 0,6 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "down",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2023-06-01",
+"n": "TVL fällt 3,8 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "down",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2023-07-01",
+"n": "TVL fällt 3,2 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "down",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2023-08-01",
+"n": "TVL fällt 5,0 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "down",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2023-09-01",
+"n": "TVL fällt 9,4 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "down",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2023-10-01",
+"n": "TVL fällt 5,7 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "down",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2023-11-01",
+"n": "TVL steigt 7,5 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "up",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2023-12-01",
+"n": "TVL steigt 13,9 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "up",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2024-01-01",
+"n": "TVL steigt 11,1 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "up",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2024-02-01",
+"n": "TVL steigt 3,2 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "up",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2024-03-01",
+"n": "TVL steigt 49,3 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "up",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2024-04-01",
+"n": "TVL steigt 17,2 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "up",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2024-05-01",
+"n": "TVL fällt 1,5 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "down",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2024-06-01",
+"n": "TVL steigt 18,0 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "up",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2024-07-01",
+"n": "TVL fällt 8,4 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "down",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2024-08-01",
+"n": "TVL fällt 2,1 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "down",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2024-09-01",
+"n": "TVL fällt 15,7 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "down",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2024-10-01",
+"n": "TVL steigt 5,6 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "up",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2024-11-01",
+"n": "TVL fällt 4,0 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "down",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2024-12-01",
+"n": "TVL steigt 37,6 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "up",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2025-01-01",
+"n": "TVL steigt 3,1 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "up",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2025-02-01",
+"n": "TVL fällt 1,2 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "down",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2025-03-01",
+"n": "TVL fällt 14,5 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "down",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2025-04-01",
+"n": "TVL fällt 9,2 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "down",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2025-05-01",
+"n": "TVL fällt 2,8 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "down",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2025-06-01",
+"n": "TVL steigt 23,5 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "up",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2025-07-01",
+"n": "TVL fällt 1,7 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "down",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2025-08-01",
+"n": "TVL steigt 36,9 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "up",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2025-09-01",
+"n": "TVL steigt 11,2 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "up",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2025-10-01",
+"n": "TVL fällt 6,6 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "down",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2025-11-01",
+"n": "TVL fällt 1,4 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "down",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2025-12-01",
+"n": "TVL fällt 21,3 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "down",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2026-01-01",
+"n": "TVL fällt 0,1 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "down",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2026-02-01",
+"n": "TVL steigt 1,3 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "up",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2026-03-01",
+"n": "TVL fällt 24,1 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "down",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2026-04-01",
+"n": "TVL steigt 0,4 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "up",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2026-05-01",
+"n": "TVL fällt 14,6 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "down",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2026-06-01",
+"n": "TVL fällt 6,8 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "down",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2026-07-01",
+"n": "TVL fällt 13,2 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "down",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2026-08-01",
+"n": "TVL steigt 12,5 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "up",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2026-09-01",
+"n": "TVL steigt 17,8 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "up",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2026-10-01",
+"n": "TVL steigt 8,8 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "up",
+"quelle": "https://defillama.com/chain/Ethereum"
+},
+{
+"d": "2026-11-01",
+"n": "TVL fällt 10,3 % in 30 Tagen",
+"t": "Ethereum TVL",
+"k": "down",
+"quelle": "https://defillama.com/chain/Ethereum"
+}
+]
+}

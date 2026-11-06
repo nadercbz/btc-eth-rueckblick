@@ -1,0 +1,120 @@
+{
+"id": "super_bowl",
+"name": "Super Bowl Indikator",
+"rang": 199,
+"gruppe": "Kalender",
+"ereignisse": [
+{
+"d": "2011-02-06",
+"n": "Super Bowl, NFC gewinnt",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Super_Bowl_indicator"
+},
+{
+"d": "2012-02-05",
+"n": "Super Bowl, NFC gewinnt",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Super_Bowl_indicator"
+},
+{
+"d": "2013-02-03",
+"n": "Super Bowl, AFC gewinnt",
+"t": "Kalender",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Super_Bowl_indicator"
+},
+{
+"d": "2014-02-02",
+"n": "Super Bowl, NFC gewinnt",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Super_Bowl_indicator"
+},
+{
+"d": "2015-02-01",
+"n": "Super Bowl, AFC gewinnt",
+"t": "Kalender",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Super_Bowl_indicator"
+},
+{
+"d": "2016-02-07",
+"n": "Super Bowl, AFC gewinnt",
+"t": "Kalender",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Super_Bowl_indicator"
+},
+{
+"d": "2017-02-05",
+"n": "Super Bowl, AFC gewinnt",
+"t": "Kalender",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Super_Bowl_indicator"
+},
+{
+"d": "2018-02-04",
+"n": "Super Bowl, NFC gewinnt",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Super_Bowl_indicator"
+},
+{
+"d": "2019-02-03",
+"n": "Super Bowl, AFC gewinnt",
+"t": "Kalender",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Super_Bowl_indicator"
+},
+{
+"d": "2020-02-02",
+"n": "Super Bowl, AFC gewinnt",
+"t": "Kalender",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Super_Bowl_indicator"
+},
+{
+"d": "2021-02-07",
+"n": "Super Bowl, NFC gewinnt",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Super_Bowl_indicator"
+},
+{
+"d": "2022-02-13",
+"n": "Super Bowl, NFC gewinnt",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Super_Bowl_indicator"
+},
+{
+"d": "2023-02-12",
+"n": "Super Bowl, AFC gewinnt",
+"t": "Kalender",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Super_Bowl_indicator"
+},
+{
+"d": "2024-02-11",
+"n": "Super Bowl, AFC gewinnt",
+"t": "Kalender",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Super_Bowl_indicator"
+},
+{
+"d": "2025-02-09",
+"n": "Super Bowl, NFC gewinnt",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Super_Bowl_indicator"
+},
+{
+"d": "2026-02-08",
+"n": "Super Bowl, NFC gewinnt",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Super_Bowl_indicator"
+}
+]
+}

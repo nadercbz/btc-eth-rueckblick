@@ -1,0 +1,2730 @@
+{
+"id": "wirtschaft",
+"name": "Wirtschaft",
+"rang": 1,
+"ereignisse": [
+{
+"d": "2010-06-08",
+"n": "Arbeitslosigkeit sinkt auf 9,6 % (Mai)",
+"t": "Arbeitsmarkt",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2010-06-15",
+"n": "Inflation sinkt auf 2,0 % (Mai)",
+"t": "Inflation",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2010-07-08",
+"n": "Arbeitslosigkeit sinkt auf 9,4 % (Juni)",
+"t": "Arbeitsmarkt",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2010-07-15",
+"n": "Inflation sinkt auf 1,1 % (Juni)",
+"t": "Inflation",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2010-08-15",
+"n": "Inflation steigt auf 1,2 % (Juli)",
+"t": "Inflation",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2010-08-20",
+"n": "Ökonomen senken Wachstumsprognose (2,9 auf 2,7 %)",
+"t": "Prognosen",
+"k": "down",
+"quelle": "https://www.philadelphiafed.org/surveys-and-data/real-time-data-research/survey-of-professional-forecasters"
+},
+{
+"d": "2010-09-08",
+"n": "Arbeitslosigkeit steigt auf 9,5 % (August)",
+"t": "Arbeitsmarkt",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2010-09-15",
+"n": "Inflation sinkt auf 1,1 % (August)",
+"t": "Inflation",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2010-11-08",
+"n": "Arbeitslosigkeit sinkt auf 9,4 % (Oktober)",
+"t": "Arbeitsmarkt",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2010-11-15",
+"n": "Inflation steigt auf 1,2 % (Oktober)",
+"t": "Inflation",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2010-12-08",
+"n": "Arbeitslosigkeit steigt auf 9,8 % (November)",
+"t": "Arbeitsmarkt",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2010-12-15",
+"n": "Inflation sinkt auf 1,1 % (November)",
+"t": "Inflation",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2011-01-08",
+"n": "Arbeitslosigkeit sinkt auf 9,3 % (Dezember)",
+"t": "Arbeitsmarkt",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2011-01-15",
+"n": "Inflation steigt auf 1,5 % (Dezember)",
+"t": "Inflation",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2011-02-08",
+"n": "Arbeitslosigkeit sinkt auf 9,1 % (Januar)",
+"t": "Arbeitsmarkt",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2011-02-15",
+"n": "Inflation steigt auf 1,6 % (Januar)",
+"t": "Inflation",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2011-02-20",
+"n": "Ökonomen heben Wachstumsprognose (3,0 auf 3,3 %)",
+"t": "Prognosen",
+"k": "up",
+"quelle": "https://www.philadelphiafed.org/surveys-and-data/real-time-data-research/survey-of-professional-forecasters"
+},
+{
+"d": "2011-03-08",
+"n": "Arbeitslosigkeit sinkt auf 9,0 % (Februar)",
+"t": "Arbeitsmarkt",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2011-03-15",
+"n": "Inflation steigt auf 2,1 % (Februar)",
+"t": "Inflation",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2011-04-15",
+"n": "Inflation steigt auf 2,7 % (März)",
+"t": "Inflation",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2011-05-08",
+"n": "Arbeitslosigkeit steigt auf 9,1 % (April)",
+"t": "Arbeitsmarkt",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2011-05-15",
+"n": "Inflation steigt auf 3,2 % (April)",
+"t": "Inflation",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2011-06-08",
+"n": "Arbeitslosigkeit sinkt auf 9,0 % (Mai)",
+"t": "Arbeitsmarkt",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2011-06-15",
+"n": "Inflation steigt auf 3,6 % (Mai)",
+"t": "Inflation",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2011-07-08",
+"n": "Arbeitslosigkeit steigt auf 9,1 % (Juni)",
+"t": "Arbeitsmarkt",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2011-08-08",
+"n": "Arbeitslosigkeit sinkt auf 9,0 % (Juli)",
+"t": "Arbeitsmarkt",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2011-08-20",
+"n": "Ökonomen senken Wachstumsprognose (2,9 auf 2,6 %)",
+"t": "Prognosen",
+"k": "down",
+"quelle": "https://www.philadelphiafed.org/surveys-and-data/real-time-data-research/survey-of-professional-forecasters"
+},
+{
+"d": "2011-09-15",
+"n": "Inflation steigt auf 3,8 % (August)",
+"t": "Inflation",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2011-10-15",
+"n": "Inflation steigt auf 3,9 % (September)",
+"t": "Inflation",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2011-11-08",
+"n": "Arbeitslosigkeit sinkt auf 8,8 % (Oktober)",
+"t": "Arbeitsmarkt",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2011-11-15",
+"n": "Inflation sinkt auf 3,5 % (Oktober)",
+"t": "Inflation",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2011-11-20",
+"n": "Ökonomen senken Wachstumsprognose (2,8 auf 2,5 %)",
+"t": "Prognosen",
+"k": "down",
+"quelle": "https://www.philadelphiafed.org/surveys-and-data/real-time-data-research/survey-of-professional-forecasters"
+},
+{
+"d": "2011-12-08",
+"n": "Arbeitslosigkeit sinkt auf 8,6 % (November)",
+"t": "Arbeitsmarkt",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2011-12-15",
+"n": "Inflation sinkt auf 3,4 % (November)",
+"t": "Inflation",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2012-01-08",
+"n": "Arbeitslosigkeit sinkt auf 8,5 % (Dezember)",
+"t": "Arbeitsmarkt",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2012-01-15",
+"n": "Inflation sinkt auf 3,0 % (Dezember)",
+"t": "Inflation",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2012-02-08",
+"n": "Arbeitslosigkeit sinkt auf 8,3 % (Januar)",
+"t": "Arbeitsmarkt",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2012-02-15",
+"n": "Inflation sinkt auf 2,9 % (Januar)",
+"t": "Inflation",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2012-04-08",
+"n": "Arbeitslosigkeit sinkt auf 8,2 % (März)",
+"t": "Arbeitsmarkt",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2012-04-15",
+"n": "Inflation sinkt auf 2,7 % (März)",
+"t": "Inflation",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2012-05-15",
+"n": "Inflation sinkt auf 2,3 % (April)",
+"t": "Inflation",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2012-05-20",
+"n": "Ökonomen senken Wachstumsprognose (2,8 auf 2,6 %)",
+"t": "Prognosen",
+"k": "down",
+"quelle": "https://www.philadelphiafed.org/surveys-and-data/real-time-data-research/survey-of-professional-forecasters"
+},
+{
+"d": "2012-06-15",
+"n": "Inflation sinkt auf 1,7 % (Mai)",
+"t": "Inflation",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2012-08-15",
+"n": "Inflation sinkt auf 1,4 % (Juli)",
+"t": "Inflation",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2012-08-20",
+"n": "Ökonomen senken Wachstumsprognose (2,6 auf 2,1 %)",
+"t": "Prognosen",
+"k": "down",
+"quelle": "https://www.philadelphiafed.org/surveys-and-data/real-time-data-research/survey-of-professional-forecasters"
+},
+{
+"d": "2012-09-08",
+"n": "Arbeitslosigkeit sinkt auf 8,1 % (August)",
+"t": "Arbeitsmarkt",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2012-09-15",
+"n": "Inflation steigt auf 1,7 % (August)",
+"t": "Inflation",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2012-10-08",
+"n": "Arbeitslosigkeit sinkt auf 7,8 % (September)",
+"t": "Arbeitsmarkt",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2012-10-15",
+"n": "Inflation steigt auf 2,0 % (September)",
+"t": "Inflation",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2012-11-15",
+"n": "Inflation steigt auf 2,2 % (Oktober)",
+"t": "Inflation",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2012-12-08",
+"n": "Arbeitslosigkeit sinkt auf 7,7 % (November)",
+"t": "Arbeitsmarkt",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2012-12-15",
+"n": "Inflation sinkt auf 1,8 % (November)",
+"t": "Inflation",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2013-01-08",
+"n": "Arbeitslosigkeit steigt auf 7,9 % (Dezember)",
+"t": "Arbeitsmarkt",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2013-01-15",
+"n": "Inflation sinkt auf 1,7 % (Dezember)",
+"t": "Inflation",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2013-02-08",
+"n": "Arbeitslosigkeit steigt auf 8,0 % (Januar)",
+"t": "Arbeitsmarkt",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2013-02-15",
+"n": "Inflation sinkt auf 1,6 % (Januar)",
+"t": "Inflation",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2013-03-08",
+"n": "Arbeitslosigkeit sinkt auf 7,7 % (Februar)",
+"t": "Arbeitsmarkt",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2013-03-15",
+"n": "Inflation steigt auf 2,0 % (Februar)",
+"t": "Inflation",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2013-04-08",
+"n": "Arbeitslosigkeit sinkt auf 7,5 % (März)",
+"t": "Arbeitsmarkt",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2013-04-15",
+"n": "Inflation sinkt auf 1,5 % (März)",
+"t": "Inflation",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2013-05-08",
+"n": "Arbeitslosigkeit steigt auf 7,6 % (April)",
+"t": "Arbeitsmarkt",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2013-05-15",
+"n": "Inflation sinkt auf 1,1 % (April)",
+"t": "Inflation",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2013-06-08",
+"n": "Arbeitslosigkeit sinkt auf 7,5 % (Mai)",
+"t": "Arbeitsmarkt",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2013-06-15",
+"n": "Inflation steigt auf 1,4 % (Mai)",
+"t": "Inflation",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2013-07-15",
+"n": "Inflation steigt auf 1,8 % (Juni)",
+"t": "Inflation",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2013-08-08",
+"n": "Arbeitslosigkeit sinkt auf 7,3 % (Juli)",
+"t": "Arbeitsmarkt",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2013-08-15",
+"n": "Inflation steigt auf 2,0 % (Juli)",
+"t": "Inflation",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2013-08-20",
+"n": "Ökonomen senken Wachstumsprognose (2,8 auf 2,6 %)",
+"t": "Prognosen",
+"k": "down",
+"quelle": "https://www.philadelphiafed.org/surveys-and-data/real-time-data-research/survey-of-professional-forecasters"
+},
+{
+"d": "2013-09-08",
+"n": "Arbeitslosigkeit sinkt auf 7,2 % (August)",
+"t": "Arbeitsmarkt",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2013-09-15",
+"n": "Inflation sinkt auf 1,5 % (August)",
+"t": "Inflation",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2013-10-15",
+"n": "Inflation sinkt auf 1,2 % (September)",
+"t": "Inflation",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2013-11-15",
+"n": "Inflation sinkt auf 1,0 % (Oktober)",
+"t": "Inflation",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2013-12-08",
+"n": "Arbeitslosigkeit sinkt auf 6,9 % (November)",
+"t": "Arbeitsmarkt",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2013-12-15",
+"n": "Inflation steigt auf 1,2 % (November)",
+"t": "Inflation",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2014-01-08",
+"n": "Arbeitslosigkeit sinkt auf 6,7 % (Dezember)",
+"t": "Arbeitsmarkt",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2014-01-15",
+"n": "Inflation steigt auf 1,5 % (Dezember)",
+"t": "Inflation",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2014-02-08",
+"n": "Arbeitslosigkeit sinkt auf 6,6 % (Januar)",
+"t": "Arbeitsmarkt",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2014-02-15",
+"n": "Inflation steigt auf 1,6 % (Januar)",
+"t": "Inflation",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2014-03-08",
+"n": "Arbeitslosigkeit steigt auf 6,7 % (Februar)",
+"t": "Arbeitsmarkt",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2014-03-15",
+"n": "Inflation sinkt auf 1,1 % (Februar)",
+"t": "Inflation",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2014-04-15",
+"n": "Inflation steigt auf 1,5 % (März)",
+"t": "Inflation",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2014-05-08",
+"n": "Arbeitslosigkeit sinkt auf 6,2 % (April)",
+"t": "Arbeitsmarkt",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2014-05-15",
+"n": "Inflation steigt auf 2,0 % (April)",
+"t": "Inflation",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2014-05-20",
+"n": "Ökonomen heben Wachstumsprognose (2,9 auf 3,1 %)",
+"t": "Prognosen",
+"k": "up",
+"quelle": "https://www.philadelphiafed.org/surveys-and-data/real-time-data-research/survey-of-professional-forecasters"
+},
+{
+"d": "2014-06-08",
+"n": "Arbeitslosigkeit steigt auf 6,3 % (Mai)",
+"t": "Arbeitsmarkt",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2014-06-15",
+"n": "Inflation steigt auf 2,1 % (Mai)",
+"t": "Inflation",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2014-07-08",
+"n": "Arbeitslosigkeit sinkt auf 6,1 % (Juni)",
+"t": "Arbeitsmarkt",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2014-08-08",
+"n": "Arbeitslosigkeit steigt auf 6,2 % (Juli)",
+"t": "Arbeitsmarkt",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2014-08-15",
+"n": "Inflation sinkt auf 2,0 % (Juli)",
+"t": "Inflation",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2014-09-08",
+"n": "Arbeitslosigkeit sinkt auf 6,1 % (August)",
+"t": "Arbeitsmarkt",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2014-09-15",
+"n": "Inflation sinkt auf 1,7 % (August)",
+"t": "Inflation",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2014-10-08",
+"n": "Arbeitslosigkeit sinkt auf 5,9 % (September)",
+"t": "Arbeitsmarkt",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2014-11-08",
+"n": "Arbeitslosigkeit sinkt auf 5,7 % (Oktober)",
+"t": "Arbeitsmarkt",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2014-11-20",
+"n": "Ökonomen senken Wachstumsprognose (3,1 auf 2,9 %)",
+"t": "Prognosen",
+"k": "down",
+"quelle": "https://www.philadelphiafed.org/surveys-and-data/real-time-data-research/survey-of-professional-forecasters"
+},
+{
+"d": "2014-12-08",
+"n": "Arbeitslosigkeit steigt auf 5,8 % (November)",
+"t": "Arbeitsmarkt",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2014-12-15",
+"n": "Inflation sinkt auf 1,3 % (November)",
+"t": "Inflation",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2015-01-08",
+"n": "Arbeitslosigkeit sinkt auf 5,6 % (Dezember)",
+"t": "Arbeitsmarkt",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2015-01-15",
+"n": "Inflation sinkt auf 0,8 % (Dezember)",
+"t": "Inflation",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2015-02-08",
+"n": "Arbeitslosigkeit steigt auf 5,7 % (Januar)",
+"t": "Arbeitsmarkt",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2015-02-15",
+"n": "Inflation sinkt auf -0,1 % (Januar)",
+"t": "Inflation",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2015-03-08",
+"n": "Arbeitslosigkeit sinkt auf 5,5 % (Februar)",
+"t": "Arbeitsmarkt",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2015-03-15",
+"n": "Inflation steigt auf -0,0 % (Februar)",
+"t": "Inflation",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2015-04-08",
+"n": "Arbeitslosigkeit sinkt auf 5,4 % (März)",
+"t": "Arbeitsmarkt",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2015-04-15",
+"n": "Inflation sinkt auf -0,1 % (März)",
+"t": "Inflation",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2015-05-15",
+"n": "Inflation sinkt auf -0,2 % (April)",
+"t": "Inflation",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2015-06-08",
+"n": "Arbeitslosigkeit steigt auf 5,6 % (Mai)",
+"t": "Arbeitsmarkt",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2015-06-15",
+"n": "Inflation steigt auf -0,0 % (Mai)",
+"t": "Inflation",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2015-07-08",
+"n": "Arbeitslosigkeit sinkt auf 5,3 % (Juni)",
+"t": "Arbeitsmarkt",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2015-07-15",
+"n": "Inflation steigt auf 0,1 % (Juni)",
+"t": "Inflation",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2015-08-08",
+"n": "Arbeitslosigkeit sinkt auf 5,2 % (Juli)",
+"t": "Arbeitsmarkt",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2015-08-15",
+"n": "Inflation steigt auf 0,2 % (Juli)",
+"t": "Inflation",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2015-09-08",
+"n": "Arbeitslosigkeit sinkt auf 5,1 % (August)",
+"t": "Arbeitsmarkt",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2015-10-08",
+"n": "Arbeitslosigkeit sinkt auf 5,0 % (September)",
+"t": "Arbeitsmarkt",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2015-10-15",
+"n": "Inflation sinkt auf -0,0 % (September)",
+"t": "Inflation",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2015-11-15",
+"n": "Inflation steigt auf 0,2 % (Oktober)",
+"t": "Inflation",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2015-12-08",
+"n": "Arbeitslosigkeit steigt auf 5,1 % (November)",
+"t": "Arbeitsmarkt",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2015-12-15",
+"n": "Inflation steigt auf 0,5 % (November)",
+"t": "Inflation",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2015-12-17",
+"n": "Fed erhöht Leitzins auf 0,25 bis 0,50 %",
+"t": "Zinsen",
+"k": "down",
+"quelle": "https://markets.newyorkfed.org/api/rates/unsecured/effr/search.json"
+},
+{
+"d": "2016-01-08",
+"n": "Arbeitslosigkeit sinkt auf 5,0 % (Dezember)",
+"t": "Arbeitsmarkt",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2016-01-15",
+"n": "Inflation steigt auf 0,7 % (Dezember)",
+"t": "Inflation",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2016-02-08",
+"n": "Arbeitslosigkeit sinkt auf 4,8 % (Januar)",
+"t": "Arbeitsmarkt",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2016-02-15",
+"n": "Inflation steigt auf 1,4 % (Januar)",
+"t": "Inflation",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2016-02-20",
+"n": "Ökonomen senken Wachstumsprognose (2,7 auf 2,4 %)",
+"t": "Prognosen",
+"k": "down",
+"quelle": "https://www.philadelphiafed.org/surveys-and-data/real-time-data-research/survey-of-professional-forecasters"
+},
+{
+"d": "2016-03-08",
+"n": "Arbeitslosigkeit steigt auf 4,9 % (Februar)",
+"t": "Arbeitsmarkt",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2016-03-15",
+"n": "Inflation sinkt auf 1,0 % (Februar)",
+"t": "Inflation",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2016-04-08",
+"n": "Arbeitslosigkeit steigt auf 5,0 % (März)",
+"t": "Arbeitsmarkt",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2016-04-15",
+"n": "Inflation sinkt auf 0,9 % (März)",
+"t": "Inflation",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2016-05-08",
+"n": "Arbeitslosigkeit steigt auf 5,1 % (April)",
+"t": "Arbeitsmarkt",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2016-05-15",
+"n": "Inflation steigt auf 1,1 % (April)",
+"t": "Inflation",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2016-06-08",
+"n": "Arbeitslosigkeit sinkt auf 4,8 % (Mai)",
+"t": "Arbeitsmarkt",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2016-06-15",
+"n": "Inflation sinkt auf 1,0 % (Mai)",
+"t": "Inflation",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2016-07-08",
+"n": "Arbeitslosigkeit steigt auf 4,9 % (Juni)",
+"t": "Arbeitsmarkt",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2016-08-08",
+"n": "Arbeitslosigkeit sinkt auf 4,8 % (Juli)",
+"t": "Arbeitsmarkt",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2016-08-15",
+"n": "Inflation sinkt auf 0,8 % (Juli)",
+"t": "Inflation",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2016-09-08",
+"n": "Arbeitslosigkeit steigt auf 4,9 % (August)",
+"t": "Arbeitsmarkt",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2016-09-15",
+"n": "Inflation steigt auf 1,1 % (August)",
+"t": "Inflation",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2016-10-08",
+"n": "Arbeitslosigkeit steigt auf 5,0 % (September)",
+"t": "Arbeitsmarkt",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2016-10-15",
+"n": "Inflation steigt auf 1,5 % (September)",
+"t": "Inflation",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2016-11-08",
+"n": "Arbeitslosigkeit sinkt auf 4,9 % (Oktober)",
+"t": "Arbeitsmarkt",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2016-11-15",
+"n": "Inflation steigt auf 1,6 % (Oktober)",
+"t": "Inflation",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2016-12-08",
+"n": "Arbeitslosigkeit sinkt auf 4,7 % (November)",
+"t": "Arbeitsmarkt",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2016-12-15",
+"n": "Fed erhöht Leitzins auf 0,50 bis 0,75 %",
+"t": "Zinsen",
+"k": "down",
+"quelle": "https://markets.newyorkfed.org/api/rates/unsecured/effr/search.json"
+},
+{
+"d": "2016-12-15",
+"n": "Inflation steigt auf 1,7 % (November)",
+"t": "Inflation",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2017-01-15",
+"n": "Inflation steigt auf 2,1 % (Dezember)",
+"t": "Inflation",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2017-02-15",
+"n": "Inflation steigt auf 2,5 % (Januar)",
+"t": "Inflation",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2017-02-20",
+"n": "Ökonomen heben Wachstumsprognose (2,2 auf 2,4 %)",
+"t": "Prognosen",
+"k": "up",
+"quelle": "https://www.philadelphiafed.org/surveys-and-data/real-time-data-research/survey-of-professional-forecasters"
+},
+{
+"d": "2017-03-08",
+"n": "Arbeitslosigkeit sinkt auf 4,6 % (Februar)",
+"t": "Arbeitsmarkt",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2017-03-15",
+"n": "Inflation steigt auf 2,7 % (Februar)",
+"t": "Inflation",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2017-03-16",
+"n": "Fed erhöht Leitzins auf 0,75 bis 1,00 %",
+"t": "Zinsen",
+"k": "down",
+"quelle": "https://markets.newyorkfed.org/api/rates/unsecured/effr/search.json"
+},
+{
+"d": "2017-04-08",
+"n": "Arbeitslosigkeit sinkt auf 4,4 % (März)",
+"t": "Arbeitsmarkt",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2017-04-15",
+"n": "Inflation sinkt auf 2,4 % (März)",
+"t": "Inflation",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2017-05-15",
+"n": "Inflation sinkt auf 2,2 % (April)",
+"t": "Inflation",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2017-05-20",
+"n": "Ökonomen heben Wachstumsprognose (2,3 auf 2,5 %)",
+"t": "Prognosen",
+"k": "up",
+"quelle": "https://www.philadelphiafed.org/surveys-and-data/real-time-data-research/survey-of-professional-forecasters"
+},
+{
+"d": "2017-06-15",
+"n": "Fed erhöht Leitzins auf 1,00 bis 1,25 %",
+"t": "Zinsen",
+"k": "down",
+"quelle": "https://markets.newyorkfed.org/api/rates/unsecured/effr/search.json"
+},
+{
+"d": "2017-06-15",
+"n": "Inflation sinkt auf 1,9 % (Mai)",
+"t": "Inflation",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2017-07-08",
+"n": "Arbeitslosigkeit sinkt auf 4,3 % (Juni)",
+"t": "Arbeitsmarkt",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2017-07-15",
+"n": "Inflation sinkt auf 1,6 % (Juni)",
+"t": "Inflation",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2017-08-15",
+"n": "Inflation steigt auf 1,7 % (Juli)",
+"t": "Inflation",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2017-08-20",
+"n": "Ökonomen senken Wachstumsprognose (2,5 auf 2,3 %)",
+"t": "Prognosen",
+"k": "down",
+"quelle": "https://www.philadelphiafed.org/surveys-and-data/real-time-data-research/survey-of-professional-forecasters"
+},
+{
+"d": "2017-09-08",
+"n": "Arbeitslosigkeit steigt auf 4,4 % (August)",
+"t": "Arbeitsmarkt",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2017-09-15",
+"n": "Inflation steigt auf 1,9 % (August)",
+"t": "Inflation",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2017-10-08",
+"n": "Arbeitslosigkeit sinkt auf 4,3 % (September)",
+"t": "Arbeitsmarkt",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2017-10-15",
+"n": "Inflation steigt auf 2,2 % (September)",
+"t": "Inflation",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2017-11-08",
+"n": "Arbeitslosigkeit sinkt auf 4,2 % (Oktober)",
+"t": "Arbeitsmarkt",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2017-11-15",
+"n": "Inflation sinkt auf 2,0 % (Oktober)",
+"t": "Inflation",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2017-12-14",
+"n": "Fed erhöht Leitzins auf 1,25 bis 1,50 %",
+"t": "Zinsen",
+"k": "down",
+"quelle": "https://markets.newyorkfed.org/api/rates/unsecured/effr/search.json"
+},
+{
+"d": "2017-12-15",
+"n": "Inflation steigt auf 2,2 % (November)",
+"t": "Inflation",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2018-01-08",
+"n": "Arbeitslosigkeit sinkt auf 4,1 % (Dezember)",
+"t": "Arbeitsmarkt",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2018-01-15",
+"n": "Inflation sinkt auf 2,1 % (Dezember)",
+"t": "Inflation",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2018-02-08",
+"n": "Arbeitslosigkeit sinkt auf 4,0 % (Januar)",
+"t": "Arbeitsmarkt",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2018-02-20",
+"n": "Ökonomen heben Wachstumsprognose (2,3 auf 2,7 %)",
+"t": "Prognosen",
+"k": "up",
+"quelle": "https://www.philadelphiafed.org/surveys-and-data/real-time-data-research/survey-of-professional-forecasters"
+},
+{
+"d": "2018-03-08",
+"n": "Arbeitslosigkeit steigt auf 4,1 % (Februar)",
+"t": "Arbeitsmarkt",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2018-03-15",
+"n": "Inflation steigt auf 2,2 % (Februar)",
+"t": "Inflation",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2018-03-22",
+"n": "Fed erhöht Leitzins auf 1,50 bis 1,75 %",
+"t": "Zinsen",
+"k": "down",
+"quelle": "https://markets.newyorkfed.org/api/rates/unsecured/effr/search.json"
+},
+{
+"d": "2018-04-08",
+"n": "Arbeitslosigkeit sinkt auf 4,0 % (März)",
+"t": "Arbeitsmarkt",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2018-04-15",
+"n": "Inflation steigt auf 2,4 % (März)",
+"t": "Inflation",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2018-05-15",
+"n": "Inflation steigt auf 2,5 % (April)",
+"t": "Inflation",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2018-05-20",
+"n": "Ökonomen heben Wachstumsprognose (2,6 auf 2,7 %)",
+"t": "Prognosen",
+"k": "up",
+"quelle": "https://www.philadelphiafed.org/surveys-and-data/real-time-data-research/survey-of-professional-forecasters"
+},
+{
+"d": "2018-06-08",
+"n": "Arbeitslosigkeit sinkt auf 3,8 % (Mai)",
+"t": "Arbeitsmarkt",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2018-06-14",
+"n": "Fed erhöht Leitzins auf 1,75 bis 2,00 %",
+"t": "Zinsen",
+"k": "down",
+"quelle": "https://markets.newyorkfed.org/api/rates/unsecured/effr/search.json"
+},
+{
+"d": "2018-06-15",
+"n": "Inflation steigt auf 2,8 % (Mai)",
+"t": "Inflation",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2018-07-08",
+"n": "Arbeitslosigkeit steigt auf 4,0 % (Juni)",
+"t": "Arbeitsmarkt",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2018-07-15",
+"n": "Inflation steigt auf 2,9 % (Juni)",
+"t": "Inflation",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2018-08-08",
+"n": "Arbeitslosigkeit sinkt auf 3,8 % (Juli)",
+"t": "Arbeitsmarkt",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2018-09-15",
+"n": "Inflation sinkt auf 2,7 % (August)",
+"t": "Inflation",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2018-09-27",
+"n": "Fed erhöht Leitzins auf 2,00 bis 2,25 %",
+"t": "Zinsen",
+"k": "down",
+"quelle": "https://markets.newyorkfed.org/api/rates/unsecured/effr/search.json"
+},
+{
+"d": "2018-10-08",
+"n": "Arbeitslosigkeit sinkt auf 3,7 % (September)",
+"t": "Arbeitsmarkt",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2018-10-15",
+"n": "Inflation sinkt auf 2,3 % (September)",
+"t": "Inflation",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2018-11-08",
+"n": "Arbeitslosigkeit steigt auf 3,8 % (Oktober)",
+"t": "Arbeitsmarkt",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2018-11-15",
+"n": "Inflation steigt auf 2,5 % (Oktober)",
+"t": "Inflation",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2018-11-20",
+"n": "Ökonomen senken Wachstumsprognose (2,6 auf 2,5 %)",
+"t": "Prognosen",
+"k": "down",
+"quelle": "https://www.philadelphiafed.org/surveys-and-data/real-time-data-research/survey-of-professional-forecasters"
+},
+{
+"d": "2018-12-15",
+"n": "Inflation sinkt auf 2,2 % (November)",
+"t": "Inflation",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2018-12-20",
+"n": "Fed erhöht Leitzins auf 2,25 bis 2,50 %",
+"t": "Zinsen",
+"k": "down",
+"quelle": "https://markets.newyorkfed.org/api/rates/unsecured/effr/search.json"
+},
+{
+"d": "2019-01-08",
+"n": "Arbeitslosigkeit steigt auf 3,9 % (Dezember)",
+"t": "Arbeitsmarkt",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2019-01-15",
+"n": "Inflation sinkt auf 1,9 % (Dezember)",
+"t": "Inflation",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2019-02-08",
+"n": "Arbeitslosigkeit steigt auf 4,0 % (Januar)",
+"t": "Arbeitsmarkt",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2019-02-15",
+"n": "Inflation sinkt auf 1,6 % (Januar)",
+"t": "Inflation",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2019-02-20",
+"n": "Ökonomen senken Wachstumsprognose (2,4 auf 2,3 %)",
+"t": "Prognosen",
+"k": "down",
+"quelle": "https://www.philadelphiafed.org/surveys-and-data/real-time-data-research/survey-of-professional-forecasters"
+},
+{
+"d": "2019-03-08",
+"n": "Arbeitslosigkeit sinkt auf 3,8 % (Februar)",
+"t": "Arbeitsmarkt",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2019-03-15",
+"n": "Inflation sinkt auf 1,5 % (Februar)",
+"t": "Inflation",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2019-04-15",
+"n": "Inflation steigt auf 1,9 % (März)",
+"t": "Inflation",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2019-05-08",
+"n": "Arbeitslosigkeit sinkt auf 3,7 % (April)",
+"t": "Arbeitsmarkt",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2019-05-15",
+"n": "Inflation steigt auf 2,0 % (April)",
+"t": "Inflation",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2019-06-08",
+"n": "Arbeitslosigkeit sinkt auf 3,6 % (Mai)",
+"t": "Arbeitsmarkt",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2019-06-15",
+"n": "Inflation sinkt auf 1,8 % (Mai)",
+"t": "Inflation",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2019-07-15",
+"n": "Inflation sinkt auf 1,6 % (Juni)",
+"t": "Inflation",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2019-08-01",
+"n": "Fed senkt Leitzins auf 2,00 bis 2,25 %",
+"t": "Zinsen",
+"k": "up",
+"quelle": "https://markets.newyorkfed.org/api/rates/unsecured/effr/search.json"
+},
+{
+"d": "2019-08-08",
+"n": "Arbeitslosigkeit steigt auf 3,7 % (Juli)",
+"t": "Arbeitsmarkt",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2019-08-15",
+"n": "Inflation steigt auf 1,8 % (Juli)",
+"t": "Inflation",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2019-09-08",
+"n": "Arbeitslosigkeit sinkt auf 3,6 % (August)",
+"t": "Arbeitsmarkt",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2019-09-15",
+"n": "Inflation sinkt auf 1,7 % (August)",
+"t": "Inflation",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2019-09-19",
+"n": "Fed senkt Leitzins auf 1,75 bis 2,00 %",
+"t": "Zinsen",
+"k": "up",
+"quelle": "https://markets.newyorkfed.org/api/rates/unsecured/effr/search.json"
+},
+{
+"d": "2019-10-08",
+"n": "Arbeitslosigkeit sinkt auf 3,5 % (September)",
+"t": "Arbeitsmarkt",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2019-10-31",
+"n": "Fed senkt Leitzins auf 1,50 bis 1,75 %",
+"t": "Zinsen",
+"k": "up",
+"quelle": "https://markets.newyorkfed.org/api/rates/unsecured/effr/search.json"
+},
+{
+"d": "2019-11-08",
+"n": "Arbeitslosigkeit steigt auf 3,6 % (Oktober)",
+"t": "Arbeitsmarkt",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2019-11-15",
+"n": "Inflation steigt auf 1,8 % (Oktober)",
+"t": "Inflation",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2019-11-20",
+"n": "Ökonomen senken Wachstumsprognose (2,0 auf 1,8 %)",
+"t": "Prognosen",
+"k": "down",
+"quelle": "https://www.philadelphiafed.org/surveys-and-data/real-time-data-research/survey-of-professional-forecasters"
+},
+{
+"d": "2019-12-15",
+"n": "Inflation steigt auf 2,1 % (November)",
+"t": "Inflation",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2020-01-15",
+"n": "Inflation steigt auf 2,3 % (Dezember)",
+"t": "Inflation",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2020-02-15",
+"n": "Inflation steigt auf 2,5 % (Januar)",
+"t": "Inflation",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2020-02-20",
+"n": "Ökonomen heben Wachstumsprognose (1,8 auf 2,1 %)",
+"t": "Prognosen",
+"k": "up",
+"quelle": "https://www.philadelphiafed.org/surveys-and-data/real-time-data-research/survey-of-professional-forecasters"
+},
+{
+"d": "2020-03-04",
+"n": "Fed senkt Leitzins auf 1,00 bis 1,25 %",
+"t": "Zinsen",
+"k": "up",
+"quelle": "https://markets.newyorkfed.org/api/rates/unsecured/effr/search.json"
+},
+{
+"d": "2020-03-08",
+"n": "Arbeitslosigkeit sinkt auf 3,5 % (Februar)",
+"t": "Arbeitsmarkt",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2020-03-15",
+"n": "Inflation sinkt auf 2,3 % (Februar)",
+"t": "Inflation",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2020-03-16",
+"n": "Fed senkt Leitzins auf 0,00 bis 0,25 %",
+"t": "Zinsen",
+"k": "up",
+"quelle": "https://markets.newyorkfed.org/api/rates/unsecured/effr/search.json"
+},
+{
+"d": "2020-04-08",
+"n": "Arbeitslosigkeit steigt auf 4,4 % (März)",
+"t": "Arbeitsmarkt",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2020-04-15",
+"n": "Inflation sinkt auf 1,5 % (März)",
+"t": "Inflation",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2020-05-08",
+"n": "Arbeitslosigkeit steigt auf 14,8 % (April)",
+"t": "Arbeitsmarkt",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2020-05-15",
+"n": "Inflation sinkt auf 0,3 % (April)",
+"t": "Inflation",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2020-05-20",
+"n": "Ökonomen heben Wachstumsprognose (2,1 auf 8,0 %)",
+"t": "Prognosen",
+"k": "up",
+"quelle": "https://www.philadelphiafed.org/surveys-and-data/real-time-data-research/survey-of-professional-forecasters"
+},
+{
+"d": "2020-06-08",
+"n": "Arbeitslosigkeit sinkt auf 13,2 % (Mai)",
+"t": "Arbeitsmarkt",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2020-06-15",
+"n": "Inflation sinkt auf 0,1 % (Mai)",
+"t": "Inflation",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2020-07-08",
+"n": "Arbeitslosigkeit sinkt auf 11,0 % (Juni)",
+"t": "Arbeitsmarkt",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2020-07-15",
+"n": "Inflation steigt auf 0,6 % (Juni)",
+"t": "Inflation",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2020-08-08",
+"n": "Arbeitslosigkeit sinkt auf 10,2 % (Juli)",
+"t": "Arbeitsmarkt",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2020-08-15",
+"n": "Inflation steigt auf 1,0 % (Juli)",
+"t": "Inflation",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2020-08-20",
+"n": "Ökonomen senken Wachstumsprognose (5,8 auf 5,0 %)",
+"t": "Prognosen",
+"k": "down",
+"quelle": "https://www.philadelphiafed.org/surveys-and-data/real-time-data-research/survey-of-professional-forecasters"
+},
+{
+"d": "2020-09-08",
+"n": "Arbeitslosigkeit sinkt auf 8,4 % (August)",
+"t": "Arbeitsmarkt",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2020-09-15",
+"n": "Inflation steigt auf 1,3 % (August)",
+"t": "Inflation",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2020-10-08",
+"n": "Arbeitslosigkeit sinkt auf 7,8 % (September)",
+"t": "Arbeitsmarkt",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2020-10-15",
+"n": "Inflation steigt auf 1,4 % (September)",
+"t": "Inflation",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2020-11-08",
+"n": "Arbeitslosigkeit sinkt auf 6,9 % (Oktober)",
+"t": "Arbeitsmarkt",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2020-11-15",
+"n": "Inflation sinkt auf 1,2 % (Oktober)",
+"t": "Inflation",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2020-11-20",
+"n": "Ökonomen senken Wachstumsprognose (4,2 auf 3,4 %)",
+"t": "Prognosen",
+"k": "down",
+"quelle": "https://www.philadelphiafed.org/surveys-and-data/real-time-data-research/survey-of-professional-forecasters"
+},
+{
+"d": "2020-12-08",
+"n": "Arbeitslosigkeit sinkt auf 6,7 % (November)",
+"t": "Arbeitsmarkt",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2021-01-15",
+"n": "Inflation steigt auf 1,4 % (Dezember)",
+"t": "Inflation",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2021-02-08",
+"n": "Arbeitslosigkeit sinkt auf 6,4 % (Januar)",
+"t": "Arbeitsmarkt",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2021-02-20",
+"n": "Ökonomen heben Wachstumsprognose (3,4 auf 4,8 %)",
+"t": "Prognosen",
+"k": "up",
+"quelle": "https://www.philadelphiafed.org/surveys-and-data/real-time-data-research/survey-of-professional-forecasters"
+},
+{
+"d": "2021-03-08",
+"n": "Arbeitslosigkeit sinkt auf 6,2 % (Februar)",
+"t": "Arbeitsmarkt",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2021-03-15",
+"n": "Inflation steigt auf 1,7 % (Februar)",
+"t": "Inflation",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2021-04-08",
+"n": "Arbeitslosigkeit sinkt auf 6,1 % (März)",
+"t": "Arbeitsmarkt",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2021-04-15",
+"n": "Inflation steigt auf 2,6 % (März)",
+"t": "Inflation",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2021-05-15",
+"n": "Inflation steigt auf 4,2 % (April)",
+"t": "Inflation",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2021-05-20",
+"n": "Ökonomen heben Wachstumsprognose (4,3 auf 5,5 %)",
+"t": "Prognosen",
+"k": "up",
+"quelle": "https://www.philadelphiafed.org/surveys-and-data/real-time-data-research/survey-of-professional-forecasters"
+},
+{
+"d": "2021-06-08",
+"n": "Arbeitslosigkeit sinkt auf 5,8 % (Mai)",
+"t": "Arbeitsmarkt",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2021-06-15",
+"n": "Inflation steigt auf 5,0 % (Mai)",
+"t": "Inflation",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2021-07-08",
+"n": "Arbeitslosigkeit steigt auf 5,9 % (Juni)",
+"t": "Arbeitsmarkt",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2021-07-15",
+"n": "Inflation steigt auf 5,4 % (Juni)",
+"t": "Inflation",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2021-08-08",
+"n": "Arbeitslosigkeit sinkt auf 5,4 % (Juli)",
+"t": "Arbeitsmarkt",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2021-08-20",
+"n": "Ökonomen heben Wachstumsprognose (3,9 auf 4,3 %)",
+"t": "Prognosen",
+"k": "up",
+"quelle": "https://www.philadelphiafed.org/surveys-and-data/real-time-data-research/survey-of-professional-forecasters"
+},
+{
+"d": "2021-09-08",
+"n": "Arbeitslosigkeit sinkt auf 5,1 % (August)",
+"t": "Arbeitsmarkt",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2021-09-15",
+"n": "Inflation sinkt auf 5,3 % (August)",
+"t": "Inflation",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2021-10-08",
+"n": "Arbeitslosigkeit sinkt auf 4,7 % (September)",
+"t": "Arbeitsmarkt",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2021-10-15",
+"n": "Inflation steigt auf 5,4 % (September)",
+"t": "Inflation",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2021-11-08",
+"n": "Arbeitslosigkeit sinkt auf 4,5 % (Oktober)",
+"t": "Arbeitsmarkt",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2021-11-15",
+"n": "Inflation steigt auf 6,2 % (Oktober)",
+"t": "Inflation",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2021-11-20",
+"n": "Ökonomen heben Wachstumsprognose (3,5 auf 3,6 %)",
+"t": "Prognosen",
+"k": "up",
+"quelle": "https://www.philadelphiafed.org/surveys-and-data/real-time-data-research/survey-of-professional-forecasters"
+},
+{
+"d": "2021-12-08",
+"n": "Arbeitslosigkeit sinkt auf 4,1 % (November)",
+"t": "Arbeitsmarkt",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2021-12-15",
+"n": "Inflation steigt auf 6,8 % (November)",
+"t": "Inflation",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2022-01-08",
+"n": "Arbeitslosigkeit sinkt auf 3,9 % (Dezember)",
+"t": "Arbeitsmarkt",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2022-01-15",
+"n": "Inflation steigt auf 7,0 % (Dezember)",
+"t": "Inflation",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2022-02-08",
+"n": "Arbeitslosigkeit steigt auf 4,0 % (Januar)",
+"t": "Arbeitsmarkt",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2022-02-15",
+"n": "Inflation steigt auf 7,5 % (Januar)",
+"t": "Inflation",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2022-03-08",
+"n": "Arbeitslosigkeit sinkt auf 3,9 % (Februar)",
+"t": "Arbeitsmarkt",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2022-03-15",
+"n": "Inflation steigt auf 7,9 % (Februar)",
+"t": "Inflation",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2022-03-17",
+"n": "Fed erhöht Leitzins auf 0,25 bis 0,50 %",
+"t": "Zinsen",
+"k": "down",
+"quelle": "https://markets.newyorkfed.org/api/rates/unsecured/effr/search.json"
+},
+{
+"d": "2022-04-08",
+"n": "Arbeitslosigkeit sinkt auf 3,7 % (März)",
+"t": "Arbeitsmarkt",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2022-04-15",
+"n": "Inflation steigt auf 8,5 % (März)",
+"t": "Inflation",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2022-05-05",
+"n": "Fed erhöht Leitzins auf 0,75 bis 1,00 %",
+"t": "Zinsen",
+"k": "down",
+"quelle": "https://markets.newyorkfed.org/api/rates/unsecured/effr/search.json"
+},
+{
+"d": "2022-05-15",
+"n": "Inflation sinkt auf 8,3 % (April)",
+"t": "Inflation",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2022-05-20",
+"n": "Ökonomen senken Wachstumsprognose (2,9 auf 2,3 %)",
+"t": "Prognosen",
+"k": "down",
+"quelle": "https://www.philadelphiafed.org/surveys-and-data/real-time-data-research/survey-of-professional-forecasters"
+},
+{
+"d": "2022-06-08",
+"n": "Arbeitslosigkeit sinkt auf 3,6 % (Mai)",
+"t": "Arbeitsmarkt",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2022-06-15",
+"n": "Inflation steigt auf 8,6 % (Mai)",
+"t": "Inflation",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2022-06-16",
+"n": "Fed erhöht Leitzins auf 1,50 bis 1,75 %",
+"t": "Zinsen",
+"k": "down",
+"quelle": "https://markets.newyorkfed.org/api/rates/unsecured/effr/search.json"
+},
+{
+"d": "2022-07-15",
+"n": "Inflation steigt auf 9,1 % (Juni)",
+"t": "Inflation",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2022-07-28",
+"n": "Fed erhöht Leitzins auf 2,25 bis 2,50 %",
+"t": "Zinsen",
+"k": "down",
+"quelle": "https://markets.newyorkfed.org/api/rates/unsecured/effr/search.json"
+},
+{
+"d": "2022-08-08",
+"n": "Arbeitslosigkeit sinkt auf 3,5 % (Juli)",
+"t": "Arbeitsmarkt",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2022-08-15",
+"n": "Inflation sinkt auf 8,5 % (Juli)",
+"t": "Inflation",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2022-08-20",
+"n": "Ökonomen senken Wachstumsprognose (2,2 auf 1,3 %)",
+"t": "Prognosen",
+"k": "down",
+"quelle": "https://www.philadelphiafed.org/surveys-and-data/real-time-data-research/survey-of-professional-forecasters"
+},
+{
+"d": "2022-09-08",
+"n": "Arbeitslosigkeit steigt auf 3,6 % (August)",
+"t": "Arbeitsmarkt",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2022-09-15",
+"n": "Inflation sinkt auf 8,3 % (August)",
+"t": "Inflation",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2022-09-22",
+"n": "Fed erhöht Leitzins auf 3,00 bis 3,25 %",
+"t": "Zinsen",
+"k": "down",
+"quelle": "https://markets.newyorkfed.org/api/rates/unsecured/effr/search.json"
+},
+{
+"d": "2022-10-08",
+"n": "Arbeitslosigkeit sinkt auf 3,5 % (September)",
+"t": "Arbeitsmarkt",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2022-10-15",
+"n": "Inflation sinkt auf 8,2 % (September)",
+"t": "Inflation",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2022-11-03",
+"n": "Fed erhöht Leitzins auf 3,75 bis 4,00 %",
+"t": "Zinsen",
+"k": "down",
+"quelle": "https://markets.newyorkfed.org/api/rates/unsecured/effr/search.json"
+},
+{
+"d": "2022-11-08",
+"n": "Arbeitslosigkeit steigt auf 3,6 % (Oktober)",
+"t": "Arbeitsmarkt",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2022-11-15",
+"n": "Inflation sinkt auf 7,7 % (Oktober)",
+"t": "Inflation",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2022-11-20",
+"n": "Ökonomen senken Wachstumsprognose (1,4 auf 0,4 %)",
+"t": "Prognosen",
+"k": "down",
+"quelle": "https://www.philadelphiafed.org/surveys-and-data/real-time-data-research/survey-of-professional-forecasters"
+},
+{
+"d": "2022-12-15",
+"n": "Fed erhöht Leitzins auf 4,25 bis 4,50 %",
+"t": "Zinsen",
+"k": "down",
+"quelle": "https://markets.newyorkfed.org/api/rates/unsecured/effr/search.json"
+},
+{
+"d": "2022-12-15",
+"n": "Inflation sinkt auf 7,1 % (November)",
+"t": "Inflation",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2023-01-08",
+"n": "Arbeitslosigkeit sinkt auf 3,5 % (Dezember)",
+"t": "Arbeitsmarkt",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2023-01-15",
+"n": "Inflation sinkt auf 6,5 % (Dezember)",
+"t": "Inflation",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2023-02-02",
+"n": "Fed erhöht Leitzins auf 4,50 bis 4,75 %",
+"t": "Zinsen",
+"k": "down",
+"quelle": "https://markets.newyorkfed.org/api/rates/unsecured/effr/search.json"
+},
+{
+"d": "2023-02-15",
+"n": "Inflation sinkt auf 6,4 % (Januar)",
+"t": "Inflation",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2023-02-20",
+"n": "Ökonomen senken Wachstumsprognose (1,0 auf 0,7 %)",
+"t": "Prognosen",
+"k": "down",
+"quelle": "https://www.philadelphiafed.org/surveys-and-data/real-time-data-research/survey-of-professional-forecasters"
+},
+{
+"d": "2023-03-08",
+"n": "Arbeitslosigkeit steigt auf 3,6 % (Februar)",
+"t": "Arbeitsmarkt",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2023-03-15",
+"n": "Inflation sinkt auf 6,0 % (Februar)",
+"t": "Inflation",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2023-03-23",
+"n": "Fed erhöht Leitzins auf 4,75 bis 5,00 %",
+"t": "Zinsen",
+"k": "down",
+"quelle": "https://markets.newyorkfed.org/api/rates/unsecured/effr/search.json"
+},
+{
+"d": "2023-04-08",
+"n": "Arbeitslosigkeit sinkt auf 3,5 % (März)",
+"t": "Arbeitsmarkt",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2023-04-15",
+"n": "Inflation sinkt auf 5,0 % (März)",
+"t": "Inflation",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2023-05-04",
+"n": "Fed erhöht Leitzins auf 5,00 bis 5,25 %",
+"t": "Zinsen",
+"k": "down",
+"quelle": "https://markets.newyorkfed.org/api/rates/unsecured/effr/search.json"
+},
+{
+"d": "2023-05-08",
+"n": "Arbeitslosigkeit sinkt auf 3,4 % (April)",
+"t": "Arbeitsmarkt",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2023-05-15",
+"n": "Inflation sinkt auf 4,9 % (April)",
+"t": "Inflation",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2023-05-20",
+"n": "Ökonomen senken Wachstumsprognose (0,8 auf 0,5 %)",
+"t": "Prognosen",
+"k": "down",
+"quelle": "https://www.philadelphiafed.org/surveys-and-data/real-time-data-research/survey-of-professional-forecasters"
+},
+{
+"d": "2023-06-08",
+"n": "Arbeitslosigkeit steigt auf 3,6 % (Mai)",
+"t": "Arbeitsmarkt",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2023-06-15",
+"n": "Inflation sinkt auf 4,0 % (Mai)",
+"t": "Inflation",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2023-07-15",
+"n": "Inflation sinkt auf 3,0 % (Juni)",
+"t": "Inflation",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2023-07-27",
+"n": "Fed erhöht Leitzins auf 5,25 bis 5,50 %",
+"t": "Zinsen",
+"k": "down",
+"quelle": "https://markets.newyorkfed.org/api/rates/unsecured/effr/search.json"
+},
+{
+"d": "2023-08-08",
+"n": "Arbeitslosigkeit sinkt auf 3,5 % (Juli)",
+"t": "Arbeitsmarkt",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2023-08-15",
+"n": "Inflation steigt auf 3,2 % (Juli)",
+"t": "Inflation",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2023-09-08",
+"n": "Arbeitslosigkeit steigt auf 3,7 % (August)",
+"t": "Arbeitsmarkt",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2023-09-15",
+"n": "Inflation steigt auf 3,7 % (August)",
+"t": "Inflation",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2023-11-08",
+"n": "Arbeitslosigkeit steigt auf 3,9 % (Oktober)",
+"t": "Arbeitsmarkt",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2023-11-15",
+"n": "Inflation sinkt auf 3,2 % (Oktober)",
+"t": "Inflation",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2023-12-08",
+"n": "Arbeitslosigkeit sinkt auf 3,7 % (November)",
+"t": "Arbeitsmarkt",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2023-12-15",
+"n": "Inflation sinkt auf 3,1 % (November)",
+"t": "Inflation",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2024-01-08",
+"n": "Arbeitslosigkeit steigt auf 3,8 % (Dezember)",
+"t": "Arbeitsmarkt",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2024-01-15",
+"n": "Inflation steigt auf 3,4 % (Dezember)",
+"t": "Inflation",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2024-02-08",
+"n": "Arbeitslosigkeit sinkt auf 3,7 % (Januar)",
+"t": "Arbeitsmarkt",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2024-02-15",
+"n": "Inflation sinkt auf 3,1 % (Januar)",
+"t": "Inflation",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2024-03-08",
+"n": "Arbeitslosigkeit steigt auf 3,9 % (Februar)",
+"t": "Arbeitsmarkt",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2024-03-15",
+"n": "Inflation steigt auf 3,2 % (Februar)",
+"t": "Inflation",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2024-04-15",
+"n": "Inflation steigt auf 3,5 % (März)",
+"t": "Inflation",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2024-05-15",
+"n": "Inflation sinkt auf 3,4 % (April)",
+"t": "Inflation",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2024-05-20",
+"n": "Ökonomen heben Wachstumsprognose (1,7 auf 1,8 %)",
+"t": "Prognosen",
+"k": "up",
+"quelle": "https://www.philadelphiafed.org/surveys-and-data/real-time-data-research/survey-of-professional-forecasters"
+},
+{
+"d": "2024-06-15",
+"n": "Inflation sinkt auf 3,3 % (Mai)",
+"t": "Inflation",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2024-07-08",
+"n": "Arbeitslosigkeit steigt auf 4,1 % (Juni)",
+"t": "Arbeitsmarkt",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2024-07-15",
+"n": "Inflation sinkt auf 3,0 % (Juni)",
+"t": "Inflation",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2024-08-08",
+"n": "Arbeitslosigkeit steigt auf 4,2 % (Juli)",
+"t": "Arbeitsmarkt",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2024-08-15",
+"n": "Inflation sinkt auf 2,9 % (Juli)",
+"t": "Inflation",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2024-09-15",
+"n": "Inflation sinkt auf 2,5 % (August)",
+"t": "Inflation",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2024-09-19",
+"n": "Fed senkt Leitzins auf 4,75 bis 5,00 %",
+"t": "Zinsen",
+"k": "up",
+"quelle": "https://markets.newyorkfed.org/api/rates/unsecured/effr/search.json"
+},
+{
+"d": "2024-10-08",
+"n": "Arbeitslosigkeit sinkt auf 4,1 % (September)",
+"t": "Arbeitsmarkt",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2024-10-15",
+"n": "Inflation sinkt auf 2,4 % (September)",
+"t": "Inflation",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2024-11-08",
+"n": "Fed senkt Leitzins auf 4,50 bis 4,75 %",
+"t": "Zinsen",
+"k": "up",
+"quelle": "https://markets.newyorkfed.org/api/rates/unsecured/effr/search.json"
+},
+{
+"d": "2024-11-15",
+"n": "Inflation steigt auf 2,6 % (Oktober)",
+"t": "Inflation",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2024-12-08",
+"n": "Arbeitslosigkeit steigt auf 4,2 % (November)",
+"t": "Arbeitsmarkt",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2024-12-15",
+"n": "Inflation steigt auf 2,7 % (November)",
+"t": "Inflation",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2024-12-19",
+"n": "Fed senkt Leitzins auf 4,25 bis 4,50 %",
+"t": "Zinsen",
+"k": "up",
+"quelle": "https://markets.newyorkfed.org/api/rates/unsecured/effr/search.json"
+},
+{
+"d": "2025-01-08",
+"n": "Arbeitslosigkeit sinkt auf 4,1 % (Dezember)",
+"t": "Arbeitsmarkt",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2025-01-15",
+"n": "Inflation steigt auf 2,9 % (Dezember)",
+"t": "Inflation",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2025-02-08",
+"n": "Arbeitslosigkeit sinkt auf 4,0 % (Januar)",
+"t": "Arbeitsmarkt",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2025-02-15",
+"n": "Inflation steigt auf 3,0 % (Januar)",
+"t": "Inflation",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2025-03-08",
+"n": "Arbeitslosigkeit steigt auf 4,2 % (Februar)",
+"t": "Arbeitsmarkt",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2025-03-15",
+"n": "Inflation sinkt auf 2,8 % (Februar)",
+"t": "Inflation",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2025-04-15",
+"n": "Inflation sinkt auf 2,4 % (März)",
+"t": "Inflation",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2025-05-15",
+"n": "Inflation sinkt auf 2,3 % (April)",
+"t": "Inflation",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2025-05-20",
+"n": "Ökonomen senken Wachstumsprognose (2,1 auf 1,3 %)",
+"t": "Prognosen",
+"k": "down",
+"quelle": "https://www.philadelphiafed.org/surveys-and-data/real-time-data-research/survey-of-professional-forecasters"
+},
+{
+"d": "2025-06-08",
+"n": "Arbeitslosigkeit steigt auf 4,3 % (Mai)",
+"t": "Arbeitsmarkt",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2025-06-15",
+"n": "Inflation steigt auf 2,4 % (Mai)",
+"t": "Inflation",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2025-07-08",
+"n": "Arbeitslosigkeit sinkt auf 4,1 % (Juni)",
+"t": "Arbeitsmarkt",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2025-07-15",
+"n": "Inflation steigt auf 2,7 % (Juni)",
+"t": "Inflation",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2025-08-08",
+"n": "Arbeitslosigkeit steigt auf 4,3 % (Juli)",
+"t": "Arbeitsmarkt",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2025-08-20",
+"n": "Ökonomen senken Wachstumsprognose (1,6 auf 1,5 %)",
+"t": "Prognosen",
+"k": "down",
+"quelle": "https://www.philadelphiafed.org/surveys-and-data/real-time-data-research/survey-of-professional-forecasters"
+},
+{
+"d": "2025-09-15",
+"n": "Inflation steigt auf 2,9 % (August)",
+"t": "Inflation",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2025-09-18",
+"n": "Fed senkt Leitzins auf 4,00 bis 4,25 %",
+"t": "Zinsen",
+"k": "up",
+"quelle": "https://markets.newyorkfed.org/api/rates/unsecured/effr/search.json"
+},
+{
+"d": "2025-10-08",
+"n": "Arbeitslosigkeit steigt auf 4,4 % (September)",
+"t": "Arbeitsmarkt",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2025-10-15",
+"n": "Inflation steigt auf 3,0 % (September)",
+"t": "Inflation",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2025-10-30",
+"n": "Fed senkt Leitzins auf 3,75 bis 4,00 %",
+"t": "Zinsen",
+"k": "up",
+"quelle": "https://markets.newyorkfed.org/api/rates/unsecured/effr/search.json"
+},
+{
+"d": "2025-12-11",
+"n": "Fed senkt Leitzins auf 3,50 bis 3,75 %",
+"t": "Zinsen",
+"k": "up",
+"quelle": "https://markets.newyorkfed.org/api/rates/unsecured/effr/search.json"
+},
+{
+"d": "2026-01-08",
+"n": "Arbeitslosigkeit sinkt auf 4,4 % (Dezember)",
+"t": "Arbeitsmarkt",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2026-02-08",
+"n": "Arbeitslosigkeit sinkt auf 4,3 % (Januar)",
+"t": "Arbeitsmarkt",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2026-02-15",
+"n": "Inflation sinkt auf 2,4 % (Januar)",
+"t": "Inflation",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2026-02-20",
+"n": "Ökonomen heben Wachstumsprognose (1,7 auf 2,1 %)",
+"t": "Prognosen",
+"k": "up",
+"quelle": "https://www.philadelphiafed.org/surveys-and-data/real-time-data-research/survey-of-professional-forecasters"
+},
+{
+"d": "2026-03-08",
+"n": "Arbeitslosigkeit steigt auf 4,4 % (Februar)",
+"t": "Arbeitsmarkt",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2026-04-08",
+"n": "Arbeitslosigkeit sinkt auf 4,3 % (März)",
+"t": "Arbeitsmarkt",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2026-04-15",
+"n": "Inflation steigt auf 3,3 % (März)",
+"t": "Inflation",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2026-05-15",
+"n": "Inflation steigt auf 3,8 % (April)",
+"t": "Inflation",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2026-05-20",
+"n": "Ökonomen senken Wachstumsprognose (2,2 auf 1,9 %)",
+"t": "Prognosen",
+"k": "down",
+"quelle": "https://www.philadelphiafed.org/surveys-and-data/real-time-data-research/survey-of-professional-forecasters"
+},
+{
+"d": "2026-06-15",
+"n": "Inflation steigt auf 4,2 % (Mai)",
+"t": "Inflation",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2026-07-08",
+"n": "Arbeitslosigkeit sinkt auf 4,2 % (Juni)",
+"t": "Arbeitsmarkt",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2026-07-15",
+"n": "Inflation sinkt auf 3,5 % (Juni)",
+"t": "Inflation",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2026-08-08",
+"n": "Arbeitslosigkeit sinkt auf 4,1 % (Juli)",
+"t": "Arbeitsmarkt",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2026-08-15",
+"n": "Inflation sinkt auf 3,4 % (Juli)",
+"t": "Inflation",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2026-08-20",
+"n": "Ökonomen heben Wachstumsprognose (1,8 auf 2,2 %)",
+"t": "Prognosen",
+"k": "up",
+"quelle": "https://www.philadelphiafed.org/surveys-and-data/real-time-data-research/survey-of-professional-forecasters"
+},
+{
+"d": "2026-09-17",
+"n": "Fed erhöht Leitzins auf 3,75 bis 4,00 %",
+"t": "Zinsen",
+"k": "down",
+"quelle": "https://markets.newyorkfed.org/api/rates/unsecured/effr/search.json"
+},
+{
+"d": "2026-10-08",
+"n": "Arbeitslosigkeit steigt auf 4,2 % (September)",
+"t": "Arbeitsmarkt",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+},
+{
+"d": "2026-10-15",
+"n": "Inflation steigt auf 3,7 % (September)",
+"t": "Inflation",
+"k": "down",
+"quelle": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"d": "2026-11-08",
+"n": "Arbeitslosigkeit sinkt auf 4,1 % (Oktober)",
+"t": "Arbeitsmarkt",
+"k": "up",
+"quelle": "https://data.bls.gov/timeseries/LNS14000000"
+}
+]
+}

@@ -1,0 +1,743 @@
+{
+"id": "enso",
+"name": "El Niño und La Niña",
+"rang": 190,
+"gruppe": "Natur",
+"ereignisse": [
+{
+"d": "2010-08-01",
+"n": "La Niña",
+"t": "Klima",
+"k": "up",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2010-09-01",
+"n": "La Niña",
+"t": "Klima",
+"k": "up",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2010-10-01",
+"n": "La Niña",
+"t": "Klima",
+"k": "up",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2010-11-01",
+"n": "La Niña",
+"t": "Klima",
+"k": "up",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2010-12-01",
+"n": "La Niña",
+"t": "Klima",
+"k": "up",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2011-01-01",
+"n": "La Niña",
+"t": "Klima",
+"k": "up",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2011-02-01",
+"n": "La Niña",
+"t": "Klima",
+"k": "up",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2011-03-01",
+"n": "La Niña",
+"t": "Klima",
+"k": "up",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2011-04-01",
+"n": "La Niña",
+"t": "Klima",
+"k": "up",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2011-05-01",
+"n": "La Niña",
+"t": "Klima",
+"k": "up",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2011-06-01",
+"n": "La Niña",
+"t": "Klima",
+"k": "up",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2011-07-01",
+"n": "La Niña",
+"t": "Klima",
+"k": "up",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2011-10-01",
+"n": "La Niña",
+"t": "Klima",
+"k": "up",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2011-11-01",
+"n": "La Niña",
+"t": "Klima",
+"k": "up",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2011-12-01",
+"n": "La Niña",
+"t": "Klima",
+"k": "up",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2012-01-01",
+"n": "La Niña",
+"t": "Klima",
+"k": "up",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2012-02-01",
+"n": "La Niña",
+"t": "Klima",
+"k": "up",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2012-03-01",
+"n": "La Niña",
+"t": "Klima",
+"k": "up",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2012-04-01",
+"n": "La Niña",
+"t": "Klima",
+"k": "up",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2014-12-01",
+"n": "El Niño",
+"t": "Klima",
+"k": "down",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2015-01-01",
+"n": "El Niño",
+"t": "Klima",
+"k": "down",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2015-02-01",
+"n": "El Niño",
+"t": "Klima",
+"k": "down",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2015-03-01",
+"n": "El Niño",
+"t": "Klima",
+"k": "down",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2015-04-01",
+"n": "El Niño",
+"t": "Klima",
+"k": "down",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2015-05-01",
+"n": "El Niño",
+"t": "Klima",
+"k": "down",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2015-06-01",
+"n": "El Niño",
+"t": "Klima",
+"k": "down",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2015-07-01",
+"n": "El Niño",
+"t": "Klima",
+"k": "down",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2015-08-01",
+"n": "El Niño",
+"t": "Klima",
+"k": "down",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2015-09-01",
+"n": "El Niño",
+"t": "Klima",
+"k": "down",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2015-10-01",
+"n": "El Niño",
+"t": "Klima",
+"k": "down",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2015-11-01",
+"n": "El Niño",
+"t": "Klima",
+"k": "down",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2015-12-01",
+"n": "El Niño",
+"t": "Klima",
+"k": "down",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2016-01-01",
+"n": "El Niño",
+"t": "Klima",
+"k": "down",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2016-02-01",
+"n": "El Niño",
+"t": "Klima",
+"k": "down",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2016-03-01",
+"n": "El Niño",
+"t": "Klima",
+"k": "down",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2016-04-01",
+"n": "El Niño",
+"t": "Klima",
+"k": "down",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2016-05-01",
+"n": "El Niño",
+"t": "Klima",
+"k": "down",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2016-06-01",
+"n": "El Niño",
+"t": "Klima",
+"k": "down",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2016-07-01",
+"n": "El Niño",
+"t": "Klima",
+"k": "down",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2016-12-01",
+"n": "La Niña",
+"t": "Klima",
+"k": "up",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2018-01-01",
+"n": "La Niña",
+"t": "Klima",
+"k": "up",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2018-02-01",
+"n": "La Niña",
+"t": "Klima",
+"k": "up",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2018-03-01",
+"n": "La Niña",
+"t": "Klima",
+"k": "up",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2018-04-01",
+"n": "La Niña",
+"t": "Klima",
+"k": "up",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2018-05-01",
+"n": "La Niña",
+"t": "Klima",
+"k": "up",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2018-11-01",
+"n": "El Niño",
+"t": "Klima",
+"k": "down",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2018-12-01",
+"n": "El Niño",
+"t": "Klima",
+"k": "down",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2019-01-01",
+"n": "El Niño",
+"t": "Klima",
+"k": "down",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2019-02-01",
+"n": "El Niño",
+"t": "Klima",
+"k": "down",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2019-03-01",
+"n": "El Niño",
+"t": "Klima",
+"k": "down",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2019-04-01",
+"n": "El Niño",
+"t": "Klima",
+"k": "down",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2019-05-01",
+"n": "El Niño",
+"t": "Klima",
+"k": "down",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2019-06-01",
+"n": "El Niño",
+"t": "Klima",
+"k": "down",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2019-07-01",
+"n": "El Niño",
+"t": "Klima",
+"k": "down",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2019-08-01",
+"n": "El Niño",
+"t": "Klima",
+"k": "down",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2019-12-01",
+"n": "El Niño",
+"t": "Klima",
+"k": "down",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2020-01-01",
+"n": "El Niño",
+"t": "Klima",
+"k": "down",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2020-02-01",
+"n": "El Niño",
+"t": "Klima",
+"k": "down",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2020-03-01",
+"n": "El Niño",
+"t": "Klima",
+"k": "down",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2020-04-01",
+"n": "El Niño",
+"t": "Klima",
+"k": "down",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2020-05-01",
+"n": "El Niño",
+"t": "Klima",
+"k": "down",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2020-11-01",
+"n": "La Niña",
+"t": "Klima",
+"k": "up",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2020-12-01",
+"n": "La Niña",
+"t": "Klima",
+"k": "up",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2021-01-01",
+"n": "La Niña",
+"t": "Klima",
+"k": "up",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2021-02-01",
+"n": "La Niña",
+"t": "Klima",
+"k": "up",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2021-03-01",
+"n": "La Niña",
+"t": "Klima",
+"k": "up",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2021-04-01",
+"n": "La Niña",
+"t": "Klima",
+"k": "up",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2021-05-01",
+"n": "La Niña",
+"t": "Klima",
+"k": "up",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2021-06-01",
+"n": "La Niña",
+"t": "Klima",
+"k": "up",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2021-11-01",
+"n": "La Niña",
+"t": "Klima",
+"k": "up",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2021-12-01",
+"n": "La Niña",
+"t": "Klima",
+"k": "up",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2022-01-01",
+"n": "La Niña",
+"t": "Klima",
+"k": "up",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2022-02-01",
+"n": "La Niña",
+"t": "Klima",
+"k": "up",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2022-03-01",
+"n": "La Niña",
+"t": "Klima",
+"k": "up",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2022-04-01",
+"n": "La Niña",
+"t": "Klima",
+"k": "up",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2022-05-01",
+"n": "La Niña",
+"t": "Klima",
+"k": "up",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2022-06-01",
+"n": "La Niña",
+"t": "Klima",
+"k": "up",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2022-07-01",
+"n": "La Niña",
+"t": "Klima",
+"k": "up",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2022-08-01",
+"n": "La Niña",
+"t": "Klima",
+"k": "up",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2022-09-01",
+"n": "La Niña",
+"t": "Klima",
+"k": "up",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2022-10-01",
+"n": "La Niña",
+"t": "Klima",
+"k": "up",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2022-11-01",
+"n": "La Niña",
+"t": "Klima",
+"k": "up",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2022-12-01",
+"n": "La Niña",
+"t": "Klima",
+"k": "up",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2023-01-01",
+"n": "La Niña",
+"t": "Klima",
+"k": "up",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2023-02-01",
+"n": "La Niña",
+"t": "Klima",
+"k": "up",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2023-03-01",
+"n": "La Niña",
+"t": "Klima",
+"k": "up",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2023-08-01",
+"n": "El Niño",
+"t": "Klima",
+"k": "down",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2023-09-01",
+"n": "El Niño",
+"t": "Klima",
+"k": "down",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2023-10-01",
+"n": "El Niño",
+"t": "Klima",
+"k": "down",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2023-11-01",
+"n": "El Niño",
+"t": "Klima",
+"k": "down",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2023-12-01",
+"n": "El Niño",
+"t": "Klima",
+"k": "down",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2024-01-01",
+"n": "El Niño",
+"t": "Klima",
+"k": "down",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2024-02-01",
+"n": "El Niño",
+"t": "Klima",
+"k": "down",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2024-03-01",
+"n": "El Niño",
+"t": "Klima",
+"k": "down",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2024-04-01",
+"n": "El Niño",
+"t": "Klima",
+"k": "down",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2024-05-01",
+"n": "El Niño",
+"t": "Klima",
+"k": "down",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2024-06-01",
+"n": "El Niño",
+"t": "Klima",
+"k": "down",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2025-12-01",
+"n": "La Niña",
+"t": "Klima",
+"k": "up",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2026-01-01",
+"n": "La Niña",
+"t": "Klima",
+"k": "up",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2026-02-01",
+"n": "La Niña",
+"t": "Klima",
+"k": "up",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2026-07-01",
+"n": "El Niño",
+"t": "Klima",
+"k": "down",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2026-08-01",
+"n": "El Niño",
+"t": "Klima",
+"k": "down",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2026-09-01",
+"n": "El Niño",
+"t": "Klima",
+"k": "down",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2026-10-01",
+"n": "El Niño",
+"t": "Klima",
+"k": "down",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+},
+{
+"d": "2026-11-01",
+"n": "El Niño",
+"t": "Klima",
+"k": "down",
+"quelle": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php"
+}
+]
+}

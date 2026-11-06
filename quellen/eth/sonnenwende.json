@@ -1,0 +1,309 @@
+{
+"id": "sonnenwende",
+"name": "Sonnenwenden",
+"rang": 223,
+"gruppe": "Religion und Tradition",
+"ereignisse": [
+{
+"d": "2010-06-21",
+"n": "Sommersonnenwende",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Solstice"
+},
+{
+"d": "2010-12-21",
+"n": "Wintersonnenwende",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Solstice"
+},
+{
+"d": "2011-06-21",
+"n": "Sommersonnenwende",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Solstice"
+},
+{
+"d": "2011-12-22",
+"n": "Wintersonnenwende",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Solstice"
+},
+{
+"d": "2012-06-20",
+"n": "Sommersonnenwende",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Solstice"
+},
+{
+"d": "2012-12-21",
+"n": "Wintersonnenwende",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Solstice"
+},
+{
+"d": "2013-06-21",
+"n": "Sommersonnenwende",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Solstice"
+},
+{
+"d": "2013-12-21",
+"n": "Wintersonnenwende",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Solstice"
+},
+{
+"d": "2014-06-21",
+"n": "Sommersonnenwende",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Solstice"
+},
+{
+"d": "2014-12-21",
+"n": "Wintersonnenwende",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Solstice"
+},
+{
+"d": "2015-06-21",
+"n": "Sommersonnenwende",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Solstice"
+},
+{
+"d": "2015-12-22",
+"n": "Wintersonnenwende",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Solstice"
+},
+{
+"d": "2016-06-20",
+"n": "Sommersonnenwende",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Solstice"
+},
+{
+"d": "2016-12-21",
+"n": "Wintersonnenwende",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Solstice"
+},
+{
+"d": "2017-06-21",
+"n": "Sommersonnenwende",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Solstice"
+},
+{
+"d": "2017-12-21",
+"n": "Wintersonnenwende",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Solstice"
+},
+{
+"d": "2018-06-21",
+"n": "Sommersonnenwende",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Solstice"
+},
+{
+"d": "2018-12-21",
+"n": "Wintersonnenwende",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Solstice"
+},
+{
+"d": "2019-06-21",
+"n": "Sommersonnenwende",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Solstice"
+},
+{
+"d": "2019-12-22",
+"n": "Wintersonnenwende",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Solstice"
+},
+{
+"d": "2020-06-20",
+"n": "Sommersonnenwende",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Solstice"
+},
+{
+"d": "2020-12-21",
+"n": "Wintersonnenwende",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Solstice"
+},
+{
+"d": "2021-06-21",
+"n": "Sommersonnenwende",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Solstice"
+},
+{
+"d": "2021-12-21",
+"n": "Wintersonnenwende",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Solstice"
+},
+{
+"d": "2022-06-21",
+"n": "Sommersonnenwende",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Solstice"
+},
+{
+"d": "2022-12-21",
+"n": "Wintersonnenwende",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Solstice"
+},
+{
+"d": "2023-06-21",
+"n": "Sommersonnenwende",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Solstice"
+},
+{
+"d": "2023-12-22",
+"n": "Wintersonnenwende",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Solstice"
+},
+{
+"d": "2024-06-20",
+"n": "Sommersonnenwende",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Solstice"
+},
+{
+"d": "2024-12-21",
+"n": "Wintersonnenwende",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Solstice"
+},
+{
+"d": "2025-06-21",
+"n": "Sommersonnenwende",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Solstice"
+},
+{
+"d": "2025-12-21",
+"n": "Wintersonnenwende",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Solstice"
+},
+{
+"d": "2026-06-21",
+"n": "Sommersonnenwende",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Solstice"
+},
+{
+"d": "2026-12-21",
+"n": "Wintersonnenwende",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Solstice"
+},
+{
+"d": "2027-06-21",
+"n": "Sommersonnenwende",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Solstice"
+},
+{
+"d": "2027-12-22",
+"n": "Wintersonnenwende",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Solstice"
+},
+{
+"d": "2028-06-20",
+"n": "Sommersonnenwende",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Solstice"
+},
+{
+"d": "2028-12-21",
+"n": "Wintersonnenwende",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Solstice"
+},
+{
+"d": "2029-06-21",
+"n": "Sommersonnenwende",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Solstice"
+},
+{
+"d": "2029-12-21",
+"n": "Wintersonnenwende",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Solstice"
+},
+{
+"d": "2030-06-21",
+"n": "Sommersonnenwende",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Solstice"
+},
+{
+"d": "2030-12-21",
+"n": "Wintersonnenwende",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Solstice"
+},
+{
+"d": "2031-06-21",
+"n": "Sommersonnenwende",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Solstice"
+}
+]
+}

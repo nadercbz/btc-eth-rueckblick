@@ -1,0 +1,1939 @@
+{
+"id": "popkultur",
+"name": "Pop Kultur",
+"rang": 3,
+"ereignisse": [
+{
+"d": "2010-09-14",
+"n": "Spiel: Halo: Reach, Krieg und Untergang",
+"t": "Spiel",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Halo:_Reach"
+},
+{
+"d": "2010-09-18",
+"n": "Spiel: Pokémon Schwarz und Weiß, Abenteuer",
+"t": "Spiel",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Black_and_White"
+},
+{
+"d": "2010-09-24",
+"n": "Film: Wall Street: Money Never Sleeps, Finanzkrise",
+"t": "Film",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/Wall_Street:_Money_Never_Sleeps"
+},
+{
+"d": "2010-10-01",
+"n": "Film: The Social Network, Aufstieg von Facebook",
+"t": "Film",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/The_Social_Network"
+},
+{
+"d": "2010-11-09",
+"n": "Spiel: Call of Duty: Black Ops, Kalter Krieg",
+"t": "Spiel",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Call_of_Duty:_Black_Ops"
+},
+{
+"d": "2010-11-19",
+"n": "Film: Harry Potter and the Deathly Hallows Part 1, Flucht und Krieg",
+"t": "Film",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Deathly_Hallows_%E2%80%93_Part_1"
+},
+{
+"d": "2010-11-24",
+"n": "Film: Tangled, Märchen und Abenteuer",
+"t": "Film",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Tangled"
+},
+{
+"d": "2010-12-17",
+"n": "Film: Tron: Legacy, digitale Welt",
+"t": "Film",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/Tron:_Legacy"
+},
+{
+"d": "2011-04-01",
+"n": "Film: Source Code, Simulation und Zeitschleife",
+"t": "Film",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/Source_Code"
+},
+{
+"d": "2011-04-29",
+"n": "Film: Fast Five, Raubzug und Familie",
+"t": "Film",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Fast_Five"
+},
+{
+"d": "2011-05-20",
+"n": "Film: Pirates of the Caribbean: On Stranger Tides, Abenteuer",
+"t": "Film",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean:_On_Stranger_Tides"
+},
+{
+"d": "2011-05-26",
+"n": "Film: Kung Fu Panda 2, Held und Familie",
+"t": "Film",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Kung_Fu_Panda_2"
+},
+{
+"d": "2011-05-26",
+"n": "Film: The Hangover Part II, Komödie mit Chaos",
+"t": "Film",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/The_Hangover_Part_II"
+},
+{
+"d": "2011-06-24",
+"n": "Film: Cars 2, Spionage Abenteuer",
+"t": "Film",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Cars_2"
+},
+{
+"d": "2011-06-29",
+"n": "Film: Transformers: Dark of the Moon, Roboterkrieg",
+"t": "Film",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Transformers:_Dark_of_the_Moon"
+},
+{
+"d": "2011-07-15",
+"n": "Film: Harry Potter and the Deathly Hallows Part 2, finale Schlacht",
+"t": "Film",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Deathly_Hallows_%E2%80%93_Part_2"
+},
+{
+"d": "2011-07-29",
+"n": "Film: The Smurfs, Familienkomödie",
+"t": "Film",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/The_Smurfs_(film)"
+},
+{
+"d": "2011-10-07",
+"n": "Film: Real Steel, Boxroboter",
+"t": "Film",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Real_Steel"
+},
+{
+"d": "2011-10-25",
+"n": "Spiel: Battlefield 3, Krieg",
+"t": "Spiel",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Battlefield_3"
+},
+{
+"d": "2011-10-28",
+"n": "Film: In Time, Zeit als Währung",
+"t": "Film",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/In_Time_(film)"
+},
+{
+"d": "2011-11-08",
+"n": "Spiel: Call of Duty: Modern Warfare 3, Krieg",
+"t": "Spiel",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Call_of_Duty:_Modern_Warfare_3"
+},
+{
+"d": "2011-11-11",
+"n": "Spiel: The Elder Scrolls V: Skyrim, Fantasy Abenteuer",
+"t": "Spiel",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/The_Elder_Scrolls_V:_Skyrim"
+},
+{
+"d": "2011-11-18",
+"n": "Film: The Twilight Saga: Breaking Dawn Part 1, Hochzeit und Familie",
+"t": "Film",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/The_Twilight_Saga:_Breaking_Dawn_%E2%80%93_Part_1"
+},
+{
+"d": "2011-12-21",
+"n": "Film: Mission: Impossible, Ghost Protocol, Agenten Thriller",
+"t": "Film",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/Mission:_Impossible_%E2%80%93_Ghost_Protocol"
+},
+{
+"d": "2012-03-23",
+"n": "Film: The Hunger Games, Kampf auf Leben und Tod",
+"t": "Film",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/The_Hunger_Games_(film)"
+},
+{
+"d": "2012-05-04",
+"n": "Film: The Avengers, Helden siegen",
+"t": "Film",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/The_Avengers_(2012_film)"
+},
+{
+"d": "2012-05-15",
+"n": "Spiel: Diablo III, Kampf gegen die Hölle",
+"t": "Spiel",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Diablo_III"
+},
+{
+"d": "2012-05-25",
+"n": "Film: Men in Black 3, Zeitreise Komödie",
+"t": "Film",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/Men_in_Black_3"
+},
+{
+"d": "2012-06-08",
+"n": "Film: Madagascar 3, Zirkus Komödie",
+"t": "Film",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Madagascar_3:_Europe%27s_Most_Wanted"
+},
+{
+"d": "2012-07-03",
+"n": "Film: The Amazing Spider-Man, Held mit Verlust",
+"t": "Film",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/The_Amazing_Spider-Man_(film)"
+},
+{
+"d": "2012-07-13",
+"n": "Film: Ice Age: Continental Drift, Komödie und Familie",
+"t": "Film",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Ice_Age:_Continental_Drift"
+},
+{
+"d": "2012-07-20",
+"n": "Film: The Dark Knight Rises, Bane und Gothams Fall",
+"t": "Film",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/The_Dark_Knight_Rises"
+},
+{
+"d": "2012-09-25",
+"n": "Spiel: FIFA 13, Fußball",
+"t": "Spiel",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/FIFA_13"
+},
+{
+"d": "2012-11-02",
+"n": "Film: Wreck-It Ralph, digitale Spielwelt",
+"t": "Film",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Wreck-It_Ralph"
+},
+{
+"d": "2012-11-09",
+"n": "Film: Skyfall, Agenten Thriller mit Rache",
+"t": "Film",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/Skyfall"
+},
+{
+"d": "2012-11-13",
+"n": "Spiel: Call of Duty: Black Ops II, Krieg",
+"t": "Spiel",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Call_of_Duty:_Black_Ops_II"
+},
+{
+"d": "2012-11-16",
+"n": "Film: The Twilight Saga: Breaking Dawn Part 2, finaler Showdown",
+"t": "Film",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/The_Twilight_Saga:_Breaking_Dawn_%E2%80%93_Part_2"
+},
+{
+"d": "2012-12-14",
+"n": "Film: The Hobbit: An Unexpected Journey, Abenteuer",
+"t": "Film",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/The_Hobbit:_An_Unexpected_Journey"
+},
+{
+"d": "2013-05-03",
+"n": "Film: Iron Man 3, Held und Terror",
+"t": "Film",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/Iron_Man_3"
+},
+{
+"d": "2013-05-24",
+"n": "Film: Fast & Furious 6, Familie und Rennen",
+"t": "Film",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Fast_%26_Furious_6"
+},
+{
+"d": "2013-06-14",
+"n": "Film: Man of Steel, Invasion und Zerstörung",
+"t": "Film",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/Man_of_Steel_(film)"
+},
+{
+"d": "2013-06-21",
+"n": "Film: Monsters University, Campus Komödie",
+"t": "Film",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Monsters_University"
+},
+{
+"d": "2013-07-03",
+"n": "Film: Despicable Me 2, Komödie und Familie",
+"t": "Film",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Despicable_Me_2"
+},
+{
+"d": "2013-09-17",
+"n": "Spiel: Grand Theft Auto V, Verbrechen und Reichtum",
+"t": "Spiel",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_V"
+},
+{
+"d": "2013-10-04",
+"n": "Film: Gravity, Überleben im All",
+"t": "Film",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/Gravity_(2013_film)"
+},
+{
+"d": "2013-10-12",
+"n": "Spiel: Pokémon X und Y, Abenteuer",
+"t": "Spiel",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_X_and_Y"
+},
+{
+"d": "2013-11-05",
+"n": "Spiel: Call of Duty: Ghosts, Krieg",
+"t": "Spiel",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Call_of_Duty:_Ghosts"
+},
+{
+"d": "2013-11-08",
+"n": "Film: Thor: The Dark World, Dunkelelfen und Abenteuer",
+"t": "Film",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/Thor:_The_Dark_World"
+},
+{
+"d": "2013-11-22",
+"n": "Film: The Hunger Games: Catching Fire, Spiele und Rebellion",
+"t": "Film",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/The_Hunger_Games:_Catching_Fire"
+},
+{
+"d": "2013-11-27",
+"n": "Film: Frozen, Schwestern und Märchen",
+"t": "Film",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Frozen_(2013_film)"
+},
+{
+"d": "2013-12-13",
+"n": "Film: The Hobbit: The Desolation of Smaug, Drache und Krieg droht",
+"t": "Film",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/The_Hobbit:_The_Desolation_of_Smaug"
+},
+{
+"d": "2013-12-25",
+"n": "Film: The Wolf of Wall Street, Börse und Gier",
+"t": "Film",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/The_Wolf_of_Wall_Street_(2013_film)"
+},
+{
+"d": "2014-02-12",
+"n": "Film: RoboCop, Cyborg Polizist",
+"t": "Film",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/RoboCop_(2014_film)"
+},
+{
+"d": "2014-04-04",
+"n": "Film: Captain America: The Winter Soldier, Verschwörung",
+"t": "Film",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/Captain_America:_The_Winter_Soldier"
+},
+{
+"d": "2014-04-18",
+"n": "Film: Transcendence, künstliche Intelligenz",
+"t": "Film",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/Transcendence_(2014_film)"
+},
+{
+"d": "2014-05-02",
+"n": "Film: The Amazing Spider-Man 2, Tragödie und Schurken",
+"t": "Film",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/The_Amazing_Spider-Man_2"
+},
+{
+"d": "2014-05-23",
+"n": "Film: X-Men: Days of Future Past, düstere Zukunft, Zeitreise",
+"t": "Film",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/X-Men:_Days_of_Future_Past"
+},
+{
+"d": "2014-05-30",
+"n": "Film: Maleficent, Fluch und Liebe",
+"t": "Film",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/Maleficent_(film)"
+},
+{
+"d": "2014-05-30",
+"n": "Spiel: Mario Kart 8, Rennspaß",
+"t": "Spiel",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Mario_Kart_8"
+},
+{
+"d": "2014-06-27",
+"n": "Film: Transformers: Age of Extinction, Roboterkrieg",
+"t": "Film",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Transformers:_Age_of_Extinction"
+},
+{
+"d": "2014-07-11",
+"n": "Film: Dawn of the Planet of the Apes, Krieg Affen gegen Menschen",
+"t": "Film",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Dawn_of_the_Planet_of_the_Apes"
+},
+{
+"d": "2014-08-01",
+"n": "Film: Guardians of the Galaxy, Außenseiter retten die Galaxie",
+"t": "Film",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_(film)"
+},
+{
+"d": "2014-09-09",
+"n": "Spiel: Destiny, Kampf um die letzte Stadt",
+"t": "Spiel",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/Destiny_(video_game)"
+},
+{
+"d": "2014-11-04",
+"n": "Spiel: Call of Duty: Advanced Warfare, Krieg",
+"t": "Spiel",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Call_of_Duty:_Advanced_Warfare"
+},
+{
+"d": "2014-11-07",
+"n": "Film: Interstellar, Aufbruch der Menschheit",
+"t": "Film",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/Interstellar_(film)"
+},
+{
+"d": "2014-11-07",
+"n": "Film: Big Hero 6, Roboter und Technik",
+"t": "Film",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Big_Hero_6_(film)"
+},
+{
+"d": "2014-11-21",
+"n": "Film: The Hunger Games: Mockingjay Part 1, Krieg und Rebellion",
+"t": "Film",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/The_Hunger_Games:_Mockingjay_%E2%80%93_Part_1"
+},
+{
+"d": "2014-12-17",
+"n": "Film: The Hobbit: The Battle of the Five Armies, Schlacht um den Berg",
+"t": "Film",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/The_Hobbit:_The_Battle_of_the_Five_Armies"
+},
+{
+"d": "2015-03-06",
+"n": "Film: Chappie, KI Roboter",
+"t": "Film",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/Chappie_(film)"
+},
+{
+"d": "2015-04-03",
+"n": "Film: Furious 7, Familie und Abschied",
+"t": "Film",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Furious_7"
+},
+{
+"d": "2015-05-01",
+"n": "Film: Avengers: Age of Ultron, Ultron und Weltzerstörung",
+"t": "Film",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/Avengers:_Age_of_Ultron"
+},
+{
+"d": "2015-05-22",
+"n": "Film: Tomorrowland, Zukunftstechnik",
+"t": "Film",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Tomorrowland_(film)"
+},
+{
+"d": "2015-06-12",
+"n": "Film: Jurassic World, Freizeitpark und Dinos",
+"t": "Film",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/Jurassic_World"
+},
+{
+"d": "2015-06-19",
+"n": "Film: Inside Out, Gefühle und Familie",
+"t": "Film",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Inside_Out_(2015_film)"
+},
+{
+"d": "2015-07-01",
+"n": "Film: Terminator Genisys, KI Skynet",
+"t": "Film",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Terminator_Genisys"
+},
+{
+"d": "2015-07-10",
+"n": "Film: Minions, Komödie",
+"t": "Film",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Minions_(film)"
+},
+{
+"d": "2015-07-24",
+"n": "Film: Pixels, Videospiele greifen an",
+"t": "Film",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/Pixels_(2015_film)"
+},
+{
+"d": "2015-07-31",
+"n": "Film: Mission: Impossible, Rogue Nation, Agenten Thriller",
+"t": "Film",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/Mission:_Impossible_%E2%80%93_Rogue_Nation"
+},
+{
+"d": "2015-10-02",
+"n": "Film: The Martian, Überleben und Rettung",
+"t": "Film",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/The_Martian_(film)"
+},
+{
+"d": "2015-11-06",
+"n": "Film: Spectre, Agenten Thriller",
+"t": "Film",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/Spectre_(2015_film)"
+},
+{
+"d": "2015-11-06",
+"n": "Spiel: Call of Duty: Black Ops III, Krieg",
+"t": "Spiel",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Call_of_Duty:_Black_Ops_III"
+},
+{
+"d": "2015-11-10",
+"n": "Spiel: Fallout 4, Endzeit Welt",
+"t": "Spiel",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Fallout_4"
+},
+{
+"d": "2015-11-17",
+"n": "Spiel: Star Wars Battlefront, Krieg",
+"t": "Spiel",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Star_Wars_Battlefront_(2015_video_game)"
+},
+{
+"d": "2015-11-20",
+"n": "Film: The Hunger Games: Mockingjay Part 2, Krieg und Opfer",
+"t": "Film",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/The_Hunger_Games:_Mockingjay_%E2%80%93_Part_2"
+},
+{
+"d": "2015-12-18",
+"n": "Film: Star Wars: The Force Awakens, Krieg und neue Hoffnung",
+"t": "Film",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/Star_Wars:_The_Force_Awakens"
+},
+{
+"d": "2015-12-23",
+"n": "Film: The Big Short, Finanzkrise",
+"t": "Film",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/The_Big_Short_(film)"
+},
+{
+"d": "2016-02-12",
+"n": "Film: Deadpool, Antiheld und Rache",
+"t": "Film",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/Deadpool_(film)"
+},
+{
+"d": "2016-03-04",
+"n": "Film: Zootopia, Komödie mit Hoffnung",
+"t": "Film",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Zootopia"
+},
+{
+"d": "2016-03-25",
+"n": "Film: Batman v Superman: Dawn of Justice, Kampf der Helden, Tod",
+"t": "Film",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Batman_v_Superman:_Dawn_of_Justice"
+},
+{
+"d": "2016-04-15",
+"n": "Film: The Jungle Book, Abenteuer im Dschungel",
+"t": "Film",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/The_Jungle_Book_(2016_film)"
+},
+{
+"d": "2016-05-06",
+"n": "Film: Captain America: Civil War, Helden im Streit",
+"t": "Film",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/Captain_America:_Civil_War"
+},
+{
+"d": "2016-05-10",
+"n": "Spiel: Uncharted 4: A Thief's End, Schatzsuche und Abenteuer",
+"t": "Spiel",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Uncharted_4:_A_Thief%27s_End"
+},
+{
+"d": "2016-05-24",
+"n": "Spiel: Overwatch, Helden Teamkampf",
+"t": "Spiel",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/Overwatch_(video_game)"
+},
+{
+"d": "2016-06-17",
+"n": "Film: Finding Dory, Familie und Suche",
+"t": "Film",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Finding_Dory"
+},
+{
+"d": "2016-07-08",
+"n": "Film: The Secret Life of Pets, Komödie",
+"t": "Film",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/The_Secret_Life_of_Pets"
+},
+{
+"d": "2016-08-05",
+"n": "Film: Suicide Squad, Schurken im Einsatz",
+"t": "Film",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/Suicide_Squad_(film)"
+},
+{
+"d": "2016-11-18",
+"n": "Film: Fantastic Beasts and Where to Find Them, Zauberwesen und Gefahr",
+"t": "Film",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/Fantastic_Beasts_and_Where_to_Find_Them_(film)"
+},
+{
+"d": "2016-11-18",
+"n": "Spiel: Pokémon Sonne und Mond, Abenteuer",
+"t": "Spiel",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Sun_and_Moon"
+},
+{
+"d": "2016-12-16",
+"n": "Film: Rogue One: A Star Wars Story, Krieg und Opfer",
+"t": "Film",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Rogue_One"
+},
+{
+"d": "2016-12-21",
+"n": "Film: Assassin's Creed, Animus Simulation",
+"t": "Film",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/Assassin%27s_Creed_(film)"
+},
+{
+"d": "2017-03-03",
+"n": "Spiel: The Legend of Zelda: Breath of the Wild, offene Welt",
+"t": "Spiel",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Breath_of_the_Wild"
+},
+{
+"d": "2017-03-17",
+"n": "Film: Beauty and the Beast, Märchen und Liebe",
+"t": "Film",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Beauty_and_the_Beast_(2017_film)"
+},
+{
+"d": "2017-03-31",
+"n": "Film: Ghost in the Shell, Cyber Welt",
+"t": "Film",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/Ghost_in_the_Shell_(2017_film)"
+},
+{
+"d": "2017-04-14",
+"n": "Film: The Fate of the Furious, Familie und Verrat",
+"t": "Film",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/The_Fate_of_the_Furious"
+},
+{
+"d": "2017-05-05",
+"n": "Film: Guardians of the Galaxy Vol. 2, Familie im All",
+"t": "Film",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_Vol._2"
+},
+{
+"d": "2017-06-02",
+"n": "Film: Wonder Woman, Heldin im Ersten Weltkrieg",
+"t": "Film",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/Wonder_Woman_(2017_film)"
+},
+{
+"d": "2017-06-30",
+"n": "Film: Despicable Me 3, Komödie und Familie",
+"t": "Film",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Despicable_Me_3"
+},
+{
+"d": "2017-07-07",
+"n": "Film: Spider-Man: Homecoming, junger Held",
+"t": "Film",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Spider-Man:_Homecoming"
+},
+{
+"d": "2017-07-27",
+"n": "Film: Wolf Warrior 2, Actionfilm im Bürgerkrieg (China Start)",
+"t": "Film",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/Wolf_Warrior_2"
+},
+{
+"d": "2017-10-06",
+"n": "Film: Blade Runner 2049, Replikanten und KI",
+"t": "Film",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Blade_Runner_2049"
+},
+{
+"d": "2017-10-27",
+"n": "Spiel: Super Mario Odyssey, Reise um die Welt",
+"t": "Spiel",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Super_Mario_Odyssey"
+},
+{
+"d": "2017-11-03",
+"n": "Film: Thor: Ragnarok, Untergang Asgards mit Humor",
+"t": "Film",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/Thor:_Ragnarok"
+},
+{
+"d": "2017-11-03",
+"n": "Spiel: Call of Duty: WWII, Krieg",
+"t": "Spiel",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Call_of_Duty:_WWII"
+},
+{
+"d": "2017-12-15",
+"n": "Film: Star Wars: The Last Jedi, Widerstand am Abgrund",
+"t": "Film",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/Star_Wars:_The_Last_Jedi"
+},
+{
+"d": "2017-12-20",
+"n": "Film: Jumanji: Welcome to the Jungle, Spielwelt Abenteuer",
+"t": "Film",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Jumanji:_Welcome_to_the_Jungle"
+},
+{
+"d": "2018-02-16",
+"n": "Film: Black Panther, Wakanda öffnet sich",
+"t": "Film",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Black_Panther_(film)"
+},
+{
+"d": "2018-03-29",
+"n": "Film: Ready Player One, virtuelle Welt",
+"t": "Film",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Ready_Player_One_(film)"
+},
+{
+"d": "2018-04-27",
+"n": "Film: Avengers: Infinity War, Thanos siegt",
+"t": "Film",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Avengers:_Infinity_War"
+},
+{
+"d": "2018-05-18",
+"n": "Film: Deadpool 2, Antiheld und Komödie",
+"t": "Film",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/Deadpool_2"
+},
+{
+"d": "2018-06-15",
+"n": "Film: Incredibles 2, Familie und Helden",
+"t": "Film",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Incredibles_2"
+},
+{
+"d": "2018-06-22",
+"n": "Film: Jurassic World: Fallen Kingdom, Vulkan und Rettung",
+"t": "Film",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/Jurassic_World:_Fallen_Kingdom"
+},
+{
+"d": "2018-07-27",
+"n": "Film: Mission: Impossible, Fallout, Agenten Thriller",
+"t": "Film",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/Mission:_Impossible_%E2%80%93_Fallout"
+},
+{
+"d": "2018-10-05",
+"n": "Film: Venom, Antiheld",
+"t": "Film",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/Venom_(2018_film)"
+},
+{
+"d": "2018-10-12",
+"n": "Spiel: Call of Duty: Black Ops 4, Krieg",
+"t": "Spiel",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Call_of_Duty:_Black_Ops_4"
+},
+{
+"d": "2018-10-26",
+"n": "Spiel: Red Dead Redemption 2, Ende der Outlaw Zeit",
+"t": "Spiel",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Red_Dead_Redemption_2"
+},
+{
+"d": "2018-11-02",
+"n": "Film: Bohemian Rhapsody, Aufstieg und Tod",
+"t": "Film",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/Bohemian_Rhapsody_(film)"
+},
+{
+"d": "2018-11-16",
+"n": "Film: Fantastic Beasts: The Crimes of Grindelwald, dunkler Magier",
+"t": "Film",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/Fantastic_Beasts:_The_Crimes_of_Grindelwald"
+},
+{
+"d": "2018-11-21",
+"n": "Film: Ralph Breaks the Internet, digitale Welt",
+"t": "Film",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Ralph_Breaks_the_Internet"
+},
+{
+"d": "2018-12-07",
+"n": "Spiel: Super Smash Bros. Ultimate, Kampfspiel Crossover",
+"t": "Spiel",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/Super_Smash_Bros._Ultimate"
+},
+{
+"d": "2018-12-21",
+"n": "Film: Aquaman, Thronkampf um Atlantis",
+"t": "Film",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/Aquaman_(film)"
+},
+{
+"d": "2019-02-14",
+"n": "Film: Alita: Battle Angel, Cyborg Welt",
+"t": "Film",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/Alita:_Battle_Angel"
+},
+{
+"d": "2019-03-08",
+"n": "Film: Captain Marvel, Heldin steigt auf",
+"t": "Film",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Captain_Marvel_(film)"
+},
+{
+"d": "2019-04-23",
+"n": "Spiel: Mortal Kombat 11, brutaler Kampf",
+"t": "Spiel",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Mortal_Kombat_11"
+},
+{
+"d": "2019-04-26",
+"n": "Film: Avengers: Endgame, Helden siegen mit Verlust",
+"t": "Film",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/Avengers:_Endgame"
+},
+{
+"d": "2019-05-24",
+"n": "Film: Aladdin, Märchen und Liebe",
+"t": "Film",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Aladdin_(2019_film)"
+},
+{
+"d": "2019-06-21",
+"n": "Film: Toy Story 4, Freundschaft und Abschied",
+"t": "Film",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Toy_Story_4"
+},
+{
+"d": "2019-07-02",
+"n": "Film: Spider-Man: Far From Home, Held nach Verlust",
+"t": "Film",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/Spider-Man:_Far_From_Home"
+},
+{
+"d": "2019-07-19",
+"n": "Film: The Lion King, Familie und Thronsieg",
+"t": "Film",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/The_Lion_King_(2019_film)"
+},
+{
+"d": "2019-10-04",
+"n": "Film: Joker, Abstieg in den Wahnsinn",
+"t": "Film",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Joker_(2019_film)"
+},
+{
+"d": "2019-10-25",
+"n": "Spiel: Call of Duty: Modern Warfare, Krieg",
+"t": "Spiel",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Call_of_Duty:_Modern_Warfare_(2019_video_game)"
+},
+{
+"d": "2019-11-01",
+"n": "Film: Terminator: Dark Fate, Maschinenkrieg",
+"t": "Film",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Terminator:_Dark_Fate"
+},
+{
+"d": "2019-11-15",
+"n": "Spiel: Pokémon Schwert und Schild, Abenteuer",
+"t": "Spiel",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Sword_and_Shield"
+},
+{
+"d": "2019-11-22",
+"n": "Film: Frozen II, Schwestern und Abenteuer",
+"t": "Film",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Frozen_II"
+},
+{
+"d": "2019-12-13",
+"n": "Film: Jumanji: The Next Level, Spielwelt Abenteuer",
+"t": "Film",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Jumanji:_The_Next_Level"
+},
+{
+"d": "2019-12-20",
+"n": "Film: Star Wars: The Rise of Skywalker, finaler Kampf",
+"t": "Film",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/Star_Wars:_The_Rise_of_Skywalker"
+},
+{
+"d": "2020-01-17",
+"n": "Film: Bad Boys for Life, Polizei Action Komödie",
+"t": "Film",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/Bad_Boys_for_Life"
+},
+{
+"d": "2020-01-17",
+"n": "Film: Dolittle, Tierabenteuer",
+"t": "Film",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Dolittle_(film)"
+},
+{
+"d": "2020-02-14",
+"n": "Film: Sonic the Hedgehog, Abenteuer und Freundschaft",
+"t": "Film",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_(film)"
+},
+{
+"d": "2020-03-20",
+"n": "Spiel: Animal Crossing: New Horizons, Inselleben",
+"t": "Spiel",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Animal_Crossing:_New_Horizons"
+},
+{
+"d": "2020-08-21",
+"n": "Film: The Eight Hundred, Kriegsfilm, Shanghai (China Start)",
+"t": "Film",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/The_Eight_Hundred"
+},
+{
+"d": "2020-09-03",
+"n": "Film: Tenet, Zeitkrieg gegen die Zukunft",
+"t": "Film",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/Tenet_(film)"
+},
+{
+"d": "2020-10-01",
+"n": "Film: My People, My Homeland, Episodenkomödie (China Start)",
+"t": "Film",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/My_People,_My_Homeland"
+},
+{
+"d": "2020-10-01",
+"n": "Film: Jiang Ziya, Götter und Dämonen (China Start)",
+"t": "Film",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/Jiang_Ziya_(film)"
+},
+{
+"d": "2020-10-16",
+"n": "Film: Demon Slayer: Mugen Train, Kampf und Verlust (Japan Start)",
+"t": "Film",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/Demon_Slayer:_Kimetsu_no_Yaiba_%E2%80%93_The_Movie:_Mugen_Train"
+},
+{
+"d": "2020-11-13",
+"n": "Spiel: Call of Duty: Black Ops Cold War, Kalter Krieg",
+"t": "Spiel",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Call_of_Duty:_Black_Ops_Cold_War"
+},
+{
+"d": "2020-12-10",
+"n": "Spiel: Cyberpunk 2077, dunkle Zukunft",
+"t": "Spiel",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Cyberpunk_2077"
+},
+{
+"d": "2020-12-24",
+"n": "Film: Shock Wave 2, Bombenentschärfer (China Start)",
+"t": "Film",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/Shock_Wave_2"
+},
+{
+"d": "2020-12-31",
+"n": "Film: A Little Red Flower, Familiendrama (China Start)",
+"t": "Film",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/A_Little_Red_Flower"
+},
+{
+"d": "2021-02-12",
+"n": "Film: Hi, Mom, Familienkomödie (China Start)",
+"t": "Film",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Hi,_Mom_(2021_film)"
+},
+{
+"d": "2021-02-12",
+"n": "Film: Detective Chinatown 3, Krimikomödie (China Start)",
+"t": "Film",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/Detective_Chinatown_3"
+},
+{
+"d": "2021-03-26",
+"n": "Spiel: Monster Hunter Rise, Jagd Abenteuer",
+"t": "Spiel",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/Monster_Hunter_Rise"
+},
+{
+"d": "2021-03-31",
+"n": "Film: Godzilla vs. Kong, Titanen im Kampf",
+"t": "Film",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/Godzilla_vs._Kong"
+},
+{
+"d": "2021-05-07",
+"n": "Spiel: Resident Evil Village, Horror",
+"t": "Spiel",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Resident_Evil_Village"
+},
+{
+"d": "2021-06-25",
+"n": "Film: F9, Familie und Rennen",
+"t": "Film",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/F9_(film)"
+},
+{
+"d": "2021-07-16",
+"n": "Film: Space Jam: A New Legacy, digitale Serverwelt",
+"t": "Film",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/Space_Jam:_A_New_Legacy"
+},
+{
+"d": "2021-08-13",
+"n": "Film: Free Guy, Videospielwelt",
+"t": "Film",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Free_Guy"
+},
+{
+"d": "2021-09-03",
+"n": "Film: Shang-Chi and the Legend of the Ten Rings, Heldenreise",
+"t": "Film",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Shang-Chi_and_the_Legend_of_the_Ten_Rings"
+},
+{
+"d": "2021-09-30",
+"n": "Film: The Battle at Lake Changjin, Kriegsfilm Korea (China Start)",
+"t": "Film",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/The_Battle_at_Lake_Changjin"
+},
+{
+"d": "2021-10-01",
+"n": "Film: Venom: Let There Be Carnage, Antiheld gegen Schurken",
+"t": "Film",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/Venom:_Let_There_Be_Carnage"
+},
+{
+"d": "2021-10-08",
+"n": "Film: No Time to Die, Bond und Abschied",
+"t": "Film",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/No_Time_to_Die"
+},
+{
+"d": "2021-10-22",
+"n": "Film: Dune, Krieg um Arrakis, Verrat",
+"t": "Film",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Dune_(2021_film)"
+},
+{
+"d": "2021-11-19",
+"n": "Spiel: Pokémon Strahlender Diamant und Leuchtende Perle, Abenteuer",
+"t": "Spiel",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Brilliant_Diamond_and_Shining_Pearl"
+},
+{
+"d": "2021-12-17",
+"n": "Film: Spider-Man: No Way Home, Multiversum und Verlust",
+"t": "Film",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/Spider-Man:_No_Way_Home"
+},
+{
+"d": "2021-12-22",
+"n": "Film: The Matrix Resurrections, virtuelle Realität",
+"t": "Film",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/The_Matrix_Resurrections"
+},
+{
+"d": "2022-02-01",
+"n": "Film: The Battle at Lake Changjin II, Kriegsfilm (China Start)",
+"t": "Film",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/2022_in_film"
+},
+{
+"d": "2022-02-25",
+"n": "Spiel: Elden Ring, düstere Fantasy Welt",
+"t": "Spiel",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Elden_Ring"
+},
+{
+"d": "2022-03-04",
+"n": "Film: The Batman, dunkler Krimi in Gotham",
+"t": "Film",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/2022_in_film"
+},
+{
+"d": "2022-05-06",
+"n": "Film: Doctor Strange in the Multiverse of Madness, Hexenwut",
+"t": "Film",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/2022_in_film"
+},
+{
+"d": "2022-05-27",
+"n": "Film: Top Gun: Maverick, Helden siegen",
+"t": "Film",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/2022_in_film"
+},
+{
+"d": "2022-06-10",
+"n": "Film: Jurassic World Dominion, Dinos und Heuschreckenplage",
+"t": "Film",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/2022_in_film"
+},
+{
+"d": "2022-07-01",
+"n": "Film: Minions: The Rise of Gru, Komödie",
+"t": "Film",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/2022_in_film"
+},
+{
+"d": "2022-07-08",
+"n": "Film: Thor: Love and Thunder, Göttermörder und Verlust",
+"t": "Film",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/2022_in_film"
+},
+{
+"d": "2022-10-28",
+"n": "Spiel: Call of Duty: Modern Warfare II, Krieg",
+"t": "Spiel",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Call_of_Duty:_Modern_Warfare_II_(2022_video_game)"
+},
+{
+"d": "2022-11-11",
+"n": "Film: Black Panther: Wakanda Forever, Trauer und Krieg",
+"t": "Film",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/2022_in_film"
+},
+{
+"d": "2022-11-18",
+"n": "Spiel: Pokémon Karmesin und Purpur, Abenteuer",
+"t": "Spiel",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Scarlet_and_Violet"
+},
+{
+"d": "2022-12-16",
+"n": "Film: Avatar: The Way of Water, Familie und Krieg",
+"t": "Film",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/2022_in_film"
+},
+{
+"d": "2022-12-21",
+"n": "Film: Puss in Boots: The Last Wish, Abenteuer",
+"t": "Film",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/2022_in_film"
+},
+{
+"d": "2023-01-06",
+"n": "Film: M3GAN, Killer Puppe mit KI",
+"t": "Film",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/M3GAN"
+},
+{
+"d": "2023-01-22",
+"n": "Film: Full River Red, Intrige im Song Krieg (China Start)",
+"t": "Film",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/2023_in_film"
+},
+{
+"d": "2023-01-22",
+"n": "Film: The Wandering Earth 2, Apokalypse (China Start)",
+"t": "Film",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/2023_in_film"
+},
+{
+"d": "2023-02-10",
+"n": "Spiel: Hogwarts Legacy, Zauberschule Abenteuer",
+"t": "Spiel",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Hogwarts_Legacy"
+},
+{
+"d": "2023-04-05",
+"n": "Film: The Super Mario Bros. Movie, Abenteuer",
+"t": "Film",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/2023_in_film"
+},
+{
+"d": "2023-05-05",
+"n": "Film: Guardians of the Galaxy Vol. 3, Familie und Leid",
+"t": "Film",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/2023_in_film"
+},
+{
+"d": "2023-05-12",
+"n": "Spiel: Zelda: Tears of the Kingdom, Abenteuer",
+"t": "Spiel",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Tears_of_the_Kingdom"
+},
+{
+"d": "2023-05-19",
+"n": "Film: Fast X, Familie gegen Rache",
+"t": "Film",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/2023_in_film"
+},
+{
+"d": "2023-06-02",
+"n": "Film: Spider-Man: Across the Spider-Verse, Multiversum",
+"t": "Film",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/2023_in_film"
+},
+{
+"d": "2023-07-12",
+"n": "Film: Mission: Impossible Dead Reckoning, KI Bedrohung",
+"t": "Film",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/2023_in_film"
+},
+{
+"d": "2023-07-21",
+"n": "Film: Barbie, bunter Aufbruch",
+"t": "Film",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/2023_in_film"
+},
+{
+"d": "2023-07-21",
+"n": "Film: Oppenheimer, die Atombombe",
+"t": "Film",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/2023_in_film"
+},
+{
+"d": "2023-09-29",
+"n": "Film: The Creator, Krieg zwischen Mensch und KI",
+"t": "Film",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/The_Creator_(2023_film)"
+},
+{
+"d": "2023-10-20",
+"n": "Spiel: Super Mario Bros. Wonder, Abenteuer",
+"t": "Spiel",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Super_Mario_Bros._Wonder"
+},
+{
+"d": "2023-12-15",
+"n": "Film: Wonka, Aufstieg eines Träumers",
+"t": "Film",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/2023_in_film"
+},
+{
+"d": "2024-01-19",
+"n": "Spiel: Palworld, Survival mit Monstern",
+"t": "Spiel",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/Palworld"
+},
+{
+"d": "2024-02-08",
+"n": "Spiel: Helldivers 2, Krieg gegen Aliens",
+"t": "Spiel",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Helldivers_2"
+},
+{
+"d": "2024-03-01",
+"n": "Film: Dune: Part Two, heiliger Krieg",
+"t": "Film",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/2024_in_film"
+},
+{
+"d": "2024-03-08",
+"n": "Film: Kung Fu Panda 4, Abenteuer",
+"t": "Film",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/2024_in_film"
+},
+{
+"d": "2024-03-29",
+"n": "Film: Godzilla x Kong: The New Empire, Monsterduell",
+"t": "Film",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/2024_in_film"
+},
+{
+"d": "2024-06-14",
+"n": "Film: Inside Out 2, Gefühle und Wachstum",
+"t": "Film",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/2024_in_film"
+},
+{
+"d": "2024-07-03",
+"n": "Film: Despicable Me 4, Komödie",
+"t": "Film",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/2024_in_film"
+},
+{
+"d": "2024-07-26",
+"n": "Film: Deadpool & Wolverine, Zeitlinie retten",
+"t": "Film",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/2024_in_film"
+},
+{
+"d": "2024-08-20",
+"n": "Spiel: Black Myth: Wukong, Pilgerreise voller Kämpfe",
+"t": "Spiel",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/Black_Myth:_Wukong"
+},
+{
+"d": "2024-09-27",
+"n": "Film: The Wild Robot, Roboter lernt Fürsorge",
+"t": "Film",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/The_Wild_Robot_(film)"
+},
+{
+"d": "2024-11-22",
+"n": "Film: Wicked, Freundschaft und Bruch",
+"t": "Film",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/2024_in_film"
+},
+{
+"d": "2024-11-27",
+"n": "Film: Moana 2, Abenteuer",
+"t": "Film",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/2024_in_film"
+},
+{
+"d": "2024-12-20",
+"n": "Film: Mufasa: The Lion King, Herkunft und Verrat",
+"t": "Film",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/2024_in_film"
+},
+{
+"d": "2024-12-20",
+"n": "Film: Sonic the Hedgehog 3, Familie und Helden",
+"t": "Film",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/2024_in_film"
+},
+{
+"d": "2025-01-29",
+"n": "Film: Ne Zha 2, Held gegen den Himmel (China Start)",
+"t": "Film",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/2025_in_film"
+},
+{
+"d": "2025-02-28",
+"n": "Spiel: Monster Hunter Wilds, Jagd Abenteuer",
+"t": "Spiel",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/Monster_Hunter_Wilds"
+},
+{
+"d": "2025-03-07",
+"n": "Film: Mickey 17, Klon Arbeiter auf Kolonie Mission",
+"t": "Film",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/Mickey_17"
+},
+{
+"d": "2025-04-04",
+"n": "Film: A Minecraft Movie, Abenteuer",
+"t": "Film",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/2025_in_film"
+},
+{
+"d": "2025-05-23",
+"n": "Film: Lilo & Stitch, Familie",
+"t": "Film",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/2025_in_film"
+},
+{
+"d": "2025-05-23",
+"n": "Film: Mission: Impossible The Final Reckoning, KI Entität",
+"t": "Film",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/Mission:_Impossible_%E2%80%93_The_Final_Reckoning"
+},
+{
+"d": "2025-06-05",
+"n": "Spiel: Mario Kart World, Rennspass",
+"t": "Spiel",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Mario_Kart_World"
+},
+{
+"d": "2025-06-13",
+"n": "Film: How to Train Your Dragon, Freundschaft",
+"t": "Film",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/2025_in_film"
+},
+{
+"d": "2025-06-27",
+"n": "Film: F1, Aufstieg im Rennsport",
+"t": "Film",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/2025_in_film"
+},
+{
+"d": "2025-07-02",
+"n": "Film: Jurassic World Rebirth, Expedition mit Gefahr",
+"t": "Film",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/2025_in_film"
+},
+{
+"d": "2025-07-11",
+"n": "Film: Superman, Hoffnung und Güte",
+"t": "Film",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/2025_in_film"
+},
+{
+"d": "2025-09-12",
+"n": "Film: Demon Slayer: Infinity Castle, Dämonenkrieg",
+"t": "Film",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/2025_in_film"
+},
+{
+"d": "2025-10-10",
+"n": "Film: Tron: Ares, digitale Welt und Krieg",
+"t": "Film",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Tron:_Ares"
+},
+{
+"d": "2025-10-10",
+"n": "Spiel: Battlefield 6, Krieg",
+"t": "Spiel",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Battlefield_6"
+},
+{
+"d": "2025-11-26",
+"n": "Film: Zootopia 2, Abenteuer",
+"t": "Film",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/2025_in_film"
+},
+{
+"d": "2025-12-19",
+"n": "Film: Avatar: Fire and Ash, Krieg auf Pandora",
+"t": "Film",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/2025_in_film"
+},
+{
+"d": "2026-02-17",
+"n": "Film: Pegasus 3, Rennfahrer Komödie (China Start)",
+"t": "Film",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/2026_in_film"
+},
+{
+"d": "2026-02-27",
+"n": "Spiel: Resident Evil Requiem, Horror",
+"t": "Spiel",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Resident_Evil_Requiem"
+},
+{
+"d": "2026-03-05",
+"n": "Spiel: Pokémon Pokopia, Aufbau und Wohlfühlen",
+"t": "Spiel",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Pokopia"
+},
+{
+"d": "2026-03-19",
+"n": "Spiel: Crimson Desert, offene Fantasy Welt im Krieg",
+"t": "Spiel",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/Crimson_Desert"
+},
+{
+"d": "2026-03-20",
+"n": "Film: Project Hail Mary, Rettung der Erde",
+"t": "Film",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/2026_in_film"
+},
+{
+"d": "2026-04-01",
+"n": "Film: The Super Mario Galaxy Movie, Abenteuer",
+"t": "Film",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/List_of_American_films_of_2026"
+},
+{
+"d": "2026-04-24",
+"n": "Film: Michael, Aufstieg eines Superstars",
+"t": "Film",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/List_of_American_films_of_2026"
+},
+{
+"d": "2026-05-01",
+"n": "Film: The Devil Wears Prada 2, Karriere und Medien",
+"t": "Film",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/List_of_American_films_of_2026"
+},
+{
+"d": "2026-05-15",
+"n": "Film: Obsession, Horror",
+"t": "Film",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/List_of_American_films_of_2026"
+},
+{
+"d": "2026-06-19",
+"n": "Film: Toy Story 5, Spielzeug gegen Technik",
+"t": "Film",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/List_of_American_films_of_2026"
+},
+{
+"d": "2026-07-01",
+"n": "Film: Minions & Monsters, Komödie",
+"t": "Film",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/List_of_American_films_of_2026"
+},
+{
+"d": "2026-07-17",
+"n": "Film: The Odyssey, Heimkehr nach dem Krieg",
+"t": "Film",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/List_of_American_films_of_2026"
+},
+{
+"d": "2026-07-31",
+"n": "Film: Spider-Man: Brand New Day, Fortsetzung",
+"t": "Film",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/List_of_American_films_of_2026"
+},
+{
+"d": "2026-11-19",
+"n": "Spiel: Grand Theft Auto VI, Gangster Geschichte",
+"t": "Spiel",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI"
+},
+{
+"d": "2026-11-20",
+"n": "Film: The Hunger Games: Sunrise on the Reaping, Todesspiele",
+"t": "Film",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/List_of_American_films_of_2026"
+},
+{
+"d": "2026-11-25",
+"n": "Film: Hexed, Animationsabenteuer von Disney",
+"t": "Film",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/List_of_American_films_of_2026"
+},
+{
+"d": "2026-12-18",
+"n": "Film: Avengers: Doomsday, Marvel Event",
+"t": "Film",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/List_of_American_films_of_2026"
+},
+{
+"d": "2026-12-18",
+"n": "Film: Dune: Part Three, Krieg und Untergang",
+"t": "Film",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/List_of_American_films_of_2026"
+},
+{
+"d": "2026-12-23",
+"n": "Film: The Angry Birds Movie 3, Komödie",
+"t": "Film",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/List_of_American_films_of_2026"
+},
+{
+"d": "2026-12-25",
+"n": "Film: Jumanji: Open World, Abenteuer",
+"t": "Film",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/List_of_American_films_of_2026"
+},
+{
+"d": "2027-02-05",
+"n": "Film: Ice Age: Boiling Point, Abenteuer",
+"t": "Film",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/List_of_American_films_of_2027"
+},
+{
+"d": "2027-02-12",
+"n": "Film: Narnia: The Magician's Nephew, Schöpfung von Narnia",
+"t": "Film",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/List_of_American_films_of_2027"
+},
+{
+"d": "2027-03-05",
+"n": "Film: Gatto, Pixar Abenteuer",
+"t": "Film",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/List_of_American_films_of_2027"
+},
+{
+"d": "2027-03-19",
+"n": "Film: Sonic the Hedgehog 4, Abenteuer",
+"t": "Film",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/List_of_American_films_of_2027"
+},
+{
+"d": "2027-03-26",
+"n": "Film: Godzilla x Kong: Supernova, Monsterduell",
+"t": "Film",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/List_of_American_films_of_2027"
+},
+{
+"d": "2027-04-30",
+"n": "Film: The Legend of Zelda, Abenteuer von Nintendo",
+"t": "Film",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/List_of_American_films_of_2027"
+},
+{
+"d": "2027-05-28",
+"n": "Film: Star Wars: Starfighter, Weltraum Abenteuer",
+"t": "Film",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/List_of_American_films_of_2027"
+},
+{
+"d": "2027-06-11",
+"n": "Film: How to Train Your Dragon 2, Fortsetzung",
+"t": "Film",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/List_of_American_films_of_2027"
+},
+{
+"d": "2027-06-18",
+"n": "Film: Spider-Man: Beyond the Spider-Verse, Multiversum",
+"t": "Film",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/List_of_American_films_of_2027"
+},
+{
+"d": "2027-06-30",
+"n": "Film: Shrek 5, Komödie",
+"t": "Film",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/List_of_American_films_of_2027"
+},
+{
+"d": "2027-07-09",
+"n": "Film: Man of Tomorrow, Superman Fortsetzung",
+"t": "Film",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/List_of_American_films_of_2027"
+},
+{
+"d": "2027-07-30",
+"n": "Film: A Quiet Place Part III, Horror",
+"t": "Film",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/List_of_American_films_of_2027"
+},
+{
+"d": "2027-10-15",
+"n": "Film: The Mummy: Book of the Dead, Horror",
+"t": "Film",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/List_of_American_films_of_2027"
+},
+{
+"d": "2027-11-24",
+"n": "Film: Frozen 3, Animationsabenteuer",
+"t": "Film",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/List_of_American_films_of_2027"
+},
+{
+"d": "2027-12-17",
+"n": "Film: Avengers: Secret Wars, Marvel Event",
+"t": "Film",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/List_of_American_films_of_2027"
+},
+{
+"d": "2028-03-03",
+"n": "Film: Elden Ring, Fantasy Krieg der Halbgoetter",
+"t": "Film",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/List_of_American_films_of_2028"
+},
+{
+"d": "2028-03-31",
+"n": "Film: Tangled, Disney Neuverfilmung",
+"t": "Film",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/List_of_American_films_of_2028"
+},
+{
+"d": "2028-06-16",
+"n": "Film: Incredibles 3, Familie und Helden",
+"t": "Film",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/List_of_American_films_of_2028"
+},
+{
+"d": "2028-06-30",
+"n": "Film: Call of Duty, Kriegsfilm",
+"t": "Film",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/List_of_American_films_of_2028"
+},
+{
+"d": "2028-12-15",
+"n": "Film: Black Panther III, Marvel Fortsetzung",
+"t": "Film",
+"k": "open",
+"quelle": "https://en.wikipedia.org/wiki/List_of_American_films_of_2028"
+},
+{
+"d": "2029-06-01",
+"n": "Film: Aegon's Conquest, Eroberungskrieg in Westeros",
+"t": "Film",
+"k": "down",
+"quelle": "https://www.the-numbers.com/movies/release-schedule/2029"
+},
+{
+"d": "2029-11-22",
+"n": "Film: Coco 2, Familienabenteuer",
+"t": "Film",
+"k": "up",
+"quelle": "https://www.the-numbers.com/movies/release-schedule/2029"
+},
+{
+"d": "2029-12-21",
+"n": "Film: Avatar 4, Fortsetzung",
+"t": "Film",
+"k": "open",
+"quelle": "https://www.the-numbers.com/movies/release-schedule/2029"
+},
+{
+"d": "2031-12-19",
+"n": "Film: Avatar 5, Fortsetzung",
+"t": "Film",
+"k": "open",
+"quelle": "https://www.the-numbers.com/movies/release-schedule/2031"
+}
+]
+}

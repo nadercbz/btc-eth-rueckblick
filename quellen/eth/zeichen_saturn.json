@@ -1,0 +1,113 @@
+{
+"id": "zeichen_saturn",
+"name": "Saturn wechselt das Zeichen",
+"rang": 183,
+"gruppe": "Planeten",
+"ereignisse": [
+{
+"d": "2010-07-22",
+"n": "Saturn geht in Waage",
+"t": "Planet",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2012-10-06",
+"n": "Saturn geht in Skorpion",
+"t": "Planet",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2014-12-24",
+"n": "Saturn geht in Schütze",
+"t": "Planet",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2015-06-15",
+"n": "Saturn geht in Skorpion",
+"t": "Planet",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2015-09-18",
+"n": "Saturn geht in Schütze",
+"t": "Planet",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2017-12-20",
+"n": "Saturn geht in Steinbock",
+"t": "Planet",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2020-03-22",
+"n": "Saturn geht in Wassermann",
+"t": "Planet",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2020-07-02",
+"n": "Saturn geht in Steinbock",
+"t": "Planet",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2020-12-17",
+"n": "Saturn geht in Wassermann",
+"t": "Planet",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2023-03-07",
+"n": "Saturn geht in Fische",
+"t": "Planet",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2025-05-25",
+"n": "Saturn geht in Widder",
+"t": "Planet",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2025-09-01",
+"n": "Saturn geht in Fische",
+"t": "Planet",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2026-02-14",
+"n": "Saturn geht in Widder",
+"t": "Planet",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2028-04-13",
+"n": "Saturn geht in Stier",
+"t": "Planet",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2030-06-01",
+"n": "Saturn geht in Zwillinge",
+"t": "Planet",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+}
+]
+}

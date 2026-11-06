@@ -1,0 +1,64 @@
+{
+"id": "puell",
+"name": "Puell Multiple",
+"rang": 155,
+"gruppe": "On Chain",
+"ereignisse": [
+{
+"d": "2011-11-01",
+"n": "Puell 0,5, sehr niedrig",
+"t": "Puell Multiple",
+"k": "up",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2013-04-01",
+"n": "Puell 4,9, sehr hoch",
+"t": "Puell Multiple",
+"k": "down",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2013-05-01",
+"n": "Puell 4,3, sehr hoch",
+"t": "Puell Multiple",
+"k": "down",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2013-12-01",
+"n": "Puell 9,4, sehr hoch",
+"t": "Puell Multiple",
+"k": "down",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2014-01-01",
+"n": "Puell 4,0, sehr hoch",
+"t": "Puell Multiple",
+"k": "down",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2015-02-01",
+"n": "Puell 0,5, sehr niedrig",
+"t": "Puell Multiple",
+"k": "up",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2018-12-01",
+"n": "Puell 0,3, sehr niedrig",
+"t": "Puell Multiple",
+"k": "up",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2022-09-01",
+"n": "Puell 0,5, sehr niedrig",
+"t": "Puell Multiple",
+"k": "up",
+"quelle": "https://github.com/coinmetrics/data"
+}
+]
+}

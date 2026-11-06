@@ -1,0 +1,386 @@
+{
+"id": "rsi",
+"name": "RSI 14 Tage",
+"rang": 161,
+"gruppe": "Technik",
+"ereignisse": [
+{
+"d": "2010-09-01",
+"n": "RSI 18,3, sehr niedrig",
+"t": "RSI 14 Tage",
+"k": "up",
+"quelle": "https://finance.yahoo.com/"
+},
+{
+"d": "2010-11-01",
+"n": "RSI 80,4, sehr hoch",
+"t": "RSI 14 Tage",
+"k": "down",
+"quelle": "https://finance.yahoo.com/"
+},
+{
+"d": "2011-01-01",
+"n": "RSI 74,3, sehr hoch",
+"t": "RSI 14 Tage",
+"k": "down",
+"quelle": "https://finance.yahoo.com/"
+},
+{
+"d": "2011-02-01",
+"n": "RSI 77,1, sehr hoch",
+"t": "RSI 14 Tage",
+"k": "down",
+"quelle": "https://finance.yahoo.com/"
+},
+{
+"d": "2011-05-01",
+"n": "RSI 90,0, sehr hoch",
+"t": "RSI 14 Tage",
+"k": "down",
+"quelle": "https://finance.yahoo.com/"
+},
+{
+"d": "2011-09-01",
+"n": "RSI 27,7, sehr niedrig",
+"t": "RSI 14 Tage",
+"k": "up",
+"quelle": "https://finance.yahoo.com/"
+},
+{
+"d": "2012-01-01",
+"n": "RSI 84,8, sehr hoch",
+"t": "RSI 14 Tage",
+"k": "down",
+"quelle": "https://finance.yahoo.com/"
+},
+{
+"d": "2012-12-01",
+"n": "RSI 73,0, sehr hoch",
+"t": "RSI 14 Tage",
+"k": "down",
+"quelle": "https://finance.yahoo.com/"
+},
+{
+"d": "2013-02-01",
+"n": "RSI 88,2, sehr hoch",
+"t": "RSI 14 Tage",
+"k": "down",
+"quelle": "https://finance.yahoo.com/"
+},
+{
+"d": "2013-03-01",
+"n": "RSI 85,9, sehr hoch",
+"t": "RSI 14 Tage",
+"k": "down",
+"quelle": "https://finance.yahoo.com/"
+},
+{
+"d": "2013-04-01",
+"n": "RSI 87,6, sehr hoch",
+"t": "RSI 14 Tage",
+"k": "down",
+"quelle": "https://finance.yahoo.com/"
+},
+{
+"d": "2013-05-01",
+"n": "RSI 73,4, sehr hoch",
+"t": "RSI 14 Tage",
+"k": "down",
+"quelle": "https://finance.yahoo.com/"
+},
+{
+"d": "2013-07-01",
+"n": "RSI 30,0, sehr niedrig",
+"t": "RSI 14 Tage",
+"k": "up",
+"quelle": "https://finance.yahoo.com/"
+},
+{
+"d": "2013-09-01",
+"n": "RSI 88,0, sehr hoch",
+"t": "RSI 14 Tage",
+"k": "down",
+"quelle": "https://finance.yahoo.com/"
+},
+{
+"d": "2013-11-01",
+"n": "RSI 74,4, sehr hoch",
+"t": "RSI 14 Tage",
+"k": "down",
+"quelle": "https://finance.yahoo.com/"
+},
+{
+"d": "2013-12-01",
+"n": "RSI 84,9, sehr hoch",
+"t": "RSI 14 Tage",
+"k": "down",
+"quelle": "https://finance.yahoo.com/"
+},
+{
+"d": "2014-04-01",
+"n": "RSI 16,6, sehr niedrig",
+"t": "RSI 14 Tage",
+"k": "up",
+"quelle": "https://finance.yahoo.com/"
+},
+{
+"d": "2014-05-01",
+"n": "RSI 26,2, sehr niedrig",
+"t": "RSI 14 Tage",
+"k": "up",
+"quelle": "https://finance.yahoo.com/"
+},
+{
+"d": "2014-06-01",
+"n": "RSI 89,0, sehr hoch",
+"t": "RSI 14 Tage",
+"k": "down",
+"quelle": "https://finance.yahoo.com/"
+},
+{
+"d": "2014-08-01",
+"n": "RSI 27,4, sehr niedrig",
+"t": "RSI 14 Tage",
+"k": "up",
+"quelle": "https://finance.yahoo.com/"
+},
+{
+"d": "2014-11-01",
+"n": "RSI 29,6, sehr niedrig",
+"t": "RSI 14 Tage",
+"k": "up",
+"quelle": "https://finance.yahoo.com/"
+},
+{
+"d": "2015-04-01",
+"n": "RSI 28,3, sehr niedrig",
+"t": "RSI 14 Tage",
+"k": "up",
+"quelle": "https://finance.yahoo.com/"
+},
+{
+"d": "2015-11-01",
+"n": "RSI 72,8, sehr hoch",
+"t": "RSI 14 Tage",
+"k": "down",
+"quelle": "https://finance.yahoo.com/"
+},
+{
+"d": "2015-12-01",
+"n": "RSI 76,5, sehr hoch",
+"t": "RSI 14 Tage",
+"k": "down",
+"quelle": "https://finance.yahoo.com/"
+},
+{
+"d": "2016-03-01",
+"n": "RSI 74,2, sehr hoch",
+"t": "RSI 14 Tage",
+"k": "down",
+"quelle": "https://finance.yahoo.com/"
+},
+{
+"d": "2016-06-01",
+"n": "RSI 79,9, sehr hoch",
+"t": "RSI 14 Tage",
+"k": "down",
+"quelle": "https://finance.yahoo.com/"
+},
+{
+"d": "2016-08-01",
+"n": "RSI 18,3, sehr niedrig",
+"t": "RSI 14 Tage",
+"k": "up",
+"quelle": "https://finance.yahoo.com/"
+},
+{
+"d": "2016-11-01",
+"n": "RSI 77,3, sehr hoch",
+"t": "RSI 14 Tage",
+"k": "down",
+"quelle": "https://finance.yahoo.com/"
+},
+{
+"d": "2017-01-01",
+"n": "RSI 84,0, sehr hoch",
+"t": "RSI 14 Tage",
+"k": "down",
+"quelle": "https://finance.yahoo.com/"
+},
+{
+"d": "2017-03-01",
+"n": "RSI 85,3, sehr hoch",
+"t": "RSI 14 Tage",
+"k": "down",
+"quelle": "https://finance.yahoo.com/"
+},
+{
+"d": "2017-05-01",
+"n": "RSI 85,4, sehr hoch",
+"t": "RSI 14 Tage",
+"k": "down",
+"quelle": "https://finance.yahoo.com/"
+},
+{
+"d": "2017-12-01",
+"n": "RSI 81,8, sehr hoch",
+"t": "RSI 14 Tage",
+"k": "down",
+"quelle": "https://finance.yahoo.com/"
+},
+{
+"d": "2018-11-01",
+"n": "RSI 17,7, sehr niedrig",
+"t": "RSI 14 Tage",
+"k": "up",
+"quelle": "https://finance.yahoo.com/"
+},
+{
+"d": "2018-12-01",
+"n": "RSI 26,1, sehr niedrig",
+"t": "RSI 14 Tage",
+"k": "up",
+"quelle": "https://finance.yahoo.com/"
+},
+{
+"d": "2019-02-01",
+"n": "RSI 29,3, sehr niedrig",
+"t": "RSI 14 Tage",
+"k": "up",
+"quelle": "https://finance.yahoo.com/"
+},
+{
+"d": "2019-10-01",
+"n": "RSI 15,4, sehr niedrig",
+"t": "RSI 14 Tage",
+"k": "up",
+"quelle": "https://finance.yahoo.com/"
+},
+{
+"d": "2020-03-01",
+"n": "RSI 28,2, sehr niedrig",
+"t": "RSI 14 Tage",
+"k": "up",
+"quelle": "https://finance.yahoo.com/"
+},
+{
+"d": "2020-05-01",
+"n": "RSI 79,4, sehr hoch",
+"t": "RSI 14 Tage",
+"k": "down",
+"quelle": "https://finance.yahoo.com/"
+},
+{
+"d": "2020-08-01",
+"n": "RSI 94,2, sehr hoch",
+"t": "RSI 14 Tage",
+"k": "down",
+"quelle": "https://finance.yahoo.com/"
+},
+{
+"d": "2020-11-01",
+"n": "RSI 85,5, sehr hoch",
+"t": "RSI 14 Tage",
+"k": "down",
+"quelle": "https://finance.yahoo.com/"
+},
+{
+"d": "2021-01-01",
+"n": "RSI 81,8, sehr hoch",
+"t": "RSI 14 Tage",
+"k": "down",
+"quelle": "https://finance.yahoo.com/"
+},
+{
+"d": "2021-08-01",
+"n": "RSI 83,0, sehr hoch",
+"t": "RSI 14 Tage",
+"k": "down",
+"quelle": "https://finance.yahoo.com/"
+},
+{
+"d": "2022-04-01",
+"n": "RSI 71,5, sehr hoch",
+"t": "RSI 14 Tage",
+"k": "down",
+"quelle": "https://finance.yahoo.com/"
+},
+{
+"d": "2022-09-01",
+"n": "RSI 27,0, sehr niedrig",
+"t": "RSI 14 Tage",
+"k": "up",
+"quelle": "https://finance.yahoo.com/"
+},
+{
+"d": "2023-07-01",
+"n": "RSI 80,6, sehr hoch",
+"t": "RSI 14 Tage",
+"k": "down",
+"quelle": "https://finance.yahoo.com/"
+},
+{
+"d": "2023-11-01",
+"n": "RSI 90,7, sehr hoch",
+"t": "RSI 14 Tage",
+"k": "down",
+"quelle": "https://finance.yahoo.com/"
+},
+{
+"d": "2024-03-01",
+"n": "RSI 77,8, sehr hoch",
+"t": "RSI 14 Tage",
+"k": "down",
+"quelle": "https://finance.yahoo.com/"
+},
+{
+"d": "2025-01-01",
+"n": "RSI 25,6, sehr niedrig",
+"t": "RSI 14 Tage",
+"k": "up",
+"quelle": "https://finance.yahoo.com/"
+},
+{
+"d": "2025-03-01",
+"n": "RSI 17,9, sehr niedrig",
+"t": "RSI 14 Tage",
+"k": "up",
+"quelle": "https://finance.yahoo.com/"
+},
+{
+"d": "2025-05-01",
+"n": "RSI 85,0, sehr hoch",
+"t": "RSI 14 Tage",
+"k": "down",
+"quelle": "https://finance.yahoo.com/"
+},
+{
+"d": "2026-02-01",
+"n": "RSI 15,8, sehr niedrig",
+"t": "RSI 14 Tage",
+"k": "up",
+"quelle": "https://finance.yahoo.com/"
+},
+{
+"d": "2026-07-01",
+"n": "RSI 22,8, sehr niedrig",
+"t": "RSI 14 Tage",
+"k": "up",
+"quelle": "https://finance.yahoo.com/"
+},
+{
+"d": "2026-09-01",
+"n": "RSI 80,1, sehr hoch",
+"t": "RSI 14 Tage",
+"k": "down",
+"quelle": "https://finance.yahoo.com/"
+},
+{
+"d": "2026-10-01",
+"n": "RSI 75,1, sehr hoch",
+"t": "RSI 14 Tage",
+"k": "down",
+"quelle": "https://finance.yahoo.com/"
+}
+]
+}

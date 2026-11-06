@@ -1,0 +1,1176 @@
+{
+"id": "geldmenge",
+"name": "Geldmenge M2",
+"rang": 9,
+"ereignisse": [
+{
+"d": "2010-07-28",
+"n": "M2 Jahreswachstum steigt auf 2,0 % (Juni)",
+"t": "Geldmenge",
+"k": "up",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2010-09-28",
+"n": "M2 Jahreswachstum steigt auf 2,6 % (August)",
+"t": "Geldmenge",
+"k": "up",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2010-10-28",
+"n": "M2 Jahreswachstum steigt auf 3,0 % (September)",
+"t": "Geldmenge",
+"k": "up",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2010-11-28",
+"n": "M2 Jahreswachstum steigt auf 3,3 % (Oktober)",
+"t": "Geldmenge",
+"k": "up",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2010-12-28",
+"n": "M2 Jahreswachstum fällt auf 3,2 % (November)",
+"t": "Geldmenge",
+"k": "down",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2011-01-28",
+"n": "M2 Jahreswachstum steigt auf 3,7 % (Dezember)",
+"t": "Geldmenge",
+"k": "up",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2011-02-28",
+"n": "M2 Jahreswachstum steigt auf 4,4 % (Januar)",
+"t": "Geldmenge",
+"k": "up",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2011-03-28",
+"n": "M2 Jahreswachstum steigt auf 4,5 % (Februar)",
+"t": "Geldmenge",
+"k": "up",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2011-04-28",
+"n": "M2 Jahreswachstum steigt auf 5,3 % (März)",
+"t": "Geldmenge",
+"k": "up",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2011-05-28",
+"n": "M2 Jahreswachstum steigt auf 5,6 % (April)",
+"t": "Geldmenge",
+"k": "up",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2011-06-28",
+"n": "M2 Jahreswachstum steigt auf 5,8 % (Mai)",
+"t": "Geldmenge",
+"k": "up",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2011-07-28",
+"n": "M2 Jahreswachstum steigt auf 6,4 % (Juni)",
+"t": "Geldmenge",
+"k": "up",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2011-08-28",
+"n": "M2 Jahreswachstum steigt auf 8,2 % (Juli)",
+"t": "Geldmenge",
+"k": "up",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2011-09-28",
+"n": "M2 Jahreswachstum steigt auf 9,7 % (August)",
+"t": "Geldmenge",
+"k": "up",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2011-10-28",
+"n": "M2 Jahreswachstum fällt auf 9,6 % (September)",
+"t": "Geldmenge",
+"k": "down",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2011-11-28",
+"n": "M2 Jahreswachstum fällt auf 9,3 % (Oktober)",
+"t": "Geldmenge",
+"k": "down",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2011-12-28",
+"n": "M2 Jahreswachstum steigt auf 9,7 % (November)",
+"t": "Geldmenge",
+"k": "up",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2012-01-28",
+"n": "M2 Jahreswachstum steigt auf 9,8 % (Dezember)",
+"t": "Geldmenge",
+"k": "up",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2012-02-28",
+"n": "M2 Jahreswachstum steigt auf 10,3 % (Januar)",
+"t": "Geldmenge",
+"k": "up",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2012-03-28",
+"n": "M2 Jahreswachstum fällt auf 10,1 % (Februar)",
+"t": "Geldmenge",
+"k": "down",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2012-04-28",
+"n": "M2 Jahreswachstum fällt auf 9,8 % (März)",
+"t": "Geldmenge",
+"k": "down",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2012-05-28",
+"n": "M2 Jahreswachstum fällt auf 9,6 % (April)",
+"t": "Geldmenge",
+"k": "down",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2012-06-28",
+"n": "M2 Jahreswachstum fällt auf 9,2 % (Mai)",
+"t": "Geldmenge",
+"k": "down",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2012-07-28",
+"n": "M2 Jahreswachstum fällt auf 9,1 % (Juni)",
+"t": "Geldmenge",
+"k": "down",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2012-08-28",
+"n": "M2 Jahreswachstum fällt auf 7,8 % (Juli)",
+"t": "Geldmenge",
+"k": "down",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2012-09-28",
+"n": "M2 Jahreswachstum fällt auf 6,5 % (August)",
+"t": "Geldmenge",
+"k": "down",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2012-10-28",
+"n": "M2 Jahreswachstum steigt auf 7,1 % (September)",
+"t": "Geldmenge",
+"k": "up",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2012-11-28",
+"n": "M2 Jahreswachstum steigt auf 7,4 % (Oktober)",
+"t": "Geldmenge",
+"k": "up",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2012-12-28",
+"n": "M2 Jahreswachstum steigt auf 7,5 % (November)",
+"t": "Geldmenge",
+"k": "up",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2013-01-28",
+"n": "M2 Jahreswachstum steigt auf 8,3 % (Dezember)",
+"t": "Geldmenge",
+"k": "up",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2013-02-28",
+"n": "M2 Jahreswachstum fällt auf 7,7 % (Januar)",
+"t": "Geldmenge",
+"k": "down",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2013-03-28",
+"n": "M2 Jahreswachstum fällt auf 7,3 % (Februar)",
+"t": "Geldmenge",
+"k": "down",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2013-05-28",
+"n": "M2 Jahreswachstum fällt auf 7,1 % (April)",
+"t": "Geldmenge",
+"k": "down",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2013-06-28",
+"n": "M2 Jahreswachstum fällt auf 7,0 % (Mai)",
+"t": "Geldmenge",
+"k": "down",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2013-07-28",
+"n": "M2 Jahreswachstum fällt auf 6,8 % (Juni)",
+"t": "Geldmenge",
+"k": "down",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2013-08-28",
+"n": "M2 Jahreswachstum fällt auf 6,6 % (Juli)",
+"t": "Geldmenge",
+"k": "down",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2013-09-28",
+"n": "M2 Jahreswachstum fällt auf 6,5 % (August)",
+"t": "Geldmenge",
+"k": "down",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2013-10-28",
+"n": "M2 Jahreswachstum fällt auf 6,2 % (September)",
+"t": "Geldmenge",
+"k": "down",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2013-11-28",
+"n": "M2 Jahreswachstum steigt auf 6,7 % (Oktober)",
+"t": "Geldmenge",
+"k": "up",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2013-12-28",
+"n": "M2 Jahreswachstum fällt auf 6,1 % (November)",
+"t": "Geldmenge",
+"k": "down",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2014-01-28",
+"n": "M2 Jahreswachstum fällt auf 5,5 % (Dezember)",
+"t": "Geldmenge",
+"k": "down",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2014-02-28",
+"n": "M2 Jahreswachstum steigt auf 6,0 % (Januar)",
+"t": "Geldmenge",
+"k": "up",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2014-03-28",
+"n": "M2 Jahreswachstum steigt auf 6,4 % (Februar)",
+"t": "Geldmenge",
+"k": "up",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2014-04-28",
+"n": "M2 Jahreswachstum fällt auf 6,1 % (März)",
+"t": "Geldmenge",
+"k": "down",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2014-05-28",
+"n": "M2 Jahreswachstum steigt auf 6,3 % (April)",
+"t": "Geldmenge",
+"k": "up",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2014-06-28",
+"n": "M2 Jahreswachstum steigt auf 6,5 % (Mai)",
+"t": "Geldmenge",
+"k": "up",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2014-08-28",
+"n": "M2 Jahreswachstum steigt auf 6,6 % (Juli)",
+"t": "Geldmenge",
+"k": "up",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2014-09-28",
+"n": "M2 Jahreswachstum fällt auf 6,2 % (August)",
+"t": "Geldmenge",
+"k": "down",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2014-10-28",
+"n": "M2 Jahreswachstum fällt auf 6,0 % (September)",
+"t": "Geldmenge",
+"k": "down",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2014-11-28",
+"n": "M2 Jahreswachstum fällt auf 5,5 % (Oktober)",
+"t": "Geldmenge",
+"k": "down",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2014-12-28",
+"n": "M2 Jahreswachstum steigt auf 5,8 % (November)",
+"t": "Geldmenge",
+"k": "up",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2015-01-28",
+"n": "M2 Jahreswachstum steigt auf 6,0 % (Dezember)",
+"t": "Geldmenge",
+"k": "up",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2015-02-28",
+"n": "M2 Jahreswachstum steigt auf 6,1 % (Januar)",
+"t": "Geldmenge",
+"k": "up",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2015-03-28",
+"n": "M2 Jahreswachstum steigt auf 6,5 % (Februar)",
+"t": "Geldmenge",
+"k": "up",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2015-04-28",
+"n": "M2 Jahreswachstum fällt auf 6,1 % (März)",
+"t": "Geldmenge",
+"k": "down",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2015-05-28",
+"n": "M2 Jahreswachstum fällt auf 6,0 % (April)",
+"t": "Geldmenge",
+"k": "down",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2015-06-28",
+"n": "M2 Jahreswachstum fällt auf 5,6 % (Mai)",
+"t": "Geldmenge",
+"k": "down",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2015-07-28",
+"n": "M2 Jahreswachstum fällt auf 5,5 % (Juni)",
+"t": "Geldmenge",
+"k": "down",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2015-08-28",
+"n": "M2 Jahreswachstum fällt auf 5,3 % (Juli)",
+"t": "Geldmenge",
+"k": "down",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2015-09-28",
+"n": "M2 Jahreswachstum steigt auf 5,5 % (August)",
+"t": "Geldmenge",
+"k": "up",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2015-10-28",
+"n": "M2 Jahreswachstum steigt auf 5,7 % (September)",
+"t": "Geldmenge",
+"k": "up",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2015-11-28",
+"n": "M2 Jahreswachstum fällt auf 5,4 % (Oktober)",
+"t": "Geldmenge",
+"k": "down",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2015-12-28",
+"n": "M2 Jahreswachstum steigt auf 5,9 % (November)",
+"t": "Geldmenge",
+"k": "up",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2016-01-28",
+"n": "M2 Jahreswachstum fällt auf 5,7 % (Dezember)",
+"t": "Geldmenge",
+"k": "down",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2016-02-28",
+"n": "M2 Jahreswachstum steigt auf 6,1 % (Januar)",
+"t": "Geldmenge",
+"k": "up",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2016-03-28",
+"n": "M2 Jahreswachstum fällt auf 5,7 % (Februar)",
+"t": "Geldmenge",
+"k": "down",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2016-04-28",
+"n": "M2 Jahreswachstum steigt auf 6,2 % (März)",
+"t": "Geldmenge",
+"k": "up",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2016-05-28",
+"n": "M2 Jahreswachstum steigt auf 6,6 % (April)",
+"t": "Geldmenge",
+"k": "up",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2016-06-28",
+"n": "M2 Jahreswachstum steigt auf 6,8 % (Mai)",
+"t": "Geldmenge",
+"k": "up",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2016-08-28",
+"n": "M2 Jahreswachstum steigt auf 7,0 % (Juli)",
+"t": "Geldmenge",
+"k": "up",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2016-09-28",
+"n": "M2 Jahreswachstum steigt auf 7,2 % (August)",
+"t": "Geldmenge",
+"k": "up",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2017-01-28",
+"n": "M2 Jahreswachstum fällt auf 6,8 % (Dezember)",
+"t": "Geldmenge",
+"k": "down",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2017-02-28",
+"n": "M2 Jahreswachstum fällt auf 6,4 % (Januar)",
+"t": "Geldmenge",
+"k": "down",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2017-05-28",
+"n": "M2 Jahreswachstum fällt auf 6,1 % (April)",
+"t": "Geldmenge",
+"k": "down",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2017-06-28",
+"n": "M2 Jahreswachstum fällt auf 6,0 % (Mai)",
+"t": "Geldmenge",
+"k": "down",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2017-07-28",
+"n": "M2 Jahreswachstum fällt auf 5,7 % (Juni)",
+"t": "Geldmenge",
+"k": "down",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2017-09-28",
+"n": "M2 Jahreswachstum fällt auf 5,5 % (August)",
+"t": "Geldmenge",
+"k": "down",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2017-10-28",
+"n": "M2 Jahreswachstum fällt auf 5,3 % (September)",
+"t": "Geldmenge",
+"k": "down",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2017-11-28",
+"n": "M2 Jahreswachstum fällt auf 5,2 % (Oktober)",
+"t": "Geldmenge",
+"k": "down",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2017-12-28",
+"n": "M2 Jahreswachstum fällt auf 4,8 % (November)",
+"t": "Geldmenge",
+"k": "down",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2018-02-28",
+"n": "M2 Jahreswachstum fällt auf 4,4 % (Januar)",
+"t": "Geldmenge",
+"k": "down",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2018-03-28",
+"n": "M2 Jahreswachstum fällt auf 4,1 % (Februar)",
+"t": "Geldmenge",
+"k": "down",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2018-05-28",
+"n": "M2 Jahreswachstum fällt auf 3,8 % (April)",
+"t": "Geldmenge",
+"k": "down",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2018-07-28",
+"n": "M2 Jahreswachstum steigt auf 4,1 % (Juni)",
+"t": "Geldmenge",
+"k": "up",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2018-08-28",
+"n": "M2 Jahreswachstum fällt auf 3,9 % (Juli)",
+"t": "Geldmenge",
+"k": "down",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2018-10-28",
+"n": "M2 Jahreswachstum fällt auf 3,6 % (September)",
+"t": "Geldmenge",
+"k": "down",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2018-11-28",
+"n": "M2 Jahreswachstum fällt auf 3,3 % (Oktober)",
+"t": "Geldmenge",
+"k": "down",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2018-12-28",
+"n": "M2 Jahreswachstum fällt auf 3,2 % (November)",
+"t": "Geldmenge",
+"k": "down",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2019-01-28",
+"n": "M2 Jahreswachstum steigt auf 3,6 % (Dezember)",
+"t": "Geldmenge",
+"k": "up",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2019-02-28",
+"n": "M2 Jahreswachstum steigt auf 4,0 % (Januar)",
+"t": "Geldmenge",
+"k": "up",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2019-04-28",
+"n": "M2 Jahreswachstum fällt auf 3,9 % (März)",
+"t": "Geldmenge",
+"k": "down",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2019-06-28",
+"n": "M2 Jahreswachstum steigt auf 4,3 % (Mai)",
+"t": "Geldmenge",
+"k": "up",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2019-07-28",
+"n": "M2 Jahreswachstum steigt auf 4,7 % (Juni)",
+"t": "Geldmenge",
+"k": "up",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2019-08-28",
+"n": "M2 Jahreswachstum steigt auf 5,0 % (Juli)",
+"t": "Geldmenge",
+"k": "up",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2019-09-28",
+"n": "M2 Jahreswachstum steigt auf 5,3 % (August)",
+"t": "Geldmenge",
+"k": "up",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2019-10-28",
+"n": "M2 Jahreswachstum steigt auf 5,6 % (September)",
+"t": "Geldmenge",
+"k": "up",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2019-11-28",
+"n": "M2 Jahreswachstum steigt auf 6,5 % (Oktober)",
+"t": "Geldmenge",
+"k": "up",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2019-12-28",
+"n": "M2 Jahreswachstum steigt auf 7,1 % (November)",
+"t": "Geldmenge",
+"k": "up",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2020-01-28",
+"n": "M2 Jahreswachstum fällt auf 6,7 % (Dezember)",
+"t": "Geldmenge",
+"k": "down",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2020-03-28",
+"n": "M2 Jahreswachstum steigt auf 6,8 % (Februar)",
+"t": "Geldmenge",
+"k": "up",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2020-04-28",
+"n": "M2 Jahreswachstum steigt auf 10,1 % (März)",
+"t": "Geldmenge",
+"k": "up",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2020-05-28",
+"n": "M2 Jahreswachstum steigt auf 16,9 % (April)",
+"t": "Geldmenge",
+"k": "up",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2020-06-28",
+"n": "M2 Jahreswachstum steigt auf 22,0 % (Mai)",
+"t": "Geldmenge",
+"k": "up",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2020-07-28",
+"n": "M2 Jahreswachstum steigt auf 22,8 % (Juni)",
+"t": "Geldmenge",
+"k": "up",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2020-08-28",
+"n": "M2 Jahreswachstum steigt auf 23,2 % (Juli)",
+"t": "Geldmenge",
+"k": "up",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2020-09-28",
+"n": "M2 Jahreswachstum fällt auf 23,0 % (August)",
+"t": "Geldmenge",
+"k": "down",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2020-10-28",
+"n": "M2 Jahreswachstum steigt auf 23,6 % (September)",
+"t": "Geldmenge",
+"k": "up",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2020-11-28",
+"n": "M2 Jahreswachstum fällt auf 23,5 % (Oktober)",
+"t": "Geldmenge",
+"k": "down",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2020-12-28",
+"n": "M2 Jahreswachstum steigt auf 24,2 % (November)",
+"t": "Geldmenge",
+"k": "up",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2021-01-28",
+"n": "M2 Jahreswachstum steigt auf 24,5 % (Dezember)",
+"t": "Geldmenge",
+"k": "up",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2021-02-28",
+"n": "M2 Jahreswachstum steigt auf 25,6 % (Januar)",
+"t": "Geldmenge",
+"k": "up",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2021-03-28",
+"n": "M2 Jahreswachstum steigt auf 26,8 % (Februar)",
+"t": "Geldmenge",
+"k": "up",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2021-04-28",
+"n": "M2 Jahreswachstum fällt auf 23,9 % (März)",
+"t": "Geldmenge",
+"k": "down",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2021-05-28",
+"n": "M2 Jahreswachstum fällt auf 18,2 % (April)",
+"t": "Geldmenge",
+"k": "down",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2021-06-28",
+"n": "M2 Jahreswachstum fällt auf 14,1 % (Mai)",
+"t": "Geldmenge",
+"k": "down",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2021-07-28",
+"n": "M2 Jahreswachstum fällt auf 12,6 % (Juni)",
+"t": "Geldmenge",
+"k": "down",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2021-09-28",
+"n": "M2 Jahreswachstum steigt auf 13,5 % (August)",
+"t": "Geldmenge",
+"k": "up",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2021-10-28",
+"n": "M2 Jahreswachstum fällt auf 13,2 % (September)",
+"t": "Geldmenge",
+"k": "down",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2021-11-28",
+"n": "M2 Jahreswachstum fällt auf 12,7 % (Oktober)",
+"t": "Geldmenge",
+"k": "down",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2021-12-28",
+"n": "M2 Jahreswachstum fällt auf 12,2 % (November)",
+"t": "Geldmenge",
+"k": "down",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2022-01-28",
+"n": "M2 Jahreswachstum steigt auf 12,4 % (Dezember)",
+"t": "Geldmenge",
+"k": "up",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2022-02-28",
+"n": "M2 Jahreswachstum fällt auf 11,6 % (Januar)",
+"t": "Geldmenge",
+"k": "down",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2022-03-28",
+"n": "M2 Jahreswachstum fällt auf 10,5 % (Februar)",
+"t": "Geldmenge",
+"k": "down",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2022-04-28",
+"n": "M2 Jahreswachstum fällt auf 9,5 % (März)",
+"t": "Geldmenge",
+"k": "down",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2022-05-28",
+"n": "M2 Jahreswachstum fällt auf 7,8 % (April)",
+"t": "Geldmenge",
+"k": "down",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2022-06-28",
+"n": "M2 Jahreswachstum fällt auf 6,1 % (Mai)",
+"t": "Geldmenge",
+"k": "down",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2022-07-28",
+"n": "M2 Jahreswachstum fällt auf 5,7 % (Juni)",
+"t": "Geldmenge",
+"k": "down",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2022-08-28",
+"n": "M2 Jahreswachstum fällt auf 4,8 % (Juli)",
+"t": "Geldmenge",
+"k": "down",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2022-09-28",
+"n": "M2 Jahreswachstum fällt auf 3,5 % (August)",
+"t": "Geldmenge",
+"k": "down",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2022-10-28",
+"n": "M2 Jahreswachstum fällt auf 2,2 % (September)",
+"t": "Geldmenge",
+"k": "down",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2022-11-28",
+"n": "M2 Jahreswachstum fällt auf 1,4 % (Oktober)",
+"t": "Geldmenge",
+"k": "down",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2022-12-28",
+"n": "M2 Jahreswachstum fällt auf 0,3 % (November)",
+"t": "Geldmenge",
+"k": "down",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2023-01-28",
+"n": "M2 Jahreswachstum fällt auf -1,0 % (Dezember)",
+"t": "Geldmenge",
+"k": "down",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2023-02-28",
+"n": "M2 Jahreswachstum fällt auf -1,7 % (Januar)",
+"t": "Geldmenge",
+"k": "down",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2023-03-28",
+"n": "M2 Jahreswachstum fällt auf -2,1 % (Februar)",
+"t": "Geldmenge",
+"k": "down",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2023-04-28",
+"n": "M2 Jahreswachstum fällt auf -3,8 % (März)",
+"t": "Geldmenge",
+"k": "down",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2023-05-28",
+"n": "M2 Jahreswachstum fällt auf -4,7 % (April)",
+"t": "Geldmenge",
+"k": "down",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2023-06-28",
+"n": "M2 Jahreswachstum steigt auf -4,1 % (Mai)",
+"t": "Geldmenge",
+"k": "up",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2023-07-28",
+"n": "M2 Jahreswachstum steigt auf -3,9 % (Juni)",
+"t": "Geldmenge",
+"k": "up",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2023-10-28",
+"n": "M2 Jahreswachstum steigt auf -3,7 % (September)",
+"t": "Geldmenge",
+"k": "up",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2023-11-28",
+"n": "M2 Jahreswachstum steigt auf -3,4 % (Oktober)",
+"t": "Geldmenge",
+"k": "up",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2023-12-28",
+"n": "M2 Jahreswachstum steigt auf -3,1 % (November)",
+"t": "Geldmenge",
+"k": "up",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2024-01-28",
+"n": "M2 Jahreswachstum steigt auf -2,4 % (Dezember)",
+"t": "Geldmenge",
+"k": "up",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2024-02-28",
+"n": "M2 Jahreswachstum steigt auf -2,1 % (Januar)",
+"t": "Geldmenge",
+"k": "up",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2024-03-28",
+"n": "M2 Jahreswachstum steigt auf -1,6 % (Februar)",
+"t": "Geldmenge",
+"k": "up",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2024-04-28",
+"n": "M2 Jahreswachstum steigt auf 0,0 % (März)",
+"t": "Geldmenge",
+"k": "up",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2024-05-28",
+"n": "M2 Jahreswachstum steigt auf 0,9 % (April)",
+"t": "Geldmenge",
+"k": "up",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2024-07-28",
+"n": "M2 Jahreswachstum steigt auf 1,3 % (Juni)",
+"t": "Geldmenge",
+"k": "up",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2024-08-28",
+"n": "M2 Jahreswachstum steigt auf 1,5 % (Juli)",
+"t": "Geldmenge",
+"k": "up",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2024-09-28",
+"n": "M2 Jahreswachstum steigt auf 2,0 % (August)",
+"t": "Geldmenge",
+"k": "up",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2024-10-28",
+"n": "M2 Jahreswachstum steigt auf 2,5 % (September)",
+"t": "Geldmenge",
+"k": "up",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2024-11-28",
+"n": "M2 Jahreswachstum steigt auf 2,9 % (Oktober)",
+"t": "Geldmenge",
+"k": "up",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2024-12-28",
+"n": "M2 Jahreswachstum steigt auf 3,4 % (November)",
+"t": "Geldmenge",
+"k": "up",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2025-03-28",
+"n": "M2 Jahreswachstum fällt auf 3,3 % (Februar)",
+"t": "Geldmenge",
+"k": "down",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2025-04-28",
+"n": "M2 Jahreswachstum steigt auf 3,4 % (März)",
+"t": "Geldmenge",
+"k": "up",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2025-05-28",
+"n": "M2 Jahreswachstum steigt auf 3,9 % (April)",
+"t": "Geldmenge",
+"k": "up",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2025-07-28",
+"n": "M2 Jahreswachstum steigt auf 4,1 % (Juni)",
+"t": "Geldmenge",
+"k": "up",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2025-08-28",
+"n": "M2 Jahreswachstum steigt auf 4,4 % (Juli)",
+"t": "Geldmenge",
+"k": "up",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2025-09-28",
+"n": "M2 Jahreswachstum fällt auf 4,3 % (August)",
+"t": "Geldmenge",
+"k": "down",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2025-12-28",
+"n": "M2 Jahreswachstum fällt auf 3,8 % (November)",
+"t": "Geldmenge",
+"k": "down",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2026-01-28",
+"n": "M2 Jahreswachstum steigt auf 4,0 % (Dezember)",
+"t": "Geldmenge",
+"k": "up",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2026-03-28",
+"n": "M2 Jahreswachstum steigt auf 4,6 % (Februar)",
+"t": "Geldmenge",
+"k": "up",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2026-04-28",
+"n": "M2 Jahreswachstum fällt auf 4,4 % (März)",
+"t": "Geldmenge",
+"k": "down",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2026-05-28",
+"n": "M2 Jahreswachstum steigt auf 4,5 % (April)",
+"t": "Geldmenge",
+"k": "up",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2026-06-28",
+"n": "M2 Jahreswachstum steigt auf 5,4 % (Mai)",
+"t": "Geldmenge",
+"k": "up",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2026-09-28",
+"n": "M2 Jahreswachstum steigt auf 5,6 % (August)",
+"t": "Geldmenge",
+"k": "up",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+},
+{
+"d": "2026-10-28",
+"n": "M2 Jahreswachstum steigt auf 5,7 % (September)",
+"t": "Geldmenge",
+"k": "up",
+"quelle": "https://www.federalreserve.gov/releases/h6/"
+}
+]
+}

@@ -1,0 +1,729 @@
+{
+"id": "stablecoins",
+"name": "Stablecoin Menge",
+"rang": 19,
+"gleichlauf": 10.6,
+"ereignisse": [
+{
+"d": "2018-02-01",
+"n": "Stablecoin Menge steigt 38971,7 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "up",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2018-03-01",
+"n": "Stablecoin Menge steigt 74,8 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "up",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2018-07-01",
+"n": "Stablecoin Menge fällt 0,0 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "down",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2018-08-01",
+"n": "Stablecoin Menge fällt 25,0 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "down",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2018-09-01",
+"n": "Stablecoin Menge fällt 60,9 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "down",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2018-10-01",
+"n": "Stablecoin Menge steigt 167,7 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "up",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2018-11-01",
+"n": "Stablecoin Menge steigt 542,6 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "up",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2018-12-01",
+"n": "Stablecoin Menge steigt 25,4 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "up",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2019-01-01",
+"n": "Stablecoin Menge steigt 21,7 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "up",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2019-02-01",
+"n": "Stablecoin Menge steigt 66,6 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "up",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2019-03-01",
+"n": "Stablecoin Menge fällt 13,1 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "down",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2019-04-01",
+"n": "Stablecoin Menge steigt 3,1 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "up",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2019-05-01",
+"n": "Stablecoin Menge steigt 59,3 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "up",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2019-06-01",
+"n": "Stablecoin Menge steigt 26,5 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "up",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2019-07-01",
+"n": "Stablecoin Menge steigt 31,6 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "up",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2019-08-01",
+"n": "Stablecoin Menge steigt 38,6 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "up",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2019-09-01",
+"n": "Stablecoin Menge steigt 4,0 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "up",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2019-10-01",
+"n": "Stablecoin Menge steigt 17,7 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "up",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2019-11-01",
+"n": "Stablecoin Menge steigt 16,7 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "up",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2019-12-01",
+"n": "Stablecoin Menge steigt 7,0 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "up",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2020-01-01",
+"n": "Stablecoin Menge steigt 13,4 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "up",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2020-02-01",
+"n": "Stablecoin Menge steigt 25,3 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "up",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2020-03-01",
+"n": "Stablecoin Menge steigt 0,1 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "up",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2020-04-01",
+"n": "Stablecoin Menge steigt 5,3 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "up",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2020-05-01",
+"n": "Stablecoin Menge steigt 57,7 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "up",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2020-06-01",
+"n": "Stablecoin Menge steigt 19,9 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "up",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2020-07-01",
+"n": "Stablecoin Menge steigt 7,9 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "up",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2020-08-01",
+"n": "Stablecoin Menge steigt 10,8 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "up",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2020-09-01",
+"n": "Stablecoin Menge steigt 25,8 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "up",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2020-10-01",
+"n": "Stablecoin Menge steigt 20,4 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "up",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2020-11-01",
+"n": "Stablecoin Menge steigt 8,8 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "up",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2020-12-01",
+"n": "Stablecoin Menge steigt 12,3 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "up",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2021-01-01",
+"n": "Stablecoin Menge steigt 13,2 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "up",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2021-02-01",
+"n": "Stablecoin Menge steigt 32,3 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "up",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2021-03-01",
+"n": "Stablecoin Menge steigt 44,5 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "up",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2021-04-01",
+"n": "Stablecoin Menge steigt 22,9 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "up",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2021-05-01",
+"n": "Stablecoin Menge steigt 33,9 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "up",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2021-06-01",
+"n": "Stablecoin Menge steigt 23,6 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "up",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2021-07-01",
+"n": "Stablecoin Menge steigt 6,4 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "up",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2021-08-01",
+"n": "Stablecoin Menge steigt 3,6 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "up",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2021-09-01",
+"n": "Stablecoin Menge steigt 3,5 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "up",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2021-10-01",
+"n": "Stablecoin Menge steigt 7,4 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "up",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2021-11-01",
+"n": "Stablecoin Menge steigt 2,9 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "up",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2021-12-01",
+"n": "Stablecoin Menge steigt 13,4 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "up",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2022-01-01",
+"n": "Stablecoin Menge steigt 8,5 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "up",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2022-02-01",
+"n": "Stablecoin Menge steigt 7,3 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "up",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2022-03-01",
+"n": "Stablecoin Menge steigt 5,8 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "up",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2022-04-01",
+"n": "Stablecoin Menge steigt 1,8 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "up",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2022-05-01",
+"n": "Stablecoin Menge steigt 0,4 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "up",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2022-06-01",
+"n": "Stablecoin Menge fällt 15,1 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "down",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2022-07-01",
+"n": "Stablecoin Menge fällt 3,5 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "down",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2022-08-01",
+"n": "Stablecoin Menge fällt 0,1 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "down",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2022-09-01",
+"n": "Stablecoin Menge fällt 0,3 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "down",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2022-10-01",
+"n": "Stablecoin Menge fällt 1,0 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "down",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2022-11-01",
+"n": "Stablecoin Menge fällt 3,2 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "down",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2022-12-01",
+"n": "Stablecoin Menge fällt 2,0 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "down",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2023-01-01",
+"n": "Stablecoin Menge fällt 3,0 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "down",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2023-02-01",
+"n": "Stablecoin Menge fällt 0,7 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "down",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2023-03-01",
+"n": "Stablecoin Menge fällt 1,3 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "down",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2023-04-01",
+"n": "Stablecoin Menge fällt 2,0 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "down",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2023-05-01",
+"n": "Stablecoin Menge fällt 1,5 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "down",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2023-06-01",
+"n": "Stablecoin Menge fällt 0,8 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "down",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2023-07-01",
+"n": "Stablecoin Menge fällt 0,7 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "down",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2023-08-01",
+"n": "Stablecoin Menge fällt 2,0 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "down",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2023-09-01",
+"n": "Stablecoin Menge fällt 0,8 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "down",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2023-10-01",
+"n": "Stablecoin Menge fällt 0,4 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "down",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2023-11-01",
+"n": "Stablecoin Menge steigt 0,2 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "up",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2023-12-01",
+"n": "Stablecoin Menge steigt 2,8 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "up",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2024-01-01",
+"n": "Stablecoin Menge steigt 1,9 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "up",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2024-02-01",
+"n": "Stablecoin Menge steigt 3,5 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "up",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2024-03-01",
+"n": "Stablecoin Menge steigt 3,3 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "up",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2024-04-01",
+"n": "Stablecoin Menge steigt 7,1 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "up",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2024-05-01",
+"n": "Stablecoin Menge steigt 6,9 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "up",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2024-06-01",
+"n": "Stablecoin Menge steigt 0,6 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "up",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2024-07-01",
+"n": "Stablecoin Menge steigt 0,6 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "up",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2024-08-01",
+"n": "Stablecoin Menge steigt 1,9 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "up",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2024-09-01",
+"n": "Stablecoin Menge steigt 3,4 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "up",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2024-10-01",
+"n": "Stablecoin Menge steigt 1,6 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "up",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2024-11-01",
+"n": "Stablecoin Menge fällt 0,1 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "down",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2024-12-01",
+"n": "Stablecoin Menge steigt 11,7 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "up",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2025-01-01",
+"n": "Stablecoin Menge steigt 6,5 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "up",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2025-02-01",
+"n": "Stablecoin Menge steigt 5,3 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "up",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2025-03-01",
+"n": "Stablecoin Menge steigt 4,6 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "up",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2025-04-01",
+"n": "Stablecoin Menge steigt 3,7 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "up",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2025-05-01",
+"n": "Stablecoin Menge steigt 1,7 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "up",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2025-06-01",
+"n": "Stablecoin Menge steigt 2,8 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "up",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2025-07-01",
+"n": "Stablecoin Menge steigt 2,3 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "up",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2025-08-01",
+"n": "Stablecoin Menge steigt 4,8 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "up",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2025-09-01",
+"n": "Stablecoin Menge steigt 5,7 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "up",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2025-10-01",
+"n": "Stablecoin Menge steigt 5,5 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "up",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2025-11-01",
+"n": "Stablecoin Menge steigt 3,9 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "up",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2025-12-01",
+"n": "Stablecoin Menge fällt 1,1 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "down",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2026-01-01",
+"n": "Stablecoin Menge steigt 0,9 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "up",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2026-02-01",
+"n": "Stablecoin Menge fällt 0,4 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "down",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2026-03-01",
+"n": "Stablecoin Menge fällt 0,3 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "down",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2026-04-01",
+"n": "Stablecoin Menge steigt 1,7 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "up",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2026-05-01",
+"n": "Stablecoin Menge steigt 1,2 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "up",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2026-06-01",
+"n": "Stablecoin Menge steigt 0,4 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "up",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2026-07-01",
+"n": "Stablecoin Menge fällt 2,7 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "down",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2026-08-01",
+"n": "Stablecoin Menge fällt 1,7 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "down",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2026-09-01",
+"n": "Stablecoin Menge steigt 0,7 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "up",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2026-10-01",
+"n": "Stablecoin Menge steigt 1,2 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "up",
+"quelle": "https://defillama.com/stablecoins"
+},
+{
+"d": "2026-11-01",
+"n": "Stablecoin Menge fällt 1,5 % in 30 Tagen",
+"t": "Stablecoin Menge",
+"k": "down",
+"quelle": "https://defillama.com/stablecoins"
+}
+]
+}

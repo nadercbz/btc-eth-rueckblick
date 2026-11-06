@@ -1,0 +1,309 @@
+{
+"id": "samhain_beltane",
+"name": "Samhain und Beltane",
+"rang": 222,
+"gruppe": "Religion und Tradition",
+"ereignisse": [
+{
+"d": "2010-11-01",
+"n": "Samhain",
+"t": "Keltisch",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Samhain"
+},
+{
+"d": "2011-05-01",
+"n": "Beltane",
+"t": "Keltisch",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Beltane"
+},
+{
+"d": "2011-11-01",
+"n": "Samhain",
+"t": "Keltisch",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Samhain"
+},
+{
+"d": "2012-05-01",
+"n": "Beltane",
+"t": "Keltisch",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Beltane"
+},
+{
+"d": "2012-11-01",
+"n": "Samhain",
+"t": "Keltisch",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Samhain"
+},
+{
+"d": "2013-05-01",
+"n": "Beltane",
+"t": "Keltisch",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Beltane"
+},
+{
+"d": "2013-11-01",
+"n": "Samhain",
+"t": "Keltisch",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Samhain"
+},
+{
+"d": "2014-05-01",
+"n": "Beltane",
+"t": "Keltisch",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Beltane"
+},
+{
+"d": "2014-11-01",
+"n": "Samhain",
+"t": "Keltisch",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Samhain"
+},
+{
+"d": "2015-05-01",
+"n": "Beltane",
+"t": "Keltisch",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Beltane"
+},
+{
+"d": "2015-11-01",
+"n": "Samhain",
+"t": "Keltisch",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Samhain"
+},
+{
+"d": "2016-05-01",
+"n": "Beltane",
+"t": "Keltisch",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Beltane"
+},
+{
+"d": "2016-11-01",
+"n": "Samhain",
+"t": "Keltisch",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Samhain"
+},
+{
+"d": "2017-05-01",
+"n": "Beltane",
+"t": "Keltisch",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Beltane"
+},
+{
+"d": "2017-11-01",
+"n": "Samhain",
+"t": "Keltisch",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Samhain"
+},
+{
+"d": "2018-05-01",
+"n": "Beltane",
+"t": "Keltisch",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Beltane"
+},
+{
+"d": "2018-11-01",
+"n": "Samhain",
+"t": "Keltisch",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Samhain"
+},
+{
+"d": "2019-05-01",
+"n": "Beltane",
+"t": "Keltisch",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Beltane"
+},
+{
+"d": "2019-11-01",
+"n": "Samhain",
+"t": "Keltisch",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Samhain"
+},
+{
+"d": "2020-05-01",
+"n": "Beltane",
+"t": "Keltisch",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Beltane"
+},
+{
+"d": "2020-11-01",
+"n": "Samhain",
+"t": "Keltisch",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Samhain"
+},
+{
+"d": "2021-05-01",
+"n": "Beltane",
+"t": "Keltisch",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Beltane"
+},
+{
+"d": "2021-11-01",
+"n": "Samhain",
+"t": "Keltisch",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Samhain"
+},
+{
+"d": "2022-05-01",
+"n": "Beltane",
+"t": "Keltisch",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Beltane"
+},
+{
+"d": "2022-11-01",
+"n": "Samhain",
+"t": "Keltisch",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Samhain"
+},
+{
+"d": "2023-05-01",
+"n": "Beltane",
+"t": "Keltisch",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Beltane"
+},
+{
+"d": "2023-11-01",
+"n": "Samhain",
+"t": "Keltisch",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Samhain"
+},
+{
+"d": "2024-05-01",
+"n": "Beltane",
+"t": "Keltisch",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Beltane"
+},
+{
+"d": "2024-11-01",
+"n": "Samhain",
+"t": "Keltisch",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Samhain"
+},
+{
+"d": "2025-05-01",
+"n": "Beltane",
+"t": "Keltisch",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Beltane"
+},
+{
+"d": "2025-11-01",
+"n": "Samhain",
+"t": "Keltisch",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Samhain"
+},
+{
+"d": "2026-05-01",
+"n": "Beltane",
+"t": "Keltisch",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Beltane"
+},
+{
+"d": "2026-11-01",
+"n": "Samhain",
+"t": "Keltisch",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Samhain"
+},
+{
+"d": "2027-05-01",
+"n": "Beltane",
+"t": "Keltisch",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Beltane"
+},
+{
+"d": "2027-11-01",
+"n": "Samhain",
+"t": "Keltisch",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Samhain"
+},
+{
+"d": "2028-05-01",
+"n": "Beltane",
+"t": "Keltisch",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Beltane"
+},
+{
+"d": "2028-11-01",
+"n": "Samhain",
+"t": "Keltisch",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Samhain"
+},
+{
+"d": "2029-05-01",
+"n": "Beltane",
+"t": "Keltisch",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Beltane"
+},
+{
+"d": "2029-11-01",
+"n": "Samhain",
+"t": "Keltisch",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Samhain"
+},
+{
+"d": "2030-05-01",
+"n": "Beltane",
+"t": "Keltisch",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Beltane"
+},
+{
+"d": "2030-11-01",
+"n": "Samhain",
+"t": "Keltisch",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Samhain"
+},
+{
+"d": "2031-05-01",
+"n": "Beltane",
+"t": "Keltisch",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Beltane"
+},
+{
+"d": "2031-11-01",
+"n": "Samhain",
+"t": "Keltisch",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Samhain"
+}
+]
+}

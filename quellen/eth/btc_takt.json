@@ -1,0 +1,967 @@
+{
+"id": "btc_takt",
+"name": "BTC als Taktgeber",
+"rang": 44,
+"gleichlauf": 59.5,
+"ereignisse": [
+{
+"d": "2015-07-01",
+"n": "BTC steigt 5,9 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2015-08-01",
+"n": "BTC steigt 15,1 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2015-09-01",
+"n": "BTC fällt 21,3 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2015-10-01",
+"n": "BTC steigt 3,5 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2015-11-01",
+"n": "BTC steigt 28,6 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2015-12-01",
+"n": "BTC steigt 16,1 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2016-01-01",
+"n": "BTC steigt 20,0 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2016-02-01",
+"n": "BTC fällt 10,1 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2016-03-01",
+"n": "BTC steigt 10,5 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2016-04-01",
+"n": "BTC fällt 2,9 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2016-05-01",
+"n": "BTC steigt 8,5 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2016-06-01",
+"n": "BTC steigt 10,1 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2016-07-01",
+"n": "BTC steigt 30,8 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2016-08-01",
+"n": "BTC fällt 0,7 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2016-09-01",
+"n": "BTC fällt 10,6 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2016-10-01",
+"n": "BTC steigt 5,2 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2016-11-01",
+"n": "BTC steigt 13,7 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2016-12-01",
+"n": "BTC steigt 6,9 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2017-01-01",
+"n": "BTC steigt 27,6 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2017-02-01",
+"n": "BTC fällt 3,6 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2017-03-01",
+"n": "BTC steigt 27,1 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2017-04-01",
+"n": "BTC fällt 12,9 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2017-05-01",
+"n": "BTC steigt 26,9 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2017-06-01",
+"n": "BTC steigt 66,3 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2017-07-01",
+"n": "BTC steigt 15,6 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2017-08-01",
+"n": "BTC steigt 7,3 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2017-09-01",
+"n": "BTC steigt 64,2 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2017-10-01",
+"n": "BTC fällt 9,4 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2017-11-01",
+"n": "BTC steigt 44,1 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2017-12-01",
+"n": "BTC steigt 58,3 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2018-01-01",
+"n": "BTC steigt 48,1 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2018-02-01",
+"n": "BTC fällt 24,2 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2018-03-01",
+"n": "BTC fällt 10,0 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2018-04-01",
+"n": "BTC fällt 25,9 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2018-05-01",
+"n": "BTC steigt 21,1 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2018-06-01",
+"n": "BTC fällt 19,5 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2018-07-01",
+"n": "BTC fällt 16,5 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2018-08-01",
+"n": "BTC steigt 30,5 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2018-09-01",
+"n": "BTC fällt 13,5 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2018-10-01",
+"n": "BTC fällt 5,0 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2018-11-01",
+"n": "BTC fällt 2,6 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2018-12-01",
+"n": "BTC fällt 37,5 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2019-01-01",
+"n": "BTC fällt 6,0 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2019-02-01",
+"n": "BTC fällt 7,7 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2019-03-01",
+"n": "BTC steigt 10,1 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2019-04-01",
+"n": "BTC steigt 4,3 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2019-05-01",
+"n": "BTC steigt 30,6 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2019-06-01",
+"n": "BTC steigt 61,4 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2019-07-01",
+"n": "BTC steigt 37,4 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2019-08-01",
+"n": "BTC fällt 16,8 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2019-09-01",
+"n": "BTC steigt 1,0 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2019-10-01",
+"n": "BTC fällt 16,0 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2019-11-01",
+"n": "BTC steigt 11,6 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2019-12-01",
+"n": "BTC fällt 19,8 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2020-01-01",
+"n": "BTC fällt 2,1 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2020-02-01",
+"n": "BTC steigt 24,4 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2020-03-01",
+"n": "BTC steigt 2,1 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2020-04-01",
+"n": "BTC fällt 28,1 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2020-05-01",
+"n": "BTC steigt 24,4 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2020-06-01",
+"n": "BTC steigt 13,8 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2020-07-01",
+"n": "BTC fällt 1,2 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2020-08-01",
+"n": "BTC steigt 16,9 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2020-09-01",
+"n": "BTC steigt 4,6 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2020-10-01",
+"n": "BTC fällt 6,6 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2020-11-01",
+"n": "BTC steigt 24,8 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2020-12-01",
+"n": "BTC steigt 36,1 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2021-01-01",
+"n": "BTC steigt 49,0 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2021-02-01",
+"n": "BTC steigt 18,6 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2021-03-01",
+"n": "BTC steigt 48,3 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2021-04-01",
+"n": "BTC steigt 18,5 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2021-05-01",
+"n": "BTC fällt 5,1 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2021-06-01",
+"n": "BTC fällt 32,1 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2021-07-01",
+"n": "BTC fällt 8,1 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2021-08-01",
+"n": "BTC steigt 16,2 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2021-09-01",
+"n": "BTC steigt 20,1 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2021-10-01",
+"n": "BTC fällt 11,7 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2021-11-01",
+"n": "BTC steigt 41,4 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2021-12-01",
+"n": "BTC fällt 7,9 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2022-01-01",
+"n": "BTC fällt 14,1 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2022-02-01",
+"n": "BTC fällt 21,8 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2022-03-01",
+"n": "BTC steigt 5,1 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2022-04-01",
+"n": "BTC steigt 15,6 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2022-05-01",
+"n": "BTC fällt 15,3 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2022-06-01",
+"n": "BTC fällt 23,2 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2022-07-01",
+"n": "BTC fällt 30,9 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2022-08-01",
+"n": "BTC steigt 12,2 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2022-09-01",
+"n": "BTC fällt 12,6 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2022-10-01",
+"n": "BTC fällt 5,1 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2022-11-01",
+"n": "BTC steigt 6,5 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2022-12-01",
+"n": "BTC fällt 19,4 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2023-01-01",
+"n": "BTC steigt 0,5 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2023-02-01",
+"n": "BTC steigt 38,9 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2023-03-01",
+"n": "BTC steigt 1,9 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2023-04-01",
+"n": "BTC steigt 18,6 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2023-05-01",
+"n": "BTC steigt 3,5 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2023-06-01",
+"n": "BTC fällt 5,6 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2023-07-01",
+"n": "BTC steigt 11,6 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2023-08-01",
+"n": "BTC fällt 3,8 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2023-09-01",
+"n": "BTC fällt 9,8 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2023-10-01",
+"n": "BTC steigt 0,4 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2023-11-01",
+"n": "BTC steigt 28,0 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2023-12-01",
+"n": "BTC steigt 9,7 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2024-01-01",
+"n": "BTC steigt 12,9 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2024-02-01",
+"n": "BTC fällt 1,5 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2024-03-01",
+"n": "BTC steigt 33,2 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2024-04-01",
+"n": "BTC steigt 22,4 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2024-05-01",
+"n": "BTC fällt 9,7 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2024-06-01",
+"n": "BTC steigt 9,5 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2024-07-01",
+"n": "BTC fällt 10,6 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2024-08-01",
+"n": "BTC steigt 8,5 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2024-09-01",
+"n": "BTC fällt 9,4 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2024-10-01",
+"n": "BTC steigt 7,1 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2024-11-01",
+"n": "BTC steigt 8,2 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2024-12-01",
+"n": "BTC steigt 37,4 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2025-01-01",
+"n": "BTC fällt 0,6 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2025-02-01",
+"n": "BTC steigt 9,5 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2025-03-01",
+"n": "BTC fällt 13,4 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2025-04-01",
+"n": "BTC fällt 3,7 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2025-05-01",
+"n": "BTC steigt 11,3 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2025-06-01",
+"n": "BTC steigt 13,0 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2025-07-01",
+"n": "BTC steigt 0,1 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2025-08-01",
+"n": "BTC steigt 9,9 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2025-09-01",
+"n": "BTC fällt 6,0 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2025-10-01",
+"n": "BTC steigt 1,5 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2025-11-01",
+"n": "BTC fällt 0,8 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2025-12-01",
+"n": "BTC fällt 19,4 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2026-01-01",
+"n": "BTC fällt 2,3 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2026-02-01",
+"n": "BTC fällt 2,3 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2026-03-01",
+"n": "BTC fällt 24,6 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2026-04-01",
+"n": "BTC steigt 2,4 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2026-05-01",
+"n": "BTC steigt 13,9 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2026-06-01",
+"n": "BTC fällt 3,4 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2026-07-01",
+"n": "BTC fällt 19,7 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2026-08-01",
+"n": "BTC steigt 7,4 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2026-09-01",
+"n": "BTC steigt 23,0 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2026-10-01",
+"n": "BTC steigt 6,9 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+},
+{
+"d": "2026-11-01",
+"n": "BTC fällt 5,8 % in 30 Tagen",
+"t": "BTC als Taktgeber",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/BTC-USD/history/"
+}
+]
+}

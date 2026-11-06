@@ -1,0 +1,953 @@
+{
+"id": "wiki_bitcoin",
+"name": "Wikipedia Bitcoin",
+"rang": 22,
+"gleichlauf": 34.5,
+"ereignisse": [
+{
+"d": "2015-09-01",
+"n": "Aufrufe Bitcoin steigen 5 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2015-10-01",
+"n": "Aufrufe Bitcoin fallen 6 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2015-11-01",
+"n": "Aufrufe Bitcoin fallen 10 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2015-12-01",
+"n": "Aufrufe Bitcoin steigen 14 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2016-01-01",
+"n": "Aufrufe Bitcoin steigen 34 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2016-02-01",
+"n": "Aufrufe Bitcoin fallen 24 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2016-03-01",
+"n": "Aufrufe Bitcoin steigen 0 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2016-04-01",
+"n": "Aufrufe Bitcoin fallen 10 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2016-05-01",
+"n": "Aufrufe Bitcoin fallen 3 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2016-06-01",
+"n": "Aufrufe Bitcoin steigen 85 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2016-07-01",
+"n": "Aufrufe Bitcoin fallen 31 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2016-08-01",
+"n": "Aufrufe Bitcoin steigen 7 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2016-09-01",
+"n": "Aufrufe Bitcoin fallen 15 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2016-10-01",
+"n": "Aufrufe Bitcoin fallen 4 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2016-11-01",
+"n": "Aufrufe Bitcoin steigen 1 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2016-12-01",
+"n": "Aufrufe Bitcoin steigen 24 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2017-01-01",
+"n": "Aufrufe Bitcoin steigen 4 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2017-02-01",
+"n": "Aufrufe Bitcoin steigen 37 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2017-03-01",
+"n": "Aufrufe Bitcoin fallen 23 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2017-04-01",
+"n": "Aufrufe Bitcoin steigen 41 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2017-05-01",
+"n": "Aufrufe Bitcoin fallen 20 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2017-06-01",
+"n": "Aufrufe Bitcoin steigen 203 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2017-07-01",
+"n": "Aufrufe Bitcoin fallen 31 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2017-08-01",
+"n": "Aufrufe Bitcoin fallen 7 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2017-09-01",
+"n": "Aufrufe Bitcoin steigen 46 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2017-10-01",
+"n": "Aufrufe Bitcoin fallen 14 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2017-11-01",
+"n": "Aufrufe Bitcoin steigen 9 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2017-12-01",
+"n": "Aufrufe Bitcoin steigen 92 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2018-01-01",
+"n": "Aufrufe Bitcoin steigen 129 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2018-02-01",
+"n": "Aufrufe Bitcoin fallen 58 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2018-03-01",
+"n": "Aufrufe Bitcoin fallen 52 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2018-04-01",
+"n": "Aufrufe Bitcoin fallen 35 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2018-05-01",
+"n": "Aufrufe Bitcoin fallen 22 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2018-06-01",
+"n": "Aufrufe Bitcoin fallen 8 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2018-07-01",
+"n": "Aufrufe Bitcoin steigen 18 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2018-08-01",
+"n": "Aufrufe Bitcoin fallen 27 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2018-09-01",
+"n": "Aufrufe Bitcoin steigen 1 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2018-10-01",
+"n": "Aufrufe Bitcoin fallen 5 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2018-11-01",
+"n": "Aufrufe Bitcoin fallen 24 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2018-12-01",
+"n": "Aufrufe Bitcoin steigen 17 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2019-01-01",
+"n": "Aufrufe Bitcoin fallen 7 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2019-02-01",
+"n": "Aufrufe Bitcoin fallen 8 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2019-03-01",
+"n": "Aufrufe Bitcoin fallen 13 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2019-04-01",
+"n": "Aufrufe Bitcoin fallen 7 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2019-05-01",
+"n": "Aufrufe Bitcoin fallen 2 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2019-06-01",
+"n": "Aufrufe Bitcoin steigen 8 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2019-07-01",
+"n": "Aufrufe Bitcoin fallen 1 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2019-08-01",
+"n": "Aufrufe Bitcoin steigen 1 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2019-09-01",
+"n": "Aufrufe Bitcoin fallen 15 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2019-10-01",
+"n": "Aufrufe Bitcoin fallen 8 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2019-11-01",
+"n": "Aufrufe Bitcoin steigen 9 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2019-12-01",
+"n": "Aufrufe Bitcoin steigen 1 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2020-01-01",
+"n": "Aufrufe Bitcoin fallen 0 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2020-02-01",
+"n": "Aufrufe Bitcoin steigen 27 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2020-03-01",
+"n": "Aufrufe Bitcoin fallen 36 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2020-04-01",
+"n": "Aufrufe Bitcoin steigen 8 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2020-05-01",
+"n": "Aufrufe Bitcoin steigen 15 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2020-06-01",
+"n": "Aufrufe Bitcoin steigen 13 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2020-07-01",
+"n": "Aufrufe Bitcoin fallen 33 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2020-08-01",
+"n": "Aufrufe Bitcoin steigen 31 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2020-09-01",
+"n": "Aufrufe Bitcoin steigen 2 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2020-10-01",
+"n": "Aufrufe Bitcoin fallen 21 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2020-11-01",
+"n": "Aufrufe Bitcoin steigen 6 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2020-12-01",
+"n": "Aufrufe Bitcoin steigen 48 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2021-01-01",
+"n": "Aufrufe Bitcoin steigen 51 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2021-02-01",
+"n": "Aufrufe Bitcoin steigen 102 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2021-03-01",
+"n": "Aufrufe Bitcoin steigen 7 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2021-04-01",
+"n": "Aufrufe Bitcoin fallen 33 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2021-05-01",
+"n": "Aufrufe Bitcoin steigen 0 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2021-06-01",
+"n": "Aufrufe Bitcoin steigen 60 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2021-07-01",
+"n": "Aufrufe Bitcoin fallen 45 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2021-08-01",
+"n": "Aufrufe Bitcoin fallen 29 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2021-09-01",
+"n": "Aufrufe Bitcoin steigen 5 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2021-10-01",
+"n": "Aufrufe Bitcoin steigen 44 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2021-11-01",
+"n": "Aufrufe Bitcoin fallen 10 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2021-12-01",
+"n": "Aufrufe Bitcoin fallen 3 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2022-01-01",
+"n": "Aufrufe Bitcoin fallen 24 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2022-02-01",
+"n": "Aufrufe Bitcoin steigen 8 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2022-03-01",
+"n": "Aufrufe Bitcoin fallen 15 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2022-04-01",
+"n": "Aufrufe Bitcoin fallen 14 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2022-05-01",
+"n": "Aufrufe Bitcoin fallen 9 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2022-06-01",
+"n": "Aufrufe Bitcoin steigen 4 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2022-07-01",
+"n": "Aufrufe Bitcoin fallen 7 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2022-08-01",
+"n": "Aufrufe Bitcoin fallen 23 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2022-09-01",
+"n": "Aufrufe Bitcoin fallen 4 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2022-10-01",
+"n": "Aufrufe Bitcoin fallen 3 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2022-11-01",
+"n": "Aufrufe Bitcoin fallen 5 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2022-12-01",
+"n": "Aufrufe Bitcoin steigen 33 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2023-01-01",
+"n": "Aufrufe Bitcoin fallen 23 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2023-02-01",
+"n": "Aufrufe Bitcoin fallen 3 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2023-03-01",
+"n": "Aufrufe Bitcoin fallen 17 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2023-04-01",
+"n": "Aufrufe Bitcoin steigen 23 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2023-05-01",
+"n": "Aufrufe Bitcoin fallen 12 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2023-06-01",
+"n": "Aufrufe Bitcoin fallen 3 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2023-07-01",
+"n": "Aufrufe Bitcoin steigen 1 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2023-08-01",
+"n": "Aufrufe Bitcoin fallen 5 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2023-09-01",
+"n": "Aufrufe Bitcoin steigen 13 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2023-10-01",
+"n": "Aufrufe Bitcoin steigen 4 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2023-11-01",
+"n": "Aufrufe Bitcoin steigen 11 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2023-12-01",
+"n": "Aufrufe Bitcoin fallen 2 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2024-01-01",
+"n": "Aufrufe Bitcoin steigen 5 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2024-02-01",
+"n": "Aufrufe Bitcoin steigen 34 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2024-03-01",
+"n": "Aufrufe Bitcoin fallen 1 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2024-04-01",
+"n": "Aufrufe Bitcoin steigen 40 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2024-05-01",
+"n": "Aufrufe Bitcoin fallen 30 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2024-06-01",
+"n": "Aufrufe Bitcoin fallen 35 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2024-07-01",
+"n": "Aufrufe Bitcoin fallen 5 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2024-08-01",
+"n": "Aufrufe Bitcoin fallen 18 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2024-09-01",
+"n": "Aufrufe Bitcoin fallen 3 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2024-10-01",
+"n": "Aufrufe Bitcoin steigen 9 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2024-11-01",
+"n": "Aufrufe Bitcoin steigen 21 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2024-12-01",
+"n": "Aufrufe Bitcoin steigen 83 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2025-01-01",
+"n": "Aufrufe Bitcoin steigen 18 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2025-02-01",
+"n": "Aufrufe Bitcoin fallen 25 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2025-03-01",
+"n": "Aufrufe Bitcoin fallen 33 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2025-04-01",
+"n": "Aufrufe Bitcoin steigen 15 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2025-05-01",
+"n": "Aufrufe Bitcoin fallen 22 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2025-06-01",
+"n": "Aufrufe Bitcoin steigen 17 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2025-07-01",
+"n": "Aufrufe Bitcoin fallen 20 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2025-08-01",
+"n": "Aufrufe Bitcoin steigen 23 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2025-09-01",
+"n": "Aufrufe Bitcoin fallen 14 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2025-10-01",
+"n": "Aufrufe Bitcoin fallen 23 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2025-11-01",
+"n": "Aufrufe Bitcoin steigen 32 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2025-12-01",
+"n": "Aufrufe Bitcoin fallen 6 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2026-01-01",
+"n": "Aufrufe Bitcoin fallen 19 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2026-02-01",
+"n": "Aufrufe Bitcoin fallen 0 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2026-03-01",
+"n": "Aufrufe Bitcoin steigen 56 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2026-04-01",
+"n": "Aufrufe Bitcoin fallen 47 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2026-05-01",
+"n": "Aufrufe Bitcoin steigen 9 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2026-06-01",
+"n": "Aufrufe Bitcoin fallen 4 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2026-07-01",
+"n": "Aufrufe Bitcoin fallen 17 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2026-08-01",
+"n": "Aufrufe Bitcoin fallen 13 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2026-09-01",
+"n": "Aufrufe Bitcoin steigen 7 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2026-10-01",
+"n": "Aufrufe Bitcoin steigen 22 %",
+"t": "Aufmerksamkeit",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+},
+{
+"d": "2026-11-01",
+"n": "Aufrufe Bitcoin fallen 6 %",
+"t": "Aufmerksamkeit",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Bitcoin"
+}
+]
+}

@@ -1,0 +1,204 @@
+{
+"id": "rueck_venus",
+"name": "Venus rückläufig",
+"rang": 178,
+"gruppe": "Planeten",
+"ereignisse": [
+{
+"d": "2010-10-09",
+"n": "Venus wird rückläufig",
+"t": "Planet",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2010-11-19",
+"n": "Venus wird direkt",
+"t": "Planet",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2012-05-16",
+"n": "Venus wird rückläufig",
+"t": "Planet",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2012-06-28",
+"n": "Venus wird direkt",
+"t": "Planet",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2013-12-22",
+"n": "Venus wird rückläufig",
+"t": "Planet",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2014-02-01",
+"n": "Venus wird direkt",
+"t": "Planet",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2015-07-26",
+"n": "Venus wird rückläufig",
+"t": "Planet",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2015-09-07",
+"n": "Venus wird direkt",
+"t": "Planet",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2017-03-05",
+"n": "Venus wird rückläufig",
+"t": "Planet",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2017-04-16",
+"n": "Venus wird direkt",
+"t": "Planet",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2018-10-06",
+"n": "Venus wird rückläufig",
+"t": "Planet",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2018-11-17",
+"n": "Venus wird direkt",
+"t": "Planet",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2020-05-14",
+"n": "Venus wird rückläufig",
+"t": "Planet",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2020-06-26",
+"n": "Venus wird direkt",
+"t": "Planet",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2021-12-20",
+"n": "Venus wird rückläufig",
+"t": "Planet",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2022-01-30",
+"n": "Venus wird direkt",
+"t": "Planet",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2023-07-24",
+"n": "Venus wird rückläufig",
+"t": "Planet",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2023-09-05",
+"n": "Venus wird direkt",
+"t": "Planet",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2025-03-03",
+"n": "Venus wird rückläufig",
+"t": "Planet",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2025-04-14",
+"n": "Venus wird direkt",
+"t": "Planet",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2026-10-04",
+"n": "Venus wird rückläufig",
+"t": "Planet",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2026-11-15",
+"n": "Venus wird direkt",
+"t": "Planet",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2028-05-11",
+"n": "Venus wird rückläufig",
+"t": "Planet",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2028-06-23",
+"n": "Venus wird direkt",
+"t": "Planet",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2029-12-17",
+"n": "Venus wird rückläufig",
+"t": "Planet",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2030-01-27",
+"n": "Venus wird direkt",
+"t": "Planet",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2031-07-21",
+"n": "Venus wird rückläufig",
+"t": "Planet",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2031-09-02",
+"n": "Venus wird direkt",
+"t": "Planet",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+}
+]
+}

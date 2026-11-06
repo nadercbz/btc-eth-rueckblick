@@ -1,0 +1,1617 @@
+{
+"id": "halving",
+"name": "Halving Zyklus",
+"rang": 5,
+"ereignisse": [
+{
+"d": "2012-11-28",
+"n": "Monat 0 nach Halving 2012",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2012-12-28",
+"n": "Monat 1 nach Halving 2012",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2013-01-28",
+"n": "Monat 2 nach Halving 2012",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2013-02-28",
+"n": "Monat 3 nach Halving 2012",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2013-03-28",
+"n": "Monat 4 nach Halving 2012",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2013-04-28",
+"n": "Monat 5 nach Halving 2012",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2013-05-28",
+"n": "Monat 6 nach Halving 2012",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2013-06-28",
+"n": "Monat 7 nach Halving 2012",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2013-07-28",
+"n": "Monat 8 nach Halving 2012",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2013-08-28",
+"n": "Monat 9 nach Halving 2012",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2013-09-28",
+"n": "Monat 10 nach Halving 2012",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2013-10-28",
+"n": "Monat 11 nach Halving 2012",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2013-11-28",
+"n": "Monat 12 nach Halving 2012",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2013-12-28",
+"n": "Monat 13 nach Halving 2012",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2014-01-28",
+"n": "Monat 14 nach Halving 2012",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2014-02-28",
+"n": "Monat 15 nach Halving 2012",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2014-03-28",
+"n": "Monat 16 nach Halving 2012",
+"t": "Halving",
+"k": "down",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2014-04-28",
+"n": "Monat 17 nach Halving 2012",
+"t": "Halving",
+"k": "down",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2014-05-28",
+"n": "Monat 18 nach Halving 2012",
+"t": "Halving",
+"k": "down",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2014-06-28",
+"n": "Monat 19 nach Halving 2012",
+"t": "Halving",
+"k": "down",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2014-07-28",
+"n": "Monat 20 nach Halving 2012",
+"t": "Halving",
+"k": "down",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2014-08-28",
+"n": "Monat 21 nach Halving 2012",
+"t": "Halving",
+"k": "down",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2014-09-28",
+"n": "Monat 22 nach Halving 2012",
+"t": "Halving",
+"k": "down",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2014-10-28",
+"n": "Monat 23 nach Halving 2012",
+"t": "Halving",
+"k": "down",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2014-11-28",
+"n": "Monat 24 nach Halving 2012",
+"t": "Halving",
+"k": "down",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2014-12-28",
+"n": "Monat 25 nach Halving 2012",
+"t": "Halving",
+"k": "down",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2015-01-28",
+"n": "Monat 26 nach Halving 2012",
+"t": "Halving",
+"k": "down",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2015-02-28",
+"n": "Monat 27 nach Halving 2012",
+"t": "Halving",
+"k": "down",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2015-03-28",
+"n": "Monat 28 nach Halving 2012",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2015-04-28",
+"n": "Monat 29 nach Halving 2012",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2015-05-28",
+"n": "Monat 30 nach Halving 2012",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2015-06-28",
+"n": "Monat 31 nach Halving 2012",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2015-07-28",
+"n": "Monat 32 nach Halving 2012",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2015-08-28",
+"n": "Monat 33 nach Halving 2012",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2015-09-28",
+"n": "Monat 34 nach Halving 2012",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2015-10-28",
+"n": "Monat 35 nach Halving 2012",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2015-11-28",
+"n": "Monat 36 nach Halving 2012",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2015-12-28",
+"n": "Monat 37 nach Halving 2012",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2016-01-28",
+"n": "Monat 38 nach Halving 2012",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2016-02-28",
+"n": "Monat 39 nach Halving 2012",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2016-03-28",
+"n": "Monat 40 nach Halving 2012",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2016-04-28",
+"n": "Monat 41 nach Halving 2012",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2016-05-28",
+"n": "Monat 42 nach Halving 2012",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2016-06-28",
+"n": "Monat 43 nach Halving 2012",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2016-07-09",
+"n": "Monat 0 nach Halving 2016",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2016-08-09",
+"n": "Monat 1 nach Halving 2016",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2016-09-09",
+"n": "Monat 2 nach Halving 2016",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2016-10-09",
+"n": "Monat 3 nach Halving 2016",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2016-11-09",
+"n": "Monat 4 nach Halving 2016",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2016-12-09",
+"n": "Monat 5 nach Halving 2016",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2017-01-09",
+"n": "Monat 6 nach Halving 2016",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2017-02-09",
+"n": "Monat 7 nach Halving 2016",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2017-03-09",
+"n": "Monat 8 nach Halving 2016",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2017-04-09",
+"n": "Monat 9 nach Halving 2016",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2017-05-09",
+"n": "Monat 10 nach Halving 2016",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2017-06-09",
+"n": "Monat 11 nach Halving 2016",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2017-07-09",
+"n": "Monat 12 nach Halving 2016",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2017-08-09",
+"n": "Monat 13 nach Halving 2016",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2017-09-09",
+"n": "Monat 14 nach Halving 2016",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2017-10-09",
+"n": "Monat 15 nach Halving 2016",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2017-11-09",
+"n": "Monat 16 nach Halving 2016",
+"t": "Halving",
+"k": "down",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2017-12-09",
+"n": "Monat 17 nach Halving 2016",
+"t": "Halving",
+"k": "down",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2018-01-09",
+"n": "Monat 18 nach Halving 2016",
+"t": "Halving",
+"k": "down",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2018-02-09",
+"n": "Monat 19 nach Halving 2016",
+"t": "Halving",
+"k": "down",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2018-03-09",
+"n": "Monat 20 nach Halving 2016",
+"t": "Halving",
+"k": "down",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2018-04-09",
+"n": "Monat 21 nach Halving 2016",
+"t": "Halving",
+"k": "down",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2018-05-09",
+"n": "Monat 22 nach Halving 2016",
+"t": "Halving",
+"k": "down",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2018-06-09",
+"n": "Monat 23 nach Halving 2016",
+"t": "Halving",
+"k": "down",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2018-07-09",
+"n": "Monat 24 nach Halving 2016",
+"t": "Halving",
+"k": "down",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2018-08-09",
+"n": "Monat 25 nach Halving 2016",
+"t": "Halving",
+"k": "down",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2018-09-09",
+"n": "Monat 26 nach Halving 2016",
+"t": "Halving",
+"k": "down",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2018-10-09",
+"n": "Monat 27 nach Halving 2016",
+"t": "Halving",
+"k": "down",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2018-11-09",
+"n": "Monat 28 nach Halving 2016",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2018-12-09",
+"n": "Monat 29 nach Halving 2016",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2019-01-09",
+"n": "Monat 30 nach Halving 2016",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2019-02-09",
+"n": "Monat 31 nach Halving 2016",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2019-03-09",
+"n": "Monat 32 nach Halving 2016",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2019-04-09",
+"n": "Monat 33 nach Halving 2016",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2019-05-09",
+"n": "Monat 34 nach Halving 2016",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2019-06-09",
+"n": "Monat 35 nach Halving 2016",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2019-07-09",
+"n": "Monat 36 nach Halving 2016",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2019-08-09",
+"n": "Monat 37 nach Halving 2016",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2019-09-09",
+"n": "Monat 38 nach Halving 2016",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2019-10-09",
+"n": "Monat 39 nach Halving 2016",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2019-11-09",
+"n": "Monat 40 nach Halving 2016",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2019-12-09",
+"n": "Monat 41 nach Halving 2016",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2020-01-09",
+"n": "Monat 42 nach Halving 2016",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2020-02-09",
+"n": "Monat 43 nach Halving 2016",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2020-03-09",
+"n": "Monat 44 nach Halving 2016",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2020-04-09",
+"n": "Monat 45 nach Halving 2016",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2020-05-09",
+"n": "Monat 46 nach Halving 2016",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2020-05-11",
+"n": "Monat 0 nach Halving 2020",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2020-06-11",
+"n": "Monat 1 nach Halving 2020",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2020-07-11",
+"n": "Monat 2 nach Halving 2020",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2020-08-11",
+"n": "Monat 3 nach Halving 2020",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2020-09-11",
+"n": "Monat 4 nach Halving 2020",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2020-10-11",
+"n": "Monat 5 nach Halving 2020",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2020-11-11",
+"n": "Monat 6 nach Halving 2020",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2020-12-11",
+"n": "Monat 7 nach Halving 2020",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2021-01-11",
+"n": "Monat 8 nach Halving 2020",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2021-02-11",
+"n": "Monat 9 nach Halving 2020",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2021-03-11",
+"n": "Monat 10 nach Halving 2020",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2021-04-11",
+"n": "Monat 11 nach Halving 2020",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2021-05-11",
+"n": "Monat 12 nach Halving 2020",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2021-06-11",
+"n": "Monat 13 nach Halving 2020",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2021-07-11",
+"n": "Monat 14 nach Halving 2020",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2021-08-11",
+"n": "Monat 15 nach Halving 2020",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2021-09-11",
+"n": "Monat 16 nach Halving 2020",
+"t": "Halving",
+"k": "down",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2021-10-11",
+"n": "Monat 17 nach Halving 2020",
+"t": "Halving",
+"k": "down",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2021-11-11",
+"n": "Monat 18 nach Halving 2020",
+"t": "Halving",
+"k": "down",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2021-12-11",
+"n": "Monat 19 nach Halving 2020",
+"t": "Halving",
+"k": "down",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2022-01-11",
+"n": "Monat 20 nach Halving 2020",
+"t": "Halving",
+"k": "down",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2022-02-11",
+"n": "Monat 21 nach Halving 2020",
+"t": "Halving",
+"k": "down",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2022-03-11",
+"n": "Monat 22 nach Halving 2020",
+"t": "Halving",
+"k": "down",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2022-04-11",
+"n": "Monat 23 nach Halving 2020",
+"t": "Halving",
+"k": "down",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2022-05-11",
+"n": "Monat 24 nach Halving 2020",
+"t": "Halving",
+"k": "down",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2022-06-11",
+"n": "Monat 25 nach Halving 2020",
+"t": "Halving",
+"k": "down",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2022-07-11",
+"n": "Monat 26 nach Halving 2020",
+"t": "Halving",
+"k": "down",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2022-08-11",
+"n": "Monat 27 nach Halving 2020",
+"t": "Halving",
+"k": "down",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2022-09-11",
+"n": "Monat 28 nach Halving 2020",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2022-10-11",
+"n": "Monat 29 nach Halving 2020",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2022-11-11",
+"n": "Monat 30 nach Halving 2020",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2022-12-11",
+"n": "Monat 31 nach Halving 2020",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2023-01-11",
+"n": "Monat 32 nach Halving 2020",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2023-02-11",
+"n": "Monat 33 nach Halving 2020",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2023-03-11",
+"n": "Monat 34 nach Halving 2020",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2023-04-11",
+"n": "Monat 35 nach Halving 2020",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2023-05-11",
+"n": "Monat 36 nach Halving 2020",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2023-06-11",
+"n": "Monat 37 nach Halving 2020",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2023-07-11",
+"n": "Monat 38 nach Halving 2020",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2023-08-11",
+"n": "Monat 39 nach Halving 2020",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2023-09-11",
+"n": "Monat 40 nach Halving 2020",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2023-10-11",
+"n": "Monat 41 nach Halving 2020",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2023-11-11",
+"n": "Monat 42 nach Halving 2020",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2023-12-11",
+"n": "Monat 43 nach Halving 2020",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2024-01-11",
+"n": "Monat 44 nach Halving 2020",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2024-02-11",
+"n": "Monat 45 nach Halving 2020",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2024-03-11",
+"n": "Monat 46 nach Halving 2020",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2024-04-11",
+"n": "Monat 47 nach Halving 2020",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2024-04-20",
+"n": "Monat 0 nach Halving 2024",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2024-05-20",
+"n": "Monat 1 nach Halving 2024",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2024-06-20",
+"n": "Monat 2 nach Halving 2024",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2024-07-20",
+"n": "Monat 3 nach Halving 2024",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2024-08-20",
+"n": "Monat 4 nach Halving 2024",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2024-09-20",
+"n": "Monat 5 nach Halving 2024",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2024-10-20",
+"n": "Monat 6 nach Halving 2024",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2024-11-20",
+"n": "Monat 7 nach Halving 2024",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2024-12-20",
+"n": "Monat 8 nach Halving 2024",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2025-01-20",
+"n": "Monat 9 nach Halving 2024",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2025-02-20",
+"n": "Monat 10 nach Halving 2024",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2025-03-20",
+"n": "Monat 11 nach Halving 2024",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2025-04-20",
+"n": "Monat 12 nach Halving 2024",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2025-05-20",
+"n": "Monat 13 nach Halving 2024",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2025-06-20",
+"n": "Monat 14 nach Halving 2024",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2025-07-20",
+"n": "Monat 15 nach Halving 2024",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2025-08-20",
+"n": "Monat 16 nach Halving 2024",
+"t": "Halving",
+"k": "down",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2025-09-20",
+"n": "Monat 17 nach Halving 2024",
+"t": "Halving",
+"k": "down",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2025-10-20",
+"n": "Monat 18 nach Halving 2024",
+"t": "Halving",
+"k": "down",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2025-11-20",
+"n": "Monat 19 nach Halving 2024",
+"t": "Halving",
+"k": "down",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2025-12-20",
+"n": "Monat 20 nach Halving 2024",
+"t": "Halving",
+"k": "down",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2026-01-20",
+"n": "Monat 21 nach Halving 2024",
+"t": "Halving",
+"k": "down",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2026-02-20",
+"n": "Monat 22 nach Halving 2024",
+"t": "Halving",
+"k": "down",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2026-03-20",
+"n": "Monat 23 nach Halving 2024",
+"t": "Halving",
+"k": "down",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2026-04-20",
+"n": "Monat 24 nach Halving 2024",
+"t": "Halving",
+"k": "down",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2026-05-20",
+"n": "Monat 25 nach Halving 2024",
+"t": "Halving",
+"k": "down",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2026-06-20",
+"n": "Monat 26 nach Halving 2024",
+"t": "Halving",
+"k": "down",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2026-07-20",
+"n": "Monat 27 nach Halving 2024",
+"t": "Halving",
+"k": "down",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2026-08-20",
+"n": "Monat 28 nach Halving 2024",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2026-09-20",
+"n": "Monat 29 nach Halving 2024",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2026-10-20",
+"n": "Monat 30 nach Halving 2024",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2026-11-20",
+"n": "Monat 31 nach Halving 2024",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2026-12-20",
+"n": "Monat 32 nach Halving 2024",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2027-01-20",
+"n": "Monat 33 nach Halving 2024",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2027-02-20",
+"n": "Monat 34 nach Halving 2024",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2027-03-20",
+"n": "Monat 35 nach Halving 2024",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2027-04-20",
+"n": "Monat 36 nach Halving 2024",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2027-05-20",
+"n": "Monat 37 nach Halving 2024",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2027-06-20",
+"n": "Monat 38 nach Halving 2024",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2027-07-20",
+"n": "Monat 39 nach Halving 2024",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2027-08-20",
+"n": "Monat 40 nach Halving 2024",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2027-09-20",
+"n": "Monat 41 nach Halving 2024",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2027-10-20",
+"n": "Monat 42 nach Halving 2024",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2027-11-20",
+"n": "Monat 43 nach Halving 2024",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2027-12-20",
+"n": "Monat 44 nach Halving 2024",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2028-01-20",
+"n": "Monat 45 nach Halving 2024",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2028-02-20",
+"n": "Monat 46 nach Halving 2024",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2028-03-20",
+"n": "Monat 47 nach Halving 2024",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2028-04-11",
+"n": "Monat 0 nach Halving 2028, Termin geschätzt",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2028-05-11",
+"n": "Monat 1 nach Halving 2028, Termin geschätzt",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2028-06-11",
+"n": "Monat 2 nach Halving 2028, Termin geschätzt",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2028-07-11",
+"n": "Monat 3 nach Halving 2028, Termin geschätzt",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2028-08-11",
+"n": "Monat 4 nach Halving 2028, Termin geschätzt",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2028-09-11",
+"n": "Monat 5 nach Halving 2028, Termin geschätzt",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2028-10-11",
+"n": "Monat 6 nach Halving 2028, Termin geschätzt",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2028-11-11",
+"n": "Monat 7 nach Halving 2028, Termin geschätzt",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2028-12-11",
+"n": "Monat 8 nach Halving 2028, Termin geschätzt",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2029-01-11",
+"n": "Monat 9 nach Halving 2028, Termin geschätzt",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2029-02-11",
+"n": "Monat 10 nach Halving 2028, Termin geschätzt",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2029-03-11",
+"n": "Monat 11 nach Halving 2028, Termin geschätzt",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2029-04-11",
+"n": "Monat 12 nach Halving 2028, Termin geschätzt",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2029-05-11",
+"n": "Monat 13 nach Halving 2028, Termin geschätzt",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2029-06-11",
+"n": "Monat 14 nach Halving 2028, Termin geschätzt",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2029-07-11",
+"n": "Monat 15 nach Halving 2028, Termin geschätzt",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2029-08-11",
+"n": "Monat 16 nach Halving 2028, Termin geschätzt",
+"t": "Halving",
+"k": "down",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2029-09-11",
+"n": "Monat 17 nach Halving 2028, Termin geschätzt",
+"t": "Halving",
+"k": "down",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2029-10-11",
+"n": "Monat 18 nach Halving 2028, Termin geschätzt",
+"t": "Halving",
+"k": "down",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2029-11-11",
+"n": "Monat 19 nach Halving 2028, Termin geschätzt",
+"t": "Halving",
+"k": "down",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2029-12-11",
+"n": "Monat 20 nach Halving 2028, Termin geschätzt",
+"t": "Halving",
+"k": "down",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2030-01-11",
+"n": "Monat 21 nach Halving 2028, Termin geschätzt",
+"t": "Halving",
+"k": "down",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2030-02-11",
+"n": "Monat 22 nach Halving 2028, Termin geschätzt",
+"t": "Halving",
+"k": "down",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2030-03-11",
+"n": "Monat 23 nach Halving 2028, Termin geschätzt",
+"t": "Halving",
+"k": "down",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2030-04-11",
+"n": "Monat 24 nach Halving 2028, Termin geschätzt",
+"t": "Halving",
+"k": "down",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2030-05-11",
+"n": "Monat 25 nach Halving 2028, Termin geschätzt",
+"t": "Halving",
+"k": "down",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2030-06-11",
+"n": "Monat 26 nach Halving 2028, Termin geschätzt",
+"t": "Halving",
+"k": "down",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2030-07-11",
+"n": "Monat 27 nach Halving 2028, Termin geschätzt",
+"t": "Halving",
+"k": "down",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2030-08-11",
+"n": "Monat 28 nach Halving 2028, Termin geschätzt",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2030-09-11",
+"n": "Monat 29 nach Halving 2028, Termin geschätzt",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2030-10-11",
+"n": "Monat 30 nach Halving 2028, Termin geschätzt",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2030-11-11",
+"n": "Monat 31 nach Halving 2028, Termin geschätzt",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2030-12-11",
+"n": "Monat 32 nach Halving 2028, Termin geschätzt",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2031-01-11",
+"n": "Monat 33 nach Halving 2028, Termin geschätzt",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2031-02-11",
+"n": "Monat 34 nach Halving 2028, Termin geschätzt",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2031-03-11",
+"n": "Monat 35 nach Halving 2028, Termin geschätzt",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2031-04-11",
+"n": "Monat 36 nach Halving 2028, Termin geschätzt",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2031-05-11",
+"n": "Monat 37 nach Halving 2028, Termin geschätzt",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2031-06-11",
+"n": "Monat 38 nach Halving 2028, Termin geschätzt",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2031-07-11",
+"n": "Monat 39 nach Halving 2028, Termin geschätzt",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2031-08-11",
+"n": "Monat 40 nach Halving 2028, Termin geschätzt",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2031-09-11",
+"n": "Monat 41 nach Halving 2028, Termin geschätzt",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+},
+{
+"d": "2031-10-11",
+"n": "Monat 42 nach Halving 2028, Termin geschätzt",
+"t": "Halving",
+"k": "up",
+"quelle": "https://en.bitcoin.it/wiki/Controlled_supply"
+}
+]
+}

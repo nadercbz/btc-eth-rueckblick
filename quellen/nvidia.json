@@ -1,0 +1,1394 @@
+{
+"id": "nvidia",
+"name": "Nvidia",
+"rang": 18,
+"gleichlauf": 14.8,
+"ereignisse": [
+{
+"d": "2010-06-01",
+"n": "Nvidia fällt 21,6 % in 30 Tagen",
+"t": "Nvidia",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2010-07-01",
+"n": "Nvidia fällt 13,8 % in 30 Tagen",
+"t": "Nvidia",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2010-08-01",
+"n": "Nvidia fällt 7,5 % in 30 Tagen",
+"t": "Nvidia",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2010-09-01",
+"n": "Nvidia fällt 2,9 % in 30 Tagen",
+"t": "Nvidia",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2010-10-01",
+"n": "Nvidia steigt 21,1 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2010-11-01",
+"n": "Nvidia steigt 0,0 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2010-12-01",
+"n": "Nvidia steigt 15,6 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2011-01-01",
+"n": "Nvidia steigt 9,4 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2011-02-01",
+"n": "Nvidia steigt 59,3 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2011-03-01",
+"n": "Nvidia fällt 0,6 % in 30 Tagen",
+"t": "Nvidia",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2011-04-01",
+"n": "Nvidia fällt 18,6 % in 30 Tagen",
+"t": "Nvidia",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2011-05-01",
+"n": "Nvidia steigt 2,2 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2011-06-01",
+"n": "Nvidia fällt 2,2 % in 30 Tagen",
+"t": "Nvidia",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2011-07-01",
+"n": "Nvidia fällt 15,8 % in 30 Tagen",
+"t": "Nvidia",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2011-08-01",
+"n": "Nvidia fällt 9,3 % in 30 Tagen",
+"t": "Nvidia",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2011-09-01",
+"n": "Nvidia fällt 8,1 % in 30 Tagen",
+"t": "Nvidia",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2011-10-01",
+"n": "Nvidia steigt 2,0 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2011-11-01",
+"n": "Nvidia steigt 10,9 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2011-12-01",
+"n": "Nvidia fällt 0,6 % in 30 Tagen",
+"t": "Nvidia",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2012-01-01",
+"n": "Nvidia fällt 6,6 % in 30 Tagen",
+"t": "Nvidia",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2012-02-01",
+"n": "Nvidia steigt 5,9 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2012-03-01",
+"n": "Nvidia steigt 6,2 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2012-04-01",
+"n": "Nvidia fällt 4,0 % in 30 Tagen",
+"t": "Nvidia",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2012-05-01",
+"n": "Nvidia fällt 12,2 % in 30 Tagen",
+"t": "Nvidia",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2012-06-01",
+"n": "Nvidia fällt 5,1 % in 30 Tagen",
+"t": "Nvidia",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2012-07-01",
+"n": "Nvidia steigt 5,2 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2012-08-01",
+"n": "Nvidia steigt 1,1 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2012-09-01",
+"n": "Nvidia steigt 7,7 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2012-10-01",
+"n": "Nvidia fällt 5,8 % in 30 Tagen",
+"t": "Nvidia",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2012-11-01",
+"n": "Nvidia fällt 9,5 % in 30 Tagen",
+"t": "Nvidia",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2012-12-01",
+"n": "Nvidia fällt 0,6 % in 30 Tagen",
+"t": "Nvidia",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2013-01-01",
+"n": "Nvidia steigt 2,1 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2013-02-01",
+"n": "Nvidia steigt 0,3 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2013-03-01",
+"n": "Nvidia steigt 1,3 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2013-04-01",
+"n": "Nvidia steigt 0,5 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2013-05-01",
+"n": "Nvidia steigt 5,9 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2013-06-01",
+"n": "Nvidia steigt 8,0 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2013-07-01",
+"n": "Nvidia fällt 2,2 % in 30 Tagen",
+"t": "Nvidia",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2013-08-01",
+"n": "Nvidia steigt 0,9 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2013-09-01",
+"n": "Nvidia steigt 3,7 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2013-10-01",
+"n": "Nvidia steigt 5,4 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2013-11-01",
+"n": "Nvidia fällt 2,2 % in 30 Tagen",
+"t": "Nvidia",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2013-12-01",
+"n": "Nvidia steigt 1,1 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2014-01-01",
+"n": "Nvidia steigt 2,3 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2014-02-01",
+"n": "Nvidia fällt 1,1 % in 30 Tagen",
+"t": "Nvidia",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2014-03-01",
+"n": "Nvidia steigt 18,6 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2014-04-01",
+"n": "Nvidia fällt 2,7 % in 30 Tagen",
+"t": "Nvidia",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2014-05-01",
+"n": "Nvidia steigt 3,7 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2014-06-01",
+"n": "Nvidia fällt 0,5 % in 30 Tagen",
+"t": "Nvidia",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2014-07-01",
+"n": "Nvidia fällt 0,6 % in 30 Tagen",
+"t": "Nvidia",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2014-08-01",
+"n": "Nvidia fällt 3,6 % in 30 Tagen",
+"t": "Nvidia",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2014-09-01",
+"n": "Nvidia steigt 8,1 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2014-10-01",
+"n": "Nvidia fällt 3,1 % in 30 Tagen",
+"t": "Nvidia",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2014-11-01",
+"n": "Nvidia steigt 0,9 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2014-12-01",
+"n": "Nvidia steigt 9,6 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2015-01-01",
+"n": "Nvidia fällt 0,6 % in 30 Tagen",
+"t": "Nvidia",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2015-02-01",
+"n": "Nvidia fällt 2,6 % in 30 Tagen",
+"t": "Nvidia",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2015-03-01",
+"n": "Nvidia steigt 10,2 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2015-04-01",
+"n": "Nvidia fällt 2,9 % in 30 Tagen",
+"t": "Nvidia",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2015-05-01",
+"n": "Nvidia steigt 3,0 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2015-06-01",
+"n": "Nvidia fällt 4,0 % in 30 Tagen",
+"t": "Nvidia",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2015-07-01",
+"n": "Nvidia fällt 2,3 % in 30 Tagen",
+"t": "Nvidia",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2015-08-01",
+"n": "Nvidia fällt 4,6 % in 30 Tagen",
+"t": "Nvidia",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2015-09-01",
+"n": "Nvidia steigt 10,2 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2015-10-01",
+"n": "Nvidia steigt 8,2 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2015-11-01",
+"n": "Nvidia steigt 19,7 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2015-12-01",
+"n": "Nvidia steigt 10,2 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2016-01-01",
+"n": "Nvidia steigt 5,4 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2016-02-01",
+"n": "Nvidia fällt 14,3 % in 30 Tagen",
+"t": "Nvidia",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2016-03-01",
+"n": "Nvidia steigt 10,7 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2016-04-01",
+"n": "Nvidia steigt 9,8 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2016-05-01",
+"n": "Nvidia steigt 4,2 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2016-06-01",
+"n": "Nvidia steigt 24,7 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2016-07-01",
+"n": "Nvidia steigt 2,7 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2016-08-01",
+"n": "Nvidia steigt 19,6 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2016-09-01",
+"n": "Nvidia steigt 10,3 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2016-10-01",
+"n": "Nvidia steigt 7,0 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2016-11-01",
+"n": "Nvidia steigt 6,7 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2016-12-01",
+"n": "Nvidia steigt 32,3 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2017-01-01",
+"n": "Nvidia steigt 18,3 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2017-02-01",
+"n": "Nvidia fällt 0,9 % in 30 Tagen",
+"t": "Nvidia",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2017-03-01",
+"n": "Nvidia fällt 1,9 % in 30 Tagen",
+"t": "Nvidia",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2017-04-01",
+"n": "Nvidia steigt 3,2 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2017-05-01",
+"n": "Nvidia fällt 4,2 % in 30 Tagen",
+"t": "Nvidia",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2017-06-01",
+"n": "Nvidia steigt 34,8 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2017-07-01",
+"n": "Nvidia steigt 7,1 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2017-08-01",
+"n": "Nvidia steigt 9,6 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2017-09-01",
+"n": "Nvidia steigt 0,7 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2017-10-01",
+"n": "Nvidia steigt 6,3 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2017-11-01",
+"n": "Nvidia steigt 13,3 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2017-12-01",
+"n": "Nvidia steigt 5,2 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2018-01-01",
+"n": "Nvidia fällt 5,4 % in 30 Tagen",
+"t": "Nvidia",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2018-02-01",
+"n": "Nvidia steigt 23,0 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2018-03-01",
+"n": "Nvidia steigt 2,9 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2018-04-01",
+"n": "Nvidia fällt 3,0 % in 30 Tagen",
+"t": "Nvidia",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2018-05-01",
+"n": "Nvidia fällt 4,8 % in 30 Tagen",
+"t": "Nvidia",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2018-06-01",
+"n": "Nvidia steigt 11,2 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2018-07-01",
+"n": "Nvidia fällt 2,2 % in 30 Tagen",
+"t": "Nvidia",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2018-08-01",
+"n": "Nvidia steigt 2,5 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2018-09-01",
+"n": "Nvidia steigt 10,5 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2018-10-01",
+"n": "Nvidia fällt 2,4 % in 30 Tagen",
+"t": "Nvidia",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2018-11-01",
+"n": "Nvidia fällt 25,0 % in 30 Tagen",
+"t": "Nvidia",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2018-12-01",
+"n": "Nvidia fällt 24,5 % in 30 Tagen",
+"t": "Nvidia",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2019-01-01",
+"n": "Nvidia fällt 14,3 % in 30 Tagen",
+"t": "Nvidia",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2019-02-01",
+"n": "Nvidia steigt 10,3 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2019-03-01",
+"n": "Nvidia steigt 5,4 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2019-04-01",
+"n": "Nvidia steigt 13,5 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2019-05-01",
+"n": "Nvidia steigt 4,0 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2019-06-01",
+"n": "Nvidia fällt 22,1 % in 30 Tagen",
+"t": "Nvidia",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2019-07-01",
+"n": "Nvidia steigt 9,4 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2019-08-01",
+"n": "Nvidia steigt 10,2 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2019-09-01",
+"n": "Nvidia fällt 4,5 % in 30 Tagen",
+"t": "Nvidia",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2019-10-01",
+"n": "Nvidia steigt 5,6 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2019-11-01",
+"n": "Nvidia steigt 15,3 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2019-12-01",
+"n": "Nvidia steigt 6,8 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2020-01-01",
+"n": "Nvidia steigt 10,3 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2020-02-01",
+"n": "Nvidia steigt 3,5 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2020-03-01",
+"n": "Nvidia steigt 11,3 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2020-04-01",
+"n": "Nvidia fällt 9,4 % in 30 Tagen",
+"t": "Nvidia",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2020-05-01",
+"n": "Nvidia steigt 16,7 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2020-06-01",
+"n": "Nvidia steigt 20,6 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2020-07-01",
+"n": "Nvidia steigt 6,8 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2020-08-01",
+"n": "Nvidia steigt 10,8 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2020-09-01",
+"n": "Nvidia steigt 24,0 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2020-10-01",
+"n": "Nvidia fällt 0,3 % in 30 Tagen",
+"t": "Nvidia",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2020-11-01",
+"n": "Nvidia steigt 1,0 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2020-12-01",
+"n": "Nvidia steigt 0,9 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2021-01-01",
+"n": "Nvidia fällt 1,2 % in 30 Tagen",
+"t": "Nvidia",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2021-02-01",
+"n": "Nvidia steigt 2,5 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2021-03-01",
+"n": "Nvidia steigt 6,6 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2021-04-01",
+"n": "Nvidia fällt 8,6 % in 30 Tagen",
+"t": "Nvidia",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2021-05-01",
+"n": "Nvidia steigt 18,1 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2021-06-01",
+"n": "Nvidia steigt 1,6 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2021-07-01",
+"n": "Nvidia steigt 25,8 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2021-08-01",
+"n": "Nvidia fällt 0,9 % in 30 Tagen",
+"t": "Nvidia",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2021-09-01",
+"n": "Nvidia steigt 14,2 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2021-10-01",
+"n": "Nvidia fällt 3,6 % in 30 Tagen",
+"t": "Nvidia",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2021-11-01",
+"n": "Nvidia steigt 13,0 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2021-12-01",
+"n": "Nvidia steigt 34,9 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2022-01-01",
+"n": "Nvidia fällt 7,1 % in 30 Tagen",
+"t": "Nvidia",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2022-02-01",
+"n": "Nvidia fällt 23,0 % in 30 Tagen",
+"t": "Nvidia",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2022-03-01",
+"n": "Nvidia steigt 3,4 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2022-04-01",
+"n": "Nvidia steigt 17,0 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2022-05-01",
+"n": "Nvidia fällt 30,1 % in 30 Tagen",
+"t": "Nvidia",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2022-06-01",
+"n": "Nvidia fällt 9,7 % in 30 Tagen",
+"t": "Nvidia",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2022-07-01",
+"n": "Nvidia fällt 7,2 % in 30 Tagen",
+"t": "Nvidia",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2022-08-01",
+"n": "Nvidia steigt 10,3 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2022-09-01",
+"n": "Nvidia fällt 6,7 % in 30 Tagen",
+"t": "Nvidia",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2022-10-01",
+"n": "Nvidia fällt 24,5 % in 30 Tagen",
+"t": "Nvidia",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2022-11-01",
+"n": "Nvidia steigt 5,7 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2022-12-01",
+"n": "Nvidia steigt 22,7 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2023-01-01",
+"n": "Nvidia fällt 8,7 % in 30 Tagen",
+"t": "Nvidia",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2023-02-01",
+"n": "Nvidia steigt 30,9 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2023-03-01",
+"n": "Nvidia steigt 18,0 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2023-04-01",
+"n": "Nvidia steigt 19,8 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2023-05-01",
+"n": "Nvidia steigt 0,2 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2023-06-01",
+"n": "Nvidia steigt 29,3 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2023-07-01",
+"n": "Nvidia steigt 18,1 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2023-08-01",
+"n": "Nvidia steigt 9,4 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2023-09-01",
+"n": "Nvidia steigt 4,0 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2023-10-01",
+"n": "Nvidia fällt 11,6 % in 30 Tagen",
+"t": "Nvidia",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2023-11-01",
+"n": "Nvidia fällt 1,6 % in 30 Tagen",
+"t": "Nvidia",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2023-12-01",
+"n": "Nvidia steigt 15,9 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2024-01-01",
+"n": "Nvidia steigt 2,8 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2024-02-01",
+"n": "Nvidia steigt 25,3 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2024-03-01",
+"n": "Nvidia steigt 25,8 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2024-04-01",
+"n": "Nvidia steigt 16,3 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2024-05-01",
+"n": "Nvidia fällt 9,0 % in 30 Tagen",
+"t": "Nvidia",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2024-06-01",
+"n": "Nvidia steigt 27,9 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2024-07-01",
+"n": "Nvidia steigt 16,1 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2024-08-01",
+"n": "Nvidia fällt 8,6 % in 30 Tagen",
+"t": "Nvidia",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2024-09-01",
+"n": "Nvidia steigt 11,4 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2024-10-01",
+"n": "Nvidia fällt 3,1 % in 30 Tagen",
+"t": "Nvidia",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2024-11-01",
+"n": "Nvidia steigt 15,5 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2024-12-01",
+"n": "Nvidia steigt 0,6 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2025-01-01",
+"n": "Nvidia fällt 1,8 % in 30 Tagen",
+"t": "Nvidia",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2025-02-01",
+"n": "Nvidia fällt 6,0 % in 30 Tagen",
+"t": "Nvidia",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2025-03-01",
+"n": "Nvidia fällt 4,3 % in 30 Tagen",
+"t": "Nvidia",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2025-04-01",
+"n": "Nvidia fällt 11,5 % in 30 Tagen",
+"t": "Nvidia",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2025-05-01",
+"n": "Nvidia fällt 7,1 % in 30 Tagen",
+"t": "Nvidia",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2025-06-01",
+"n": "Nvidia steigt 24,0 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2025-07-01",
+"n": "Nvidia steigt 12,8 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2025-08-01",
+"n": "Nvidia steigt 14,7 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2025-09-01",
+"n": "Nvidia steigt 1,6 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2025-10-01",
+"n": "Nvidia steigt 1,0 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2025-11-01",
+"n": "Nvidia steigt 8,4 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2025-12-01",
+"n": "Nvidia fällt 8,0 % in 30 Tagen",
+"t": "Nvidia",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2026-01-01",
+"n": "Nvidia steigt 4,6 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2026-02-01",
+"n": "Nvidia steigt 0,6 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2026-03-01",
+"n": "Nvidia steigt 0,4 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2026-04-01",
+"n": "Nvidia fällt 8,5 % in 30 Tagen",
+"t": "Nvidia",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2026-05-01",
+"n": "Nvidia steigt 20,0 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2026-06-01",
+"n": "Nvidia steigt 4,6 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2026-07-01",
+"n": "Nvidia fällt 8,0 % in 30 Tagen",
+"t": "Nvidia",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2026-08-01",
+"n": "Nvidia steigt 1,1 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2026-09-01",
+"n": "Nvidia steigt 8,4 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2026-10-01",
+"n": "Nvidia steigt 5,0 % in 30 Tagen",
+"t": "Nvidia",
+"k": "up",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+},
+{
+"d": "2026-11-01",
+"n": "Nvidia fällt 6,3 % in 30 Tagen",
+"t": "Nvidia",
+"k": "down",
+"quelle": "https://finance.yahoo.com/quote/NVDA/history/"
+}
+]
+}

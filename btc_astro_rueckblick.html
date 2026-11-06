@@ -1,0 +1,712 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<meta http-equiv="Cache-Control" content="no-cache">
+<title>BTC Deutung gegen echten Kurs, 2010 bis 2031</title>
+<style>
+  @font-face { font-family:"Doto"; src:url("ui/doto.woff2") format("woff2"); font-weight:700; font-display:swap; }
+  :root { color-scheme:dark; --bg:#0d121c; --card:rgba(13,18,28,.68); --card2:rgba(255,255,255,.07); --line:rgba(255,255,255,.13); --line2:rgba(255,255,255,.07); --text:#f5f7fb; --mid:rgba(236,240,248,.74); --dim:rgba(236,240,248,.6); --gold:#ff8a4c; --up:#5ef2c2; --down:#ff5f9e; --open:#b7bfd0; --r:28px; }
+  * { box-sizing:border-box; }
+  html { background:var(--bg); }
+  body { margin:0; color:var(--text); font:14px/1.5 -apple-system,BlinkMacSystemFont,"SF Pro Text","Helvetica Neue",Helvetica,Arial,sans-serif; -webkit-font-smoothing:antialiased; }
+  .wand { position:fixed; inset:0; z-index:-2; transform:translateZ(0); background:url("ui/wallpaper.webp") center/cover no-repeat; }
+  .wand::after { content:""; position:absolute; inset:0; background:linear-gradient(180deg,rgba(9,13,22,.08),rgba(9,13,22,.3)); }
+  .korn { position:fixed; inset:0; z-index:-1; pointer-events:none; opacity:.16; mix-blend-mode:overlay; background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='220' height='220'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.85' numOctaves='2' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E"); }
+  .glas { background:var(--card); border:1px solid var(--line); border-radius:var(--r); box-shadow:0 24px 70px rgba(5,8,15,.34), inset 0 1px 0 rgba(255,255,255,.1); }
+  button, input { font:inherit; }
+  :focus-visible { outline:2px solid #fff; outline-offset:2px; }
+
+  .tabs { position:sticky; top:12px; z-index:6; display:flex; gap:2px; width:max-content; margin:14px auto 0; padding:4px; border-radius:99px; background:rgba(13,18,28,.55); border:1px solid var(--line); -webkit-backdrop-filter:blur(24px); backdrop-filter:blur(24px); }
+  .tabs a { color:var(--mid); text-decoration:none; font-size:14px; font-weight:500; padding:8px 24px; border-radius:99px; }
+  .tabs a[aria-current="page"] { color:#10151f; background:#fff; }
+
+  main { max-width:1500px; margin:0 auto; padding:26px 24px 56px; }
+  .kopfzeile { display:flex; flex-wrap:wrap; align-items:flex-end; justify-content:space-between; gap:8px 24px; margin-bottom:18px; }
+  h1 { font-size:clamp(23px,2.6vw,34px); line-height:1.12; margin:0; font-weight:500; letter-spacing:-.025em; }
+  details > summary { cursor:pointer; color:var(--mid); font-size:13px; list-style:none; display:inline-flex; align-items:center; gap:8px; min-height:36px; }
+  details > summary::-webkit-details-marker { display:none; }
+  details > summary::after { content:"+"; display:inline-grid; place-items:center; width:22px; height:22px; border-radius:50%; border:1px solid var(--line); font-size:14px; line-height:1; }
+  details[open] > summary::after { content:"\2212"; }
+  .sub, .fuss, .notiz { color:var(--mid); font-size:13px; max-width:900px; margin:6px 0 8px; }
+  .lesen { width:100%; }
+
+  .zahlen { display:grid; grid-template-columns:repeat(4,minmax(0,1fr)); gap:12px; margin-bottom:12px; }
+  .zahl { position:relative; overflow:hidden; border-radius:38px; padding:15px 24px 16px; min-height:138px; border:1px solid rgba(255,255,255,.22); box-shadow:0 18px 44px rgba(5,8,15,.3), inset 0 1px 0 rgba(255,255,255,.28); }
+  .zahl::before { content:""; position:absolute; inset:7px; border-radius:31px; border:1px dotted rgba(255,255,255,.3); pointer-events:none; }
+  .zahl:nth-child(1) { background:radial-gradient(120% 110% at 40% -10%,#d76fb6 0%,#8f4c78 42%,#2f3030 100%); }
+  .zahl:nth-child(2) { background:radial-gradient(120% 120% at 50% 0%,#4547a4 0%,#3a4f86 45%,#1f4b63 100%); }
+  .zahl:nth-child(3) { background:radial-gradient(120% 120% at 50% 120%,#c9722a 0%,#b24c2c 48%,#6f3030 100%); }
+  .zahl:nth-child(4) { background:radial-gradient(120% 120% at 70% 0%,#1d6e78 0%,#1b4a67 50%,#17263f 100%); }
+  .zahl .l { display:block; position:relative; text-align:center; font-size:13px; color:rgba(255,255,255,.88); }
+  .zahl b { display:block; position:relative; font:700 clamp(25px,2.5vw,36px)/1.15 "Doto",ui-monospace,monospace; margin-top:3px; letter-spacing:-.02em; font-variant-numeric:tabular-nums; }
+  .zahl small { display:block; position:relative; font-size:12px; line-height:1.35; color:rgba(255,255,255,.84); margin-top:3px; }
+
+  .arbeit { display:grid; grid-template-columns:minmax(0,1fr) 340px; gap:12px; align-items:stretch; }
+  .chartkarte { padding:14px 14px 6px; min-width:0; }
+  .chartkopf { display:grid; gap:9px; padding:2px 4px 10px; }
+  .filter { display:flex; gap:3px; overflow-x:auto; scrollbar-width:none; -webkit-mask-image:linear-gradient(90deg,#000 94%,transparent); mask-image:linear-gradient(90deg,#000 94%,transparent); padding:2px 24px 2px 2px; }
+  .filter::-webkit-scrollbar { display:none; }
+  .filter button { flex:none; background:transparent; color:var(--mid); border:0; border-radius:99px; font-size:13px; padding:0 13px; min-height:36px; cursor:pointer; font-variant-numeric:tabular-nums; }
+  .filter button:hover { background:var(--card2); color:var(--text); }
+  .filter button[aria-pressed="true"] { color:#10151f; background:#fff; font-weight:500; }
+  .legende { display:flex; flex-wrap:wrap; gap:3px 15px; color:var(--mid); font-size:12px; }
+  .legende span { display:inline-flex; align-items:center; gap:6px; }
+  .legende svg { width:11px; height:11px; }
+  .legende svg.strich { width:24px; height:4px; }
+  .band { width:11px; height:11px; border-radius:3px; background:var(--down); opacity:.34; display:inline-block; }
+  .signalzeile { margin:0; font-size:13px; color:var(--text); }
+  .buehne { position:relative; overflow:hidden; touch-action:pan-y; contain:paint; transform:translateZ(0); }
+  #chart { display:block; width:100%; }
+  .tip { position:absolute; pointer-events:none; background:rgba(9,13,22,.94); border:1px solid var(--line); border-radius:16px; padding:10px 12px; font-size:13px; line-height:1.4; width:230px; display:none; z-index:2; }
+  .tip b { display:block; font-weight:500; }
+  .tip small { color:var(--mid); font-size:12px; display:block; }
+  .rechnung { padding:0 6px 4px; }
+  .tabkopf { color:var(--mid); font-size:13px; margin:0 0 8px; }
+
+  .seite { position:relative; min-height:0; }
+  .haken { position:absolute; inset:0; display:flex; flex-direction:column; padding:16px 12px 10px; }
+  .kopf { display:grid; gap:9px; padding:0 4px 11px; border-bottom:1px solid var(--line2); }
+  .qtitel { display:flex; align-items:baseline; justify-content:space-between; }
+  .qtitel h2 { font-size:17px; font-weight:500; margin:0; letter-spacing:-.01em; }
+  .qtitel span { color:var(--mid); font-size:12px; font-variant-numeric:tabular-nums; }
+  .modus { position:relative; z-index:5; display:grid; grid-template-columns:1.5fr 1fr .8fr; gap:2px; padding:3px; border-radius:99px; background:var(--card2); }
+  .modus button { background:transparent; color:var(--mid); border:0; border-radius:99px; font-size:12px; min-height:32px; padding:0 4px; cursor:pointer; white-space:nowrap; }
+  .modus button[aria-pressed="true"] { background:#fff; color:#10151f; font-weight:500; }
+  .modus button[data-tip]:hover::after, .modus button[data-tip]:focus-visible::after { content:attr(data-tip); position:absolute; left:0; right:0; top:calc(100% + 6px); padding:10px 13px; border-radius:16px; background:#fff; color:#10151f; font-size:13px; font-weight:400; line-height:1.4; white-space:normal; text-align:left; box-shadow:0 12px 32px rgba(5,8,15,.45); pointer-events:none; }
+  .schalter { display:grid; grid-template-columns:1fr 1fr; gap:6px; }
+  .schalter button { background:transparent; color:var(--mid); border:1px solid var(--line); border-radius:99px; font-size:12px; min-height:34px; cursor:pointer; }
+  .schalter button[aria-pressed="true"] { background:var(--card2); color:var(--text); border-color:rgba(255,255,255,.34); }
+  .suche { width:100%; min-height:36px; border-radius:99px; border:1px solid var(--line); background:rgba(0,0,0,.18); color:var(--text); padding:0 14px; font-size:13px; }
+  .suche::placeholder { color:var(--dim); }
+  .liste { flex:1; min-height:0; overflow:auto; padding:6px 0 0; scrollbar-width:thin; scrollbar-color:rgba(255,255,255,.2) transparent; }
+  .gkopf { display:flex; align-items:center; gap:4px; border-radius:14px; }
+  .gkopf:hover { background:var(--card2); }
+  .grp { flex:1; min-width:0; display:flex; align-items:center; gap:9px; background:none; border:0; color:var(--text); font-size:13px; font-weight:500; text-align:left; min-height:40px; padding:0 4px 0 8px; cursor:pointer; border-radius:14px; }
+  .grp i { flex:none; width:9px; height:9px; border-radius:50%; border:1.5px solid rgba(255,255,255,.42); }
+  .gruppe[data-stand="teil"] .grp i { background:linear-gradient(90deg,var(--gold) 50%,transparent 50%); border-color:var(--gold); }
+  .gruppe[data-stand="voll"] .grp i { background:var(--gold); border-color:var(--gold); }
+  .gz { color:var(--dim); font-size:12px; font-variant-numeric:tabular-nums; white-space:nowrap; }
+  .auf { flex:none; width:36px; height:36px; display:grid; place-items:center; background:none; border:0; color:var(--mid); cursor:pointer; border-radius:50%; }
+  .auf svg { width:12px; height:12px; transition:transform .18s; }
+  .gruppe.offen .auf svg { transform:rotate(180deg); }
+  .glieder { display:none; padding:0 0 6px 8px; }
+  .gruppe.offen .glieder { display:block; }
+  .haken label { display:flex; align-items:center; gap:9px; min-height:34px; padding:3px 8px; border-radius:11px; font-size:13px; color:var(--mid); cursor:pointer; }
+  .haken label:hover { background:var(--card2); color:var(--text); }
+  .haken label:has(input:checked) { color:var(--text); }
+  .haken label .nm { flex:1; min-width:0; }
+  .haken input[type=checkbox] { appearance:none; -webkit-appearance:none; flex:none; width:16px; height:16px; margin:0; border-radius:50%; border:1.5px solid rgba(255,255,255,.4); background:transparent; cursor:pointer; }
+  .haken input[type=checkbox]:checked { background:var(--gold); border-color:var(--gold); box-shadow:inset 0 0 0 3px #1a1f2b; }
+  .haken .pz { color:var(--mid); font-size:12px; font-variant-numeric:tabular-nums; white-space:nowrap; }
+
+  .detail { margin:12px 0; padding:18px 24px; }
+  .detail .d { color:var(--gold); font-size:13px; font-weight:500; }
+  .detail h2 { font-size:20px; font-weight:500; margin:2px 0 4px; line-height:1.25; letter-spacing:-.01em; }
+  .detail p { margin:0; color:var(--mid); }
+  .detail p b { color:var(--text); font-weight:500; }
+
+  .tafeln { padding:14px; }
+  .reiter { display:inline-flex; flex-wrap:wrap; gap:2px; padding:3px; border-radius:22px; background:var(--card2); margin-bottom:12px; }
+  .reiter button { background:transparent; color:var(--mid); border:0; border-radius:99px; font-size:13px; min-height:36px; padding:0 16px; cursor:pointer; }
+  .reiter button[aria-selected="true"] { background:#fff; color:#10151f; font-weight:500; }
+  .tafel[hidden] { display:none; }
+  .rang p { color:var(--mid); font-size:13px; margin:0 6px 10px; max-width:980px; }
+  .rang h2 { position:absolute; width:1px; height:1px; overflow:hidden; clip-path:inset(50%); }
+  .scroll { max-height:560px; overflow:auto; scrollbar-width:thin; scrollbar-color:rgba(255,255,255,.2) transparent; }
+  table { width:100%; border-collapse:collapse; font-size:13px; }
+  th { position:sticky; top:0; z-index:1; text-align:left; color:var(--mid); font-size:12px; font-weight:500; padding:8px 10px; background:#171c28; }
+  td { padding:9px 10px; border-top:1px solid var(--line2); vertical-align:top; }
+  td.datum, td.echt, .rang td.z { white-space:nowrap; font-variant-numeric:tabular-nums; }
+  td.datum { color:var(--mid); }
+  tbody tr { cursor:pointer; }
+  .rang tbody tr { cursor:default; }
+  tbody tr:hover, tbody tr.an { background:var(--card2); }
+  .balken { display:inline-block; height:6px; border-radius:99px; vertical-align:middle; margin-right:8px; }
+  .aus { color:var(--dim); }
+  .deut { white-space:nowrap; }
+  .deut svg { width:10px; height:10px; margin-right:6px; }
+  .urteil { color:var(--mid); }
+  .vergleich { display:grid; gap:2px; margin-top:4px; }
+  .fusszeile { margin-top:14px; padding:4px 8px; }
+
+  @media (max-width:1100px) {
+    .zahlen { grid-template-columns:repeat(2,minmax(0,1fr)); }
+    .arbeit { grid-template-columns:minmax(0,1fr); }
+    .haken { position:static; }
+    .liste { max-height:430px; }
+  }
+  @media (max-width:640px) {
+    main { padding:18px 10px 36px; }
+    :root { --r:24px; }
+    .zahl { border-radius:30px; padding:13px 17px; min-height:128px; }
+    .zahl::before { border-radius:24px; inset:6px; }
+    .chartkarte { padding:10px 6px 4px; }
+    .tafeln { padding:10px 6px; }
+    td, th { padding:9px 6px; }
+    .deut { white-space:normal; }
+    .tip { display:none !important; }
+    .urteil-sp { display:none; }
+    .balken { display:none; }
+    td.echt, td.datum { white-space:normal; }
+    td { overflow-wrap:anywhere; }
+    .detail { padding:15px 17px; }
+  }
+</style>
+</head>
+<body>
+<div class="wand" aria-hidden="true"></div><div class="korn" aria-hidden="true"></div>
+<nav class="tabs" aria-label="Coin">
+  <a href="?coin=btc" data-tab="btc">Bitcoin</a>
+  <a href="?coin=eth" data-tab="eth">Ethereum</a>
+</nav>
+<main>
+  <header class="kopfzeile">
+    <h1>BTC Deutung gegen echten Kurs, 2010 bis 2031</h1>
+    <details class="lesen"><summary>So liest du den Chart</summary><p class="sub">Orange ist der Mix aller angehakten Quellen, ihr Anteil steht direkt am Häkchen, wahlweise nach Korrelation, optimiert oder gleich. Die Regeln der Quellen selbst sind fest. Weiß gestrichelt ist der echte BTC Tagesschlusskurs vom ersten Marktpreis am 18.07.2010 bis heute. Blasses Orange rechts der Heute Linie ist die Rechnung nach vorn bis November 2031. Beide als Index, Start 100.</p></details>
+  </header>
+
+  <div class="zahlen" id="zahlen"></div>
+
+  <div class="arbeit">
+    <section class="chartkarte glas" aria-label="Chart">
+      <div class="chartkopf">
+        <div class="filter" role="group" aria-label="Zeitraum">
+          <button data-r="alles" aria-pressed="true">Alles</button><button data-r="ab2022" aria-pressed="false">Ab 2022</button><button data-r="zukunft" aria-pressed="false">Ab heute</button><button data-r="2010" aria-pressed="false">2010</button><button data-r="2011" aria-pressed="false">2011</button><button data-r="2012" aria-pressed="false">2012</button><button data-r="2013" aria-pressed="false">2013</button><button data-r="2014" aria-pressed="false">2014</button><button data-r="2015" aria-pressed="false">2015</button><button data-r="2016" aria-pressed="false">2016</button><button data-r="2017" aria-pressed="false">2017</button><button data-r="2018" aria-pressed="false">2018</button><button data-r="2019" aria-pressed="false">2019</button><button data-r="2020" aria-pressed="false">2020</button><button data-r="2021" aria-pressed="false">2021</button><button data-r="2022" aria-pressed="false">2022</button><button data-r="2023" aria-pressed="false">2023</button><button data-r="2024" aria-pressed="false">2024</button><button data-r="2025" aria-pressed="false">2025</button><button data-r="2026" aria-pressed="false">2026</button><button data-r="2027" aria-pressed="false">2027</button><button data-r="2028" aria-pressed="false">2028</button><button data-r="2029" aria-pressed="false">2029</button><button data-r="2030" aria-pressed="false">2030</button><button data-r="2031" aria-pressed="false">2031</button>
+        </div>
+        <p class="signalzeile" id="signaltext"></p>
+        <div class="legende" id="legende"></div>
+      </div>
+      <div class="buehne" id="buehne">
+        <svg id="chart" role="img" aria-label="Astro Deutung als orange Linie gegen den echten BTC Kurs als weiße gestrichelte Linie. Alle Ereignisse und Ergebnisse stehen in der Tabelle unter dem Chart."></svg>
+        <div class="tip" id="tip"></div>
+      </div>
+      <details class="rechnung"><summary>Details zur Rechnung</summary>
+        <p class="tabkopf" id="optnote"></p>
+        <p class="tabkopf" id="nachvorn"></p>
+      </details>
+    </section>
+    <aside class="seite glas"><div class="haken" id="haken" role="group" aria-label="Quellen für die orange Linie"></div></aside>
+  </div>
+
+  <section class="detail glas" id="detail" aria-live="polite"></section>
+
+  <section class="tafeln glas">
+    <div class="reiter" role="tablist" aria-label="Tabellen">
+      <button role="tab" data-tafel="t-signale" aria-selected="true">Signale</button>
+      <button role="tab" data-tafel="t-rang" aria-selected="false">Rangliste</button>
+      <button role="tab" data-tafel="t-ereignisse" aria-selected="false">Ereignisse</button>
+    </div>
+    <div class="tafel rang" id="t-signale">
+      <h2>Hypothetische Kauf und Verkauf Signale</h2>
+      <p>Steigt die Signallinie über 30 Tage, heißt das kaufen, fällt sie, heißt das verkaufen, mindestens 30 Tage Abstand. Die Anteile dafür stammen je Jahr nur aus den Jahren davor. Ausführung am Folgetag zum Schlusskurs, 0,1 % Gebühr je Handel. Reine Rechnung, keine Finanzberatung.</p>
+      <p id="sigdetail"></p>
+      <div class="scroll"><table>
+        <thead><tr><th>Datum</th><th>Signal</th><th>BTC</th><th>Ergebnis des Trades</th></tr></thead>
+        <tbody id="signalzeilen"></tbody>
+      </table></div>
+    </div>
+    <div class="tafel rang" id="t-rang" hidden>
+      <h2>Rangliste, welche Quelle passt am besten zu BTC</h2>
+      <p id="rangtext"></p>
+      <div class="scroll"><table>
+        <thead><tr><th>Quelle</th><th>Korrelation</th><th class="urteil-sp">Ab 2022</th><th class="urteil-sp">Seit</th><th class="urteil-sp">p</th><th class="urteil-sp">Treffer</th><th class="urteil-sp">Gleichlauf</th><th>Anteil</th><th class="urteil-sp">Einordnung</th></tr></thead>
+        <tbody id="rangzeilen"></tbody>
+      </table></div>
+    </div>
+    <div class="tafel" id="t-ereignisse" hidden>
+      <p class="tabkopf" id="tabkopf"></p>
+      <div class="scroll"><table>
+        <thead><tr><th>Datum</th><th>Ereignis</th><th class="urteil-sp">Quelle</th><th>Deutung für BTC</th><th>BTC 30 Tage danach</th><th class="urteil-sp">Stimmte?</th></tr></thead>
+        <tbody id="zeilen"></tbody>
+      </table></div>
+    </div>
+  </section>
+
+  <details class="fusszeile"><summary>Methode und Quellen</summary><p class="fuss">Damit jede Quelle wirklich gleich zählt, wird sie auf dieselbe Schwankung wie die Astro Linie skaliert, Nach vorn zählen nur Quellen mit vorab bekannten Terminen und Richtungen, die anderen fallen dort aus dem Durchschnitt, statt die Linie platt zu drücken. Die Zukunft ist eine Rechnung aus denselben festen Regeln, keine Vorhersage. Wirtschaft sind US Leitzins, Inflation, Arbeitslosigkeit und die Wachstumsprognosen von Ökonomen (New York Fed, BLS, Philadelphia Fed), Veröffentlichungstage vorsichtig genähert. Krieg und Politik sind Kriege, Waffenruhen, Zölle, US Haushaltsstreit und Krypto Regulierung, recherchiert nach festen Kriterien ohne Blick auf Kurse, je Ereignis mit Beleg. Pop Kultur und Krypto Ereignisse wurden ebenfalls ohne Blick auf Kurse zusammengestellt, die Richtung der Filme folgt nur dem Thema der Handlung. Halving Zyklus ist aus den Zyklen 2012 bis 2020 abgeleitet und startet mit dem ersten Halving, Saisonalität aus Kursen bis Ende 2021, vor 2022 prüfen sich beide also an ihren eigenen Lerndaten, das nächste Halving ist aus der Blockhöhe geschätzt. Stimmung ist Fear &amp; Greed, gegen die Herde. Religion, Kalender, Planeten und Symbolik sind vorab festgelegte Deutungen ohne bekannten Wirkweg, islamische Termine sind rechnerisch. Coin Metrics Reihen enden im Mai 2026. Märkte, Stablecoins, Hashrate, Adressen, Wikipedia und Trend zählen am 1. jedes Monats mit der Änderung der 30 Tage davor. Die Natur Quellen stammen aus Studien oder dienen als Gegenprobe, Zufall ist ein Münzwurf als Kontrolle. Geldmenge M2 kommt von der Federal Reserve. Jede exakte Wiederholung eines Aspekts zählt einzeln. Im Zeitraum Filter startet jedes Jahr neu bei 100. Die Achse ist logarithmisch. Orange hat in jedem Zeitfenster dieselbe Spannweite wie BTC, die Höhe ist also frei gesetzt und kein Kursziel, nur die Richtung lässt sich vergleichen. Kurse bis 15.09.2014 von Coin Metrics, danach von Yahoo Finance, Stand 05.11.2026. In den ersten Jahren war der Handel sehr dünn. Hypothetisch. Keine Finanzberatung.</p></details>
+</main>
+
+<script>const TAB = new URLSearchParams(location.search).get('coin') === 'eth' ? 'eth' : 'btc';
+document.write('<script src="' + TAB + '_astro_rueckblick_daten.js?' + Date.now() + '"><\/script>');</script>
+<script>
+// Alles Sichtbare richtet sich nach dem gewählten Coin
+const START_JAHR = KURSE[0][0].slice(0, 4), FMT0 = KURSE[0][0].split('-').reverse().join('.');
+document.querySelector(`[data-tab="${TAB}"]`).setAttribute('aria-current', 'page');
+document.title = document.title.replace('BTC', COIN).replace('2010', START_JAHR);
+for (const el of document.querySelectorAll('h1, .sub, .rang h2, th, .fuss')) el.innerHTML = el.innerHTML.replace(/\bBTC\b/g, COIN).replace('2010 bis 2031', START_JAHR + ' bis 2031').replace('18.07.2010', FMT0);
+document.getElementById('chart').setAttribute('aria-label', document.getElementById('chart').getAttribute('aria-label').replace('BTC', COIN));
+if (COIN === 'ETH') document.querySelector('.fuss').innerHTML = document.querySelector('.fuss').innerHTML.replace('Kurse bis 15.09.2014 von Coin Metrics', 'Kurse bis 08.11.2017 von Coin Metrics') + ' ETH eigene Quellen stehen in der Gruppe Krypto und Aufmerksamkeit, Halving, Hashrate und Adressen ohne ETH im Namen beziehen sich auf BTC.';
+document.querySelectorAll('.filter button').forEach(b => { if (+b.dataset.r < +START_JAHR) b.remove(); });
+
+const FORM = {
+  up:     {s:'up',   c:'var(--up)',   whisker:false},
+  mild:   {s:'up',   c:'var(--up)',   whisker:false},
+  down:   {s:'down', c:'var(--down)', whisker:false},
+  open:   {s:'open', c:'var(--open)', whisker:true},
+  upopen: {s:'up',   c:'var(--up)',   whisker:true},
+  spike:  {s:'down', c:'var(--down)', whisker:true}
+};
+const MS = 864e5, ts = s => Date.parse(s + 'T00:00:00Z');
+const klemm = (v, a, b) => Math.min(b, Math.max(a, v));
+const fmt = s => s.slice(8, 10) + '.' + s.slice(5, 7) + '.' + s.slice(0, 4);
+const pz = (v, d = 1) => (v > 0 ? '+' : '') + v.toLocaleString('de-DE', {minimumFractionDigits: d, maximumFractionDigits: d}) + ' %';
+const MON = ['Jan','Feb','Mär','Apr','Mai','Jun','Jul','Aug','Sep','Okt','Nov','Dez'];
+
+function beitrag(k, t) {
+  if (t <= 0) return 0;
+  const f = klemm(t / 30, 0, 1);
+  if (k === 'up') return 8 * f;
+  if (k === 'mild' || k === 'upopen') return 4 * f;
+  if (k === 'down') return -8 * f;
+  if (k === 'spike') return t < 7 ? 8 * t / 7 : 8 - 12 * klemm((t - 7) / 23, 0, 1);
+  return 0;
+}
+const REIHE = KURSE.map(([d, p]) => ({d, z: ts(d), p, g: 0}));
+const NP = REIHE.length; // bis hier gibt es echte Kurse, danach nur noch die Rechnung nach vorn
+for (let z = REIHE[NP - 1].z + MS; z <= ts('2031-11-06'); z += MS) REIHE.push({d: new Date(z).toISOString().slice(0, 10), z, p: null, g: 0});
+const ERSTER = REIHE[0], LETZTER = REIHE[REIHE.length - 1], HEUTE = REIHE[NP - 1];
+const diff30 = l => l.slice(30).map((v, i) => v - l[i]);
+const schwank = l => { const d = diff30(l), m = d.reduce((s, v) => s + v, 0) / d.length; return Math.sqrt(d.reduce((s, v) => s + (v - m) ** 2, 0) / d.length); };
+function korrelation(a, b) {
+  const ma = a.reduce((s, v) => s + v, 0) / a.length, mb = b.reduce((s, v) => s + v, 0) / b.length;
+  let z = 0, x = 0, y = 0;
+  for (let i = 0; i < a.length; i++) { z += (a[i] - ma) * (b[i] - mb); x += (a[i] - ma) ** 2; y += (b[i] - mb) ** 2; }
+  return x && y ? z / Math.sqrt(x * y) : 0;
+}
+const BTC30 = REIHE.slice(30, NP).map((r, i) => Math.log(r.p / REIHE[i].p));
+const bisher = l => l.slice(0, NP);
+const PLUS = BTC30.filter(v => v > 0).length / BTC30.length * 100;
+
+// Jede Quelle: eigene Linie, auf die Schwankung der ersten Quelle skaliert, damit alle gleich zählen
+QUELLEN.forEach(q => {
+  q.ereignisse = q.ereignisse.map(e => ({...e, q: q.name, z: ts(e.d)}));
+  // Jedes Ereignis wirkt 30 Tage als Rampe, danach bleibt sein Endwert stehen
+  const n = REIHE.length, l = new Float64Array(n), rest = new Float64Array(n);
+  for (const e of q.ereignisse) {
+    const i0 = Math.round((e.z - ERSTER.z) / MS);
+    for (let t = 1; t <= 30; t++) if (i0 + t >= 0 && i0 + t < n) l[i0 + t] += beitrag(e.k, t);
+    if (i0 + 31 < n) rest[Math.max(i0 + 31, 0)] += beitrag(e.k, 31);
+  }
+  let summe = 0;
+  q.linie = Array.from(l, (v, i) => { summe += rest[i]; return v + summe; });
+});
+const BASIS = schwank(bisher(QUELLEN[0].linie));
+QUELLEN.forEach(q => {
+  q.faktor = BASIS / schwank(bisher(q.linie));
+  q.linie = q.linie.map(v => v * q.faktor);
+  q.imChart = q.ereignisse.filter(e => ts(e.d) >= ERSTER.z);
+});
+const bilanz = ev => { const g = ev.filter(e => e.treffer !== null); return [g.filter(e => e.treffer).length, g.length]; };
+const AN = new Set(QUELLEN.map(q => q.id));
+let MODUS = 'korr', ANTEIL = new Map(), SKALA = 0, SIG = {liste: []}, PFEILE = true;
+
+// Anteile mit der höchsten Korrelation zu BTC: jeder ab 0, Summe 100 %. Nachträglich angepasst, siehe optnote.
+QUELLEN.forEach(q => { const d = diff30(bisher(q.linie)), m = d.reduce((s, v) => s + v, 0) / d.length; q.dx = d.map(v => v - m); });
+const BM = BTC30.reduce((s, v) => s + v, 0) / BTC30.length, BY = BTC30.map(v => v - BM);
+const skalar = (u, v) => { let t = 0; for (let i = 0; i < u.length; i++) t += u[i] * v[i]; return t; };
+const GRAM = QUELLEN.map(a => QUELLEN.map(b => skalar(a.dx, b.dx))), ZIEL = QUELLEN.map(a => skalar(a.dx, BY));
+function berechneAnteile(a) {
+  const gleich = new Map(a.map(q => [q.id, 1 / a.length]));
+  if (MODUS === 'gleich' || a.length < 2) return gleich;
+  if (MODUS === 'korr') {
+    const summe = a.reduce((s, q) => s + Math.max(RANG[q.id].korr, 0), 0);
+    return summe > 0 ? new Map(a.map(q => [q.id, Math.max(RANG[q.id].korr, 0) / summe])) : gleich;
+  }
+  const idx = a.map(q => QUELLEN.indexOf(q)), w = idx.map(() => 0);
+  for (let n = 0; n < 3000; n++) idx.forEach((i, j) => {
+    w[j] = Math.max(0, w[j] + (ZIEL[i] - idx.reduce((s, k, l) => s + GRAM[i][k] * w[l], 0)) / GRAM[i][i]);
+  });
+  const summe = w.reduce((s, v) => s + v, 0);
+  return summe > 0 ? new Map(a.map((q, j) => [q.id, w[j] / summe])) : gleich;
+}
+let E = [];
+
+// Signale: Anteile je Jahr nur aus den Jahren davor, damit die Pfeile nicht vom Rückblick leben
+const KORR_CACHE = new Map();
+function korrBis(q, grenz) {
+  const key = q.id + grenz;
+  if (!KORR_CACHE.has(key)) {
+    const l = bisher(q.linie).slice(0, grenz), d = diff30(l), wert = korrelation(d, BTC30.slice(0, d.length));
+    KORR_CACHE.set(key, Number.isFinite(wert) ? wert : 0);
+  }
+  return KORR_CACHE.get(key);
+}
+function jahresAnteile(a, grenz) {
+  const gleich = a.map(() => 1 / a.length);
+  if (MODUS === 'gleich' || grenz < 760) return gleich;
+  const w = a.map(q => Math.max(korrBis(q, grenz), 0)), s = w.reduce((x, v) => x + v, 0);
+  return s > 0 ? w.map(v => v / s) : gleich;
+}
+function signale(a) {
+  const n = REIHE.length, G = new Float64Array(n), liste = [], lage_ = new Int8Array(n);
+  if (!a.length) return {liste};
+  let jahr = '', w = [];
+  for (let i = 1; i < n; i++) {
+    const y = REIHE[i].d.slice(0, 4);
+    if (y !== jahr) { jahr = y; w = jahresAnteile(a, Math.min(i, NP)); }
+    let s = 0, t = 0;
+    a.forEach((q, j) => { const x = q.linie[i] - q.linie[i - 1]; if (i < NP || q.zukunft || x !== 0) { s += w[j] * x; t += w[j]; } });
+    G[i] = G[i - 1] + (t ? s / t : 0);
+  }
+  let lang = false, letzt = -1e9;
+  for (let i = 30; i < n; i++) {
+    const d = G[i] - G[i - 30];
+    if (d !== 0 && (d > 0) !== lang && i - letzt >= 30) { lang = d > 0; letzt = i; liste.push({i, kauf: lang}); }
+    lage_[i] = lang ? 1 : 0;
+  }
+  // Rechnung nur über echte Kurse. Entscheidung am Abend, Handel am nächsten Schlusskurs.
+  const rets = new Float64Array(NP), pos = new Int8Array(NP);
+  for (let t = 2; t < NP; t++) { rets[t] = Math.log(REIHE[t].p / REIHE[t - 1].p); pos[t] = lage_[t - 2]; }
+  const I22 = REIHE.findIndex(r => r.d >= '2022-01-01');
+  const ertrag = (von, ver = 0) => { let e = 0; for (let t = Math.max(von, 2); t < NP; t++) { const k = t - ver < 2 ? t - ver + NP - 2 : t - ver; e += pos[k] * rets[t]; if (!ver && pos[t] !== pos[t - 1]) e -= .001; } return e; };
+  const halten = von => Math.log(REIHE[NP - 1].p / REIHE[Math.max(von, 1)].p);
+  const zufall = v => { const a = []; for (let o = 30; o < NP - 30; o += 30) a.push(ertrag(v, o)); return a; };
+  const z22 = zufall(I22), zAlle = zufall(2), e22 = ertrag(I22), eAlle = ertrag(2), schnitt = x => x.reduce((u, v) => u + v, 0) / x.length;
+  const imMarkt = pos.reduce((u, v) => u + v, 0) / NP * 100, im22 = pos.slice(I22).reduce((u, v) => u + v, 0) / (NP - I22) * 100;
+  // Abgeschlossene Trades
+  let offen = null, gewinn = 0, zu = 0;
+  liste.forEach(x => {
+    if (x.i >= NP - 1) return;
+    const k = REIHE[x.i + 1].p;
+    if (x.kauf) offen = k;
+    else if (offen !== null) { x.ergebnis = (k / offen - .002 / 1 - 1) * 100; zu++; if (x.ergebnis > 0) gewinn++; offen = null; }
+    x.preis = k;
+  });
+  const vorbei = liste.filter(x => x.i < NP), letztes = vorbei[vorbei.length - 1], nachstes = liste.find(x => x.i >= NP);
+  return {liste, e22, eAlle, h22: halten(I22), hAlle: halten(1), z22: schnitt(z22), zAlle: schnitt(zAlle), p22: z22.filter(v => v >= e22).length / z22.length, pAlle: zAlle.filter(v => v >= eAlle).length / zAlle.length, imMarkt, im22, gewinn, zu, letztes, nachstes};
+}
+const fak = l => { const m = Math.exp(l); return '×' + m.toLocaleString('de-DE', {maximumFractionDigits: m >= 100 ? 0 : 1}); };
+
+function rangliste(a) {
+  const M = OPT_TEST.mass, liste = [...QUELLEN].sort((x, y) => RANG[y.id].korr - RANG[x.id].korr), gross = Math.max(...liste.map(q => Math.abs(RANG[q.id].korr)));
+  document.getElementById('rangtext').textContent = `Korrelation der logarithmischen 30 Tage Bewegungen seit dem ersten Datenpunkt der Quelle, Richtung der Regel vorab festgelegt und nie umgedreht. Ab 2022 ist dieselbe Rechnung nur für diese Jahre, das ist der saubere Teil für Halving und Saisonalität, weil deren Regeln aus den Jahren davor stammen. Gleichlauf zeigt, wie stark die Reihe im selben Zeitfenster mit ${COIN} läuft, das ist keine Vorhersage. Reine Münzwürfe liegen in 5 % der Fälle über ${pz(M.q95)}, die beste von ${M.n} im Schnitt bei ${pz(M.beste)}.`;
+  document.getElementById('rangzeilen').innerHTML = liste.map(q => {
+    const R = RANG[q.id], [t, g] = bilanz(q.imChart), f = R.korr >= 0 ? 'var(--up)' : 'var(--down)';
+    const urteil = R.korr >= M.beste ? 'über dem Münzwurf Niveau' : R.korr >= M.q95 ? 'grenzwertig' : R.korr <= -M.beste ? 'umgekehrt, auffällig' : R.korr <= -M.q95 ? 'umgekehrt, grenzwertig' : 'im Rauschen';
+    return `<tr><td>${q.name}</td><td class="z"><span class="balken" style="width:${Math.abs(R.korr) / gross * 70}px;background:${f}"></span>${pz(R.korr)}</td><td class="z urteil-sp">${pz(R.korr22)}</td><td class="z urteil-sp">${R.seit}</td><td class="z urteil-sp">${R.p.toLocaleString('de-DE', {minimumFractionDigits: 2, maximumFractionDigits: 2})}</td><td class="z urteil-sp">${t} von ${g}</td><td class="z urteil-sp">${q.gleichlauf === undefined ? '<span class="aus">kein Wert</span>' : pz(q.gleichlauf)}</td><td class="z">${AN.has(q.id) ? Math.round(ANTEIL.get(q.id) * 100) + ' %' : '<span class="aus">aus</span>'}</td><td class="urteil urteil-sp">${urteil}</td></tr>`;
+  }).join('');
+}
+
+// Gelb bekommt im Zeitfenster dieselbe Spannweite wie BTC, sonst wäre es neben sechs Zehnerpotenzen eine flache Linie
+function spannSkala(l) {
+  const g = l.map(p => p.g), b = l.map(p => Math.log(p.p)), spann = a => Math.max(...a) - Math.min(...a);
+  return spann(g) ? spann(b) / spann(g) : 0;
+}
+
+function zeigeSignale() {
+  const S = SIG, feld = document.getElementById('signalzeilen'), text = document.getElementById('signaltext'), kachel = document.getElementById('sigkachel');
+  if (!S.liste.length) { feld.innerHTML = ''; text.textContent = ''; if (kachel) kachel.innerHTML = '<span class="l">Signale</span><b>Keine</b><small>Keine Quelle gewählt.</small>'; document.getElementById('sigdetail').textContent = ''; return; }
+  feld.innerHTML = [...S.liste].reverse().map(x => {
+    const d = REIHE[x.i].d, z = x.i >= NP;
+    return `<tr style="cursor:default"><td class="datum">${fmt(d)}</td><td style="color:${x.kauf ? '#5ef2c2' : '#ff5f9e'};font-weight:600">${x.kauf ? '▲ Kaufen' : '▼ Verkaufen'}${z ? ' <span class="aus" style="font-weight:400">Rechnung</span>' : ''}</td><td class="echt">${z || x.preis === undefined ? '<span class="aus">offen</span>' : x.preis.toLocaleString('de-DE', {maximumFractionDigits: x.preis < 100 ? 2 : 0}) + ' $'}</td><td class="echt">${x.ergebnis === undefined ? '<span class="aus">kein</span>' : pz(x.ergebnis)}</td></tr>`;
+  }).join('');
+  const L = S.letztes, N = S.nachstes;
+  text.textContent = `Hypothetisch, nach aktueller Auswahl: letztes Signal ${L ? (L.kauf ? 'Kaufen' : 'Verkaufen') + ' am ' + fmt(REIHE[L.i].d) : 'keines'}.${N ? ` Nächstes gerechnetes Signal: ${N.kauf ? 'Kaufen' : 'Verkaufen'} am ${fmt(REIHE[N.i].d)}.` : ''} Keine Finanzberatung.`;
+  if (kachel) kachel.innerHTML = `<span class="l">Signale ab 2022</span><b>${fak(S.e22)}</b><small>Halten ${fak(S.h22)}. ${Math.round(S.im22)} % der Zeit investiert.</small>`;
+  document.getElementById('sigdetail').textContent = `Ab 2022: Signale ${fak(S.e22)} gegen Halten ${fak(S.h22)}, ${Math.round(S.im22)} % der Zeit investiert, verschobene Signale ${fak(S.z22)}, p ${S.p22.toLocaleString('de-DE', {maximumFractionDigits: 2})}. Seit ${START_JAHR}: ${fak(S.eAlle)} gegen ${fak(S.hAlle)}, verschoben ${fak(S.zAlle)}.`;
+}
+
+function mische() {
+  const a = QUELLEN.filter(q => AN.has(q.id));
+  ANTEIL = berechneAnteile(a);
+  const wirkt = a.filter(q => ANTEIL.get(q.id) > 0), teil = q => ANTEIL.get(q.id);
+  REIHE.forEach((r, i) => {
+    if (i < NP) { r.g = wirkt.reduce((s, q) => s + teil(q) * q.linie[i], 0); return; }
+    // Nach vorn mitteln nur Quellen, die dort etwas wissen. Die anderen würden die Linie sonst nur platt drücken.
+    const schritte = wirkt.map(q => [q, q.linie[i] - q.linie[i - 1]]).filter(([q, x]) => q.zukunft || x !== 0);
+    const summe = schritte.reduce((s, [q]) => s + teil(q), 0);
+    r.g = REIHE[i - 1].g + (summe ? schritte.reduce((s, [q, x]) => s + teil(q) * x, 0) / summe : 0);
+  });
+  E = wirkt.flatMap(q => q.imChart).sort((x, y) => x.d < y.d ? -1 : x.d > y.d ? 1 : 0);
+  SKALA = spannSkala(bisher(REIHE));
+  const [r, n] = bilanz(E), k = korrelation(diff30(bisher(REIHE).map(p => p.g)), BTC30) * 100;
+  const M = OPT_TEST.mass;
+  const kachel = (l, x, y) => `<div class="zahl"><span class="l">${l}</span><b>${x}</b><small>${y}</small></div>`;
+  document.getElementById('zahlen').innerHTML = (a.length
+    ? kachel('Treffer', n ? pz(r / n * 100).replace('+', '') : 'Keine', `${r.toLocaleString('de-DE')} von ${n.toLocaleString('de-DE')} Deutungen nach 30 Tagen richtig. ${COIN} war in ${PLUS.toLocaleString('de-DE', {maximumFractionDigits: 1})} % aller Fenster im Plus.`) + kachel('Korrelation', pz(k), 'Orange gegen Weiß, 30 Tage Bewegungen. 0 % heißt kein Zusammenhang.')
+    : kachel('Quellen', 'Keine', 'Hake mindestens eine Quelle an, dann erscheint die orange Linie.') + kachel('Korrelation', '0 %', 'Ohne Quelle gibt es keine Korrelation.')) +
+    kachel('Zufall', pz(M.beste), `Beste von ${M.n} reinen Zufallslinien im Schnitt. Darunter ist es von Glück nicht zu unterscheiden.`) + '<div class="zahl" id="sigkachel"></div>';
+  rangliste(a);
+  SIG = signale(a);
+  zeigeSignale();
+  const mit = wirkt.filter(q => q.zukunft).map(q => q.name), ohne = wirkt.filter(q => !q.zukunft).map(q => q.name);
+  document.getElementById('nachvorn').textContent = !a.length ? '' : (mit.length ? `Nach vorn rechnen: ${mit.join(', ')}.` : 'Nach vorn bleibt die Linie flach, keine gewählte Quelle hat vorab bekannte Richtungen.') + (ohne.length ? ` Ohne vorab bekannte Richtung, zählen nur bis heute: ${ohne.join(', ')}.` : '');
+  QUELLEN.forEach(q => { const f = document.querySelector(`[data-pz="${q.id}"]`); if (f) f.textContent = AN.has(q.id) ? `${Math.round(teil(q) * 100)} %` : ''; });
+  document.querySelectorAll('.gruppe').forEach(el => { const gl = QUELLEN.filter(q => q.gruppe === el.dataset.g), n = gl.filter(q => AN.has(q.id)).length; el.dataset.stand = n === gl.length ? 'voll' : n ? 'teil' : 'leer'; el.querySelector('.gz').textContent = `${n}/${gl.length}`; });
+  const qz = document.getElementById('qzahl'); if (qz) qz.textContent = `${a.length} von ${QUELLEN.length}`;
+  const alleKnopf = document.getElementById('alleKnopf'); if (alleKnopf) alleKnopf.setAttribute('aria-pressed', a.length === QUELLEN.length);
+  document.querySelectorAll('[data-modus]').forEach(b => b.setAttribute('aria-pressed', b.dataset.modus === MODUS));
+  const test = f => OPT_TEST.tests.map(t => pz(t[f])).join(' und ');
+  document.getElementById('optnote').textContent = a.length < 2 || MODUS === 'gleich' ? '' : MODUS === 'korr'
+    ? `Nach Korrelation heißt: je höher die eigene Korrelation, desto größer der Anteil, negative bekommen 0. Mit allen Quellen schafft das auch ein verschobener Kurs ohne echten Zusammenhang, im Schnitt ${pz(OPT_TEST.zufall_korr)}. Auf Jahren, die die Anteile nicht gesehen haben, blieben ${test('korr')}.`
+    : `Optimiert heißt: nachträglich an genau diesen Kurs angepasst. Mit allen Quellen schafft das auch ein verschobener Kurs ohne echten Zusammenhang, im Schnitt ${pz(OPT_TEST.zufall)}. Auf Jahren, die die Anteile nicht gesehen haben, blieben ${test('test')}.`;
+}
+
+const PFEIL_AUF = '<svg viewBox="0 0 12 12" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M2.5 4.5 6 8l3.5-3.5"/></svg>';
+document.getElementById('haken').innerHTML = '<div class="kopf"><div class="qtitel"><h2>Quellen</h2><span id="qzahl"></span></div><span class="modus" role="group" aria-label="Anteile"><button type="button" data-modus="korr" data-tip="Wer besser zum Kurs passte, zählt mehr. Wer schlecht passte, zählt gar nicht.">Nach Korrelation</button><button type="button" data-modus="opt" data-tip="Der Rechner sucht die Mischung, die am besten zum Kurs passt. Sieht stark aus, ist aber nachträglich angepasst.">Optimiert</button><button type="button" data-modus="gleich" data-tip="Jede Quelle zählt genau gleich viel. Keine wird bevorzugt.">Gleich</button></span><div class="schalter"><button type="button" id="alleKnopf" aria-pressed="false">Alle</button><button type="button" id="pfeilKnopf" aria-pressed="true">Pfeile</button></div><input class="suche" id="suche" type="search" placeholder="Quelle suchen" aria-label="Quelle suchen"></div><div class="liste">' +
+  [...new Set(QUELLEN.map(q => q.gruppe))].map(g => `<div class="gruppe" data-g="${g}"><div class="gkopf"><button type="button" class="grp" data-gruppe="${g}" title="Ganze Gruppe an oder aus"><i></i>${g}</button><span class="gz"></span><button type="button" class="auf" aria-expanded="false" aria-label="${g} aufklappen">${PFEIL_AUF}</button></div><div class="glieder">${QUELLEN.filter(q => q.gruppe === g).map(q => `<label><input type="checkbox" data-q="${q.id}" ${AN.has(q.id) ? 'checked' : ''}><span class="nm">${q.name}</span><span class="pz" data-pz="${q.id}"></span></label>`).join('')}</div></div>`).join('') + '</div>';
+mische();
+
+function zeichen(s, c, g) {
+  const r = g / 2;
+  if (s === 'up') return `<path d="M0 ${-r}L${r} ${r}L${-r} ${r}Z" fill="${c}"/>`;
+  if (s === 'down') return `<path d="M0 ${r}L${r} ${-r}L${-r} ${-r}Z" fill="${c}"/>`;
+  return `<path d="M0 ${-r}L${r} 0L0 ${r}L${-r} 0Z" fill="${c}"/>`;
+}
+const klein = (s, c) => `<svg viewBox="-6 -6 12 12" aria-hidden="true">${zeichen(s, c, 10)}</svg>`;
+document.getElementById('legende').innerHTML =
+  `<span><svg class="strich" viewBox="0 0 24 4" aria-hidden="true"><line x1="0" x2="24" y1="2" y2="2" stroke="#ff8a4c" stroke-width="2.5"/></svg>Deutung</span>` +
+  `<span><svg class="strich" viewBox="0 0 24 4" aria-hidden="true"><line x1="0" x2="24" y1="2" y2="2" stroke="#fff" stroke-width="2" stroke-dasharray="5 4"/></svg>Echter Kurs</span>` +
+  [['up', 'var(--up)', 'Anstieg'], ['down', 'var(--down)', 'Rücksetzer'], ['open', 'var(--open)', 'Richtung offen']]
+    .map(([s, c, t]) => `<span>${klein(s, c)}${t}</span>`).join('') +
+  '<span style="color:#5ef2c2">⬆ Kaufen, hypothetisch</span><span style="color:#ff5f9e">⬇ Verkaufen, hypothetisch</span><span><i class="band"></i>Mars oder Venus rückläufig</span>';
+
+const svg = document.getElementById('chart'), buehne = document.getElementById('buehne'), tip = document.getElementById('tip');
+let bereich = 'alles', aktiv = -1, lage = [], F = null;
+document.getElementById('haken').addEventListener('change', ev => {
+  const id = ev.target.dataset.q; if (!id) return;
+  ev.target.checked ? AN.add(id) : AN.delete(id);
+  neuRechnen();
+});
+function neuRechnen() { mische(); aktiv = startAktiv(); tabelle(); male(); zeigeDetail(); }
+document.getElementById('haken').addEventListener('click', ev => {
+  const b = ev.target.closest('button'); if (!b) return;
+  if (b.id === 'alleKnopf') {
+    const alle = AN.size < QUELLEN.length;
+    AN.clear(); if (alle) QUELLEN.forEach(q => AN.add(q.id));
+    document.querySelectorAll('#haken input').forEach(i => { i.checked = alle; });
+  } else if (b.dataset.gruppe) {
+    const glieder = QUELLEN.filter(q => q.gruppe === b.dataset.gruppe), an = !glieder.every(q => AN.has(q.id));
+    glieder.forEach(q => { an ? AN.add(q.id) : AN.delete(q.id); const i = document.querySelector(`[data-q="${q.id}"]`); if (i) i.checked = an; });
+  } else if (b.id === 'pfeilKnopf') {
+    PFEILE = !PFEILE; b.setAttribute('aria-pressed', PFEILE); male(); return;
+  } else if (b.dataset.modus) MODUS = b.dataset.modus; else return;
+  neuRechnen();
+});
+
+function fenster() {
+  if (bereich === 'alles') return [ERSTER.z, LETZTER.z];
+  if (bereich === 'zukunft') return [HEUTE.z, LETZTER.z];
+  if (bereich === 'ab2022') return [ts('2022-01-01'), LETZTER.z];
+  return [Math.max(ts(bereich + '-01-01'), ERSTER.z), Math.min(ts(bereich + '-12-31'), LETZTER.z)];
+}
+const imFenster = e => { const [a, b] = fenster(), z = ts(e.d); return z >= a && z <= b; };
+function startAktiv() {
+  const h = E.map((e, i) => [e, i]).filter(([e]) => imFenster(e)), v = h.filter(([e]) => !e.zukunft);
+  return h.length ? (v.length ? v[v.length - 1] : h[0])[1] : -1;
+}
+const TICKS = [-3, -2, -1, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12].flatMap(e => [1, 2, 5].map(f => f * 10 ** e)).map(v => +v.toPrecision(3));
+
+function male() {
+  const B = buehne.clientWidth;
+  if (B < 100) return;
+  const schmal = B < 640, H = schmal ? 360 : 540, alles = ['alles', 'zukunft', 'ab2022'].includes(bereich);
+  const m = {l: schmal ? 46 : 54, r: schmal ? 62 : 118, o: 18, u: 30};
+  const [x0, x1] = fenster();
+  const zeilen = REIHE.filter(p => p.z >= x0 && p.z <= x1), b0 = zeilen[0];
+  const echte = zeilen.filter(p => p.p !== null), bw = echte[0];
+  const sk = echte.length >= 30 ? spannSkala(echte) : SKALA;
+  const idxG = p => 100 * Math.exp(sk * (p.g - b0.g)), idxB = p => p.p / bw.p * 100;
+  const mitGelb = AN.size > 0, alle = [100, ...(mitGelb ? zeilen.map(idxG) : []), ...echte.map(idxB)];
+  const lo = Math.log(Math.min(...alle)) - .07, hi = Math.log(Math.max(...alle)) + .09;
+  const X = z => m.l + (z - x0) / (x1 - x0) * (B - m.l - m.r);
+  const Y = v => m.o + (hi - Math.log(v)) / (hi - lo) * (H - m.o - m.u);
+  F = {X, Y, zeilen, idxG, idxB, m, H, B};
+  svg.setAttribute('viewBox', `0 0 ${B} ${H}`);
+  svg.setAttribute('height', H);
+  let h = `<defs><clipPath id="clip"><rect x="${m.l}" y="0" width="${B - m.l - m.r + 2}" height="${H}"/></clipPath></defs>`;
+
+  // Raster, ausgehend von 100, damit Beschriftungen nicht kollidieren
+  const raster = [100];
+  for (const dir of [1, -1]) {
+    let letzt = Y(100);
+    for (const v of dir > 0 ? TICKS.filter(t => t > 100) : TICKS.filter(t => t < 100).reverse()) {
+      const y = Y(v);
+      if (y < m.o || y > H - m.u) continue;
+      if (Math.abs(y - letzt) >= 34) { raster.push(v); letzt = y; }
+    }
+  }
+  for (const v of raster) {
+    const b = v === 100, y = Y(v);
+    h += `<line x1="${m.l}" x2="${B - m.r}" y1="${y}" y2="${y}" stroke="${b ? 'rgba(255,255,255,.2)' : 'rgba(255,255,255,.07)'}" ${b ? 'stroke-dasharray="2 4"' : ''}/>`;
+    h += `<text x="${m.l - 6}" y="${y + 4}" fill="#b7bfd0" font-size="11" text-anchor="end">${v >= 1e9 ? v / 1e9 + ' Mrd' : v >= 1e6 ? v / 1e6 + ' Mio' : v.toLocaleString('de-DE')}</text>`;
+  }
+
+  // Zeitachse
+  const schritt = alles ? 12 : (schmal ? 3 : 2);
+  for (const d = new Date(Date.UTC(new Date(x0).getUTCFullYear(), new Date(x0).getUTCMonth(), 1)); d.getTime() <= x1; d.setUTCMonth(d.getUTCMonth() + 1)) {
+    if (d.getTime() < x0 || d.getUTCMonth() % schritt) continue;
+    if (schmal && bereich === 'alles' && d.getUTCFullYear() % 4 !== 2) continue;
+    if (!schmal && bereich === 'alles' && d.getUTCFullYear() % 2) continue;
+    if (schmal && bereich === 'ab2022' && d.getUTCFullYear() % 2) continue; // zehn Jahreszahlen passen aufs Handy nicht
+    const x = X(d.getTime()), j = d.getUTCMonth() === 0;
+    h += `<line x1="${x}" x2="${x}" y1="${H - m.u}" y2="${H - m.u + 4}" stroke="rgba(255,255,255,.2)"/>`;
+    h += `<text x="${x}" y="${H - 10}" fill="${j ? '#f4f4f5' : '#b7bfd0'}" font-size="11" text-anchor="${x < m.l + 14 ? 'start' : 'middle'}" ${j ? 'font-weight="600"' : ''}>${alles && j ? d.getUTCFullYear() : MON[d.getUTCMonth()]}${!alles && j ? ' ' + d.getUTCFullYear() : ''}</text>`;
+  }
+
+  h += `<g clip-path="url(#clip)">`;
+  for (const p of RUECKLAEUFE) {
+    const a = Math.max(X(ts(p.von)), m.l), b = Math.min(X(ts(p.bis)), B - m.r);
+    if (b <= a) continue;
+    h += `<rect x="${a}" y="${m.o - 8}" width="${b - a}" height="${H - m.o - m.u + 8}" fill="#ff5f9e" opacity=".055"/>`;
+  }
+
+  // Linien
+  const pfad = (l, f) => l.map((p, i) => `${i ? 'L' : 'M'}${X(p.z).toFixed(1)} ${Y(f(p)).toFixed(1)}`).join('');
+  if (HEUTE.z > x0 && HEUTE.z < x1) h += `<line x1="${X(HEUTE.z)}" x2="${X(HEUTE.z)}" y1="${m.o - 8}" y2="${H - m.u}" stroke="rgba(255,255,255,.35)" stroke-dasharray="2 3"/><text x="${X(HEUTE.z) + 5}" y="${m.o + 2}" fill="#b4b4bb" font-size="11">Heute</text>`;
+  if (echte.length) h += `<path d="${pfad(echte, idxB)}" fill="none" stroke="#fff" stroke-width="1.75" stroke-dasharray="5 4" stroke-linejoin="round"/>`;
+  if (mitGelb) {
+    const fest = zeilen.filter(p => p.z <= HEUTE.z), vorn = zeilen.filter(p => p.z >= HEUTE.z);
+    if (fest.length) h += `<path d="${pfad(fest, idxG)}" fill="none" stroke="var(--gold)" stroke-width="2.5" stroke-linejoin="round" style="filter:drop-shadow(0 0 7px rgba(255,138,76,.55))"/>`;
+    if (vorn.length) h += `<path d="${pfad(vorn, idxG)}" fill="none" stroke="var(--gold)" stroke-width="2" opacity=".5" stroke-linejoin="round"/>`;
+  }
+
+  // Ereignisse auf der gelben Linie, dicht beieinander werden gestapelt
+  lage = [];
+  const g = alles ? (schmal ? 7 : 9) : 11, abstand = g + 3;
+  const dicht = E.filter(imFenster).length > (B - m.l - m.r) / (schmal ? 7 : 9);
+  let letzt = -1e9, stufe = 0;
+  const reihe = new Map(zeilen.map(p => [p.d, p]));
+  E.forEach((e, i) => {
+    const p = reihe.get(e.d);
+    if (!p) return;
+    const x = X(p.z);
+    if (dicht) {
+      const f = FORM[e.k], sel = i === aktiv, unten = H - m.u;
+      lage.push({i, x, y: unten - 8});
+      h += `<line x1="${x}" x2="${x}" y1="${unten - 10}" y2="${unten}" stroke="${f.c}" stroke-width="1.5" opacity=".75"/>`;
+      if (sel) h += `<line x1="${x}" x2="${x}" y1="${Y(idxG(p))}" y2="${unten}" stroke="#ff8a4c"/><circle cx="${x}" cy="${Y(idxG(p))}" r="5" fill="#0f1520" stroke="#ff8a4c" stroke-width="2"/>`;
+      return;
+    }
+    stufe = x - letzt < abstand ? (stufe + 1) % 4 : 0;
+    letzt = x;
+    const y = Math.max(Y(idxG(p)) - stufe * abstand, m.o + 6);
+    lage.push({i, x, y});
+    const f = FORM[e.k], sel = i === aktiv;
+    if (sel) h += `<line x1="${x}" x2="${x}" y1="${y}" y2="${H - m.u}" stroke="#ff8a4c"/>`;
+    if (f.whisker && !alles) h += `<line x1="${x}" x2="${x}" y1="${y - 18}" y2="${y + 18}" stroke="${f.c}" stroke-width="1.5" opacity=".5" stroke-linecap="round"/>`;
+    h += `<g transform="translate(${x} ${y})">`;
+    if (sel) h += `<circle r="${g * .95}" fill="none" stroke="#ff8a4c" stroke-width="1.5"/>`;
+    h += `<circle r="${g * .62}" fill="#0f1520"/>${zeichen(f.s, f.c, g)}</g>`;
+  });
+  // Kauf und Verkauf Pfeile am echten Kurs, in der Zukunft an der gelben Linie
+  if (PFEILE) for (const x of SIG.liste) {
+    const q = REIHE[x.i];
+    if (q.z < x0 || q.z > x1) continue;
+    const px = X(q.z), zuk = q.p === null;
+    if (zuk && !mitGelb) continue;
+    const py = Y(zuk ? idxG(q) : idxB(q)), f = x.kauf ? '#5ef2c2' : '#ff5f9e', d = x.kauf ? 1 : -1, eng = bereich === 'alles', kk = schmal && eng ? 2.5 : eng ? 3.5 : 5, a = py + d * (eng ? 3 : 6), e = a + d * (schmal && eng ? 7 : eng ? 11 : 18);
+    h += `<g opacity="${zuk ? .55 : 1}"><line x1="${px}" x2="${px}" y1="${a}" y2="${e}" stroke="#0f1520" stroke-width="${eng ? 3 : 4.5}"/><line x1="${px}" x2="${px}" y1="${a + d * kk}" y2="${e}" stroke="${f}" stroke-width="${eng ? 1.5 : 2.25}"/><path d="M${px} ${a}L${px - kk} ${a + d * kk * 1.6}L${px + kk} ${a + d * kk * 1.6}Z" fill="${f}" stroke="#0f1520" stroke-width=".75"/></g>`;
+  }
+  h += `</g>`;
+
+  // Direkte Beschriftung am Ende, bei Kollision auseinander schieben
+  const ende = zeilen[zeilen.length - 1], weiss = echte[echte.length - 1], vg = idxG(ende), vb = weiss ? idxB(weiss) : 100;
+  let yg = Y(vg), yb = Y(vb);
+  const weissAmRand = weiss && weiss === ende;
+  if (mitGelb && weissAmRand && Math.abs(yg - yb) < 30) {
+    const mitte = (yg + yb) / 2, oben = yg < yb;
+    yg = mitte + (oben ? -15 : 15); yb = mitte + (oben ? 15 : -15);
+  }
+  const lx = B - m.r + 8, rund = v => v >= 1e9 ? (v / 1e9).toLocaleString('de-DE', {maximumFractionDigits: 0}) + ' Mrd' : v >= 1e7 ? (v / 1e6).toLocaleString('de-DE', {maximumFractionDigits: 0}) + ' Mio' : v >= 100 ? Math.round(v).toLocaleString('de-DE') : v.toLocaleString('de-DE', {maximumFractionDigits: 1});
+  if (mitGelb) h += `<text x="${lx}" y="${yg - 1}" fill="#f4f4f5" font-size="11">${schmal ? 'Deut.' : 'Deutung'}</text>${ende.z > HEUTE.z ? '' : `<text x="${lx}" y="${yg + 12}" fill="#f4f4f5" font-size="13" font-weight="600">${rund(vg)}</text>`}`;
+  if (weiss && echte.length > 1) {
+    const wx = weissAmRand ? lx : X(weiss.z) + 6, rand = weissAmRand ? '' : 'paint-order="stroke" stroke="#0f1520" stroke-width="3"';
+    h += `<text x="${wx}" y="${yb - 1}" fill="#f4f4f5" font-size="11" ${rand}>${schmal ? COIN : 'Echter Kurs'}</text><text x="${wx}" y="${yb + 12}" fill="#f4f4f5" font-size="13" font-weight="600" ${rand}>${rund(vb)}</text>`;
+  }
+  h += `<g id="zeiger"></g>`;
+  svg.innerHTML = h;
+}
+
+function zeigeDetail() {
+  const e = E[aktiv];
+  if (!e) { document.getElementById('detail').innerHTML = '<p>Keine Quelle gewählt oder kein Ereignis in diesem Zeitraum.</p>'; document.querySelectorAll('#zeilen tr').forEach(tr => tr.classList.remove('an')); return; }
+  const p = REIHE.find(q => q.d === e.d);
+  const stimmt = e.treffer === null ? 'Keine Richtung vorhergesagt, also kein Urteil.' : e.treffer ? 'Die Deutung stimmte.' : 'Die Deutung lag falsch.';
+  const echt = e.zukunft ? 'Noch nicht passiert.' : e.echt === null ? 'Noch keine 30 Tage vorbei.' : `Echt: ${COIN} ${pz(e.echt)} in 30 Tagen. ${stimmt}`;
+  document.getElementById('detail').innerHTML = `<div class="d">${fmt(e.d)}, ${e.q}</div><h2>${e.n}</h2><p>${e.t}. Deutung: <b>${e.deut}</b>. ${p.p === null ? 'Liegt in der Zukunft, das ist eine Rechnung nach festen Regeln.' : `${COIN} an dem Tag: <b>${p.p.toLocaleString('de-DE')} $</b>`}</p><p>${echt}${e.quelle ? ` <a href="${e.quelle}" target="_blank" rel="noopener" style="color:var(--gold)">Beleg</a>` : ''}</p>`;
+  document.querySelectorAll('#zeilen tr').forEach(tr => tr.classList.toggle('an', +tr.dataset.i === aktiv));
+}
+function waehle(i) { aktiv = i; male(); zeigeDetail(); }
+
+function tabelle() {
+  const sicht = E.map((e, i) => [e, i]).filter(([e]) => imFenster(e));
+  document.getElementById('zeilen').innerHTML = sicht.map(([e, i]) => {
+    const f = FORM[e.k];
+    const u = e.zukunft ? 'offen' : e.treffer === null ? 'kein Urteil' : e.treffer ? 'stimmte' : 'falsch';
+    return `<tr tabindex="0" data-i="${i}"><td class="datum">${fmt(e.d)}</td><td>${e.n}</td><td class="urteil urteil-sp">${e.q}</td><td class="deut">${klein(f.s, f.c)}${e.deut}</td><td class="echt">${e.zukunft ? 'Zukunft' : e.echt === null ? 'offen' : pz(e.echt)}</td><td class="urteil urteil-sp">${u}</td></tr>`;
+  }).join('');
+  const ger = sicht.filter(([e]) => e.treffer !== null), r = ger.filter(([e]) => e.treffer).length;
+  document.getElementById('tabkopf').textContent = `${sicht.length} Ereignisse in diesem Zeitraum. ${r} von ${ger.length} Deutungen mit Richtung stimmten.`;
+}
+document.getElementById('zeilen').addEventListener('click', ev => {
+  const tr = ev.target.closest('tr'); if (!tr) return;
+  waehle(+tr.dataset.i);
+  buehne.scrollIntoView({behavior: 'smooth', block: 'nearest'});
+});
+document.getElementById('zeilen').addEventListener('keydown', ev => {
+  if (ev.key === 'Enter' || ev.key === ' ') { ev.preventDefault(); ev.target.closest('tr')?.click(); }
+});
+
+function naechstes(mx) {
+  let best = null, ab = 1e9;
+  for (const p of lage) { const a = Math.abs(p.x - mx); if (a < ab) { ab = a; best = p; } }
+  return best && {p: best, ab};
+}
+buehne.addEventListener('pointermove', ev => {
+  if (ev.pointerType === 'touch' || !F) return;
+  const r = svg.getBoundingClientRect(), mx = ev.clientX - r.left;
+  const {X, Y, zeilen, idxG, idxB, m, H, B} = F;
+  if (mx < m.l || mx > B - m.r) { tip.style.display = 'none'; document.getElementById('zeiger').innerHTML = ''; return; }
+  const x0 = zeilen[0].z, x1 = zeilen[zeilen.length - 1].z;
+  const z = x0 + (mx - m.l) / (B - m.l - m.r) * (x1 - x0);
+  const p = zeilen[klemm(Math.round((z - x0) / MS), 0, zeilen.length - 1)];
+  const x = X(p.z), n = naechstes(mx);
+  document.getElementById('zeiger').innerHTML = `<line x1="${x}" x2="${x}" y1="${m.o}" y2="${H - m.u}" stroke="rgba(255,255,255,.35)"/>${p.p !== null ? `<circle cx="${x}" cy="${Y(idxB(p))}" r="4" fill="#fff" stroke="#0f1520" stroke-width="2"/>` : ''}${AN.size ? `<circle cx="${x}" cy="${Y(idxG(p))}" r="4" fill="#ff8a4c" stroke="#0f1520" stroke-width="2"/>` : ''}`;
+  const e = n && n.ab < 10 ? E[n.p.i] : null;
+  tip.innerHTML = `<small>${fmt(p.d)}</small>${AN.size ? `<b>Deutung ${p.z > HEUTE.z ? 'Rechnung nach vorn' : Math.round(idxG(p)).toLocaleString('de-DE')}</b>` : ''}${p.p !== null ? `<b>Echter Kurs ${Math.round(idxB(p)).toLocaleString('de-DE')}</b><small>${COIN} ${p.p.toLocaleString('de-DE')} $</small>` : '<small>Zukunft, nur Rechnung</small>'}${e ? `<small style="margin-top:4px;color:#f4f4f5">${e.n}: ${e.deut}</small>` : ''}`;
+  tip.style.display = 'block';
+  tip.style.left = klemm(x + 240 > B ? x - 244 : x + 14, 6, B - 236) + 'px';
+  tip.style.top = '12px';
+});
+buehne.addEventListener('pointerleave', () => { tip.style.display = 'none'; const g = document.getElementById('zeiger'); if (g) g.innerHTML = ''; });
+buehne.addEventListener('click', ev => {
+  const n = naechstes(ev.clientX - svg.getBoundingClientRect().left);
+  if (n) waehle(n.p.i);
+});
+
+document.querySelectorAll('.filter button').forEach(b => b.addEventListener('click', () => {
+  bereich = b.dataset.r;
+  document.querySelectorAll('.filter button').forEach(c => c.setAttribute('aria-pressed', c === b));
+  if (!E[aktiv] || !imFenster(E[aktiv])) aktiv = startAktiv();
+  tabelle(); male(); zeigeDetail();
+}));
+
+document.getElementById('haken').addEventListener('click', ev => {
+  const b = ev.target.closest('.auf'); if (!b) return;
+  const offen = b.closest('.gruppe').classList.toggle('offen');
+  b.setAttribute('aria-expanded', offen);
+});
+document.getElementById('suche').addEventListener('input', ev => {
+  const s = ev.target.value.trim().toLowerCase();
+  document.querySelectorAll('.gruppe').forEach(g => {
+    let treffer = 0;
+    g.querySelectorAll('label').forEach(l => { const ja = !s || l.textContent.toLowerCase().includes(s) || g.dataset.g.toLowerCase().includes(s); l.style.display = ja ? '' : 'none'; if (ja) treffer++; });
+    g.style.display = treffer ? '' : 'none';
+    g.classList.toggle('offen', !!s && treffer > 0);
+    g.querySelector('.auf').setAttribute('aria-expanded', g.classList.contains('offen'));
+  });
+});
+document.querySelectorAll('.reiter button').forEach(b => b.addEventListener('click', () => {
+  document.querySelectorAll('.reiter button').forEach(c => c.setAttribute('aria-selected', c === b));
+  document.querySelectorAll('.tafel').forEach(t => { t.hidden = t.id !== b.dataset.tafel; });
+}));
+
+new ResizeObserver(male).observe(buehne);
+aktiv = startAktiv();
+tabelle(); male(); zeigeDetail();
+</script>
+</body>
+</html>

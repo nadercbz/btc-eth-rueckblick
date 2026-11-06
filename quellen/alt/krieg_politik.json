@@ -1,0 +1,683 @@
+{
+ "ereignisse": [
+  {
+   "d": "2010-11-23",
+   "n": "Nordkorea beschießt die Insel Yeonpyeong",
+   "t": "Krieg",
+   "k": "down",
+   "quelle": "https://en.wikipedia.org/wiki/Bombardment_of_Yeonpyeong"
+  },
+  {
+   "d": "2010-11-28",
+   "n": "EU und IWF beschließen Rettungspaket für Irland",
+   "t": "Haushalt",
+   "k": "up",
+   "quelle": "https://en.wikipedia.org/wiki/Post-2008_Irish_banking_crisis"
+  },
+  {
+   "d": "2011-03-15",
+   "n": "Aufstand in Syrien beginnt, Weg in den Bürgerkrieg",
+   "t": "Krieg",
+   "k": "down",
+   "quelle": "https://en.wikipedia.org/wiki/Syrian_civil_war"
+  },
+  {
+   "d": "2011-03-19",
+   "n": "Koalition beginnt Luftangriffe in Libyen",
+   "t": "Krieg",
+   "k": "down",
+   "quelle": "https://en.wikipedia.org/wiki/2011_military_intervention_in_Libya"
+  },
+  {
+   "d": "2011-07-21",
+   "n": "Eurogipfel beschließt zweites Rettungspaket für Griechenland",
+   "t": "Haushalt",
+   "k": "up",
+   "quelle": "https://en.wikipedia.org/wiki/Greek_government-debt_crisis"
+  },
+  {
+   "d": "2011-08-02",
+   "n": "USA heben die Schuldengrenze an, Schuldenstreit beigelegt",
+   "t": "Haushalt",
+   "k": "up",
+   "quelle": "https://en.wikipedia.org/wiki/Budget_Control_Act_of_2011"
+  },
+  {
+   "d": "2011-08-05",
+   "n": "S&P stuft die Kreditwürdigkeit der USA herab",
+   "t": "Haushalt",
+   "k": "down",
+   "quelle": "https://en.wikipedia.org/wiki/United_States_federal_government_credit-rating_downgrades"
+  },
+  {
+   "d": "2011-10-27",
+   "n": "Eurogipfel beschließt Schuldenschnitt für Griechenland",
+   "t": "Haushalt",
+   "k": "up",
+   "quelle": "https://en.wikipedia.org/wiki/Greek_government-debt_crisis"
+  },
+  {
+   "d": "2012-02-21",
+   "n": "Eurogruppe beschließt zweites Hilfspaket für Griechenland",
+   "t": "Haushalt",
+   "k": "up",
+   "quelle": "https://en.wikipedia.org/wiki/Second_Economic_Adjustment_Programme_for_Greece"
+  },
+  {
+   "d": "2012-06-09",
+   "n": "Euroländer sagen Spanien Hilfe für die Banken zu",
+   "t": "Haushalt",
+   "k": "up",
+   "quelle": "https://en.wikipedia.org/wiki/European_debt_crisis"
+  },
+  {
+   "d": "2012-07-19",
+   "n": "Schlacht um Aleppo beginnt",
+   "t": "Krieg",
+   "k": "down",
+   "quelle": "https://en.wikipedia.org/wiki/Battle_of_Aleppo_(2012%E2%80%932016)"
+  },
+  {
+   "d": "2012-09-06",
+   "n": "EZB beschließt Staatsanleihekäufe gegen die Eurokrise",
+   "t": "Haushalt",
+   "k": "up",
+   "quelle": "https://en.wikipedia.org/wiki/Outright_Monetary_Transactions"
+  },
+  {
+   "d": "2012-11-14",
+   "n": "Israel startet Operation Wolkensäule im Gazastreifen",
+   "t": "Krieg",
+   "k": "down",
+   "quelle": "https://en.wikipedia.org/wiki/Operation_Pillar_of_Defense"
+  },
+  {
+   "d": "2012-11-21",
+   "n": "Waffenruhe zwischen Israel und Hamas",
+   "t": "Waffenstillstand",
+   "k": "up",
+   "quelle": "https://en.wikipedia.org/wiki/Operation_Pillar_of_Defense"
+  },
+  {
+   "d": "2013-01-01",
+   "n": "US Kongress einigt sich bei der Fiskalklippe",
+   "t": "Haushalt",
+   "k": "up",
+   "quelle": "https://en.wikipedia.org/wiki/American_Taxpayer_Relief_Act_of_2012"
+  },
+  {
+   "d": "2013-02-12",
+   "n": "Nordkorea führt dritten Atomtest durch",
+   "t": "Krieg",
+   "k": "down",
+   "quelle": "https://en.wikipedia.org/wiki/2013_North_Korean_nuclear_test"
+  },
+  {
+   "d": "2013-03-16",
+   "n": "Zypern: Eurogruppe beschließt Abgabe auf Bankeinlagen",
+   "t": "Haushalt",
+   "k": "down",
+   "quelle": "https://en.wikipedia.org/wiki/2012%E2%80%932013_Cypriot_financial_crisis"
+  },
+  {
+   "d": "2013-03-25",
+   "n": "Zypern und Eurogruppe einigen sich auf Rettungspaket",
+   "t": "Haushalt",
+   "k": "up",
+   "quelle": "https://en.wikipedia.org/wiki/2012%E2%80%932013_Cypriot_financial_crisis"
+  },
+  {
+   "d": "2013-08-21",
+   "n": "Giftgasangriff bei Damaskus",
+   "t": "Krieg",
+   "k": "down",
+   "quelle": "https://en.wikipedia.org/wiki/Ghouta_chemical_attack"
+  },
+  {
+   "d": "2013-10-01",
+   "n": "Beginn des US Government Shutdown",
+   "t": "Haushalt",
+   "k": "down",
+   "quelle": "https://en.wikipedia.org/wiki/2013_United_States_federal_government_shutdown"
+  },
+  {
+   "d": "2013-10-16",
+   "n": "Ende des US Shutdown, Schuldengrenze wird angehoben",
+   "t": "Haushalt",
+   "k": "up",
+   "quelle": "https://en.wikipedia.org/wiki/2013_United_States_federal_government_shutdown"
+  },
+  {
+   "d": "2013-11-24",
+   "n": "Interimsabkommen im Atomstreit mit dem Iran",
+   "t": "Waffenstillstand",
+   "k": "up",
+   "quelle": "https://en.wikipedia.org/wiki/Joint_Plan_of_Action"
+  },
+  {
+   "d": "2013-12-15",
+   "n": "Bürgerkrieg im Südsudan bricht aus",
+   "t": "Krieg",
+   "k": "down",
+   "quelle": "https://en.wikipedia.org/wiki/South_Sudanese_Civil_War"
+  },
+  {
+   "d": "2014-03-18",
+   "n": "Russland annektiert die Krim",
+   "t": "Krieg",
+   "k": "down",
+   "quelle": "https://en.wikipedia.org/wiki/Annexation_of_Crimea_by_the_Russian_Federation"
+  },
+  {
+   "d": "2014-04-12",
+   "n": "Krieg im Donbass beginnt",
+   "t": "Krieg",
+   "k": "down",
+   "quelle": "https://en.wikipedia.org/wiki/War_in_Donbas"
+  },
+  {
+   "d": "2014-06-10",
+   "n": "IS erobert Mossul",
+   "t": "Krieg",
+   "k": "down",
+   "quelle": "https://en.wikipedia.org/wiki/Fall_of_Mosul"
+  },
+  {
+   "d": "2014-07-08",
+   "n": "Israel startet Operation Protective Edge im Gazastreifen",
+   "t": "Krieg",
+   "k": "down",
+   "quelle": "https://en.wikipedia.org/wiki/2014_Gaza_War"
+  },
+  {
+   "d": "2014-07-29",
+   "n": "EU und USA verhängen Wirtschaftssanktionen gegen Russland",
+   "t": "Handel",
+   "k": "down",
+   "quelle": "https://en.wikipedia.org/wiki/International_sanctions_during_the_Russo-Ukrainian_War"
+  },
+  {
+   "d": "2014-08-26",
+   "n": "Waffenruhe im Gazakrieg",
+   "t": "Waffenstillstand",
+   "k": "up",
+   "quelle": "https://en.wikipedia.org/wiki/2014_Gaza_War"
+  },
+  {
+   "d": "2014-09-05",
+   "n": "Minsker Protokoll, Waffenruhe im Donbass",
+   "t": "Waffenstillstand",
+   "k": "up",
+   "quelle": "https://en.wikipedia.org/wiki/Minsk_Protocol"
+  },
+  {
+   "d": "2014-09-23",
+   "n": "USA beginnen Luftangriffe in Syrien",
+   "t": "Krieg",
+   "k": "down",
+   "quelle": "https://en.wikipedia.org/wiki/American-led_intervention_in_the_Syrian_civil_war"
+  },
+  {
+   "d": "2014-11-11",
+   "n": "USA und China einigen sich auf Zollabbau bei IT Produkten",
+   "t": "Handel",
+   "k": "up",
+   "quelle": "https://en.wikipedia.org/wiki/APEC_China_2014"
+  },
+  {
+   "d": "2015-02-12",
+   "n": "Minsk II, Waffenruhe im Donbass",
+   "t": "Waffenstillstand",
+   "k": "up",
+   "quelle": "https://en.wikipedia.org/wiki/Minsk_agreements"
+  },
+  {
+   "d": "2015-02-20",
+   "n": "Eurogruppe verlängert das Hilfsprogramm für Griechenland",
+   "t": "Haushalt",
+   "k": "up",
+   "quelle": "https://en.wikipedia.org/wiki/Greek_government-debt_crisis"
+  },
+  {
+   "d": "2015-03-26",
+   "n": "Saudi Arabien beginnt Luftkrieg im Jemen",
+   "t": "Krieg",
+   "k": "down",
+   "quelle": "https://en.wikipedia.org/wiki/Saudi_Arabian%E2%80%93led_intervention_in_Yemen"
+  },
+  {
+   "d": "2015-06-29",
+   "n": "Griechenland schließt die Banken, Kapitalverkehrskontrollen",
+   "t": "Haushalt",
+   "k": "down",
+   "quelle": "https://en.wikipedia.org/wiki/Greek_government-debt_crisis"
+  },
+  {
+   "d": "2015-07-05",
+   "n": "Griechen stimmen im Referendum gegen die Sparauflagen",
+   "t": "Haushalt",
+   "k": "down",
+   "quelle": "https://en.wikipedia.org/wiki/2015_Greek_bailout_referendum"
+  },
+  {
+   "d": "2015-07-13",
+   "n": "Eurogipfel einigt sich auf drittes Hilfspaket für Griechenland",
+   "t": "Haushalt",
+   "k": "up",
+   "quelle": "https://en.wikipedia.org/wiki/Greek_government-debt_crisis"
+  },
+  {
+   "d": "2015-07-14",
+   "n": "Atomabkommen mit dem Iran abgeschlossen",
+   "t": "Waffenstillstand",
+   "k": "up",
+   "quelle": "https://en.wikipedia.org/wiki/Joint_Comprehensive_Plan_of_Action"
+  },
+  {
+   "d": "2015-09-30",
+   "n": "Russland beginnt Luftangriffe in Syrien",
+   "t": "Krieg",
+   "k": "down",
+   "quelle": "https://en.wikipedia.org/wiki/Russian_military_intervention_in_the_Syrian_civil_war"
+  },
+  {
+   "d": "2015-10-05",
+   "n": "Einigung auf das Handelsabkommen TPP",
+   "t": "Handel",
+   "k": "up",
+   "quelle": "https://en.wikipedia.org/wiki/Trans-Pacific_Partnership"
+  },
+  {
+   "d": "2015-11-02",
+   "n": "US Haushaltsgesetz setzt die Schuldengrenze aus",
+   "t": "Haushalt",
+   "k": "up",
+   "quelle": "https://en.wikipedia.org/wiki/2016_United_States_federal_budget"
+  },
+  {
+   "d": "2016-01-06",
+   "n": "Nordkorea meldet vierten Atomtest",
+   "t": "Krieg",
+   "k": "down",
+   "quelle": "https://en.wikipedia.org/wiki/January_2016_North_Korean_nuclear_test"
+  },
+  {
+   "d": "2016-02-27",
+   "n": "Waffenruhe in Syrien tritt in Kraft",
+   "t": "Waffenstillstand",
+   "k": "up",
+   "quelle": "https://en.wikipedia.org/wiki/Syrian_peace_process"
+  },
+  {
+   "d": "2016-05-25",
+   "n": "Japan beschließt Gesetz, das Bitcoin als Zahlungsmittel anerkennt",
+   "t": "Krypto Politik",
+   "k": "up",
+   "quelle": "https://en.wikipedia.org/wiki/Regulation_of_cryptocurrency"
+  },
+  {
+   "d": "2016-06-23",
+   "n": "Briten stimmen für den Brexit",
+   "t": "Handel",
+   "k": "open",
+   "quelle": "https://en.wikipedia.org/wiki/2016_United_Kingdom_European_Union_membership_referendum"
+  },
+  {
+   "d": "2016-08-24",
+   "n": "Türkei beginnt Bodeneinsatz in Nordsyrien",
+   "t": "Krieg",
+   "k": "down",
+   "quelle": "https://en.wikipedia.org/wiki/Operation_Euphrates_Shield"
+  },
+  {
+   "d": "2016-10-16",
+   "n": "Offensive auf Mossul beginnt",
+   "t": "Krieg",
+   "k": "down",
+   "quelle": "https://en.wikipedia.org/wiki/Battle_of_Mosul_(2016%E2%80%932017)"
+  },
+  {
+   "d": "2016-11-24",
+   "n": "Kolumbien und FARC unterzeichnen Friedensvertrag",
+   "t": "Waffenstillstand",
+   "k": "up",
+   "quelle": "https://en.wikipedia.org/wiki/Colombian_peace_process"
+  },
+  {
+   "d": "2016-12-30",
+   "n": "Landesweite Waffenruhe in Syrien",
+   "t": "Waffenstillstand",
+   "k": "up",
+   "quelle": "https://en.wikipedia.org/wiki/Syrian_peace_process"
+  },
+  {
+   "d": "2017-01-23",
+   "n": "Trump zieht die USA aus dem TPP zurück",
+   "t": "Handel",
+   "k": "down",
+   "quelle": "https://en.wikipedia.org/wiki/Trans-Pacific_Partnership"
+  },
+  {
+   "d": "2017-04-01",
+   "n": "Japan: Gesetz zu Krypto Zahlungsmitteln tritt in Kraft",
+   "t": "Krypto Politik",
+   "k": "up",
+   "quelle": "https://en.wikipedia.org/wiki/Regulation_of_cryptocurrency"
+  },
+  {
+   "d": "2017-04-07",
+   "n": "USA greifen Luftwaffenbasis in Syrien mit Raketen an",
+   "t": "Krieg",
+   "k": "down",
+   "quelle": "https://en.wikipedia.org/wiki/2017_Shayrat_missile_strike"
+  },
+  {
+   "d": "2017-08-14",
+   "n": "Trump ordnet Untersuchung zu Chinas Handelspraktiken an",
+   "t": "Handel",
+   "k": "down",
+   "quelle": "https://en.wikipedia.org/wiki/List_of_executive_actions_by_Donald_Trump"
+  },
+  {
+   "d": "2017-09-03",
+   "n": "Nordkorea führt sechsten Atomtest durch",
+   "t": "Krieg",
+   "k": "down",
+   "quelle": "https://en.wikipedia.org/wiki/2017_North_Korean_nuclear_test"
+  },
+  {
+   "d": "2017-09-04",
+   "n": "China verbietet Initial Coin Offerings",
+   "t": "Krypto Politik",
+   "k": "down",
+   "quelle": "https://en.wikipedia.org/wiki/Initial_coin_offering"
+  },
+  {
+   "d": "2017-09-08",
+   "n": "US Kongress setzt die Schuldengrenze aus, Hurrikan Hilfen",
+   "t": "Haushalt",
+   "k": "up",
+   "quelle": "https://en.wikipedia.org/wiki/Hurricane_Harvey"
+  },
+  {
+   "d": "2018-01-20",
+   "n": "Beginn des US Government Shutdown",
+   "t": "Haushalt",
+   "k": "down",
+   "quelle": "https://en.wikipedia.org/wiki/January_2018_United_States_federal_government_shutdown"
+  },
+  {
+   "d": "2018-01-22",
+   "n": "Ende des kurzen US Government Shutdown",
+   "t": "Haushalt",
+   "k": "up",
+   "quelle": "https://en.wikipedia.org/wiki/January_2018_United_States_federal_government_shutdown"
+  },
+  {
+   "d": "2018-03-08",
+   "n": "Trump unterzeichnet Strafzölle auf Stahl und Aluminium",
+   "t": "Handel",
+   "k": "down",
+   "quelle": "https://en.wikipedia.org/wiki/Tariffs_in_the_first_Trump_administration"
+  },
+  {
+   "d": "2018-04-06",
+   "n": "Indische Zentralbank verbietet Banken Krypto Dienste",
+   "t": "Krypto Politik",
+   "k": "down",
+   "quelle": "https://en.wikipedia.org/wiki/Legality_of_cryptocurrency_by_country_or_territory"
+  },
+  {
+   "d": "2018-04-14",
+   "n": "USA, Frankreich und Großbritannien bombardieren Syrien",
+   "t": "Krieg",
+   "k": "down",
+   "quelle": "https://en.wikipedia.org/wiki/April_2018_missile_strikes_against_Syria"
+  },
+  {
+   "d": "2018-05-08",
+   "n": "Trump kündigt das Atomabkommen mit dem Iran",
+   "t": "Krieg",
+   "k": "down",
+   "quelle": "https://en.wikipedia.org/wiki/United_States_withdrawal_from_the_Joint_Comprehensive_Plan_of_Action"
+  },
+  {
+   "d": "2018-06-12",
+   "n": "Trump und Kim treffen sich zum Gipfel in Singapur",
+   "t": "Waffenstillstand",
+   "k": "up",
+   "quelle": "https://en.wikipedia.org/wiki/2018_North_Korea%E2%80%93United_States_Singapore_Summit"
+  },
+  {
+   "d": "2018-07-06",
+   "n": "USA erheben Zölle auf chinesische Waren, Handelskrieg beginnt",
+   "t": "Handel",
+   "k": "down",
+   "quelle": "https://en.wikipedia.org/wiki/China%E2%80%93United_States_trade_war"
+  },
+  {
+   "d": "2018-09-24",
+   "n": "USA verhängen Zölle auf weitere chinesische Waren",
+   "t": "Handel",
+   "k": "down",
+   "quelle": "https://en.wikipedia.org/wiki/China%E2%80%93United_States_trade_war"
+  },
+  {
+   "d": "2018-12-01",
+   "n": "USA und China vereinbaren Zollpause beim G20 Gipfel",
+   "t": "Handel",
+   "k": "up",
+   "quelle": "https://en.wikipedia.org/wiki/China%E2%80%93United_States_trade_war"
+  },
+  {
+   "d": "2018-12-22",
+   "n": "Beginn des längsten US Government Shutdown",
+   "t": "Haushalt",
+   "k": "down",
+   "quelle": "https://en.wikipedia.org/wiki/2018%E2%80%932019_United_States_federal_government_shutdown"
+  },
+  {
+   "d": "2019-01-25",
+   "n": "Ende des längsten US Government Shutdown",
+   "t": "Haushalt",
+   "k": "up",
+   "quelle": "https://en.wikipedia.org/wiki/2018%E2%80%932019_United_States_federal_government_shutdown"
+  },
+  {
+   "d": "2019-04-04",
+   "n": "Haftar beginnt Offensive auf Tripolis in Libyen",
+   "t": "Krieg",
+   "k": "down",
+   "quelle": "https://en.wikipedia.org/wiki/2019%E2%80%932020_Western_Libya_campaign"
+  },
+  {
+   "d": "2019-05-10",
+   "n": "USA erhöhen Zölle auf chinesische Waren auf 25 Prozent",
+   "t": "Handel",
+   "k": "down",
+   "quelle": "https://en.wikipedia.org/wiki/China%E2%80%93United_States_trade_war"
+  },
+  {
+   "d": "2019-06-21",
+   "n": "FATF beschließt strenge Krypto Auflagen, Travel Rule",
+   "t": "Krypto Politik",
+   "k": "down",
+   "quelle": "https://en.wikipedia.org/wiki/Financial_Action_Task_Force"
+  },
+  {
+   "d": "2019-08-01",
+   "n": "Trump kündigt Zölle auf weitere chinesische Waren an",
+   "t": "Handel",
+   "k": "down",
+   "quelle": "https://en.wikipedia.org/wiki/China%E2%80%93United_States_trade_war"
+  },
+  {
+   "d": "2019-08-02",
+   "n": "INF Vertrag zwischen USA und Russland endet",
+   "t": "Krieg",
+   "k": "down",
+   "quelle": "https://en.wikipedia.org/wiki/Intermediate-Range_Nuclear_Forces_Treaty"
+  },
+  {
+   "d": "2019-10-09",
+   "n": "Türkei beginnt Offensive in Nordsyrien",
+   "t": "Krieg",
+   "k": "down",
+   "quelle": "https://en.wikipedia.org/wiki/2019_Turkish_offensive_into_north-eastern_Syria"
+  },
+  {
+   "d": "2019-10-17",
+   "n": "Waffenruhe in Nordsyrien zwischen USA und Türkei",
+   "t": "Waffenstillstand",
+   "k": "up",
+   "quelle": "https://en.wikipedia.org/wiki/2019_Turkish_offensive_into_north-eastern_Syria"
+  },
+  {
+   "d": "2019-12-13",
+   "n": "USA und China verkünden Phase Eins Handelseinigung",
+   "t": "Handel",
+   "k": "up",
+   "quelle": "https://en.wikipedia.org/wiki/China%E2%80%93United_States_trade_war"
+  },
+  {
+   "d": "2020-01-03",
+   "n": "USA töten den iranischen General Soleimani",
+   "t": "Krieg",
+   "k": "down",
+   "quelle": "https://en.wikipedia.org/wiki/Assassination_of_Qasem_Soleimani"
+  },
+  {
+   "d": "2020-01-15",
+   "n": "USA und China unterzeichnen Phase Eins Abkommen",
+   "t": "Handel",
+   "k": "up",
+   "quelle": "https://en.wikipedia.org/wiki/China%E2%80%93United_States_trade_war"
+  },
+  {
+   "d": "2020-02-29",
+   "n": "USA und Taliban unterzeichnen Abkommen in Doha",
+   "t": "Waffenstillstand",
+   "k": "up",
+   "quelle": "https://en.wikipedia.org/wiki/US%E2%80%93Taliban_deal"
+  },
+  {
+   "d": "2020-03-11",
+   "n": "WHO erklärt Corona zur Pandemie, Lockdowns weltweit",
+   "t": "Krieg",
+   "k": "down",
+   "quelle": "https://en.wikipedia.org/wiki/COVID-19_pandemic"
+  },
+  {
+   "d": "2020-03-27",
+   "n": "Trump unterzeichnet das Corona Hilfspaket CARES Act",
+   "t": "Haushalt",
+   "k": "up",
+   "quelle": "https://en.wikipedia.org/wiki/CARES_Act"
+  },
+  {
+   "d": "2020-07-21",
+   "n": "EU einigt sich auf den Corona Wiederaufbaufonds",
+   "t": "Haushalt",
+   "k": "up",
+   "quelle": "https://en.wikipedia.org/wiki/NextGenerationEU"
+  },
+  {
+   "d": "2020-07-22",
+   "n": "US Bankenaufsicht erlaubt Banken die Krypto Verwahrung",
+   "t": "Krypto Politik",
+   "k": "up",
+   "quelle": "https://en.wikipedia.org/wiki/Comptroller_of_the_Currency"
+  },
+  {
+   "d": "2020-09-27",
+   "n": "Krieg um Bergkarabach bricht aus",
+   "t": "Krieg",
+   "k": "down",
+   "quelle": "https://en.wikipedia.org/wiki/2020_Nagorno-Karabakh_war"
+  },
+  {
+   "d": "2020-11-10",
+   "n": "Waffenstillstand zwischen Armenien und Aserbaidschan",
+   "t": "Waffenstillstand",
+   "k": "up",
+   "quelle": "https://en.wikipedia.org/wiki/2020_Nagorno-Karabakh_war"
+  },
+  {
+   "d": "2020-12-24",
+   "n": "EU und Großbritannien einigen sich auf Handelsabkommen",
+   "t": "Handel",
+   "k": "up",
+   "quelle": "https://en.wikipedia.org/wiki/EU%E2%80%93UK_Trade_and_Cooperation_Agreement"
+  },
+  {
+   "d": "2021-03-11",
+   "n": "Biden unterzeichnet das Hilfspaket American Rescue Plan",
+   "t": "Haushalt",
+   "k": "up",
+   "quelle": "https://en.wikipedia.org/wiki/American_Rescue_Plan_Act_of_2021"
+  },
+  {
+   "d": "2021-05-10",
+   "n": "Gaza Konflikt zwischen Israel und Hamas bricht aus",
+   "t": "Krieg",
+   "k": "down",
+   "quelle": "https://en.wikipedia.org/wiki/2021_Israel%E2%80%93Palestine_crisis"
+  },
+  {
+   "d": "2021-05-18",
+   "n": "China verbietet Banken und Zahlungsdiensten Krypto Dienste",
+   "t": "Krypto Politik",
+   "k": "down",
+   "quelle": "https://en.wikipedia.org/wiki/Regulation_of_cryptocurrency"
+  },
+  {
+   "d": "2021-05-21",
+   "n": "Waffenruhe zwischen Israel und Hamas",
+   "t": "Waffenstillstand",
+   "k": "up",
+   "quelle": "https://en.wikipedia.org/wiki/2021_Israel%E2%80%93Palestine_crisis"
+  },
+  {
+   "d": "2021-06-09",
+   "n": "El Salvador beschließt Bitcoin als gesetzliches Zahlungsmittel",
+   "t": "Krypto Politik",
+   "k": "up",
+   "quelle": "https://en.wikipedia.org/wiki/Bitcoin_in_El_Salvador"
+  },
+  {
+   "d": "2021-06-15",
+   "n": "USA und EU beenden Zollstreit um Airbus und Boeing",
+   "t": "Handel",
+   "k": "up",
+   "quelle": "https://en.wikipedia.org/wiki/Presidency_of_Joe_Biden"
+  },
+  {
+   "d": "2021-08-15",
+   "n": "Taliban übernehmen Kabul",
+   "t": "Krieg",
+   "k": "down",
+   "quelle": "https://en.wikipedia.org/wiki/Fall_of_Kabul_(2021)"
+  },
+  {
+   "d": "2021-09-24",
+   "n": "China erklärt alle Krypto Transaktionen für illegal",
+   "t": "Krypto Politik",
+   "k": "down",
+   "quelle": "https://en.wikipedia.org/wiki/Legality_of_cryptocurrency_by_country_or_territory"
+  },
+  {
+   "d": "2021-10-14",
+   "n": "US Senat hebt die Schuldengrenze vorübergehend an",
+   "t": "Haushalt",
+   "k": "up",
+   "quelle": "https://en.wikipedia.org/wiki/United_States_debt_ceiling"
+  },
+  {
+   "d": "2021-11-15",
+   "n": "Biden unterzeichnet das Infrastrukturgesetz",
+   "t": "Haushalt",
+   "k": "up",
+   "quelle": "https://en.wikipedia.org/wiki/Infrastructure_Investment_and_Jobs_Act"
+  }
+ ]
+}

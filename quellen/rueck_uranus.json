@@ -1,0 +1,309 @@
+{
+"id": "rueck_uranus",
+"name": "Uranus rückläufig",
+"rang": 184,
+"gruppe": "Planeten",
+"ereignisse": [
+{
+"d": "2010-07-06",
+"n": "Uranus wird rückläufig",
+"t": "Planet",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2010-12-07",
+"n": "Uranus wird direkt",
+"t": "Planet",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2011-07-10",
+"n": "Uranus wird rückläufig",
+"t": "Planet",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2011-12-11",
+"n": "Uranus wird direkt",
+"t": "Planet",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2012-07-14",
+"n": "Uranus wird rückläufig",
+"t": "Planet",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2012-12-14",
+"n": "Uranus wird direkt",
+"t": "Planet",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2013-07-18",
+"n": "Uranus wird rückläufig",
+"t": "Planet",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2013-12-18",
+"n": "Uranus wird direkt",
+"t": "Planet",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2014-07-22",
+"n": "Uranus wird rückläufig",
+"t": "Planet",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2014-12-22",
+"n": "Uranus wird direkt",
+"t": "Planet",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2015-07-27",
+"n": "Uranus wird rückläufig",
+"t": "Planet",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2015-12-27",
+"n": "Uranus wird direkt",
+"t": "Planet",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2016-07-30",
+"n": "Uranus wird rückläufig",
+"t": "Planet",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2016-12-30",
+"n": "Uranus wird direkt",
+"t": "Planet",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2017-08-04",
+"n": "Uranus wird rückläufig",
+"t": "Planet",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2018-01-03",
+"n": "Uranus wird direkt",
+"t": "Planet",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2018-08-08",
+"n": "Uranus wird rückläufig",
+"t": "Planet",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2019-01-07",
+"n": "Uranus wird direkt",
+"t": "Planet",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2019-08-12",
+"n": "Uranus wird rückläufig",
+"t": "Planet",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2020-01-12",
+"n": "Uranus wird direkt",
+"t": "Planet",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2020-08-16",
+"n": "Uranus wird rückläufig",
+"t": "Planet",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2021-01-15",
+"n": "Uranus wird direkt",
+"t": "Planet",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2021-08-20",
+"n": "Uranus wird rückläufig",
+"t": "Planet",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2022-01-19",
+"n": "Uranus wird direkt",
+"t": "Planet",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2022-08-25",
+"n": "Uranus wird rückläufig",
+"t": "Planet",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2023-01-23",
+"n": "Uranus wird direkt",
+"t": "Planet",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2023-08-29",
+"n": "Uranus wird rückläufig",
+"t": "Planet",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2024-01-28",
+"n": "Uranus wird direkt",
+"t": "Planet",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2024-09-02",
+"n": "Uranus wird rückläufig",
+"t": "Planet",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2025-01-31",
+"n": "Uranus wird direkt",
+"t": "Planet",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2025-09-07",
+"n": "Uranus wird rückläufig",
+"t": "Planet",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2026-02-04",
+"n": "Uranus wird direkt",
+"t": "Planet",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2026-09-11",
+"n": "Uranus wird rückläufig",
+"t": "Planet",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2027-02-09",
+"n": "Uranus wird direkt",
+"t": "Planet",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2027-09-16",
+"n": "Uranus wird rückläufig",
+"t": "Planet",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2028-02-13",
+"n": "Uranus wird direkt",
+"t": "Planet",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2028-09-19",
+"n": "Uranus wird rückläufig",
+"t": "Planet",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2029-02-17",
+"n": "Uranus wird direkt",
+"t": "Planet",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2029-09-24",
+"n": "Uranus wird rückläufig",
+"t": "Planet",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2030-02-21",
+"n": "Uranus wird direkt",
+"t": "Planet",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2030-09-29",
+"n": "Uranus wird rückläufig",
+"t": "Planet",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2031-02-26",
+"n": "Uranus wird direkt",
+"t": "Planet",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+},
+{
+"d": "2031-10-04",
+"n": "Uranus wird rückläufig",
+"t": "Planet",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Apparent_retrograde_motion"
+}
+]
+}

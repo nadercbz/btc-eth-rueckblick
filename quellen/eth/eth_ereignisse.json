@@ -1,0 +1,140 @@
+{
+"id": "eth_ereignisse",
+"name": "Ethereum Ereignisse",
+"rang": 46,
+"ereignisse": [
+{
+"d": "2016-06-17",
+"n": "The DAO Hack",
+"t": "Hack",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2016-07-20",
+"n": "Hard Fork nach The DAO",
+"t": "Upgrade",
+"k": "up",
+"quelle": "https://ethereum.org/en/history/"
+},
+{
+"d": "2017-07-19",
+"n": "Parity Wallet Hack",
+"t": "Hack",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2017-10-16",
+"n": "Upgrade Byzantium",
+"t": "Upgrade",
+"k": "up",
+"quelle": "https://ethereum.org/en/history/"
+},
+{
+"d": "2017-11-06",
+"n": "Parity Fehler friert Wallets ein",
+"t": "Hack",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2019-02-28",
+"n": "Upgrade Constantinople",
+"t": "Upgrade",
+"k": "up",
+"quelle": "https://ethereum.org/en/history/"
+},
+{
+"d": "2019-12-08",
+"n": "Upgrade Istanbul",
+"t": "Upgrade",
+"k": "up",
+"quelle": "https://ethereum.org/en/history/"
+},
+{
+"d": "2020-12-01",
+"n": "Start Beacon Chain, Staking",
+"t": "Upgrade",
+"k": "up",
+"quelle": "https://ethereum.org/en/history/"
+},
+{
+"d": "2021-02-08",
+"n": "CME startet ETH Futures",
+"t": "ETF",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2021-08-05",
+"n": "Upgrade London, EIP 1559 verbrennt Gebühren",
+"t": "Upgrade",
+"k": "up",
+"quelle": "https://ethereum.org/en/history/"
+},
+{
+"d": "2022-08-08",
+"n": "US Sanktionen gegen Tornado Cash",
+"t": "Hack",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2022-09-15",
+"n": "The Merge, Proof of Stake",
+"t": "Upgrade",
+"k": "up",
+"quelle": "https://ethereum.org/en/history/"
+},
+{
+"d": "2023-04-12",
+"n": "Upgrade Shapella, Staking Auszahlungen",
+"t": "Upgrade",
+"k": "up",
+"quelle": "https://ethereum.org/en/history/"
+},
+{
+"d": "2024-03-13",
+"n": "Upgrade Dencun",
+"t": "Upgrade",
+"k": "up",
+"quelle": "https://ethereum.org/en/history/"
+},
+{
+"d": "2024-05-23",
+"n": "SEC genehmigt ETH Spot ETFs",
+"t": "ETF",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2024-07-23",
+"n": "ETH Spot ETFs starten in den USA",
+"t": "ETF",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2025-02-21",
+"n": "Bybit Hack, rund 1,5 Mrd Dollar in ETH",
+"t": "Hack",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Ethereum"
+},
+{
+"d": "2025-05-07",
+"n": "Upgrade Pectra",
+"t": "Upgrade",
+"k": "up",
+"quelle": "https://ethereum.org/en/history/"
+},
+{
+"d": "2025-12-03",
+"n": "Upgrade Fusaka",
+"t": "Upgrade",
+"k": "up",
+"quelle": "https://ethereum.org/en/history/"
+}
+]
+}

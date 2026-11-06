@@ -1,0 +1,17 @@
+# Nur der Rückblick Chart.
+*
+!.gitignore
+!index.html
+!btc_astro_rueckblick.html
+!btc_astro_rueckblick_daten.py
+!btc_astro_rueckblick_daten.js
+!eth_astro_rueckblick_daten.js
+!quelle_*.py
+!test_popkultur.py
+!test_gegenindikator.py
+!test_gegenindikator_ergebnis.json
+!quellen/
+!quellen/**
+!ui/
+!ui/**
+.DS_Store

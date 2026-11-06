@@ -1,0 +1,337 @@
+{
+"id": "supermond",
+"name": "Supermond",
+"rang": 187,
+"gruppe": "Planeten",
+"ereignisse": [
+{
+"d": "2011-02-18",
+"n": "Supermond. 359.102 km",
+"t": "Mond",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Supermoon"
+},
+{
+"d": "2011-03-19",
+"n": "Supermond. 356.577 km",
+"t": "Mond",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Supermoon"
+},
+{
+"d": "2011-04-18",
+"n": "Supermond. 358.796 km",
+"t": "Mond",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Supermoon"
+},
+{
+"d": "2012-04-06",
+"n": "Supermond. 359.081 km",
+"t": "Mond",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Supermoon"
+},
+{
+"d": "2012-05-06",
+"n": "Supermond. 356.955 km",
+"t": "Mond",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Supermoon"
+},
+{
+"d": "2012-06-04",
+"n": "Supermond. 359.258 km",
+"t": "Mond",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Supermoon"
+},
+{
+"d": "2013-05-25",
+"n": "Supermond. 359.111 km",
+"t": "Mond",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Supermoon"
+},
+{
+"d": "2013-06-23",
+"n": "Supermond. 356.991 km",
+"t": "Mond",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Supermoon"
+},
+{
+"d": "2013-07-22",
+"n": "Supermond. 359.172 km",
+"t": "Mond",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Supermoon"
+},
+{
+"d": "2014-07-12",
+"n": "Supermond. 358.976 km",
+"t": "Mond",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Supermoon"
+},
+{
+"d": "2014-08-10",
+"n": "Supermond. 356.896 km",
+"t": "Mond",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Supermoon"
+},
+{
+"d": "2014-09-09",
+"n": "Supermond. 359.180 km",
+"t": "Mond",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Supermoon"
+},
+{
+"d": "2015-08-29",
+"n": "Supermond. 358.992 km",
+"t": "Mond",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Supermoon"
+},
+{
+"d": "2015-09-28",
+"n": "Supermond. 356.879 km",
+"t": "Mond",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Supermoon"
+},
+{
+"d": "2015-10-27",
+"n": "Supermond. 359.328 km",
+"t": "Mond",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Supermoon"
+},
+{
+"d": "2016-10-16",
+"n": "Supermond. 358.473 km",
+"t": "Mond",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Supermoon"
+},
+{
+"d": "2016-11-14",
+"n": "Supermond. 356.520 km",
+"t": "Mond",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Supermoon"
+},
+{
+"d": "2016-12-14",
+"n": "Supermond. 359.447 km",
+"t": "Mond",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Supermoon"
+},
+{
+"d": "2017-12-03",
+"n": "Supermond. 357.983 km",
+"t": "Mond",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Supermoon"
+},
+{
+"d": "2018-01-02",
+"n": "Supermond. 356.602 km",
+"t": "Mond",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Supermoon"
+},
+{
+"d": "2019-01-21",
+"n": "Supermond. 357.715 km",
+"t": "Mond",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Supermoon"
+},
+{
+"d": "2019-02-19",
+"n": "Supermond. 356.843 km",
+"t": "Mond",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Supermoon"
+},
+{
+"d": "2020-03-09",
+"n": "Supermond. 357.400 km",
+"t": "Mond",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Supermoon"
+},
+{
+"d": "2020-04-08",
+"n": "Supermond. 357.030 km",
+"t": "Mond",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Supermoon"
+},
+{
+"d": "2021-04-27",
+"n": "Supermond. 357.616 km",
+"t": "Mond",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Supermoon"
+},
+{
+"d": "2021-05-26",
+"n": "Supermond. 357.461 km",
+"t": "Mond",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Supermoon"
+},
+{
+"d": "2022-06-14",
+"n": "Supermond. 357.656 km",
+"t": "Mond",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Supermoon"
+},
+{
+"d": "2022-07-13",
+"n": "Supermond. 357.418 km",
+"t": "Mond",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Supermoon"
+},
+{
+"d": "2023-08-01",
+"n": "Supermond. 357.528 km",
+"t": "Mond",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Supermoon"
+},
+{
+"d": "2023-08-31",
+"n": "Supermond. 357.341 km",
+"t": "Mond",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Supermoon"
+},
+{
+"d": "2024-09-18",
+"n": "Supermond. 357.485 km",
+"t": "Mond",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Supermoon"
+},
+{
+"d": "2024-10-17",
+"n": "Supermond. 357.367 km",
+"t": "Mond",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Supermoon"
+},
+{
+"d": "2025-11-05",
+"n": "Supermond. 356.978 km",
+"t": "Mond",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Supermoon"
+},
+{
+"d": "2025-12-04",
+"n": "Supermond. 357.218 km",
+"t": "Mond",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Supermoon"
+},
+{
+"d": "2026-12-24",
+"n": "Supermond. 356.738 km",
+"t": "Mond",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Supermoon"
+},
+{
+"d": "2027-01-22",
+"n": "Supermond. 357.644 km",
+"t": "Mond",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Supermoon"
+},
+{
+"d": "2028-02-10",
+"n": "Supermond. 356.721 km",
+"t": "Mond",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Supermoon"
+},
+{
+"d": "2028-03-11",
+"n": "Supermond. 358.071 km",
+"t": "Mond",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Supermoon"
+},
+{
+"d": "2029-02-28",
+"n": "Supermond. 359.659 km",
+"t": "Mond",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Supermoon"
+},
+{
+"d": "2029-03-30",
+"n": "Supermond. 356.681 km",
+"t": "Mond",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Supermoon"
+},
+{
+"d": "2029-04-28",
+"n": "Supermond. 358.382 km",
+"t": "Mond",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Supermoon"
+},
+{
+"d": "2030-04-18",
+"n": "Supermond. 359.659 km",
+"t": "Mond",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Supermoon"
+},
+{
+"d": "2030-05-17",
+"n": "Supermond. 357.029 km",
+"t": "Mond",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Supermoon"
+},
+{
+"d": "2030-06-15",
+"n": "Supermond. 358.782 km",
+"t": "Mond",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Supermoon"
+},
+{
+"d": "2031-06-05",
+"n": "Supermond. 359.675 km",
+"t": "Mond",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Supermoon"
+},
+{
+"d": "2031-07-04",
+"n": "Supermond. 357.018 km",
+"t": "Mond",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Supermoon"
+},
+{
+"d": "2031-08-03",
+"n": "Supermond. 358.653 km",
+"t": "Mond",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Supermoon"
+}
+]
+}

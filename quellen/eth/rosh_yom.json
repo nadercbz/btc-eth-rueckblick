@@ -1,0 +1,316 @@
+{
+"id": "rosh_yom",
+"name": "Rosh Hashanah und Yom Kippur",
+"rang": 200,
+"gruppe": "Religion und Tradition",
+"ereignisse": [
+{
+"d": "2010-09-09",
+"n": "Rosh Hashanah",
+"t": "Jüdisch",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Jewish_holidays"
+},
+{
+"d": "2010-09-18",
+"n": "Yom Kippur",
+"t": "Jüdisch",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Jewish_holidays"
+},
+{
+"d": "2011-09-29",
+"n": "Rosh Hashanah",
+"t": "Jüdisch",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Jewish_holidays"
+},
+{
+"d": "2011-10-08",
+"n": "Yom Kippur",
+"t": "Jüdisch",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Jewish_holidays"
+},
+{
+"d": "2012-09-17",
+"n": "Rosh Hashanah",
+"t": "Jüdisch",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Jewish_holidays"
+},
+{
+"d": "2012-09-26",
+"n": "Yom Kippur",
+"t": "Jüdisch",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Jewish_holidays"
+},
+{
+"d": "2013-09-05",
+"n": "Rosh Hashanah",
+"t": "Jüdisch",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Jewish_holidays"
+},
+{
+"d": "2013-09-14",
+"n": "Yom Kippur",
+"t": "Jüdisch",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Jewish_holidays"
+},
+{
+"d": "2014-09-25",
+"n": "Rosh Hashanah",
+"t": "Jüdisch",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Jewish_holidays"
+},
+{
+"d": "2014-10-04",
+"n": "Yom Kippur",
+"t": "Jüdisch",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Jewish_holidays"
+},
+{
+"d": "2015-09-14",
+"n": "Rosh Hashanah",
+"t": "Jüdisch",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Jewish_holidays"
+},
+{
+"d": "2015-09-23",
+"n": "Yom Kippur",
+"t": "Jüdisch",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Jewish_holidays"
+},
+{
+"d": "2016-10-03",
+"n": "Rosh Hashanah",
+"t": "Jüdisch",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Jewish_holidays"
+},
+{
+"d": "2016-10-12",
+"n": "Yom Kippur",
+"t": "Jüdisch",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Jewish_holidays"
+},
+{
+"d": "2017-09-21",
+"n": "Rosh Hashanah",
+"t": "Jüdisch",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Jewish_holidays"
+},
+{
+"d": "2017-09-30",
+"n": "Yom Kippur",
+"t": "Jüdisch",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Jewish_holidays"
+},
+{
+"d": "2018-09-10",
+"n": "Rosh Hashanah",
+"t": "Jüdisch",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Jewish_holidays"
+},
+{
+"d": "2018-09-19",
+"n": "Yom Kippur",
+"t": "Jüdisch",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Jewish_holidays"
+},
+{
+"d": "2019-09-30",
+"n": "Rosh Hashanah",
+"t": "Jüdisch",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Jewish_holidays"
+},
+{
+"d": "2019-10-09",
+"n": "Yom Kippur",
+"t": "Jüdisch",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Jewish_holidays"
+},
+{
+"d": "2020-09-19",
+"n": "Rosh Hashanah",
+"t": "Jüdisch",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Jewish_holidays"
+},
+{
+"d": "2020-09-28",
+"n": "Yom Kippur",
+"t": "Jüdisch",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Jewish_holidays"
+},
+{
+"d": "2021-09-07",
+"n": "Rosh Hashanah",
+"t": "Jüdisch",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Jewish_holidays"
+},
+{
+"d": "2021-09-16",
+"n": "Yom Kippur",
+"t": "Jüdisch",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Jewish_holidays"
+},
+{
+"d": "2022-09-26",
+"n": "Rosh Hashanah",
+"t": "Jüdisch",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Jewish_holidays"
+},
+{
+"d": "2022-10-05",
+"n": "Yom Kippur",
+"t": "Jüdisch",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Jewish_holidays"
+},
+{
+"d": "2023-09-16",
+"n": "Rosh Hashanah",
+"t": "Jüdisch",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Jewish_holidays"
+},
+{
+"d": "2023-09-25",
+"n": "Yom Kippur",
+"t": "Jüdisch",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Jewish_holidays"
+},
+{
+"d": "2024-10-03",
+"n": "Rosh Hashanah",
+"t": "Jüdisch",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Jewish_holidays"
+},
+{
+"d": "2024-10-12",
+"n": "Yom Kippur",
+"t": "Jüdisch",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Jewish_holidays"
+},
+{
+"d": "2025-09-23",
+"n": "Rosh Hashanah",
+"t": "Jüdisch",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Jewish_holidays"
+},
+{
+"d": "2025-10-02",
+"n": "Yom Kippur",
+"t": "Jüdisch",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Jewish_holidays"
+},
+{
+"d": "2026-09-12",
+"n": "Rosh Hashanah",
+"t": "Jüdisch",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Jewish_holidays"
+},
+{
+"d": "2026-09-21",
+"n": "Yom Kippur",
+"t": "Jüdisch",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Jewish_holidays"
+},
+{
+"d": "2027-10-02",
+"n": "Rosh Hashanah",
+"t": "Jüdisch",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Jewish_holidays"
+},
+{
+"d": "2027-10-11",
+"n": "Yom Kippur",
+"t": "Jüdisch",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Jewish_holidays"
+},
+{
+"d": "2028-09-21",
+"n": "Rosh Hashanah",
+"t": "Jüdisch",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Jewish_holidays"
+},
+{
+"d": "2028-09-30",
+"n": "Yom Kippur",
+"t": "Jüdisch",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Jewish_holidays"
+},
+{
+"d": "2029-09-10",
+"n": "Rosh Hashanah",
+"t": "Jüdisch",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Jewish_holidays"
+},
+{
+"d": "2029-09-19",
+"n": "Yom Kippur",
+"t": "Jüdisch",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Jewish_holidays"
+},
+{
+"d": "2030-09-28",
+"n": "Rosh Hashanah",
+"t": "Jüdisch",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Jewish_holidays"
+},
+{
+"d": "2030-10-07",
+"n": "Yom Kippur",
+"t": "Jüdisch",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Jewish_holidays"
+},
+{
+"d": "2031-09-18",
+"n": "Rosh Hashanah",
+"t": "Jüdisch",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Jewish_holidays"
+},
+{
+"d": "2031-09-27",
+"n": "Yom Kippur",
+"t": "Jüdisch",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Jewish_holidays"
+}
+]
+}

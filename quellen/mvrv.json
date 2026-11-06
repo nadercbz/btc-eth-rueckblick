@@ -1,0 +1,267 @@
+{
+"id": "mvrv",
+"name": "MVRV",
+"rang": 154,
+"gruppe": "On Chain",
+"ereignisse": [
+{
+"d": "2010-08-01",
+"n": "MVRV 12,1, sehr hoch",
+"t": "MVRV",
+"k": "down",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2010-09-01",
+"n": "MVRV 5,2, sehr hoch",
+"t": "MVRV",
+"k": "down",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2010-10-01",
+"n": "MVRV 3,6, sehr hoch",
+"t": "MVRV",
+"k": "down",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2010-11-01",
+"n": "MVRV 5,4, sehr hoch",
+"t": "MVRV",
+"k": "down",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2011-01-01",
+"n": "MVRV 3,5, sehr hoch",
+"t": "MVRV",
+"k": "down",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2011-02-01",
+"n": "MVRV 3,9, sehr hoch",
+"t": "MVRV",
+"k": "down",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2011-03-01",
+"n": "MVRV 3,7, sehr hoch",
+"t": "MVRV",
+"k": "down",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2011-05-01",
+"n": "MVRV 5,7, sehr hoch",
+"t": "MVRV",
+"k": "down",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2011-06-01",
+"n": "MVRV 4,6, sehr hoch",
+"t": "MVRV",
+"k": "down",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2011-10-01",
+"n": "MVRV 0,9, sehr niedrig",
+"t": "MVRV",
+"k": "up",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2011-11-01",
+"n": "MVRV 0,6, sehr niedrig",
+"t": "MVRV",
+"k": "up",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2011-12-01",
+"n": "MVRV 0,6, sehr niedrig",
+"t": "MVRV",
+"k": "up",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2012-01-01",
+"n": "MVRV 1,0, sehr niedrig",
+"t": "MVRV",
+"k": "up",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2012-03-01",
+"n": "MVRV 1,0, sehr niedrig",
+"t": "MVRV",
+"k": "up",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2013-04-01",
+"n": "MVRV 4,3, sehr hoch",
+"t": "MVRV",
+"k": "down",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2013-12-01",
+"n": "MVRV 5,1, sehr hoch",
+"t": "MVRV",
+"k": "down",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2014-11-01",
+"n": "MVRV 1,0, sehr niedrig",
+"t": "MVRV",
+"k": "up",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2015-02-01",
+"n": "MVRV 0,7, sehr niedrig",
+"t": "MVRV",
+"k": "up",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2015-03-01",
+"n": "MVRV 0,8, sehr niedrig",
+"t": "MVRV",
+"k": "up",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2015-04-01",
+"n": "MVRV 0,8, sehr niedrig",
+"t": "MVRV",
+"k": "up",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2015-05-01",
+"n": "MVRV 0,8, sehr niedrig",
+"t": "MVRV",
+"k": "up",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2015-06-01",
+"n": "MVRV 0,8, sehr niedrig",
+"t": "MVRV",
+"k": "up",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2015-07-01",
+"n": "MVRV 0,9, sehr niedrig",
+"t": "MVRV",
+"k": "up",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2015-08-01",
+"n": "MVRV 1,0, sehr niedrig",
+"t": "MVRV",
+"k": "up",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2015-09-01",
+"n": "MVRV 0,8, sehr niedrig",
+"t": "MVRV",
+"k": "up",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2015-10-01",
+"n": "MVRV 0,9, sehr niedrig",
+"t": "MVRV",
+"k": "up",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2018-12-01",
+"n": "MVRV 0,8, sehr niedrig",
+"t": "MVRV",
+"k": "up",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2019-01-01",
+"n": "MVRV 0,8, sehr niedrig",
+"t": "MVRV",
+"k": "up",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2019-02-01",
+"n": "MVRV 0,8, sehr niedrig",
+"t": "MVRV",
+"k": "up",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2019-03-01",
+"n": "MVRV 0,9, sehr niedrig",
+"t": "MVRV",
+"k": "up",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2019-04-01",
+"n": "MVRV 0,9, sehr niedrig",
+"t": "MVRV",
+"k": "up",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2022-07-01",
+"n": "MVRV 0,9, sehr niedrig",
+"t": "MVRV",
+"k": "up",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2022-09-01",
+"n": "MVRV 0,9, sehr niedrig",
+"t": "MVRV",
+"k": "up",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2022-10-01",
+"n": "MVRV 0,9, sehr niedrig",
+"t": "MVRV",
+"k": "up",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2022-11-01",
+"n": "MVRV 1,0, sehr niedrig",
+"t": "MVRV",
+"k": "up",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2022-12-01",
+"n": "MVRV 0,9, sehr niedrig",
+"t": "MVRV",
+"k": "up",
+"quelle": "https://github.com/coinmetrics/data"
+},
+{
+"d": "2023-01-01",
+"n": "MVRV 0,8, sehr niedrig",
+"t": "MVRV",
+"k": "up",
+"quelle": "https://github.com/coinmetrics/data"
+}
+]
+}

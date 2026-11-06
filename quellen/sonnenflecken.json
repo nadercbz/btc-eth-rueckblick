@@ -1,0 +1,1379 @@
+{
+"id": "sonnenflecken",
+"name": "Sonnenflecken",
+"rang": 27,
+"ereignisse": [
+{
+"d": "2010-06-01",
+"n": "Sonnenflecken steigen auf 13,9",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2010-07-01",
+"n": "Sonnenflecken steigen auf 18,8",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2010-08-01",
+"n": "Sonnenflecken steigen auf 25,2",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2010-09-01",
+"n": "Sonnenflecken steigen auf 29,6",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2010-10-01",
+"n": "Sonnenflecken steigen auf 36,4",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2010-11-01",
+"n": "Sonnenflecken fallen auf 33,6",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2010-12-01",
+"n": "Sonnenflecken steigen auf 34,4",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2011-01-01",
+"n": "Sonnenflecken fallen auf 24,5",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2011-02-01",
+"n": "Sonnenflecken steigen auf 27,3",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2011-03-01",
+"n": "Sonnenflecken steigen auf 48,3",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2011-04-01",
+"n": "Sonnenflecken steigen auf 78,6",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2011-05-01",
+"n": "Sonnenflecken fallen auf 76,1",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2011-06-01",
+"n": "Sonnenflecken fallen auf 58,2",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2011-07-01",
+"n": "Sonnenflecken fallen auf 56,1",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2011-08-01",
+"n": "Sonnenflecken steigen auf 64,5",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2011-09-01",
+"n": "Sonnenflecken steigen auf 65,8",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2011-10-01",
+"n": "Sonnenflecken steigen auf 120,1",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2011-11-01",
+"n": "Sonnenflecken steigen auf 125,7",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2011-12-01",
+"n": "Sonnenflecken steigen auf 139,1",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2012-01-01",
+"n": "Sonnenflecken fallen auf 109,3",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2012-02-01",
+"n": "Sonnenflecken fallen auf 94,4",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2012-03-01",
+"n": "Sonnenflecken fallen auf 47,8",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2012-04-01",
+"n": "Sonnenflecken steigen auf 86,6",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2012-05-01",
+"n": "Sonnenflecken fallen auf 85,9",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2012-06-01",
+"n": "Sonnenflecken steigen auf 96,5",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2012-07-01",
+"n": "Sonnenflecken fallen auf 92,0",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2012-08-01",
+"n": "Sonnenflecken steigen auf 100,1",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2012-09-01",
+"n": "Sonnenflecken fallen auf 94,8",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2012-10-01",
+"n": "Sonnenflecken fallen auf 93,7",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2012-11-01",
+"n": "Sonnenflecken fallen auf 76,5",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2012-12-01",
+"n": "Sonnenflecken steigen auf 87,6",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2013-01-01",
+"n": "Sonnenflecken fallen auf 56,8",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2013-02-01",
+"n": "Sonnenflecken steigen auf 96,1",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2013-03-01",
+"n": "Sonnenflecken fallen auf 60,9",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2013-04-01",
+"n": "Sonnenflecken steigen auf 78,3",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2013-05-01",
+"n": "Sonnenflecken steigen auf 107,3",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2013-06-01",
+"n": "Sonnenflecken steigen auf 120,2",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2013-07-01",
+"n": "Sonnenflecken fallen auf 76,7",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2013-08-01",
+"n": "Sonnenflecken steigen auf 86,2",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2013-09-01",
+"n": "Sonnenflecken steigen auf 91,8",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2013-10-01",
+"n": "Sonnenflecken fallen auf 54,5",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2013-11-01",
+"n": "Sonnenflecken steigen auf 114,4",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2013-12-01",
+"n": "Sonnenflecken fallen auf 113,9",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2014-01-01",
+"n": "Sonnenflecken steigen auf 124,2",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2014-02-01",
+"n": "Sonnenflecken fallen auf 117,0",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2014-03-01",
+"n": "Sonnenflecken steigen auf 146,1",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2014-04-01",
+"n": "Sonnenflecken fallen auf 128,7",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2014-05-01",
+"n": "Sonnenflecken fallen auf 112,5",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2014-07-01",
+"n": "Sonnenflecken fallen auf 102,9",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2014-08-01",
+"n": "Sonnenflecken fallen auf 100,2",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2014-09-01",
+"n": "Sonnenflecken steigen auf 106,9",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2014-10-01",
+"n": "Sonnenflecken steigen auf 130,0",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2014-11-01",
+"n": "Sonnenflecken fallen auf 90,0",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2014-12-01",
+"n": "Sonnenflecken steigen auf 103,6",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2015-01-01",
+"n": "Sonnenflecken steigen auf 112,9",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2015-02-01",
+"n": "Sonnenflecken fallen auf 93,0",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2015-03-01",
+"n": "Sonnenflecken fallen auf 66,7",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2015-04-01",
+"n": "Sonnenflecken fallen auf 54,5",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2015-05-01",
+"n": "Sonnenflecken steigen auf 75,3",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2015-06-01",
+"n": "Sonnenflecken steigen auf 88,8",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2015-07-01",
+"n": "Sonnenflecken fallen auf 66,5",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2015-08-01",
+"n": "Sonnenflecken fallen auf 65,8",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2015-09-01",
+"n": "Sonnenflecken fallen auf 64,4",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2015-10-01",
+"n": "Sonnenflecken steigen auf 78,6",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2015-11-01",
+"n": "Sonnenflecken fallen auf 63,6",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2015-12-01",
+"n": "Sonnenflecken fallen auf 62,2",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2016-01-01",
+"n": "Sonnenflecken fallen auf 58,0",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2016-02-01",
+"n": "Sonnenflecken fallen auf 57,0",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2016-03-01",
+"n": "Sonnenflecken fallen auf 56,4",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2016-04-01",
+"n": "Sonnenflecken fallen auf 54,1",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2016-05-01",
+"n": "Sonnenflecken fallen auf 37,9",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2016-06-01",
+"n": "Sonnenflecken steigen auf 51,5",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2016-07-01",
+"n": "Sonnenflecken fallen auf 20,5",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2016-08-01",
+"n": "Sonnenflecken steigen auf 32,4",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2016-09-01",
+"n": "Sonnenflecken steigen auf 50,2",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2016-10-01",
+"n": "Sonnenflecken fallen auf 44,6",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2016-11-01",
+"n": "Sonnenflecken fallen auf 33,4",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2016-12-01",
+"n": "Sonnenflecken fallen auf 21,4",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2017-01-01",
+"n": "Sonnenflecken fallen auf 18,5",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2017-02-01",
+"n": "Sonnenflecken steigen auf 26,1",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2017-03-01",
+"n": "Sonnenflecken steigen auf 26,4",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2017-04-01",
+"n": "Sonnenflecken fallen auf 17,7",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2017-05-01",
+"n": "Sonnenflecken steigen auf 32,3",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2017-06-01",
+"n": "Sonnenflecken fallen auf 18,9",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2017-07-01",
+"n": "Sonnenflecken steigen auf 19,2",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2017-08-01",
+"n": "Sonnenflecken fallen auf 17,8",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2017-09-01",
+"n": "Sonnenflecken steigen auf 32,6",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2017-10-01",
+"n": "Sonnenflecken steigen auf 43,7",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2017-11-01",
+"n": "Sonnenflecken fallen auf 13,2",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2017-12-01",
+"n": "Sonnenflecken fallen auf 5,7",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2018-01-01",
+"n": "Sonnenflecken steigen auf 8,2",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2018-02-01",
+"n": "Sonnenflecken fallen auf 6,8",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2018-03-01",
+"n": "Sonnenflecken steigen auf 10,7",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2018-04-01",
+"n": "Sonnenflecken fallen auf 2,5",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2018-05-01",
+"n": "Sonnenflecken steigen auf 8,9",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2018-06-01",
+"n": "Sonnenflecken steigen auf 13,1",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2018-07-01",
+"n": "Sonnenflecken steigen auf 15,6",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2018-08-01",
+"n": "Sonnenflecken fallen auf 1,6",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2018-09-01",
+"n": "Sonnenflecken steigen auf 8,7",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2018-10-01",
+"n": "Sonnenflecken fallen auf 3,3",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2018-11-01",
+"n": "Sonnenflecken steigen auf 4,9",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2019-01-01",
+"n": "Sonnenflecken fallen auf 3,1",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2019-02-01",
+"n": "Sonnenflecken steigen auf 7,7",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2019-03-01",
+"n": "Sonnenflecken fallen auf 0,8",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2019-04-01",
+"n": "Sonnenflecken steigen auf 9,4",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2019-05-01",
+"n": "Sonnenflecken fallen auf 9,1",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2019-06-01",
+"n": "Sonnenflecken steigen auf 9,9",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2019-07-01",
+"n": "Sonnenflecken fallen auf 1,2",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2019-08-01",
+"n": "Sonnenflecken fallen auf 0,9",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2019-09-01",
+"n": "Sonnenflecken fallen auf 0,5",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2019-10-01",
+"n": "Sonnenflecken steigen auf 1,1",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2019-11-01",
+"n": "Sonnenflecken fallen auf 0,4",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2019-12-01",
+"n": "Sonnenflecken steigen auf 0,5",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2020-01-01",
+"n": "Sonnenflecken steigen auf 1,5",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2020-02-01",
+"n": "Sonnenflecken steigen auf 6,2",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2020-03-01",
+"n": "Sonnenflecken fallen auf 0,2",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2020-04-01",
+"n": "Sonnenflecken steigen auf 1,5",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2020-05-01",
+"n": "Sonnenflecken steigen auf 5,2",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2020-06-01",
+"n": "Sonnenflecken fallen auf 0,2",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2020-07-01",
+"n": "Sonnenflecken steigen auf 5,8",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2020-08-01",
+"n": "Sonnenflecken steigen auf 6,1",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2020-09-01",
+"n": "Sonnenflecken steigen auf 7,5",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2020-10-01",
+"n": "Sonnenflecken fallen auf 0,6",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2020-11-01",
+"n": "Sonnenflecken steigen auf 14,6",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2020-12-01",
+"n": "Sonnenflecken steigen auf 34,5",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2021-01-01",
+"n": "Sonnenflecken fallen auf 23,1",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2021-02-01",
+"n": "Sonnenflecken fallen auf 10,4",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2021-03-01",
+"n": "Sonnenflecken fallen auf 8,2",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2021-04-01",
+"n": "Sonnenflecken steigen auf 17,2",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2021-05-01",
+"n": "Sonnenflecken steigen auf 24,5",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2021-06-01",
+"n": "Sonnenflecken fallen auf 21,2",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2021-07-01",
+"n": "Sonnenflecken steigen auf 25,0",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2021-08-01",
+"n": "Sonnenflecken steigen auf 34,3",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2021-09-01",
+"n": "Sonnenflecken fallen auf 22,0",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2021-10-01",
+"n": "Sonnenflecken steigen auf 51,3",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2021-11-01",
+"n": "Sonnenflecken fallen auf 37,4",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2021-12-01",
+"n": "Sonnenflecken fallen auf 34,8",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2022-01-01",
+"n": "Sonnenflecken steigen auf 67,5",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2022-02-01",
+"n": "Sonnenflecken fallen auf 55,3",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2022-03-01",
+"n": "Sonnenflecken steigen auf 60,9",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2022-04-01",
+"n": "Sonnenflecken steigen auf 78,6",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2022-05-01",
+"n": "Sonnenflecken steigen auf 84,0",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2022-06-01",
+"n": "Sonnenflecken steigen auf 96,5",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2022-07-01",
+"n": "Sonnenflecken fallen auf 70,3",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2022-08-01",
+"n": "Sonnenflecken steigen auf 91,4",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2022-09-01",
+"n": "Sonnenflecken fallen auf 74,6",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2022-10-01",
+"n": "Sonnenflecken steigen auf 96,0",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2022-11-01",
+"n": "Sonnenflecken fallen auf 95,5",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2022-12-01",
+"n": "Sonnenflecken fallen auf 80,5",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2023-01-01",
+"n": "Sonnenflecken steigen auf 112,8",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2023-02-01",
+"n": "Sonnenflecken steigen auf 144,4",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2023-03-01",
+"n": "Sonnenflecken fallen auf 111,3",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2023-04-01",
+"n": "Sonnenflecken steigen auf 123,3",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2023-05-01",
+"n": "Sonnenflecken fallen auf 97,6",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2023-06-01",
+"n": "Sonnenflecken steigen auf 137,4",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2023-07-01",
+"n": "Sonnenflecken steigen auf 160,5",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2023-08-01",
+"n": "Sonnenflecken fallen auf 160,0",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2023-09-01",
+"n": "Sonnenflecken fallen auf 114,8",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2023-10-01",
+"n": "Sonnenflecken steigen auf 134,2",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2023-11-01",
+"n": "Sonnenflecken fallen auf 99,9",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2023-12-01",
+"n": "Sonnenflecken steigen auf 107,1",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2024-01-01",
+"n": "Sonnenflecken steigen auf 113,5",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2024-02-01",
+"n": "Sonnenflecken steigen auf 126,0",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2024-03-01",
+"n": "Sonnenflecken fallen auf 123,0",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2024-04-01",
+"n": "Sonnenflecken fallen auf 103,7",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2024-05-01",
+"n": "Sonnenflecken steigen auf 137,0",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2024-06-01",
+"n": "Sonnenflecken steigen auf 172,1",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2024-07-01",
+"n": "Sonnenflecken fallen auf 164,1",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2024-08-01",
+"n": "Sonnenflecken steigen auf 196,8",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2024-09-01",
+"n": "Sonnenflecken steigen auf 216,0",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2024-10-01",
+"n": "Sonnenflecken fallen auf 141,1",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2024-11-01",
+"n": "Sonnenflecken steigen auf 165,8",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2024-12-01",
+"n": "Sonnenflecken fallen auf 154,1",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2025-01-01",
+"n": "Sonnenflecken steigen auf 154,6",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2025-02-01",
+"n": "Sonnenflecken fallen auf 137,0",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2025-03-01",
+"n": "Sonnenflecken steigen auf 155,7",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2025-04-01",
+"n": "Sonnenflecken fallen auf 134,2",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2025-05-01",
+"n": "Sonnenflecken steigen auf 141,4",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2025-06-01",
+"n": "Sonnenflecken fallen auf 78,5",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2025-07-01",
+"n": "Sonnenflecken steigen auf 114,6",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2025-08-01",
+"n": "Sonnenflecken steigen auf 125,9",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2025-09-01",
+"n": "Sonnenflecken steigen auf 133,7",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2025-10-01",
+"n": "Sonnenflecken fallen auf 129,7",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2025-11-01",
+"n": "Sonnenflecken fallen auf 114,8",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2025-12-01",
+"n": "Sonnenflecken fallen auf 91,7",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2026-01-01",
+"n": "Sonnenflecken steigen auf 124,2",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2026-02-01",
+"n": "Sonnenflecken fallen auf 115,0",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2026-03-01",
+"n": "Sonnenflecken fallen auf 77,4",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2026-04-01",
+"n": "Sonnenflecken steigen auf 86,6",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2026-05-01",
+"n": "Sonnenflecken fallen auf 79,0",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2026-06-01",
+"n": "Sonnenflecken steigen auf 101,8",
+"t": "Sonne",
+"k": "up",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2026-07-01",
+"n": "Sonnenflecken fallen auf 93,3",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2026-08-01",
+"n": "Sonnenflecken fallen auf 78,1",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2026-09-01",
+"n": "Sonnenflecken fallen auf 76,0",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2026-10-01",
+"n": "Sonnenflecken fallen auf 60,3",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+},
+{
+"d": "2026-11-01",
+"n": "Sonnenflecken fallen auf 45,7",
+"t": "Sonne",
+"k": "down",
+"quelle": "https://www.sidc.be/SILSO/datafiles"
+}
+]
+}

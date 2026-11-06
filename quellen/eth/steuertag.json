@@ -1,0 +1,302 @@
+{
+"id": "steuertag",
+"name": "US Steuertag",
+"rang": 193,
+"gruppe": "Kalender",
+"ereignisse": [
+{
+"d": "2011-03-15",
+"n": "Vor dem US Steuertag",
+"t": "Kalender",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Tax_Day"
+},
+{
+"d": "2011-04-16",
+"n": "Nach dem US Steuertag",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Tax_Day"
+},
+{
+"d": "2012-03-15",
+"n": "Vor dem US Steuertag",
+"t": "Kalender",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Tax_Day"
+},
+{
+"d": "2012-04-16",
+"n": "Nach dem US Steuertag",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Tax_Day"
+},
+{
+"d": "2013-03-15",
+"n": "Vor dem US Steuertag",
+"t": "Kalender",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Tax_Day"
+},
+{
+"d": "2013-04-16",
+"n": "Nach dem US Steuertag",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Tax_Day"
+},
+{
+"d": "2014-03-15",
+"n": "Vor dem US Steuertag",
+"t": "Kalender",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Tax_Day"
+},
+{
+"d": "2014-04-16",
+"n": "Nach dem US Steuertag",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Tax_Day"
+},
+{
+"d": "2015-03-15",
+"n": "Vor dem US Steuertag",
+"t": "Kalender",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Tax_Day"
+},
+{
+"d": "2015-04-16",
+"n": "Nach dem US Steuertag",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Tax_Day"
+},
+{
+"d": "2016-03-15",
+"n": "Vor dem US Steuertag",
+"t": "Kalender",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Tax_Day"
+},
+{
+"d": "2016-04-16",
+"n": "Nach dem US Steuertag",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Tax_Day"
+},
+{
+"d": "2017-03-15",
+"n": "Vor dem US Steuertag",
+"t": "Kalender",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Tax_Day"
+},
+{
+"d": "2017-04-16",
+"n": "Nach dem US Steuertag",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Tax_Day"
+},
+{
+"d": "2018-03-15",
+"n": "Vor dem US Steuertag",
+"t": "Kalender",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Tax_Day"
+},
+{
+"d": "2018-04-16",
+"n": "Nach dem US Steuertag",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Tax_Day"
+},
+{
+"d": "2019-03-15",
+"n": "Vor dem US Steuertag",
+"t": "Kalender",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Tax_Day"
+},
+{
+"d": "2019-04-16",
+"n": "Nach dem US Steuertag",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Tax_Day"
+},
+{
+"d": "2020-03-15",
+"n": "Vor dem US Steuertag",
+"t": "Kalender",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Tax_Day"
+},
+{
+"d": "2020-04-16",
+"n": "Nach dem US Steuertag",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Tax_Day"
+},
+{
+"d": "2021-03-15",
+"n": "Vor dem US Steuertag",
+"t": "Kalender",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Tax_Day"
+},
+{
+"d": "2021-04-16",
+"n": "Nach dem US Steuertag",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Tax_Day"
+},
+{
+"d": "2022-03-15",
+"n": "Vor dem US Steuertag",
+"t": "Kalender",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Tax_Day"
+},
+{
+"d": "2022-04-16",
+"n": "Nach dem US Steuertag",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Tax_Day"
+},
+{
+"d": "2023-03-15",
+"n": "Vor dem US Steuertag",
+"t": "Kalender",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Tax_Day"
+},
+{
+"d": "2023-04-16",
+"n": "Nach dem US Steuertag",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Tax_Day"
+},
+{
+"d": "2024-03-15",
+"n": "Vor dem US Steuertag",
+"t": "Kalender",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Tax_Day"
+},
+{
+"d": "2024-04-16",
+"n": "Nach dem US Steuertag",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Tax_Day"
+},
+{
+"d": "2025-03-15",
+"n": "Vor dem US Steuertag",
+"t": "Kalender",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Tax_Day"
+},
+{
+"d": "2025-04-16",
+"n": "Nach dem US Steuertag",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Tax_Day"
+},
+{
+"d": "2026-03-15",
+"n": "Vor dem US Steuertag",
+"t": "Kalender",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Tax_Day"
+},
+{
+"d": "2026-04-16",
+"n": "Nach dem US Steuertag",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Tax_Day"
+},
+{
+"d": "2027-03-15",
+"n": "Vor dem US Steuertag",
+"t": "Kalender",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Tax_Day"
+},
+{
+"d": "2027-04-16",
+"n": "Nach dem US Steuertag",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Tax_Day"
+},
+{
+"d": "2028-03-15",
+"n": "Vor dem US Steuertag",
+"t": "Kalender",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Tax_Day"
+},
+{
+"d": "2028-04-16",
+"n": "Nach dem US Steuertag",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Tax_Day"
+},
+{
+"d": "2029-03-15",
+"n": "Vor dem US Steuertag",
+"t": "Kalender",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Tax_Day"
+},
+{
+"d": "2029-04-16",
+"n": "Nach dem US Steuertag",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Tax_Day"
+},
+{
+"d": "2030-03-15",
+"n": "Vor dem US Steuertag",
+"t": "Kalender",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Tax_Day"
+},
+{
+"d": "2030-04-16",
+"n": "Nach dem US Steuertag",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Tax_Day"
+},
+{
+"d": "2031-03-15",
+"n": "Vor dem US Steuertag",
+"t": "Kalender",
+"k": "down",
+"quelle": "https://en.wikipedia.org/wiki/Tax_Day"
+},
+{
+"d": "2031-04-16",
+"n": "Nach dem US Steuertag",
+"t": "Kalender",
+"k": "up",
+"quelle": "https://en.wikipedia.org/wiki/Tax_Day"
+}
+]
+}
