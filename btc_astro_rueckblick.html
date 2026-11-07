@@ -79,6 +79,16 @@
   .tip b { display:block; font-weight:500; }
   .tip small { color:var(--mid); font-size:12px; display:block; }
   .rechnung { padding:0 6px 4px; }
+  .warumknopf { background:transparent; border:1px solid var(--line); color:var(--mid); border-radius:99px; font-size:12px; padding:3px 11px; cursor:pointer; white-space:nowrap; }
+  .warumknopf:hover, .warumknopf:focus-visible, .warumknopf[aria-expanded="true"] { background:#fff; color:#10151f; border-color:#fff; }
+  .warumtip { position:fixed; left:0; top:0; z-index:200; width:290px; max-width:calc(100vw - 20px); box-sizing:border-box; background:rgba(9,13,22,.97); border:1px solid var(--line); border-radius:16px; padding:12px 14px; font-size:13px; line-height:1.4; box-shadow:0 18px 50px rgba(5,8,15,.5); pointer-events:none; display:none; }
+  .warumtip .k { display:flex; justify-content:space-between; gap:10px; }
+  .warumtip .k small { color:var(--mid); font-size:12px; }
+  .warumtip ul { list-style:none; margin:9px 0 0; padding:0; display:grid; gap:8px; }
+  .warumtip li { display:grid; grid-template-columns:1fr auto; column-gap:12px; }
+  .warumtip li small { color:var(--mid); font-size:12px; }
+  .warumtip li em { grid-row:1 / 3; grid-column:2; align-self:center; font-style:normal; color:var(--mid); font-variant-numeric:tabular-nums; }
+  .warumtip .f { margin-top:9px; color:var(--mid); font-size:12px; }
   .tabkopf { color:var(--mid); font-size:13px; margin:0 0 8px; }
 
   .seite { position:relative; min-height:0; }
@@ -220,7 +230,7 @@
       <p>Steigt die Signallinie über 30 Tage, heißt das kaufen, fällt sie, heißt das verkaufen, mindestens 30 Tage Abstand. Die Anteile dafür stammen je Jahr nur aus den Jahren davor. Ausführung am Folgetag zum Schlusskurs, 0,1 % Gebühr je Handel. Reine Rechnung, keine Finanzberatung.</p>
       <p id="sigdetail"></p>
       <div class="scroll"><table>
-        <thead><tr><th>Datum</th><th>Signal</th><th>BTC</th><th>Ergebnis des Trades</th></tr></thead>
+        <thead><tr><th>Datum</th><th>Signal</th><th>BTC</th><th>Ergebnis des Trades</th><th>Warum</th></tr></thead>
         <tbody id="signalzeilen"></tbody>
       </table></div>
     </div>
@@ -359,9 +369,10 @@ function signale(a) {
   const n = REIHE.length, G = new Float64Array(n), liste = [], lage_ = new Int8Array(n);
   if (!a.length) return {liste};
   let jahr = '', w = [];
+  const wJahr = new Map();
   for (let i = 1; i < n; i++) {
     const y = REIHE[i].d.slice(0, 4);
-    if (y !== jahr) { jahr = y; w = jahresAnteile(a, Math.min(i, NP)); }
+    if (y !== jahr) { jahr = y; w = jahresAnteile(a, Math.min(i, NP)); wJahr.set(y, w); }
     let s = 0, t = 0;
     a.forEach((q, j) => { const x = q.linie[i] - q.linie[i - 1]; if (i < NP || q.zukunft || x !== 0) { s += w[j] * x; t += w[j]; } });
     G[i] = G[i - 1] + (t ? s / t : 0);
@@ -369,7 +380,7 @@ function signale(a) {
   let lang = false, letzt = -1e9;
   for (let i = 30; i < n; i++) {
     const d = G[i] - G[i - 30];
-    if (d !== 0 && (d > 0) !== lang && i - letzt >= 30) { lang = d > 0; letzt = i; liste.push({i, kauf: lang}); }
+    if (d !== 0 && (d > 0) !== lang && i - letzt >= 30) { lang = d > 0; letzt = i; liste.push({i, kauf: lang, a, wJahr}); }
     lage_[i] = lang ? 1 : 0;
   }
   // Rechnung nur über echte Kurse. Entscheidung am Abend, Handel am nächsten Schlusskurs.
@@ -411,12 +422,76 @@ function spannSkala(l) {
   return spann(g) ? spann(b) / spann(g) : 0;
 }
 
+// Warum: welche Ereignisse die Signallinie in den 30 Tagen vor dem Signal in diese Richtung geschoben haben.
+// Die Linie besteht nur aus Ereignissen, also lässt sich jeder Anteil genau ausrechnen.
+const wert = (k, t) => t <= 0 ? 0 : beitrag(k, Math.min(t, 31));
+function gruende(x) {
+  if (x.gruende) return x.gruende;
+  // Tag für Tag wie die Signallinie: Anteil des Jahres, nach heute nur Quellen mit Richtung, geteilt durch deren Summe
+  const i = x.i, r = x.kauf ? 1 : -1, alle = [], tage = [];
+  for (let k = i - 29; k <= i; k++) {
+    const w = x.wJahr.get(REIHE[k].d.slice(0, 4)), zaehlt = x.a.map(q => k < NP || q.zukunft || q.linie[k] !== q.linie[k - 1]);
+    const t = x.a.reduce((s, q, j) => s + (zaehlt[j] ? w[j] : 0), 0);
+    tage.push({k, w, zaehlt, t});
+  }
+  x.a.forEach((q, j) => {
+    for (const e of q.ereignisse) {
+      const i0 = Math.round((e.z - ERSTER.z) / MS);
+      if (i0 < i - 62 || i0 >= i) continue;
+      let c = 0;
+      for (const T of tage) if (T.t && T.zaehlt[j] && T.w[j]) c += (wert(e.k, T.k - i0) - wert(e.k, T.k - 1 - i0)) * q.faktor * T.w[j] / T.t;
+      if (Math.abs(c) > 1e-9) alle.push({e, c});
+    }
+  });
+  const mit = alle.filter(g => g.c * r > 0).sort((u, v) => Math.abs(v.c) - Math.abs(u.c));
+  const summe = mit.reduce((s, g) => s + Math.abs(g.c), 0);
+  return x.gruende = {mit, summe, gegen: alle.length - mit.length};
+}
+const warumTip = document.createElement('div');
+warumTip.className = 'warumtip';
+warumTip.setAttribute('role', 'tooltip');
+warumTip.id = 'warumtip';
+document.body.appendChild(warumTip);
+let warumOffen = null;
+function zeigeWarum(knopf) {
+  const x = SIG.liste[+knopf.dataset.s];
+  if (!x) return;
+  const {mit, summe, gegen} = gruende(x), top = mit.slice(0, 4), rest = mit.length - top.length;
+  warumTip.innerHTML = `<div class="k"><b style="color:${x.kauf ? '#5ef2c2' : '#ff5f9e'}">${x.kauf ? '▲ Kaufen' : '▼ Verkaufen'}</b><small>${fmt(REIHE[x.i].d)}</small></div>` +
+    (top.length ? `<ul>${top.map(g => `<li><span>${g.e.n}</span><small>${g.e.q}, ${fmt(g.e.d)}</small><em>${Math.max(1, Math.round(Math.abs(g.c) / summe * 100))} %</em></li>`).join('')}</ul>` : '<div class="f">Kein einzelnes Ereignis, frühere Wirkungen klingen aus.</div>') +
+    `<div class="f">${rest > 0 ? `Plus ${rest} kleinere. ` : ''}${gegen ? `${gegen} wirkten dagegen, schwächer.` : ''}${rest > 0 || gegen ? '<br>' : ''}Anteil an der Bewegung der 30 Tage davor.</div>`;
+  warumTip.style.display = 'block';
+  const b = knopf.getBoundingClientRect(), w = warumTip.offsetWidth, h = warumTip.offsetHeight;
+  const links = b.right + 10 + w <= innerWidth - 10 ? b.right + 10 : Math.max(10, b.left - 10 - w);
+  const oben = klemm(b.top + b.height / 2 - h / 2, 10, innerHeight - h - 10);
+  warumTip.style.transform = `translate(${Math.round(links)}px,${Math.round(oben)}px)`;
+  if (warumOffen && warumOffen !== knopf) warumOffen.setAttribute('aria-expanded', 'false');
+  knopf.setAttribute('aria-expanded', 'true');
+  knopf.setAttribute('aria-describedby', 'warumtip');
+  warumOffen = knopf;
+}
+function schliesseWarum() {
+  warumTip.style.display = 'none';
+  if (warumOffen) warumOffen.setAttribute('aria-expanded', 'false');
+  warumOffen = null;
+}
+const sigFeld = document.getElementById('signalzeilen');
+sigFeld.addEventListener('mouseover', ev => { const k = ev.target.closest('.warumknopf'); if (k) zeigeWarum(k); });
+sigFeld.addEventListener('mouseout', ev => { const k = ev.target.closest('.warumknopf'); if (k && !k.contains(ev.relatedTarget)) schliesseWarum(); });
+sigFeld.addEventListener('focusin', ev => { const k = ev.target.closest('.warumknopf'); if (k) zeigeWarum(k); });
+sigFeld.addEventListener('focusout', schliesseWarum);
+sigFeld.addEventListener('click', ev => { const k = ev.target.closest('.warumknopf'); if (!k) return; ev.stopPropagation(); warumOffen === k && matchMedia('(hover: none)').matches ? schliesseWarum() : zeigeWarum(k); });
+document.addEventListener('click', () => { if (warumOffen) schliesseWarum(); });
+addEventListener('scroll', () => { if (warumOffen) schliesseWarum(); }, {passive: true, capture: true});
+document.addEventListener('keydown', ev => { if (ev.key === 'Escape' && warumOffen) schliesseWarum(); });
+
 function zeigeSignale() {
   const S = SIG, feld = document.getElementById('signalzeilen'), text = document.getElementById('signaltext'), kachel = document.getElementById('sigkachel');
   if (!S.liste.length) { feld.innerHTML = ''; text.textContent = ''; if (kachel) kachel.innerHTML = '<span class="l">Signale</span><b>Keine</b><small>Keine Quelle gewählt.</small>'; document.getElementById('sigdetail').textContent = ''; return; }
-  feld.innerHTML = [...S.liste].reverse().map(x => {
+  schliesseWarum();
+  feld.innerHTML = S.liste.map((x, s) => [x, s]).reverse().map(([x, s]) => {
     const d = REIHE[x.i].d, z = x.i >= NP;
-    return `<tr style="cursor:default"><td class="datum">${fmt(d)}</td><td style="color:${x.kauf ? '#5ef2c2' : '#ff5f9e'};font-weight:600">${x.kauf ? '▲ Kaufen' : '▼ Verkaufen'}${z ? ' <span class="aus" style="font-weight:400">Rechnung</span>' : ''}</td><td class="echt">${z || x.preis === undefined ? '<span class="aus">offen</span>' : x.preis.toLocaleString('de-DE', {maximumFractionDigits: x.preis < 100 ? 2 : 0}) + ' $'}</td><td class="echt">${x.ergebnis === undefined ? '<span class="aus">kein</span>' : pz(x.ergebnis)}</td></tr>`;
+    return `<tr style="cursor:default"><td class="datum">${fmt(d)}</td><td style="color:${x.kauf ? '#5ef2c2' : '#ff5f9e'};font-weight:600">${x.kauf ? '▲ Kaufen' : '▼ Verkaufen'}${z ? ' <span class="aus" style="font-weight:400">Rechnung</span>' : ''}</td><td class="echt">${z || x.preis === undefined ? '<span class="aus">offen</span>' : x.preis.toLocaleString('de-DE', {maximumFractionDigits: x.preis < 100 ? 2 : 0}) + ' $'}</td><td class="echt">${x.ergebnis === undefined ? '<span class="aus">kein</span>' : pz(x.ergebnis)}</td><td><button type="button" class="warumknopf" data-s="${s}" aria-expanded="false">Warum?</button></td></tr>`;
   }).join('');
   const L = S.letztes, N = S.nachstes;
   text.textContent = `Hypothetisch, nach aktueller Auswahl: letztes Signal ${L ? (L.kauf ? 'Kaufen' : 'Verkaufen') + ' am ' + fmt(REIHE[L.i].d) : 'keines'}.${N ? ` Nächstes gerechnetes Signal: ${N.kauf ? 'Kaufen' : 'Verkaufen'} am ${fmt(REIHE[N.i].d)}.` : ''} Keine Finanzberatung.`;
