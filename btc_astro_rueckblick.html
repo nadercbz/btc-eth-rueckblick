@@ -59,8 +59,23 @@
   .band { width:11px; height:11px; border-radius:3px; background:var(--down); opacity:.34; display:inline-block; }
   .signalzeile { margin:0; font-size:13px; color:var(--text); }
   .buehne { position:relative; overflow:hidden; touch-action:pan-y; contain:paint; transform:translateZ(0); }
-  #chart { display:block; width:100%; }
-  .tip { position:absolute; pointer-events:none; background:rgba(9,13,22,.94); border:1px solid var(--line); border-radius:16px; padding:10px 12px; font-size:13px; line-height:1.4; width:230px; display:none; z-index:2; }
+  #chart { display:block; width:100%; will-change:transform; }
+  .zeiger { position:absolute; inset:0; pointer-events:none; display:none; z-index:1; }
+  .zeiger i { position:absolute; left:0; top:0; will-change:transform; }
+  .zeiger .linie { width:1px; background:rgba(255,255,255,.4); }
+  .zeiger .punkt { width:12px; height:12px; margin:-6px 0 0 -6px; border-radius:50%; border:2px solid #0f1520; box-sizing:border-box; }
+  .tip { position:absolute; left:0; top:12px; will-change:transform; pointer-events:none; background:rgba(9,13,22,.94); border:1px solid var(--line); border-radius:16px; padding:10px 12px; font-size:13px; line-height:1.4; width:230px; display:none; z-index:2; }
+  .kopfzeile { display:flex; align-items:center; gap:8px; min-width:0; }
+  .kopfzeile .filter { flex:1; min-width:0; }
+  .vollknopf { flex:none; width:36px; height:36px; display:grid; place-items:center; border:1px solid var(--line); border-radius:99px; background:var(--card2); color:var(--text); cursor:pointer; }
+  .vollknopf:hover { background:#fff; color:#10151f; }
+  .vollknopf svg { width:16px; height:16px; }
+  .vollknopf .zu { display:none; }
+  .voll .vollknopf .auf { display:none; }
+  .voll .vollknopf .zu { display:block; }
+  .chartkarte.voll { position:fixed; inset:0; z-index:100; margin:0; border:0; border-radius:0; overflow-y:auto; padding:18px 22px 10px; background:linear-gradient(rgba(9,13,22,.84),rgba(9,13,22,.92)), url("ui/wallpaper.webp") center/cover no-repeat; }
+  .chartkarte::backdrop { background:#0b1019; }
+  html.ohneScroll { overflow:hidden; }
   .tip b { display:block; font-weight:500; }
   .tip small { color:var(--mid); font-size:12px; display:block; }
   .rechnung { padding:0 6px 4px; }
@@ -174,9 +189,9 @@
   <div class="arbeit">
     <section class="chartkarte glas" aria-label="Chart">
       <div class="chartkopf">
-        <div class="filter" role="group" aria-label="Zeitraum">
+        <div class="kopfzeile"><div class="filter" role="group" aria-label="Zeitraum">
           <button data-r="alles" aria-pressed="true">Alles</button><button data-r="ab2022" aria-pressed="false">Ab 2022</button><button data-r="zukunft" aria-pressed="false">Ab heute</button><button data-r="2010" aria-pressed="false">2010</button><button data-r="2011" aria-pressed="false">2011</button><button data-r="2012" aria-pressed="false">2012</button><button data-r="2013" aria-pressed="false">2013</button><button data-r="2014" aria-pressed="false">2014</button><button data-r="2015" aria-pressed="false">2015</button><button data-r="2016" aria-pressed="false">2016</button><button data-r="2017" aria-pressed="false">2017</button><button data-r="2018" aria-pressed="false">2018</button><button data-r="2019" aria-pressed="false">2019</button><button data-r="2020" aria-pressed="false">2020</button><button data-r="2021" aria-pressed="false">2021</button><button data-r="2022" aria-pressed="false">2022</button><button data-r="2023" aria-pressed="false">2023</button><button data-r="2024" aria-pressed="false">2024</button><button data-r="2025" aria-pressed="false">2025</button><button data-r="2026" aria-pressed="false">2026</button><button data-r="2027" aria-pressed="false">2027</button><button data-r="2028" aria-pressed="false">2028</button><button data-r="2029" aria-pressed="false">2029</button><button data-r="2030" aria-pressed="false">2030</button><button data-r="2031" aria-pressed="false">2031</button>
-        </div>
+        </div><button type="button" class="vollknopf" id="vollKnopf" aria-pressed="false" aria-label="Vollbild" title="Vollbild (Taste F)"><svg class="auf" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"><path d="M2 6V2h4M14 6V2h-4M2 10v4h4M14 10v4h-4"/></svg><svg class="zu" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"><path d="M6 2v4H2M10 2v4h4M6 14v-4H2M10 14v-4h4"/></svg></button></div>
         <p class="signalzeile" id="signaltext"></p>
         <div class="legende" id="legende"></div>
       </div>
@@ -465,6 +480,13 @@ document.getElementById('legende').innerHTML =
   '<span style="color:#5ef2c2">⬆ Kaufen, hypothetisch</span><span style="color:#ff5f9e">⬇ Verkaufen, hypothetisch</span><span><i class="band"></i>Mars oder Venus rückläufig</span>';
 
 const svg = document.getElementById('chart'), buehne = document.getElementById('buehne'), tip = document.getElementById('tip');
+const karte = document.querySelector('.chartkarte'), vollKnopf = document.getElementById('vollKnopf');
+const zeiger = document.createElement('div');
+zeiger.className = 'zeiger';
+zeiger.innerHTML = '<i class="linie"></i><i class="punkt" style="background:#fff"></i><i class="punkt" style="background:#ff8a4c"></i>';
+buehne.insertBefore(zeiger, tip);
+const [zLinie, zWeiss, zGold] = zeiger.children;
+let rahmen = null, mausX = null, letzterTip = '';
 let bereich = 'alles', aktiv = -1, lage = [], F = null;
 document.getElementById('haken').addEventListener('change', ev => {
   const id = ev.target.dataset.q; if (!id) return;
@@ -503,7 +525,8 @@ const TICKS = [-3, -2, -1, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12].flatMap(e =
 function male() {
   const B = buehne.clientWidth;
   if (B < 100) return;
-  const schmal = B < 640, H = schmal ? 360 : 540, alles = ['alles', 'zukunft', 'ab2022'].includes(bereich);
+  const voll = karte.classList.contains('voll');
+  const schmal = B < 640, H = voll ? Math.max(300, Math.round(innerHeight - (buehne.getBoundingClientRect().top - karte.getBoundingClientRect().top + karte.scrollTop) - 48)) : schmal ? 360 : 540, alles = ['alles', 'zukunft', 'ab2022'].includes(bereich);
   const m = {l: schmal ? 46 : 54, r: schmal ? 62 : 118, o: 18, u: 30};
   const [x0, x1] = fenster();
   const zeilen = REIHE.filter(p => p.z >= x0 && p.z <= x1), b0 = zeilen[0];
@@ -617,8 +640,10 @@ function male() {
     const wx = weissAmRand ? lx : X(weiss.z) + 6, rand = weissAmRand ? '' : 'paint-order="stroke" stroke="#0f1520" stroke-width="3"';
     h += `<text x="${wx}" y="${yb - 1}" fill="#f4f4f5" font-size="11" ${rand}>${schmal ? COIN : 'Echter Kurs'}</text><text x="${wx}" y="${yb + 12}" fill="#f4f4f5" font-size="13" font-weight="600" ${rand}>${rund(vb)}</text>`;
   }
-  h += `<g id="zeiger"></g>`;
   svg.innerHTML = h;
+  zLinie.style.height = (H - m.u - m.o) + 'px';
+  rahmen = null; letzterTip = '';
+  if (mausX !== null) zeigerMalen();
 }
 
 function zeigeDetail() {
@@ -656,23 +681,38 @@ function naechstes(mx) {
   for (const p of lage) { const a = Math.abs(p.x - mx); if (a < ab) { ab = a; best = p; } }
   return best && {p: best, ab};
 }
-buehne.addEventListener('pointermove', ev => {
-  if (ev.pointerType === 'touch' || !F) return;
-  const r = svg.getBoundingClientRect(), mx = ev.clientX - r.left;
-  const {X, Y, zeilen, idxG, idxB, m, H, B} = F;
-  if (mx < m.l || mx > B - m.r) { tip.style.display = 'none'; document.getElementById('zeiger').innerHTML = ''; return; }
+// Fadenkreuz und Tooltip liegen in einer eigenen Ebene über dem SVG und werden nur verschoben.
+// So muss der Browser den großen Chart beim Überfahren nie neu malen.
+function zeigerAus() { zeiger.style.display = 'none'; tip.style.display = 'none'; }
+function zeigerMalen() {
+  if (mausX === null || !F) return;
+  const {X, Y, zeilen, idxG, idxB, m, B} = F, mx = mausX;
+  if (mx < m.l || mx > B - m.r) { zeigerAus(); return; }
   const x0 = zeilen[0].z, x1 = zeilen[zeilen.length - 1].z;
   const z = x0 + (mx - m.l) / (B - m.l - m.r) * (x1 - x0);
-  const p = zeilen[klemm(Math.round((z - x0) / MS), 0, zeilen.length - 1)];
+  const i = klemm(Math.round((z - x0) / MS), 0, zeilen.length - 1), p = zeilen[i];
   const x = X(p.z), n = naechstes(mx);
-  document.getElementById('zeiger').innerHTML = `<line x1="${x}" x2="${x}" y1="${m.o}" y2="${H - m.u}" stroke="rgba(255,255,255,.35)"/>${p.p !== null ? `<circle cx="${x}" cy="${Y(idxB(p))}" r="4" fill="#fff" stroke="#0f1520" stroke-width="2"/>` : ''}${AN.size ? `<circle cx="${x}" cy="${Y(idxG(p))}" r="4" fill="#ff8a4c" stroke="#0f1520" stroke-width="2"/>` : ''}`;
-  const e = n && n.ab < 10 ? E[n.p.i] : null;
-  tip.innerHTML = `<small>${fmt(p.d)}</small>${AN.size ? `<b>Deutung ${p.z > HEUTE.z ? 'Rechnung nach vorn' : Math.round(idxG(p)).toLocaleString('de-DE')}</b>` : ''}${p.p !== null ? `<b>Echter Kurs ${Math.round(idxB(p)).toLocaleString('de-DE')}</b><small>${COIN} ${p.p.toLocaleString('de-DE')} $</small>` : '<small>Zukunft, nur Rechnung</small>'}${e ? `<small style="margin-top:4px;color:#f4f4f5">${e.n}: ${e.deut}</small>` : ''}`;
+  zLinie.style.transform = `translate3d(${x}px,${m.o}px,0)`;
+  if (p.p !== null) { zWeiss.style.display = ''; zWeiss.style.transform = `translate3d(${x}px,${Y(idxB(p))}px,0)`; } else zWeiss.style.display = 'none';
+  if (AN.size) { zGold.style.display = ''; zGold.style.transform = `translate3d(${x}px,${Y(idxG(p))}px,0)`; } else zGold.style.display = 'none';
+  zeiger.style.display = 'block';
+  const e = n && n.ab < 10 ? E[n.p.i] : null, schluessel = i + '|' + (e ? n.p.i : '');
+  if (schluessel !== letzterTip) {
+    letzterTip = schluessel;
+    tip.innerHTML = `<small>${fmt(p.d)}</small>${AN.size ? `<b>Deutung ${p.z > HEUTE.z ? 'Rechnung nach vorn' : Math.round(idxG(p)).toLocaleString('de-DE')}</b>` : ''}${p.p !== null ? `<b>Echter Kurs ${Math.round(idxB(p)).toLocaleString('de-DE')}</b><small>${COIN} ${p.p.toLocaleString('de-DE')} $</small>` : '<small>Zukunft, nur Rechnung</small>'}${e ? `<small style="margin-top:4px;color:#f4f4f5">${e.n}: ${e.deut}</small>` : ''}`;
+  }
   tip.style.display = 'block';
-  tip.style.left = klemm(x + 240 > B ? x - 244 : x + 14, 6, B - 236) + 'px';
-  tip.style.top = '12px';
+  tip.style.transform = `translate3d(${klemm(x + 240 > B ? x - 244 : x + 14, 6, B - 236)}px,0,0)`;
+}
+buehne.addEventListener('pointermove', ev => {
+  if (ev.pointerType === 'touch' || !F) return;
+  if (!rahmen) rahmen = svg.getBoundingClientRect();
+  mausX = ev.clientX - rahmen.left;
+  zeigerMalen();
 });
-buehne.addEventListener('pointerleave', () => { tip.style.display = 'none'; const g = document.getElementById('zeiger'); if (g) g.innerHTML = ''; });
+buehne.addEventListener('pointerenter', () => { rahmen = null; });
+addEventListener('scroll', () => { rahmen = null; }, {passive: true, capture: true});
+buehne.addEventListener('pointerleave', () => { mausX = null; zeigerAus(); });
 buehne.addEventListener('click', ev => {
   const n = naechstes(ev.clientX - svg.getBoundingClientRect().left);
   if (n) waehle(n.p.i);
@@ -704,6 +744,35 @@ document.querySelectorAll('.reiter button').forEach(b => b.addEventListener('cli
   document.querySelectorAll('.reiter button').forEach(c => c.setAttribute('aria-selected', c === b));
   document.querySelectorAll('.tafel').forEach(t => { t.hidden = t.id !== b.dataset.tafel; });
 }));
+
+// Vollbild: echtes Vollbild, wo der Browser es kann, sonst füllt die Karte das Fenster (iPhone)
+function setzeVoll(an) {
+  karte.classList.toggle('voll', an);
+  document.documentElement.classList.toggle('ohneScroll', an);
+  vollKnopf.setAttribute('aria-pressed', an);
+  vollKnopf.setAttribute('aria-label', an ? 'Vollbild beenden' : 'Vollbild');
+  vollKnopf.title = an ? 'Vollbild beenden (Esc)' : 'Vollbild (Taste F)';
+  if (!an) karte.scrollTop = 0;
+  male();
+}
+function vollUmschalten() {
+  if (!karte.classList.contains('voll')) {
+    setzeVoll(true);
+    if (karte.requestFullscreen) karte.requestFullscreen().catch(() => {});
+  } else if (document.fullscreenElement) document.exitFullscreen();
+  else setzeVoll(false);
+}
+vollKnopf.addEventListener('click', vollUmschalten);
+document.addEventListener('fullscreenchange', () => {
+  if (!document.fullscreenElement && karte.classList.contains('voll')) setzeVoll(false);
+  else male();
+});
+document.addEventListener('keydown', ev => {
+  if (ev.target.closest('input, textarea, select') || ev.metaKey || ev.ctrlKey || ev.altKey) return;
+  if (ev.key === 'f' || ev.key === 'F') { ev.preventDefault(); vollUmschalten(); }
+  else if (ev.key === 'Escape' && karte.classList.contains('voll') && !document.fullscreenElement) setzeVoll(false);
+});
+addEventListener('resize', () => { if (karte.classList.contains('voll')) male(); });
 
 new ResizeObserver(male).observe(buehne);
 aktiv = startAktiv();
