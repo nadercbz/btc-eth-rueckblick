@@ -79,8 +79,10 @@
   .tip b { display:block; font-weight:500; }
   .tip small { color:var(--mid); font-size:12px; display:block; }
   .rechnung { padding:0 6px 4px; }
-  .warumknopf { background:transparent; border:1px solid var(--line); color:var(--mid); border-radius:99px; font-size:12px; padding:3px 11px; cursor:pointer; white-space:nowrap; }
-  .warumknopf:hover, .warumknopf:focus-visible, .warumknopf[aria-expanded="true"] { background:#fff; color:#10151f; border-color:#fff; }
+  .warumknopf { background:transparent; border:0; padding:0; font:inherit; font-weight:600; cursor:help; white-space:nowrap; display:inline-flex; align-items:baseline; gap:8px; text-align:left; }
+  .warumknopf .st { display:inline-block; min-width:38px; text-align:right; color:var(--text); font-weight:500; font-variant-numeric:tabular-nums; }
+  .warumknopf .sig { text-decoration:underline dotted rgba(255,255,255,.3); text-underline-offset:4px; }
+  .warumknopf:hover .sig, .warumknopf:focus-visible .sig, .warumknopf[aria-expanded="true"] .sig { text-decoration-color:currentColor; }
   .warumtip { position:fixed; left:0; top:0; z-index:200; width:290px; max-width:calc(100vw - 20px); box-sizing:border-box; background:rgba(9,13,22,.97); border:1px solid var(--line); border-radius:16px; padding:12px 14px; font-size:13px; line-height:1.4; box-shadow:0 18px 50px rgba(5,8,15,.5); pointer-events:none; display:none; }
   .warumtip .k { display:flex; justify-content:space-between; gap:10px; }
   .warumtip .k small { color:var(--mid); font-size:12px; }
@@ -227,10 +229,10 @@
     </div>
     <div class="tafel rang" id="t-signale">
       <h2>Hypothetische Kauf und Verkauf Signale</h2>
-      <p>Steigt die Signallinie über 30 Tage, heißt das kaufen, fällt sie, heißt das verkaufen, mindestens 30 Tage Abstand. Die Anteile dafür stammen je Jahr nur aus den Jahren davor. Ausführung am Folgetag zum Schlusskurs, 0,1 % Gebühr je Handel. Reine Rechnung, keine Finanzberatung.</p>
+      <p>Steigt die Signallinie über 30 Tage, heißt das kaufen, fällt sie, heißt das verkaufen, mindestens 30 Tage Abstand. Die Anteile dafür stammen je Jahr nur aus den Jahren davor. Ausführung am Folgetag zum Schlusskurs, 0,1 % Gebühr je Handel. Die Prozentzahl vor dem Signal ist seine Stärke: wie kräftig die Ereignisse, die an dem Tag schon feststanden (Astro, Kalender, Halving), in den 30 Tagen danach in Signalrichtung schieben, verglichen mit allen Tagen bis heute. 100 % heißt kaum je so stark, 0 % heißt, sie zeigen nicht in diese Richtung. Mit allen Quellen lagen starke Signale ab 50 % bisher öfter richtig, aber das waren nur 11 Fälle, fast alles Käufe, und es ist nicht vom Zufall zu unterscheiden. Fahr über ein Signal, dann siehst du die Ereignisse dahinter. Reine Rechnung, keine Finanzberatung.</p>
       <p id="sigdetail"></p>
       <div class="scroll"><table>
-        <thead><tr><th>Datum</th><th>Signal</th><th>BTC</th><th>Ergebnis des Trades</th><th>Warum</th></tr></thead>
+        <thead><tr><th>Datum</th><th>Signal</th><th>BTC</th><th>Ergebnis des Trades</th></tr></thead>
         <tbody id="signalzeilen"></tbody>
       </table></div>
     </div>
@@ -383,6 +385,22 @@ function signale(a) {
     if (d !== 0 && (d > 0) !== lang && i - letzt >= 30) { lang = d > 0; letzt = i; liste.push({i, kauf: lang, a, wJahr}); }
     lage_[i] = lang ? 1 : 0;
   }
+  // Stärke 0 bis 100 %: wie kräftig die Ereignisse, die am Signaltag schon feststanden (Astro, Kalender, Halving),
+  // die Linie in den 30 Tagen danach in Signalrichtung schieben. Verglichen mit allen Tagen bis heute.
+  // Quellen ohne vorab bekannte Richtung zählen hier nicht, sonst würde die Stärke den späteren Kurs schon kennen.
+  // 0 % heißt, die feststehenden Ereignisse zeigen nicht in Signalrichtung.
+  const K = new Float64Array(n), bek = a.map(q => !!q.zukunft);
+  for (let i = 1; i < n; i++) {
+    const w = wJahr.get(REIHE[i].d.slice(0, 4));
+    let s = 0, t = 0;
+    a.forEach((q, j) => { if (bek[j]) { s += w[j] * (q.linie[i] - q.linie[i - 1]); t += w[j]; } });
+    K[i] = K[i - 1] + (t ? s / t : 0);
+  }
+  const vor = i => K[Math.min(i + 30, n - 1)] - K[i], aus = [];
+  for (let i = 30; i < NP; i++) aus.push(Math.abs(vor(i)));
+  aus.sort((u, v) => u - v);
+  const rang = v => { let lo = 0, hi = aus.length; while (lo < hi) { const m = (lo + hi) >> 1; if (aus[m] <= v) lo = m + 1; else hi = m; } return aus.length ? lo / aus.length : 0; };
+  liste.forEach(x => { const m = vor(x.i) * (x.kauf ? 1 : -1); x.staerke = m > 0 ? Math.round(rang(m) * 100) : 0; });
   // Rechnung nur über echte Kurse. Entscheidung am Abend, Handel am nächsten Schlusskurs.
   const rets = new Float64Array(NP), pos = new Int8Array(NP);
   for (let t = 2; t < NP; t++) { rets[t] = Math.log(REIHE[t].p / REIHE[t - 1].p); pos[t] = lage_[t - 2]; }
@@ -457,7 +475,7 @@ function zeigeWarum(knopf) {
   const x = SIG.liste[+knopf.dataset.s];
   if (!x) return;
   const {mit, summe, gegen} = gruende(x), top = mit.slice(0, 4), rest = mit.length - top.length;
-  warumTip.innerHTML = `<div class="k"><b style="color:${x.kauf ? '#5ef2c2' : '#ff5f9e'}">${x.kauf ? '▲ Kaufen' : '▼ Verkaufen'}</b><small>${fmt(REIHE[x.i].d)}</small></div>` +
+  warumTip.innerHTML = `<div class="k"><b style="color:${x.kauf ? '#5ef2c2' : '#ff5f9e'}">${x.staerke} % ${x.kauf ? '▲ Kaufen' : '▼ Verkaufen'}</b><small>${fmt(REIHE[x.i].d)}</small></div>` +
     (top.length ? `<ul>${top.map(g => `<li><span>${g.e.n}</span><small>${g.e.q}, ${fmt(g.e.d)}</small><em>${Math.max(1, Math.round(Math.abs(g.c) / summe * 100))} %</em></li>`).join('')}</ul>` : '<div class="f">Kein einzelnes Ereignis, frühere Wirkungen klingen aus.</div>') +
     `<div class="f">${rest > 0 ? `Plus ${rest} kleinere. ` : ''}${gegen ? `${gegen} wirkten dagegen, schwächer.` : ''}${rest > 0 || gegen ? '<br>' : ''}Anteil an der Bewegung der 30 Tage davor.</div>`;
   warumTip.style.display = 'block';
@@ -491,7 +509,7 @@ function zeigeSignale() {
   schliesseWarum();
   feld.innerHTML = S.liste.map((x, s) => [x, s]).reverse().map(([x, s]) => {
     const d = REIHE[x.i].d, z = x.i >= NP;
-    return `<tr style="cursor:default"><td class="datum">${fmt(d)}</td><td style="color:${x.kauf ? '#5ef2c2' : '#ff5f9e'};font-weight:600">${x.kauf ? '▲ Kaufen' : '▼ Verkaufen'}${z ? ' <span class="aus" style="font-weight:400">Rechnung</span>' : ''}</td><td class="echt">${z || x.preis === undefined ? '<span class="aus">offen</span>' : x.preis.toLocaleString('de-DE', {maximumFractionDigits: x.preis < 100 ? 2 : 0}) + ' $'}</td><td class="echt">${x.ergebnis === undefined ? '<span class="aus">kein</span>' : pz(x.ergebnis)}</td><td><button type="button" class="warumknopf" data-s="${s}" aria-expanded="false">Warum?</button></td></tr>`;
+    return `<tr style="cursor:default"><td class="datum">${fmt(d)}</td><td><button type="button" class="warumknopf" data-s="${s}" aria-expanded="false" aria-label="Signalstärke ${x.staerke} %, ${x.kauf ? 'Kaufen' : 'Verkaufen'}, Gründe anzeigen"><span class="st">${x.staerke} %</span><span class="sig" style="color:${x.kauf ? '#5ef2c2' : '#ff5f9e'}">${x.kauf ? '▲ Kaufen' : '▼ Verkaufen'}</span></button>${z ? ' <span class="aus">Rechnung</span>' : ''}</td><td class="echt">${z || x.preis === undefined ? '<span class="aus">offen</span>' : x.preis.toLocaleString('de-DE', {maximumFractionDigits: x.preis < 100 ? 2 : 0}) + ' $'}</td><td class="echt">${x.ergebnis === undefined ? '<span class="aus">kein</span>' : pz(x.ergebnis)}</td></tr>`;
   }).join('');
   const L = S.letztes, N = S.nachstes;
   text.textContent = `Hypothetisch, nach aktueller Auswahl: letztes Signal ${L ? (L.kauf ? 'Kaufen' : 'Verkaufen') + ' am ' + fmt(REIHE[L.i].d) : 'keines'}.${N ? ` Nächstes gerechnetes Signal: ${N.kauf ? 'Kaufen' : 'Verkaufen'} am ${fmt(REIHE[N.i].d)}.` : ''} Keine Finanzberatung.`;
